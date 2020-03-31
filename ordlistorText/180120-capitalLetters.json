@@ -1,6 +1,8 @@
 {
   "regex": false,
   "ordpar": {
+    "&lt;b&gt;":"",
+    "&lt;/b&gt;":"",
     "»": "\"",
     "; och ": "; ",
     "; a": ". A",
