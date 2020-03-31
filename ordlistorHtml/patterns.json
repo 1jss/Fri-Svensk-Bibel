@@ -1,0 +1,14 @@
+{
+    "regex": false,
+    "ordpar": {
+        "<BIBLEBOOK": "<HEADER><div class=\"book\"",
+        "</BIBLEBOOK>": "</div><FOOTER>",
+        "<CHAPTER": "<div class=\"chapter\"",
+        "</CHAPTER>": "</div>",
+        "<VERS": "<div class=\"verse\"",
+        "</VERS>": "</div>",
+        "</XMLBIBLE>": "",
+        "<HEADER>": "<html><head><link type=\"text/css\" rel=\"stylesheet\" href=\"../css/stylesheet.css\" /></head><body>",
+        "<FOOTER>": "</body></html>"
+    }
+}

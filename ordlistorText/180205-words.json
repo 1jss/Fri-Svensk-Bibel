@@ -1,0 +1,27 @@
+{
+  "regex": false,
+  "ordpar": {
+    " föröken ": " föröka ",
+    " danade ": " formade ",
+    " drage ": " ska åka ",
+    " nalkas.": " komma.",
+    " sade ": " sa ",
+    " borttager ": " tar bort ",
+    " sade dig ": " sa till dig ",
+    " begynnelsen ": " början ",
+    " tog sin boning ": " bodde ",
+    "Bittida ": "Tidigt ",
+    " veta av ": " erkänna ",
+    " icke.": " inte.",
+    " sade ": " sa ",
+    " förblev ": " stannade ",
+    " stodo ": " stod ",
+    " moder ": " mor ",
+    " sutto ": " satt ",
+    " kännen,": " känner,",
+    "Ehuru ": "Fast ",
+    "Hans namn var ": "Han hette ",
+    "Inte var han ": "Han var inte ",
+    " inbjödo ": " bjöd in "
+  }
+}
