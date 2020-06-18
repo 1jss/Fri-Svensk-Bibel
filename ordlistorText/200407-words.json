@@ -2,14 +2,11 @@
   "regex": false,
   "ordpar": {
     " och tillika ": " och ",
-    " tillika med ": " och ",
     " i det jag ": " då jag ",
     ">i det jag ": ">då jag ",
     "Tillika ska ni ": "Ni ska också ",
     "tillika ska ni ": "Ni ska också ",
     " allt från ": " ända från ",
-    " intill varandra ": "  vid varandra ",
-    " slöto sig  ": " slöt sig  ",
     " gingen ni ": "  gick ni ",
     " nära intill ": " nära ",
     " nådde intill ": " nådde till ",
@@ -95,6 +92,5 @@
     " har anbefallt ": " har rekommenderat ",
     " gives": " ges ",
     "ävensom": "liksom"
-
   }
 }
