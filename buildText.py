@@ -9,7 +9,7 @@ def listdir_nohidden(path):
 mapp_ordlistor = 'ordlistorText/'
 ordlistor = listdir_nohidden(mapp_ordlistor)
 
-mapp_data = 'data/'
+mapp_data = 'temp/'
 fillista = listdir_nohidden(mapp_data)
 
 for filnamn in fillista:
