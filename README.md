@@ -13,3 +13,28 @@
 - Ge de bibelböckerna rätt ändelse med kommandot: ```for FILENAME in *; do mv $FILENAME $FILENAME.html; done```
 - Gå ur mappen med kommandot: ```cd ..```
 - Byt ut xml-taggar mot html-taggar med kommandot: ```python buildHtml.py```
+
+
+[a-z]+[a-z]+en ni 
+konung
+fader
+viljen -> ska
+beskärma
+fastmer -> snarare
+Undfinge -> fick
+ni [a-z]+[a-z]+en 
+underlåten -> försummar
+älsken
+begära
+han har
+uppbådades -> lockades?
+tillbådo
+försök ibland undersök/testa
+Pröva
+tagen
+uppbygga
+rädens
+sade
+meddelar -> berättar
+sägen -> säger
+för det att -> eftersom
