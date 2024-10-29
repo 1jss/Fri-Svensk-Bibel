@@ -54,3 +54,9 @@ betungade -> tyngda
 driva -> jaga
 stiga -> gå
 bådo
+Fräls -> Rädda
+fjärran
+akten -> tänk
+red nu till
+fann
+akta på
