@@ -42,7 +42,6 @@ vore
 denne
 Tala -> Prata
 Hör upp
-penningar
 göra känt -> visa
 utväljer -> väljer
 förnämsta -> bästa
@@ -60,3 +59,4 @@ akten -> tänk
 red nu till
 fann
 akta på
+vad gott är
