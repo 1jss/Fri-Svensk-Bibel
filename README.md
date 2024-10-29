@@ -48,3 +48,12 @@ utväljer -> väljer
 förnämsta -> bästa
 stridde
 bjudit -> befallt
+skåden -> skåda
+skåda -> se
+betungade -> tyngda
+driva -> jaga
+stiga -> gå
+tjugu
+Drag
+ditned
+hitned
