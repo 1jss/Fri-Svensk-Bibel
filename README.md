@@ -38,3 +38,13 @@ sade
 meddelar -> berättar
 sägen -> säger
 för det att -> eftersom
+vore
+denne
+Tala -> Prata
+Hör upp
+penningar
+göra känt -> visa
+utväljer -> väljer
+förnämsta -> bästa
+stridde
+bjudit -> befallt
