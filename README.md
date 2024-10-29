@@ -53,7 +53,4 @@ skåda -> se
 betungade -> tyngda
 driva -> jaga
 stiga -> gå
-tjugu
-Drag
-ditned
-hitned
+bådo
