@@ -60,3 +60,17 @@ red nu till
 fann
 akta på
 vad gott är
+boning
+inte har
+
+tillhopa
+bjuder
+gjorda heliga 
+saliga
+vilja bli
+denne -> han
+två -> tvätta
+givas
+kvad -> sa
+denne -> denna
+fattige -> fattiga
