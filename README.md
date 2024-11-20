@@ -72,5 +72,4 @@ denne -> han
 två -> tvätta
 givas
 kvad -> sa
-denne -> denna
 fattige -> fattiga
