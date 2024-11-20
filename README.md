@@ -68,7 +68,6 @@ bjuder
 gjorda heliga 
 saliga
 vilja bli
-denne -> han
 två -> tvätta
 givas
 kvad -> sa
