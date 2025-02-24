@@ -1,5 +1,4 @@
 [a-z]+[a-z]+en ni 
-konung
 fader
 viljen -> ska
 beskärma
@@ -55,3 +54,4 @@ två -> tvätta
 givas
 kvad -> sa
 fattige -> fattiga
+skåden på -> se på
