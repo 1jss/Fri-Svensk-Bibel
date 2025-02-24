@@ -1,10 +1,16 @@
 # Fri Svensk Bibel
-> Bibel på svenska som allmän egendom (public domain).
+> Bibel på svenska för fri användning.
 
-## Användning
- **Fri Svensk Bibel (FSB)** är en svensk bibelöversättning.
+## Om FSB
+**Fri Svensk Bibel (FSB)** är en svensk helbibel. Översättningen faller tillbaka på 1917 års översättning där ingen ny översättning gjorts än.
 
- Till skillnad från många andra svenska biblar får du fritt ladda ner hela texten och använda som du vill utan att först be om tillåtelse.
+Till skillnad från många andra svenska biblar får du fritt ladda ner hela bibeltexten och använda som du vill utan att först be om tillåtelse eller ens hänvisa till FSB. Du kan alltså citera obegränsat utan att hänvisa eller på annat sätt skriva ut vilken översättning du använt. Samma rättighet har du som vill trycka eller publicera delar av eller hela bibeltexten. Det är även tillåtet att använda FSB som grundöversättning i kommande översättningsprojekt utan att hänvisa eller be om lov. I de fall då du modifierat texten så är det dock inte tillåtet att kalla den nya texten för Fri Svensk Bibel.
+
+## Licens
+Texten är i sin helhet och i alla versioner licenserad under Creative Commmons Zero (CC0). Läs mer om licensen på `https://creativecommons.org/publicdomain/zero/1.0/`
+
+## Tekniskt
+Översättningen sker i `fsb.xml`
 
 ### Gör om till HTML
 - Kopiera `fsb.xml`  till mappen `/temp` med kommandot: ```cp fsb.xml temp/fsb.xml```
@@ -13,62 +19,3 @@
 - Ge de bibelböckerna rätt ändelse med kommandot: ```for FILENAME in *; do mv $FILENAME $FILENAME.html; done```
 - Gå ur mappen med kommandot: ```cd ..```
 - Byt ut xml-taggar mot html-taggar med kommandot: ```python buildHtml.py```
-
-
-[a-z]+[a-z]+en ni 
-konung
-fader
-viljen -> ska
-beskärma
-fastmer -> snarare
-Undfinge -> fick
-ni [a-z]+[a-z]+en 
-underlåten -> försummar
-älsken
-begära
-han har
-uppbådades -> lockades?
-tillbådo
-försök ibland undersök/testa
-Pröva
-tagen
-uppbygga
-rädens
-sade
-meddelar -> berättar
-sägen -> säger
-för det att -> eftersom
-vore
-denne
-Tala -> Prata
-Hör upp
-göra känt -> visa
-utväljer -> väljer
-förnämsta -> bästa
-stridde
-bjudit -> befallt
-skåden -> skåda
-skåda -> se
-betungade -> tyngda
-driva -> jaga
-stiga -> gå
-bådo
-Fräls -> Rädda
-fjärran
-akten -> tänk
-red nu till
-fann
-akta på
-vad gott är
-boning
-inte har
-
-tillhopa
-bjuder
-gjorda heliga 
-saliga
-vilja bli
-två -> tvätta
-givas
-kvad -> sa
-fattige -> fattiga
