@@ -55,9 +55,3 @@ givas
 kvad -> sa
 fattige -> fattiga
 skåden på -> se på
-
-Skynden -> Skynda
-hämten -> hämta
-bliv -> bli
-köpen -> köp
-Tagen -> Ta
