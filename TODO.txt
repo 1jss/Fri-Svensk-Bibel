@@ -56,7 +56,8 @@ kvad -> sa
 fattige -> fattiga
 skåden på -> se på
 
-Faren -> Res
 Skynden -> Skynda
 hämten -> hämta
 bliv -> bli
+köpen -> köp
+Tagen -> Ta
