@@ -13,9 +13,9 @@ Texten är i sin helhet och i alla versioner licenserad under Creative Commmons 
 Översättningen sker i `fsb.xml`
 
 ### Gör om till HTML
-- Kopiera `fsb.xml`  till mappen `/temp` med kommandot: ```cp fsb.xml temp/fsb.xml```
-- Gå in i mappen `/temp` med kommandot: ```cd temp```
-- Dela upp filen i bibelböcker med kommandot: ```csplit -k -f "" fsb.xml /\<BIBLEBOOK/ '{66}'```
+- Kopiera `FSB.xml`  till mappen `/FSB` med kommandot: ```cp FSB.xml FSB/FSB.xml```
+- Gå in i mappen `/FSB` med kommandot: ```cd FSB```
+- Dela upp filen i bibelböcker med kommandot: ```csplit -k -f "" FSB.xml /\<BIBLEBOOK/ '{66}'```
 - Ge de bibelböckerna rätt ändelse med kommandot: ```for FILENAME in *; do mv $FILENAME $FILENAME.html; done```
 - Gå ur mappen med kommandot: ```cd ..```
 - Byt ut xml-taggar mot html-taggar med kommandot: ```python buildHtml.py```

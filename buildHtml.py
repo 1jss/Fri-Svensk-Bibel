@@ -9,7 +9,7 @@ def listdir_nohidden(path):
 mapp_ordlistor = 'ordlistorHtml/'
 ordlistor = listdir_nohidden(mapp_ordlistor)
 
-mapp_data = 'temp/'
+mapp_data = 'FSB/'
 fillista = listdir_nohidden(mapp_data)
 
 for filnamn in fillista:

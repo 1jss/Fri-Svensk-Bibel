@@ -1,7 +1,7 @@
 {
     "regex": true,
     "ordpar": {
-        " cnumber=\"([0-9]+)\">": "><h2>Kapitel \\1<\/h2>",
+        " cnumber=\"([0-9]+)\">": " id='\\1'><h2>Kapitel \\1<\/h2>",
         " vnumber=\"([0-9]+)\">": "><i>\\1<\/i>",
         " bname=\"([^\"]+)\"": "",
         " bnumber=\"([^\"]+)\"": "",
