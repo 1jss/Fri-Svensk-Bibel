@@ -230,13 +230,16 @@ $book_names = [
       font-size: 1.2em;
       line-height: 1.5;
       margin: 0;
-      padding: 20px;
+      padding: 0;
       color: #111;
+      width: 100%;
+      height: 100%;
     }
     .book {
-      width: 100%;
+      width: calc(100% - 40px);
       max-width: 480px;
       margin: 48px auto;
+      overflow: hidden;
     }
     .verse {
       display: inline;
@@ -265,33 +268,99 @@ $book_names = [
       justify-content: space-between;
       align-items: center;
     }
-    #book-select, #chapter-select {
+    #book-select, #chapter-select, #edited-text, #original-text {
       border: 0;
       background-color: transparent;
       font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+    #edit-backdrop {
+      display: none; /* Initially hidden */
+      justify-content: center;
+      align-items: center;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      z-index: 999;
+      background-color: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(2px);
+      overflow: auto;
+    }
+    #edit-popup {
+      width: 100%;
+      max-width: 480px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    #original-text {
+      color: #777;
+      margin-bottom: 10px;
+    }
+    #edited-text {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    textarea {
+      font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      width: 100% !important;
+      height: 2em;
+      font-size: 1em;
+      resize: none;
+      border: 0;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    textarea:focus {
+      outline: none;
+    }
+    button {
+      border: 0;
+      border-radius: 0.5em;
+      padding: 0.5em 0.6em;
+      font-size: 0.7em;
+    }
+    #save-button {
+      background-color: #000;
+      color: #fff;
     }
   </style>
 </head>
 <body>
 
-<div class="navigation">
-  <select name='book-select' id='book-select' onchange="window.location.href = 'index.php?read=' + this.value;">
-    <?php
-    foreach ($book_names as $key => $value) {
-      // Set the selected attribute if the key matches the current book
-      $selected = ($key === $book) ? 'selected' : '';
-      echo "<option value='" . $key . "' $selected>" . $value . '</option>';
-    }
-    ?>
-  </select>
-  <select name="chapter-select" id="chapter-select" onchange="window.location.href = '#' + this.value;">
-    <?php
-    for ($i = 1; $i <= $chapters[$book]; $i++) {
-      echo "<option value='" . $i . "'>" . $i . '</option>';
-    }
-    ?>
-  </select>
-</div>
+  <nav class="navigation">
+    <select name='book-select' id='book-select' onchange="window.location.href = 'index.php?read=' + this.value;">
+      <?php
+      foreach ($book_names as $key => $value) {
+        // Set the selected attribute if the key matches the current book
+        $selected = ($key === $book) ? 'selected' : '';
+        echo "<option value='" . $key . "' $selected>" . $value . '</option>';
+      }
+      ?>
+    </select>
+    <select name="chapter-select" id="chapter-select" onchange="window.location.href = '#' + this.value;">
+      <?php
+      for ($i = 1; $i <= $chapters[$book]; $i++) {
+        echo "<option value='" . $i . "'>" . $i . '</option>';
+      }
+      ?>
+    </select>
+  </nav>
+
+  <div id="edit-backdrop">
+    <div id="edit-popup">
+      <form id="edit-form">
+        <textarea id="original-text" name="original-text" readonly></textarea>
+        <textarea id="edited-text" name="edited-text" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px';"></textarea>
+        <button type="submit" id="save-button">Save</button>
+      </form>
+    </div>
+  </div>
 
   <?php
   // Get the book number and pad with leading zeros
@@ -300,6 +369,56 @@ $book_names = [
   $book_text = file_get_contents('FSB/' . $book_number . '.html');
   echo $book_text;
   ?>
+  <script>
+    const editBackdrop = document.getElementById('edit-backdrop');
     
+    const editForm = document.getElementById('edit-form');
+    editForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const formData = new FormData(editForm);
+      console.log(formData);
+      fetch('save_changes.php', {
+        method: 'POST',
+        body: formData
+      })
+      .then(response => response.text())
+      .then(data => {
+        console.log('Response:', data);
+        editBackdrop.style.display = 'none';
+      })
+      .catch(error => {
+        console.error('Error');
+      });
+    });
+    
+    editBackdrop.addEventListener('click', () => {
+      editBackdrop.style.display = 'none';
+    });
+    
+    // prevent click event from closing the edit popup
+    const editPopup = document.getElementById('edit-popup');
+    editPopup.addEventListener('click', (e) => {
+      e.stopPropagation();
+    });
+    
+    // add click event listener to all verse elements
+    const verseElements = document.querySelectorAll('.verse');
+    const originalText = document.getElementById('original-text');
+    const editedText = document.getElementById('edited-text');
+    verseElements.forEach(verse => {
+      verse.addEventListener('click', () => {
+        // split after verse number
+        const verseContent = verse.innerHTML.split('</i>')[1];
+        originalText.value = verseContent;
+        editedText.value = verseContent;
+        editBackdrop.style.display = 'flex';
+        originalText.style.height = '';
+        originalText.style.height = originalText.scrollHeight + 2 + 'px';
+        editedText.style.height = '';
+        editedText.style.height = editedText.scrollHeight + 2 + 'px';
+      });
+    });
+
+  </script>
 </body>
 </html>
