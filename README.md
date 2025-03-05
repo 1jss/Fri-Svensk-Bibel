@@ -13,7 +13,7 @@ Texten är i sin helhet och i alla versioner licenserad under Creative Commmons 
 
 Översättningen sker i filen `FSB.xml`.
 
-Det finns en enkel läsare/editor `index.php` som kan köras som en hemsida. Kör den på localhost med följande kommando:
+Det finns en enkel läsare/editor `index.php` som kan köras som en hemsida. Starta hemsidan lokalt på din dator med följande kommando:
 
 ```sh
 php -S localhost:8000
@@ -21,7 +21,7 @@ php -S localhost:8000
 
 Gå sedan till `http://localhost:8000` i valfri webläsare och klicka på den vers du vill ändra.
 
-Ändringarna skrivs till `diff.txt`. För att applicara dina ändringar på `FSB.xml` kör du:
+Ändringarna skrivs till filen `diff.txt`. För att applicara dina ändringar på `FSB.xml` kör du:
 
 ```sh
 php apply_diff.php
@@ -30,8 +30,8 @@ php apply_diff.php
 eller navigerar till `http://localhost:8000/apply_diff.php` om du fortfarande kör servern.
 
 ### Gör om till HTML
-Kör `buildHtml.php`, så bygger den om filerna i mappen `FSB`
+Kör `build_html.php`, så bygger den om html-filerna i mappen `FSB`
 
 ```sh
-php build.php
+php build_html.php
 ```
