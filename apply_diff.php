@@ -29,7 +29,7 @@ while (($line = fgets($diff_file)) !== false) {
 
 // Close the diff file since we don't need it anymore
 fclose($diff_file);
-echo 'Done reading diff file';
+echo 'Done reading diff file\n';
 
 // Process the XML file in chunks
 $chunk_size = 8192 * 1024; // 8MB chunks
@@ -45,7 +45,7 @@ while (!feof($fp)) {
 
 fclose($fp);
 fclose($output);
-echo 'Done processing XML file';
+echo 'Done processing XML file\n';
 // Replace the original file with the new one
 rename('FSB.xml.tmp', 'FSB.xml');
-echo 'All done!';
+echo 'All done!\n';
