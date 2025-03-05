@@ -370,52 +370,52 @@ $book_names = [
   echo $book_text;
   ?>
   <script>
-    const editBackdrop = document.getElementById('edit-backdrop');
-    
-    const editForm = document.getElementById('edit-form');
-    editForm.addEventListener('submit', (e) => {
+    const edit_backdrop = document.getElementById('edit-backdrop');
+    const edit_form = document.getElementById('edit-form');
+    edit_form.addEventListener('submit', (e) => {
       e.preventDefault();
-      const formData = new FormData(editForm);
-      console.log(formData);
+      const form_data = new FormData(edit_form);
+      console.log(form_data);
       fetch('save_changes.php', {
         method: 'POST',
-        body: formData
+        body: form_data
       })
       .then(response => response.text())
       .then(data => {
         console.log('Response:', data);
-        editBackdrop.style.display = 'none';
+        edit_backdrop.style.display = 'none';
       })
       .catch(error => {
         console.error('Error');
       });
     });
     
-    editBackdrop.addEventListener('click', () => {
-      editBackdrop.style.display = 'none';
+    // Close the edit popup when clicking the backdrop
+    edit_backdrop.addEventListener('click', () => {
+      edit_backdrop.style.display = 'none';
     });
     
-    // prevent click event from closing the edit popup
-    const editPopup = document.getElementById('edit-popup');
-    editPopup.addEventListener('click', (e) => {
+    // Prevent click event from closing the edit popup
+    const edit_popup = document.getElementById('edit-popup');
+    edit_popup.addEventListener('click', (e) => {
       e.stopPropagation();
     });
     
-    // add click event listener to all verse elements
-    const verseElements = document.querySelectorAll('.verse');
-    const originalText = document.getElementById('original-text');
-    const editedText = document.getElementById('edited-text');
-    verseElements.forEach(verse => {
+    // Add click event listener to all verse elements
+    const verse_elements = document.querySelectorAll('.verse');
+    const original_text = document.getElementById('original-text');
+    const edited_text = document.getElementById('edited-text');
+    verse_elements.forEach(verse => {
       verse.addEventListener('click', () => {
-        // split after verse number
-        const verseContent = verse.innerHTML.split('</i>')[1];
-        originalText.value = verseContent;
-        editedText.value = verseContent;
-        editBackdrop.style.display = 'flex';
-        originalText.style.height = '';
-        originalText.style.height = originalText.scrollHeight + 2 + 'px';
-        editedText.style.height = '';
-        editedText.style.height = editedText.scrollHeight + 2 + 'px';
+        // Split after verse number
+        const verse_content = verse.innerHTML.split('</i>')[1];
+        original_text.value = verse_content;
+        edited_text.value = verse_content;
+        edit_backdrop.style.display = 'flex';
+        original_text.style.height = '';
+        original_text.style.height = original_text.scrollHeight + 'px';
+        edited_text.style.height = '';
+        edited_text.style.height = edited_text.scrollHeight + 'px';
       });
     });
 
