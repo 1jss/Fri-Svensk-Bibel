@@ -9,13 +9,29 @@ Till skillnad från många andra svenska biblar får du fritt ladda ner hela bib
 ## Licens
 Texten är i sin helhet och i alla versioner licenserad under Creative Commmons Zero (CC0). Läs mer om licensen på `https://creativecommons.org/publicdomain/zero/1.0/`
 
-## Tekniskt
-Översättningen sker i `fsb.xml`
+## Översättning
+
+Översättningen sker i filen `FSB.xml`.
+
+Det finns en enkel läsare/editor `index.php` som kan köras som en hemsida. Kör den på localhost med följande kommando:
+
+```sh
+php -S localhost:8000
+```
+
+Gå sedan till `http://localhost:8000` i valfri webläsare och klicka på den vers du vill ändra.
+
+Ändringarna skrivs till `diff.txt`. För att applicara dina ändringar på `FSB.xml` kör du:
+
+```sh
+php apply_diff.php
+```
+
+eller navigerar till `http://localhost:8000/apply_diff.php` om du fortfarande kör servern.
 
 ### Gör om till HTML
-- Kopiera `FSB.xml`  till mappen `/FSB` med kommandot: ```cp FSB.xml FSB/FSB.xml```
-- Gå in i mappen `/FSB` med kommandot: ```cd FSB```
-- Dela upp filen i bibelböcker med kommandot: ```csplit -k -f "" FSB.xml /\<BIBLEBOOK/ '{66}'```
-- Ge de bibelböckerna rätt ändelse med kommandot: ```for FILENAME in *; do mv $FILENAME $FILENAME.html; done```
-- Gå ur mappen med kommandot: ```cd ..```
-- Byt ut xml-taggar mot html-taggar med kommandot: ```python buildHtml.py```
+Kör `buildHtml.php`, så bygger den om filerna i mappen `FSB`
+
+```sh
+php build.php
+```
