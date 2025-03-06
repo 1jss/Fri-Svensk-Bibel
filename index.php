@@ -225,15 +225,41 @@ $book_names = [
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?php echo $book_names[$book]; ?> - FSB</title>
   <style>
+    :root {
+      --background-color: #fff;
+      --background-color-transparent: rgba(255, 255, 255, 0.8);
+      --text-color: #111;
+      --text-color-muted: #777;
+      --button-color: #111;
+      --button-text-color: #fff;
+      --box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      --text-stroke: 0 #000;
+    }
+    [data-theme="dark"] {
+      --background-color: #222;
+      --background-color-transparent: rgba(34, 34, 34, 0.9);
+      --text-color: #f0f0f0;
+      --text-color-muted: #777;
+      --button-color: #f0f0f0;
+      --button-text-color: #111;
+      --box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+    }
+    ::selection {
+      background-color: #fff080;
+      color: #111;
+    }
     body {
       font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
       font-size: 1.2em;
       line-height: 1.5;
       margin: 0;
       padding: 0;
-      color: #111;
+      background-color: var(--background-color);
+      color: var(--text-color);
       width: 100%;
       height: 100%;
+      -webkit-font-smoothing: antialiased;
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
     }
     .book {
       width: calc(100% - 40px);
@@ -248,7 +274,7 @@ $book_names = [
     .verse i {
       vertical-align: super;
       font-size: 0.6em;
-      color: #777;
+      color: var(--text-color-muted);
       margin-right: 0.3em;
     }
     .navigation {
@@ -258,19 +284,20 @@ $book_names = [
       transform: translateX(-50%);
       padding: 0.5em 0.6em;
       font-size: 0.7em;
-      background-color: rgba(255, 255, 255, 0.8);
+      background-color: var(--background-color-transparent);
       backdrop-filter: blur(2px);
       border-bottom-left-radius: 0.5em;
       border-bottom-right-radius: 0.5em;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      box-shadow: var(--box-shadow);
       z-index: 1000;
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
-    #book-select, #chapter-select, #edited-text, #original-text {
+    #book-select, #chapter-select {
       border: 0;
       background-color: transparent;
+      color: var(--text-color);
       font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
     #edit-backdrop {
@@ -285,25 +312,30 @@ $book_names = [
       margin: 0;
       padding: 0;
       z-index: 999;
-      background-color: rgba(255, 255, 255, 0.8);
+      background-color: var(--background-color-transparent);
       backdrop-filter: blur(2px);
       overflow: auto;
     }
     #edit-popup {
       width: 100%;
       max-width: 480px;
-      background-color: #fff;
+      background-color: var(--background-color);
       padding: 20px;
       border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      box-shadow: var(--box-shadow);
+    }
+    #original-text, #edited-text {
+      background-color: transparent;
+      font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+      font-size: 1.2em;
+      margin-bottom: 10px;
     }
     #original-text {
-      color: #777;
-      margin-bottom: 10px;
+      color: var(--text-color-muted);
     }
     #edited-text {
       width: 100%;
-      margin-bottom: 10px;
+      color: var(--text-color);
     }
     textarea {
       font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -326,8 +358,21 @@ $book_names = [
       font-size: 0.7em;
     }
     #save-button {
-      background-color: #000;
-      color: #fff;
+      background-color: var(--button-color);
+      color: var(--button-text-color);
+    }
+    #theme-toggle {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      background-color: transparent;
+      z-index: 1000;
+    }
+    #theme-toggle-button {
+      font-size: 1.2em;
+      line-height: 1.2em;
+      background-color: transparent;
+      color: var(--text-color);
     }
   </style>
 </head>
@@ -351,6 +396,23 @@ $book_names = [
       ?>
     </select>
   </nav>
+
+  <div id="theme-toggle">
+    <button id="theme-toggle-button">☼</button>
+  </div>
+  <script>
+    var stored_theme = localStorage.getItem('theme') || window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    if (stored_theme) {
+      document.body.setAttribute('data-theme', stored_theme);
+    }
+    const theme_toggle_button = document.getElementById('theme-toggle-button');
+    theme_toggle_button.addEventListener('click', () => {
+      const current_theme = document.body.getAttribute('data-theme');
+      const new_theme = current_theme === 'dark' ? 'light' : 'dark';
+      document.body.setAttribute('data-theme', new_theme);
+      localStorage.setItem('theme', new_theme);
+    });
+  </script>
 
   <div id="edit-backdrop">
     <div id="edit-popup">
