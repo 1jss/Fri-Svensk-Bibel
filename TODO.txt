@@ -55,3 +55,4 @@ givas
 kvad -> sa
 fattige -> fattiga
 skåden på -> se på
+Månne
