@@ -14,7 +14,7 @@ Arbetsflödet bygger på att en LLM (eller annat extraktionsverktyg) läser böc
 ## Kontrakt (inputs / outputs / fel)
 
 - Input:
-  - XML-filer i `FSB_xml/` (t.ex. `FSB_xml/47.xml`) som innehåller `<BIBLEBOOK> / <CHAPTER> / <VERS>` med text.
+  - XML-filen `temp_context.xml` (en temporär kontextfil extraherad från `FSB.xml`) som innehåller `<BIBLEBOOK> / <CHAPTER> / <VERS>` med text.
 - Output (globalt för verket):
   - `replacements.json` — en JSON-array med objekt som endast har `old` och `new` (se exempel nedan). Denna fil gäller för hela verket.
 
