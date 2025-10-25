@@ -1,0 +1,19 @@
+[
+  {
+    "task": "translate-task",
+    "steps": [
+      {
+        "name": "prepare context",
+        "cmd": "node create_context.js 400 100"
+      },
+      {
+        "name": "translation pairs",
+        "prompt": "Läs PLAN.md och följ instruktionerna för LLM. Läs temp_context.xml och generera ytterligare minst 30 nya översättningspar i replacements.json."
+      },
+      {
+        "name": "replace text",
+        "cmd": "node replace.js"
+      }
+    ]
+  }
+]
