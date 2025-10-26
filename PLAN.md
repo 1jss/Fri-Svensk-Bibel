@@ -1,62 +1,94 @@
+# LLM PROMPT: Modernisera äldre svensk bibelöversättning
 
-# PLAN för modernisering av FSB (byta ut ålderdomliga ord)
+## Huvuduppgift
 
-Detta dokument beskriver ett arbetsflöde för att modernisera en äldre svensk översättning genom att byta ut enstaka ord eller korta fraser (inte hela meningar). Målet är att skapa en `replacements.json` för hela verket som innehåller en array av objekt med fälten `old` och `new`.
+Läs filen `temp_context.xml` och identifiera minst **30 nya verspar** av ålderdomliga/arkaiska ord eller fraser som kan moderniseras. Generera **endast** nya par som **INTE redan finns** i `replacements.json`.
 
-## Kort sammanfattning
+Outputformat: En JSON-array med objekt av formen `{ "old": "...", "new": "..." }`.
 
-Arbetsflödet bygger på att en LLM läser en text, hittar ålderdomliga eller akaiska ord/fraser och föreslår moderniseringar i `replacements.json`.
+---
 
-**Viktigt:** Varje översättningspar i replacements.json måste innehålla kontext både FÖRE och EFTER det ersatta ordet (minst ett ord eller skiljetecken direkt efter). Par utan sådan kontext är inte godkända.
+## KRITISKA REGLER FÖR VARJE PAR
 
-**KRITISK VARNING: Varje "old"-sträng MÅSTE innehålla minst ett ord eller skiljetecken DIREKT FÖRE OCH DIREKT EFTER det ersatta ordet. Par utan BÅDE före- och efterkontext är STRIKT FÖRBJUDET och kommer att avvisas. Detta är obligatoriskt för att undvika falska matchningar och säkerställa exakt ersättning.**
+### Regel 1: FÖRE- och EFTERKONTEXT är OBLIGATORISKA
+Varje "old"-sträng **MÅSTE innehålla**:
+- Minst ett ord eller skiljetecken DIREKT FÖRE det ersatta ordet
+- Minst ett ord eller skiljetecken DIREKT EFTER det ersatta ordet
 
-## Kontrakt (inputs / outputs / fel)
+**Detta betyder:** "old" måste alltid innehålla minst **3 ord totalt** (eller motsv. med skiljetecken).
 
-- Input:
-  - XML-filen `temp_context.xml` (en temporär kontextfil extraherad från `FSB.xml`) som innehåller `<BIBLEBOOK> / <CHAPTER> / <VERS>` med text.
-- Output (globalt för verket):
-  - `replacements.json` — en JSON-array med objekt som endast har `old` och `new` (se exempel nedan). Denna fil gäller för hela verket.
+### Regel 2: Exempel på GODKÄNDA par (med före- och efterkontext)
+```json
+{ "old": "de kunna bryta", "new": "de kan bryta" }
+{ "old": "vi vilja nämligen", "new": "vi vill nämligen" }
+{ "old": "kan förfärdiga ett", "new": "kan tillverka ett" }
+{ "old": "som utbreder himlen", "new": "som breder ut himlen" }
+{ "old": "och de förtorka och", "new": "och de förtorkar och" }
+```
 
-## Filformat och exempel
+### Regel 3: Exempel på OGODKÄNDA par (AVVISAS)
+```json
+{ "old": "kunna bryta", "new": "kan bryta" }           // INGEN kontext före
+{ "old": "vi vilja", "new": "vi vill" }               // INGEN kontext efter
+{ "old": "förfärdiga", "new": "tillverka" }           // INGEN kontext före eller efter
+```
 
-Slutlig ersättningsfil: `replacements.json`
+---
 
-Exempelstruktur:
+## INSTRUKTIONER (steg för steg)
 
+1. **Läs** `temp_context.xml` och identifiera ord/fraser som:
+   - Är ålderdomliga (t.ex. "kunna", "vilja", "förtorka", "förfärdiga")
+   - Kan ersättas med moderna svenska motsvarigheter (t.ex. "kan", "vill", "förtorkas", "tillverka")
+   - Faktiskt förekommer i texten
+
+2. **För varje identifierat par:**
+   - Kopiera det faktiska sammanhanget från `temp_context.xml` (omgivande ord)
+   - Se till att "old" innehåller ord/skiljetecken INNAN och EFTER det ersatta ordet
+   - Modernisera endast ordet/frasen, inte hela satser eller meningar
+
+3. **Kontrollera mot befintlig `replacements.json`:**
+   - Hoppa över par som redan finns i filen
+   - Undvik dubbletter
+
+4. **Bevara:**
+   - Tempus och böjning (z.B. "kunna" → "kan", "förtorka" → "förtorkas")
+   - Namn, platser och teologiska termer (dessa moderniseras INTE)
+   - XML-entiteter och skiljetecken exakt som de förekommer
+
+5. **Leverera minimum 30 nya par** och **skriv dem direkt till filen `replacements.json`**
+
+Format för ny JSON-array i `replacements.json`:
+
+```json
 [
-  { "old": "Vi predika ju", "new": "Vi predikar ju" },
-  { "old": "vilja undgå att", "new": "vilja slippa att" }
-  { "old": 'jag ock", så', "new": 'jag också", så' }
+  { "old": "de kunna bryta", "new": "de kan bryta" },
+  { "old": "vi vilja nämligen", "new": "vi vill nämligen" },
+  { "old": "som utbreder himlen", "new": "som breder ut himlen" },
+  ...
 ]
+```
 
-## Flödet (kortfattat)
+**Viktigt:** De nya paren ska läggs till i den befintliga arrayen i `replacements.json`. Befintliga par ska INTE tas bort eller ändras.
 
-  - Läs källfilen rad för att säkerställa att varje översättningspar bygger på faktisk förekomst i texten.
-  - Skapa/uppdatera den globala `replacements.json` med objekt av formen `{ "old": "...", "new": "..." }`.
-  - För varje rad: extrahera endast unika, ålderdomliga ord/fraser med kontext efter (enligt regler nedan).
-  - Kontrollera mot tidigare förslag så att varje översättningspar bara förekommer en gång i replacements.json.
-  - Hoppa över redan föreslagna eller identiska par.
-  - Skriv aldrig generella par utan kontext efter.
-  - Uppdatera replacements.json kontinuerligt, rad för rad, allt eftersom nya unika översättningspar hittas.
-  - Förslagen ska alltid innehålla kontext (1-3 ord före och efter). Detta är obligatoriskt.
+---
 
- 
-## Regler / riktlinjer (viktiga punkter)
+## INGÅNGAR
 
-- Endast ord och korta fraser får ändras — inte meningsstruktur eller tillägg/radering av hela satser.
-- **KRITISKT: Översättningspar utan kontext BÅDE FÖRE OCH EFTER det ersatta ordet är inte godkända.** Det måste alltid finnas minst ett ord eller skiljetecken direkt FÖRE OCH direkt EFTER det ersatta ordet i "old". Detta innebär att "old" alltid måste innehålla minst 3 ord totalt (t.ex. "vi vilja nämligen" → "vi vill nämligen", där "vi" är före och "nämligen" är efter det ersatta ordet "vilja"). 
-- **Exempel på ej godkända par (utan före- eller efterkontext):**
-  - "kunna bryta ner" → "kan bryta ner" (ingen kontext före "kunna").
-  - "vi vilja" → "vi vill" (ingen kontext efter "vilja").
-  - "berömmer oss" → "berömma oss" (ingen kontext före "berömmer").
-- **Exempel på godkända par:**
-  - "de kunna bryta ner" → "de kan bryta ner" (kontext före: "de", efter: "ner").
-  - "vi vilja nämligen" → "vi vill nämligen" (kontext före: "vi", efter: "nämligen").
-- Bevara tempus och böjning där så krävs; om ändring kräver böjning, föreslå rätt böjning i `new`.
-- I tveksamma fall: Gå vidare till nästa ord
-- Undvik att stavning av namn, platser eller teologiskt laddade termer
+- **Kontextfil:** `temp_context.xml` (innehåller bibeltextens verser att analysera)
+- **Befintlig mappning:** `replacements.json` (för att undvika dubbletter och att bevara redan existerade par)
 
-## Edge cases att uppmärksamma
-- Versen innehåller XML-entiteter (&amp;, &lt;, mm.) — se till att parsning/dump bevarar dem korrekt.
-- Fall med skiljetecken (t.ex. "predika," vs "predika") — matcha så att skiljetecken inte förstör sök/ersättning.
+## UTGÅNGAR
+
+- **Uppdaterad `replacements.json`** med minimum 30 nya verspar tillagda
+- Varje ny par **MÅSTE** följa Regel 1, 2 och 3 ovan
+- Par utan både före- och efterkontext kommer att **AVVISAS**
+
+---
+
+## ANMÄRKNING
+
+Appliceringen av replacements.json (dvs. att faktiskt ersätta orden i bibeltexten) sköts manuellt. Din uppgift är enbart att:
+1. Läsa `temp_context.xml`
+2. Identifiera ålderdomliga ord/fraser
+3. Skriva de nya paren direkt till `replacements.json`
