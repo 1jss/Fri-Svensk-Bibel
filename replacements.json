@@ -1,4 +1,8 @@
 [
-  { "old": "jag ock\", så", "new": "jag också\", så" },
-  { "old": "än vara må", "new": "än skulle vara" }
+  { "old": "Vi vilja inte lämna", "new": "Vi vill inte lämna" },
+  { "old": "allt mer förkovra er i", "new": "allt mer fördjupa er i" },
+  { "old": "ni redan fören.", "new": "ni redan för." },
+  { "old": "ni måsten uthärda.", "new": "ni måste uthärda." },
+  { "old": "ni avhållen er från", "new": "ni avhåller er från" },
+  { "old": "dricker sig druckna, de", "new": "dricker sig fulla, de" }
 ]
