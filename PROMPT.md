@@ -5,6 +5,6 @@ Names, places, and theological terms (do not modernize or alter these).
 Punctuation, spacing, alignment and XML tags should be kept as is.
 Simple and modern language is preferred over "stylistic" tone. Make sure to NOT copy or take inspiration from existing Swedish bible translations. The tone should be simpler and more modern than that. Avoid retaining any words that sound formal, archaic, or outdated, even if they are not obviously old (e.g., replace semi-archaic terms with everyday equivalents).
 
-More examples of words that should be replaced: "klentrogne", "behag", "näpste"
+More examples of words that should be replaced: "klentrogne", "behag", "näpste", "skinnläglar"
 
 Output: Only apply the changes inline in the temp_context.xml file. Do not add any explanations. No other report or summary is needed.
