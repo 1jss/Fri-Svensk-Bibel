@@ -1,4 +1,4 @@
-Task: Read the provided excerpt from temp_context.xml file (in old Swedish). Directly edit the text by replacing archaic or outdated words/phrases with modern Swedish equivalents (e.g., "de kunna" → "de kan", "vi vilja" → "vi vill", "fören ut" → "för ut", "han berömme" → "han ska berömma", "oförrätt" → "orätt", "otukt" → "otrohet"). No other sources or files are needed. Only read the text and replace the old sounding words. If needed also change the sentence structure to make it simpler and more conversational.
+Task: Read the provided excerpt from temp_context.xml file (in old Swedish). Directly edit the text by replacing archaic or outdated words/phrases with modern Swedish equivalents (e.g., "de kunna" → "de kan", "vi vilja" → "vi vill", "fören ut" → "för ut", "han berömme" → "han ska berömma", "oförrätt" → "orätt", "otukt" → "otrohet", "tiga" → "vara tyst"). No other sources or files are needed. Only read the text and replace the old sounding words. If needed also change the sentence structure to make it simpler and more conversational.
 
 Preserve:
 Names, places, and theological terms (do not modernize or alter these).
