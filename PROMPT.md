@@ -8,4 +8,4 @@
   - Replace dated syntax like `Varför var det ni gick ut i öknen?` with `Varför gick ni ut i öknen?`
 - Keep dialogue markers, quotation marks, and XML attributes untouched; only alter the text content inside tags.
 - When smoothing sentences, keep the original meaning intact. Example: transformed `"Människosonen kom och han både äter och dricker"` into `"Människosonen kom, han äter och dricker"` for flow; updated `"han varken äter eller dricker och så säger man"` to `"han äter inte och dricker inte, och folk säger"` to sound current while preserving intent.
-- Output requirement: apply edits inline; no commentary, summaries, or extra text beyond the revised XML snippet.
+- Output requirement: Only apply the changes inline in the temp_context.xml file. Do not add any explanations. No other report or summary is needed.
