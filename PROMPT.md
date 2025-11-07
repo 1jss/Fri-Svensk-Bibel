@@ -1,10 +1,11 @@
-Task: Read the provided excerpt from temp_context.xml file (in old Swedish). Directly edit the text by replacing archaic or outdated words/phrases with modern Swedish equivalents (e.g., "de kunna" → "de kan", "vi vilja" → "vi vill", "fören ut" → "för ut", "han berömme" → "han ska berömma", "oförrätt" → "orätt", "otukt" → "otrohet", "tiga" → "vara tyst"). No other sources or files are needed. Only read the text and replace the old sounding words. If needed also change the sentence structure to make it simpler and more conversational.
-
-Preserve:
-Names, places, and theological terms (do not modernize or alter these).
-Punctuation, spacing, alignment and XML tags should be kept as is.
-Simple and modern language is preferred over "stylistic" tone. Make sure to NOT copy or take inspiration from existing Swedish bible translations. The tone should be simpler and more modern than that. Avoid retaining any words that sound formal, archaic, or outdated, even if they are not obviously old (e.g., replace semi-archaic terms with everyday equivalents).
-
-More examples of words that should be replaced: "klentrogne", "behag", "näpste", "skinnläglar"
-
-Output: Only apply the changes inline in the temp_context.xml file. Do not add any explanations. No other report or summary is needed.
+- Task: Modernize the supplied excerpt from temp_context.xml. Work directly in that file, replacing archaic or formal Swedish expressions with simple everyday equivalents. If needed, adjust sentence structure so it reads naturally in contemporary Swedish.
+- Preserve exactly as written: personal names, places, theological terms, punctuation, spacing, alignment, and every XML tag/attribute.
+- Do not consult or imitate existing Swedish bible translations; aim for a relaxed, conversational tone that is still respectful.
+- Always swap out older or semi-archaic words/phrases. Sample pairs (update as needed):
+  - `de kunna` → `de kan`; `vi vilja` → `vi vill`; `fören ut` → `för ut`; `han berömme` → `han ska berömma`
+  - `oförrätt` → `orätt`; `otukt` → `otrohet`; `tiga` → `vara tyst`; `saktmodig` → `mild`; `betungade` → `tyngda`
+  - `Ve dig` → `Ve över dig`; `kraftgärningar` → `underverk`; `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig`
+  - Replace dated syntax like `Varför var det ni gick ut i öknen?` with `Varför gick ni ut i öknen?`
+- Keep dialogue markers, quotation marks, and XML attributes untouched; only alter the text content inside tags.
+- When smoothing sentences, keep the original meaning intact. Example: transformed `"Människosonen kom och han både äter och dricker"` into `"Människosonen kom, han äter och dricker"` for flow; updated `"han varken äter eller dricker och så säger man"` to `"han äter inte och dricker inte, och folk säger"` to sound current while preserving intent.
+- Output requirement: apply edits inline; no commentary, summaries, or extra text beyond the revised XML snippet.
