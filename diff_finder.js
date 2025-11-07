@@ -7,7 +7,7 @@ const replacementsFile = 'replacements.json';
 let preLines = fs.readFileSync(preFile, 'utf8').split('\n');
 let fsbLines = fs.readFileSync(fsbFile, 'utf8').split('\n');
 
-let replacements = JSON.parse(fs.readFileSync(replacementsFile, 'utf8'));
+let replacements = [];
 
 for (let i = 0; i < Math.min(preLines.length, fsbLines.length); i++) {
     let preWords = preLines[i].trim().split(' ');
