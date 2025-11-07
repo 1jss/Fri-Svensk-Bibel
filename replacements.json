@@ -1,18 +1,42 @@
 [
   {
-    "old": "sabbaten bryta sabbaten",
-    "new": "sabbaten bryter sabbaten"
+    "old": "vem driva då",
+    "new": "vem driver då"
   },
   {
-    "old": "är förmer än",
-    "new": "är större än"
+    "old": "inte tidigare har",
+    "new": "inte först har"
   },
   {
-    "old": "dem strängeligen att",
-    "new": "dem strängt att"
+    "old": "inte församlar med",
+    "new": "inte samlar med"
   },
   {
-    "old": "att utbreda ryktet",
-    "new": "att sprida ryktet"
+    "old": "Ni måsten döma",
+    "new": "Ni måste döma"
+  },
+  {
+    "old": "har farit ut",
+    "new": "har gått ut"
+  },
+  {
+    "old": "i ökentrakter och",
+    "new": "i öknen och"
+  },
+  {
+    "old": "stå ledigt och",
+    "new": "stå tomt och"
+  },
+  {
+    "old": "vara fejat och",
+    "new": "vara städat och"
+  },
+  {
+    "old": "stannade därutanför och",
+    "new": "stannade utanför och"
+  },
+  {
+    "old": "ville tala med",
+    "new": "ville prata med"
   }
 ]
