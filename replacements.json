@@ -1,8 +1,62 @@
 [
-  { "old": "Vi vilja inte lämna", "new": "Vi vill inte lämna" },
-  { "old": "allt mer förkovra er i", "new": "allt mer fördjupa er i" },
-  { "old": "ni redan fören.", "new": "ni redan för." },
-  { "old": "ni måsten uthärda.", "new": "ni måste uthärda." },
-  { "old": "ni avhållen er från", "new": "ni avhåller er från" },
-  { "old": "dricker sig druckna, de", "new": "dricker sig fulla, de" }
+  {
+    "old": "utan går hellre",
+    "new": "utan gå hellre"
+  },
+  {
+    "old": "Skaffen er",
+    "new": "Skaffa er"
+  },
+  {
+    "old": "någon ränsel för",
+    "new": "någon väska för"
+  },
+  {
+    "old": "er färd, inte",
+    "new": "er resa, inte"
+  },
+  {
+    "old": "dubbla livklädnader, inte",
+    "new": "dubbla kläder, inte"
+  },
+  {
+    "old": "och stannen hos",
+    "new": "och stanna hos"
+  },
+  {
+    "old": "ni lämnen den",
+    "new": "ni lämnar den"
+  },
+  {
+    "old": "så hälsen det.",
+    "new": "så hälsa det."
+  },
+  {
+    "old": "ni tillönsken det",
+    "new": "ni önskar det"
+  },
+  {
+    "old": "så går ut",
+    "new": "så gå ut"
+  },
+  {
+    "old": "och skudden stoftet",
+    "new": "och skaka stoftet"
+  },
+  {
+    "old": "bli drägligare än",
+    "new": "bli lättare än"
+  },
+  {
+    "old": "till änden, han",
+    "new": "till slutet, han"
+  },
+  {
+    "old": "inte förmer än",
+    "new": "inte mer än"
+  },
+  {
+    "old": "tjänaren förmer än",
+    "new": "tjänaren mer än"
+  }
 ]
