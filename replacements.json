@@ -1,10 +1,30 @@
 [
   {
-    "old": "olja av stötta",
-    "new": "olja från stötta"
+    "old": "i den, medan",
+    "new": "i den medan"
   },
   {
-    "old": "och insatte honom",
-    "new": "och satte honom"
+    "old": "medan allt folket",
+    "new": "medan hela folket"
+  },
+  {
+    "old": "och bli helade",
+    "new": "och blir helade"
+  },
+  {
+    "old": "era ögon, som",
+    "new": "era ögon som"
+  },
+  {
+    "old": "som se och",
+    "new": "som ser och"
+  },
+  {
+    "old": "era öron, som",
+    "new": "era öron som"
+  },
+  {
+    "old": "om riket, men",
+    "new": "om riket men"
   }
 ]
