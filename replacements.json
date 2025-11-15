@@ -1,102 +1,398 @@
 [
   {
-    "old": "ni gören?",
-    "new": "ni gör?"
+    "old": "Men när horoniten Sanballat och Tobia, den ammonitiske tjänstemannen och araben Gesem hörde detta, bespottade de oss och visade förakt för oss. De sa: \"Vad är det ni gören? Vill ni sätta er upp mot kungen?\"",
+    "new": "Men när horoniten Sanballat och Tobia, den ammonitiske tjänstemannen och araben Gesem hörde detta, bespottade de oss och visade förakt för oss. De sa: \"Vad är det ni gör? Vill ni sätta er upp mot kungen?\""
   },
   {
-    "old": " vilja stå upp ",
-    "new": " ska stå upp "
+    "old": "Då gav jag dem detta svar: \"Himmelens Gud ska låta det gå oss väl och vi, hans tjänare, vilja stå upp och bygga. Men ni har ingen del eller rätt eller minne i Jerusalem.\"",
+    "new": "Då gav jag dem detta svar: \"Himmelens Gud ska låta det gå oss väl och vi, hans tjänare, ska stå upp och bygga. Men ni har ingen del eller rätt eller minne i Jerusalem.\""
   },
   {
-    "old": " bespottade ",
-    "new": " hånade "
+    "old": "När nu Sanballat hörde att vi höll på att bygga upp muren, vredgades han och blev högeligen förtörnad. Han bespottade judarna",
+    "new": "När nu Sanballat hörde att vi höll på att bygga upp muren, vredgades han och blev högeligen förtörnad. Han hånade judarna"
   },
   {
-    "old": " de ligga ",
-    "new": " de ligger "
+    "old": "och talade så inför sina bröder och inför Samariens krigsfolk: \"Vad är det dessa vanmäktiga judar göra? Skall man låta dem hållas? Ska de få offra? Ska de kanske i sinom tid göra färdigt sitt verk? Ska de kunna ge liv åt stenarna i grushögarna, där de ligga förbrända?\"",
+    "new": "och talade så inför sina bröder och inför Samariens krigsfolk: \"Vad är det dessa vanmäktiga judar göra? Skall man låta dem hållas? Ska de få offra? Ska de kanske så småningom göra färdigt sitt verk? Ska de kunna ge liv åt stenarna i grushögarna, där de ligger förbrända?\""
   },
   {
-    "old": " att rämna",
-    "new": " att rasa"
+    "old": "Ammoniten Tobia, som stod bredvid honom sa: \"Hur de än bygga, ska dock en räv komma deras stenmur att rämna, bara han hoppar upp på den.\"",
+    "new": "Ammoniten Tobia, som stod bredvid honom sa: \"Hur de än bygger, ska en räv få deras stenmur att rasa, bara han hoppar upp på den.\""
   },
   {
-    "old": " vi äro.",
-    "new": " vi är."
+    "old": "Hör, vår Gud, hur föraktade vi äro. Låt deras hån falla tillbaka på deras egna huvuden. Ja, låt dem bli utplundrade i ett land dit de föras som fångar.",
+    "new": "Hör, vår Gud, hur föraktade vi är. Låt deras hån falla tillbaka på deras egna huvuden. Ja, låt dem bli plundrade i ett land dit de föras som fångar."
   },
   {
-    "old": " utplundrade ",
-    "new": " plundrade "
+    "old": "Överskyl inte deras missgärningar och låt deras synd inte bli utplånad ur din åsyn, eftersom de har varit de byggande till förargelse.",
+    "new": "Täck inte över deras missgärningar och låt deras synd inte bli utplånad inför dig, eftersom de har förargat dem som bygger."
   },
   {
-    "old": " de föras ",
-    "new": " de förs "
+    "old": "Men när Sanballat och Tobia och araberna, ammoniterna och asdoditerna hörde att man fortsatt höll på med att laga upp Jerusalems murar och att rämnorna började igentäppas, då blev de mycket vreda.",
+    "new": "Men när Sanballat och Tobia och araberna, ammoniterna och asdoditerna hörde att man fortsatt höll på med att laga upp Jerusalems murar och att rämnorna började täppas igen, då blev de mycket arga."
   },
   {
-    "old": "Överskyl inte ",
-    "new": "Täck inte över "
+    "old": "De sammansvuro sig alla att gå iväg och angripa Jerusalem och störa folket i deras arbete.",
+    "new": "De kom alla överens om att gå iväg och angripa Jerusalem och störa folket i deras arbete."
   },
   {
-    "old": " vreda.",
-    "new": " arga."
+    "old": "Våra ovänner igen sa: \"Innan de få vet eller se något, ska vi stå mitt ibland dem och döda dem. Så ska vi göra slut på arbetet.\"",
+    "new": "Våra ovänner sa igen: \"Innan de får veta eller se något, ska vi stå mitt ibland dem och döda dem. Så ska vi göra slut på arbetet.\""
   },
   {
-    "old": " de få vet ",
-    "new": " de får veta "
+    "old": "Sedan jag hade besett allt, stod jag upp och sa till ädlingarna och föreståndarna och det övriga folket: \"Frukta inte för dem. Tänk på Herren, den store och fruktansvärde och striden för era bröder, era söner och döttrar, era hustrur och era hus.\"",
+    "new": "Sedan jag hade besett allt, stod jag upp och sa till ädlingarna och föreståndarna och det övriga folket: \"Var inte rädda för dem. Tänk på Herren, den store och fruktansvärde och strid för era bröder, era söner och döttrar, era hustrur och era hus.\""
   },
   {
-    "old": " igentäppas",
-    "new": " täppas igen"
+    "old": "De som byggde hade var och en sitt svärd bundet vid sin länd, under det att de byggde. Bredvid mig stod en basunblåsare.",
+    "new": "De som byggde hade var och en sitt svärd bundet vid höften medans de byggde. Bredvid mig stod en basunblåsare."
   },
   {
-    "old": " under det att ",
-    "new": " medan "
+    "old": "Så gjorde också vi vårt arbete, under det att hälften av folket stod väpnad med sina spjut från morgonrodnadens uppgång, till dess att stjärnorna kom fram.",
+    "new": "Så gjorde också vi vårt arbete medan hälften av folket stod vakt med sina spjut från soluppgången till dess att stjärnorna kom fram."
   },
   {
-    "old": " stod väpnad ",
-    "new": " stod vakt "
+    "old": "Varken jag eller mina bröder eller mina tjänare eller de som gjorde vakt hos mig la av kläderna. Vapnen höllos av var och en för liksom nödvändiga som vatten.",
+    "new": "Varken jag eller mina bröder eller mina tjänare eller de som gjorde vakt hos mig la av oss kläderna. Var och en ansåg vapnen lika nödvändiga som vatten."
   },
   {
-    "old": " någon rämna ",
-    "new": " någon skada "
+    "old": "Några sa: \"Vi med våra söner och döttrar är många. Låt oss få säd, så att vi har att äta och kunna bli vid liv.\"",
+    "new": "Några sa: \"Vi och våra söner och döttrar är många. Låt oss få säd, så att vi har att äta och kan bli vid liv.\""
   },
   {
-    "old": "Spisoffer ",
-    "new": "Matoffer "
+    "old": "Några sa: \"Våra åkrar, vingårdar och hus måste vi pantsätta. Låt oss få säd till att stilla vår hunger.\"",
+    "new": "Några sa: \"Vi är tvungna att pantsätta våra åkrar, vingårdar och hus. Låt oss få säd så att vi kan bli mätta.\""
   },
   {
-    "old": "Kläden er ",
-    "new": "Klä er "
+    "old": "Andra sa: \"Vi har behövt låna pengar på våra åkrar och vingårdar till skatten åt kungen.",
+    "new": "Andra sa: \"Vi har blivit tvungna att låna pengar på våra åkrar och vingårdar till skatten åt kungen."
   },
   {
-    "old": " och sitten ",
-    "new": " och sitt "
+    "old": "När nu Sanballat och Tobia och araben Gesem och våra övriga fiender hörde att jag hade byggt upp muren och att det inte mer fanns någon rämna i den -- om jag också vid den tiden ännu inte hade satt in dörrar i portarna --",
+    "new": "När nu Sanballat och Tobia och araben Gesem och våra övriga fiender hörde att jag hade byggt upp muren och att det inte mer fanns något hål i den -- även om jag vid den tiden ännu inte hade satt in dörrar i portarna --"
   },
   {
-    "old": " åtos upp ",
-    "new": " åts upp "
+    "old": "Men jag gick hem till Semaja, son till Delaja, son till Mehetabel. Han höll sig då inne. Han sa: \"Låt oss tillsammans gå till Guds hus, in i templet och sedan stänga igen templets dörrar. För de ska komma för att döda dig. Om natten ska de komma för att döda dig.\"",
+    "new": "Men jag gick hem till Semaja, son till Delaja, son till Mehetabel. Han höll sig då inne. Han sa: \"Låt oss tillsammans gå till Guds hus, in i templet och sedan stänga igen templets dörrar. För de ska komma för att döda dig. De ska komma för att döda dig på natten.\""
   },
   {
-    "old": " klagen,",
-    "new": " klaga,"
+    "old": "Spisoffer och drickoffer är försvunna från Herrens hus. Prästerna sörja, Herrens tjänare.",
+    "new": "Matoffer och drickoffer är försvunna från Herrens hus. Prästerna sörjer, Herrens tjänare."
   },
   {
-    "old": " bedja,",
-    "new": " be,"
+    "old": "Kläden er i sorgdräkt och klagen, ni präster. Jämren er, ni som tjänen vid altaret. Gå in och sitten i sorgdräkt natten igenom, ni min Guds tjänare, eftersom er Gud hus måste sakna matoffer och drickoffer",
+    "new": "Klä er i sorgdräkt och klaga, ni präster. Jämra er, ni som tjänar vid altaret. Gå in och sitt i sorgdräkt hela natten, ni min Guds tjänare, eftersom er Guds hus måste sakna matoffer och drickoffer"
   },
   {
-    "old": " skökor ",
-    "new": " prostituerade "
+    "old": "Så ska logarna fyllas mod säd och pressarna flöda över av vin och olja.",
+    "new": "Så ska logarna fyllas med säd och pressarna flöda över av vin och olja."
   },
   {
-    "old": "Följen mig ",
-    "new": "Följ mig "
+    "old": "Jag ska ge er gottgörelse för de årsgrödor som åtos upp av gräshopporna, gräsbitarna, gräsätarna och gräsgnagarna, den stora här som jag skickade ut mot er.",
+    "new": "Jag ska ge er gottgörelse för de årsgrödor som åts upp av gräshopporna, gräsbitarna, gräsätarna och gräsgnagarna, den stora här som jag skickade ut mot er."
   },
   {
-    "old": " drar dig till minnes ",
-    "new": " kommer ihåg "
+    "old": "Ja, de har kastat lott om mitt folk, gossarna har de gett som betalning åt skökor och flickorna har de sålt för vin, som de har druckit upp.",
+    "new": "Ja, de har kastat lott om mitt folk, pojkarna har de gett som betalning åt prostituerade och flickorna har de sålt för vin, som de har druckit upp."
   },
   {
-    "old": " i sinom tid ",
-    "new": " så småningom "
+    "old": "Han sa till dem: \"Följen mig så ska jag göra er till människofiskare.\"",
+    "new": "Han sa till dem: \"Följ mig så ska jag göra er till människofiskare.\""
+  },
+  {
+    "old": "det folk som där satt i mörker fick se ett stort ljus. Ja, de som satt i dödens ängd och skugga, för dem gick upp ett ljus.\"",
+    "new": "det folk som satt där i mörker fick se ett stort ljus. Ja, de som satt i dödens ängd och skugga, för dem gick ett ljus upp.\""
+  },
+  {
+    "old": "Honom följde mycket folk från Galileen och Dekapolis och Jerusalem och Judeen och från landet på andra sidan Jordan.",
+    "new": "Mycket folk från Galileen och Dekapolis och Jerusalem och Judeen och från landet på andra sidan Jordan följde honom."
+  },
+  {
+    "old": "Därför, om du kommer med din gåva till altaret och där drar dig till minnes att din bror har något emot dig,",
+    "new": "Därför, om du kommer med din gåva till altaret och där kommer ihåg att din bror har något emot dig,"
+  },
+  {
+    "old": "och om någon vill gå till rätta med dig för att ta ifrån dig din livklädnad, så låt honom få manteln också.",
+    "new": "Och om någon vill gå till rätta med dig för att ta ifrån dig din livklädnad, så låt honom få manteln också."
+  },
+  {
+    "old": "och om någon tvingar dig att till hans tjänst gå med en mil, så gå två med honom.",
+    "new": "Och om någon tvingar dig att till hans tjänst gå med en mil, så gå två med honom."
+  },
+  {
+    "old": "Därför, när du ger en gåva, så låt inte stöta i basun för dig, som skrymtarna göra i synagogorna och på gatorna, för att de ska bli prisade av människorna. Jag säger sanningen till er: De har fått ut sin lön.",
+    "new": "Därför, när du ger en gåva, så låt inte stöta i basun för dig, som skrymtarna gör i synagogorna och på gatorna, för att de ska bli hyllade av människorna. Jag säger sanningen till er: De har fått ut sin lön."
+  },
+  {
+    "old": "Nej, när du ger en gåva, låt då din vänstra hand inte få vet vad den högra gör,",
+    "new": "Nej, när du ger en gåva, låt då inte din vänstra hand få veta vad den högra gör,"
+  },
+  {
+    "old": "När ni ber, ska ni inte vara som skrymtarna, vilka gärna stå i synagogorna och i gathörnen och bedja, för att bli sedda av människorna. Jag säger sanningen till er: De har fått ut sin lön.",
+    "new": "När ni ber, ska ni inte vara som skrymtarna, vilka gärna står i synagogorna och i gathörnen och ber, för att bli sedda av människorna. Jag säger sanningen till er: De har fått ut sin lön."
+  },
+  {
+    "old": "Nej, när du vill bedja, gå då in i din kammare och stäng igen din dörr och bed till din Far i det fördolda. Då ska din Far, som ser i det fördolda, betala dig.",
+    "new": "Nej, när du vill be, gå då in i din kammare och stäng din dörr och be till din Far i det fördolda. Då ska din Far, som ser i det fördolda, betala dig."
+  },
+  {
+    "old": "Men i era böner ska ni inte hopa tomma ord som hedningarna, vilka menar att de ska bli bönhörda för sina många ords skull.",
+    "new": "Men i era böner ska ni inte stapla tomma ord som hedningarna, som menar att de ska bli bönhörda för sina många ords skull."
+  },
+  {
+    "old": "Så var då inte liksom dem. Er Far vet ju vad ni behöver, innan ni ber honom.",
+    "new": "Så var då inte som dem. Er Far vet ju vad ni behöver, innan ni ber honom."
+  },
+  {
+    "old": "Ni ska alltså be sålunda: 'Far vår, som är i himmelen! Helgat varde ditt namn.",
+    "new": "Ni ska alltså be såhär: 'Vår Far, som är i himmelen! Helga ditt namn."
+  },
+  {
+    "old": "tillkomme ditt rike. Ske din vilja, som i himlen, men också på jorden.",
+    "new": "Ditt rike ska komma. Din vilja ska på jorden som i himlen."
+  },
+  {
+    "old": "vårt dagliga bröd ge oss i dag.",
+    "new": "Ge oss vårt dagliga bröd i dag."
+  },
+  {
+    "old": "och förlåt oss våra skulder, som också vi förlåta dem oss skyldiga äro.",
+    "new": "Och förlåt oss våra skulder, så som vi förlåter dem som är skyldiga oss."
+  },
+  {
+    "old": "och inled oss inte i frestelse, utan rädda oss från ondo.'",
+    "new": "Och led oss inte in i frestelse, utan rädda oss från det onda.'"
+  },
+  {
+    "old": "För om ni förlåten människorna deras försyndelser, så ska också er himmelske Far förlåta er.",
+    "new": "För om ni förlåter människorna deras synder, så ska också er himmelske Far förlåta er."
+  },
+  {
+    "old": "men om ni inte förlåten människorna, så ska inte heller er Far förlåta era försyndelser.",
+    "new": "Men om ni inte förlåter människorna, så ska inte heller er Far förlåta era synder."
+  },
+  {
+    "old": "När ni fasten, ska ni inte visa en bedrövad uppsyn som skrymtarna, vilka vanställa sina ansikten för att bli sedda av människorna med sin fasta. Jag säger sanningen till er: De har fått ut sin lön.",
+    "new": "När ni fastar, ska ni inte visa en bedrövad uppsyn som skrymtarna, som vanställer sina ansikten för att bli sedda av människorna med sin fasta. Jag säger sanningen till er: De har fått ut sin lön."
+  },
+  {
+    "old": "Nej, när du fastar, smörj då ditt huvud och två ditt ansikte,",
+    "new": "Nej, när du fastar, smörj då ditt huvud och tvätta ditt ansikte,"
+  },
+  {
+    "old": "Samlen er inte skatter på jorden, där mott och mal förstöra och där tjuvar bryta sig in och stjäla,",
+    "new": "Samla inte skatter på jorden, där mott och mal förstör och där tjuvar bryter sig in och stjäl,"
+  },
+  {
+    "old": "utan samlen er skatter i himlen, där mott och mal inte förstöra och där inga tjuvar bryta sig in och stjäla.",
+    "new": "utan samla skatter i himlen, där mott och mal inte förstör och där inga tjuvar bryter sig in och stjäl."
+  },
+  {
+    "old": "Men om ditt öga är fördärvat, då blir hela din kropp höljd i mörker. Är det nu så, att ljuset, som du har i dig, är mörker, hur djupt blir då inte mörkret!",
+    "new": "Men om ditt öga är förstört, då blir hela din kropp täckt i mörker. Är det nu så, att ljuset, som du har i dig, är mörker, hur djupt blir då inte mörkret!"
+  },
+  {
+    "old": "Ingen kan tjäna två herrar. För antingen kommer han då att hata den ene och älska den andre, eller kommer han att hålla sig till den förre och förakta den senare. Ni kan inte tjäna både Gud och Mamon.",
+    "new": "Ingen kan tjäna två herrar. För antingen kommer han då att hata den ena och älska den andra, eller så kommer han att hålla sig till den första och se ner på den andra. Ni kan inte tjäna både Gud och Mamon."
+  },
+  {
+    "old": "Därför säger jag er: Gören er inte bekymmer för ert liv, vad ni ska äta eller dricka, inte heller för er kropp, vad ni ska kläda er med. Är inte livet mer än maten och kroppen mer än kläderna?",
+    "new": "Därför säger jag er: Gör er inte bekymmer för ert liv, vad ni ska äta eller dricka, inte heller för er kropp, vad ni ska kläda er med. Är inte livet mer än maten och kroppen mer än kläderna?"
+  },
+  {
+    "old": "Sen på fåglarna under himmelen: de så inte, inte heller skörda de, inte heller samla de in i lador. Ändå föder er himmelske Far dem. Ären ni inte mycket mer än de?",
+    "new": "Se på fåglarna under himmelen: de sår inte, inte heller skördar de, inte heller samlar de in i lador. Ändå ger er himmelske Far dem mat. Är inte ni mycket mer värda än de?"
+  },
+  {
+    "old": "Vilken av er kan, med allt sitt bekymmer, lägga en enda aln till sin livslängd?",
+    "new": "Vem av er kan, med allt sitt bekymmer, lägga en enda aln till sin livslängd?"
+  },
+  {
+    "old": "Varför bekymrar ni er för kläder? Beskåden liljorna på marken, hur de växa: de arbeta inte, inte heller spinna de.",
+    "new": "Varför bekymrar ni er för kläder? Titta på liljorna på marken, hur de växer: de arbetar inte, inte heller spinner de."
+  },
+  {
+    "old": "Kläder nu Gud så gräset på marken, vilket i dag står och i morgon kastas i ugnen, skulle han då inte mycket mer kläda er, ni klentrogne?",
+    "new": "Klär nu Gud så gräset på marken, som i dag står och i morgon kastas i ugnen, skulle han då inte klä er så mycket mer, ni klentrogna?"
+  },
+  {
+    "old": "Så gör er nu inte bekymmer och säg inte: 'Vad ska vi äta?' eller: 'Vad ska vi dricka?' eller: 'Vad ska vi kläda oss med?'",
+    "new": "Så gör er nu inte bekymmer och säg inte: 'Vad ska vi äta?' eller: 'Vad ska vi dricka?' eller: 'Vad ska vi klä oss med?'"
+  },
+  {
+    "old": "Nej, söken först efter hans rike och hans rättfärdighet, så ska också allt detta andra tillfalla er.",
+    "new": "Nej, sök först efter hans rike och hans rättfärdighet, så ska ni också få allt detta andra."
+  },
+  {
+    "old": "Gören er alltså inte bekymmer för morgondagen, för morgondagen ska själv bära sitt bekymmer. Var dag har nog av sin egen plåga.\"",
+    "new": "Gör er alltså inte bekymmer för nästa dag, för nästa dag ska själv bära sina bekymmer. Var dag har nog av sin egen plåga.\""
+  },
+  {
+    "old": "\"Dömen inte, för att ni inte ska bli dömda.",
+    "new": "\"Döm inte, för att ni inte ska bli dömda."
+  },
+  {
+    "old": "för med den dom varmed ni dömen ska ni bli dömda och med det mått som ni mäten med ska också mätas åt er.",
+    "new": "för med den dom som ni dömer ska ni bli dömda och med det mått som ni mäter upp med ska det också mätas upp åt er."
+  },
+  {
+    "old": "Hur kommer det till, att du ser grandet i din brors öga, men inte blir varse bjälken i ditt eget öga?",
+    "new": "Hur kommer det sig att du ser flisan i din brors öga, men inte upptäcker bjälken i ditt eget öga?"
+  },
+  {
+    "old": "När han fick i helgedomen se hur där satt män som sålde fäkreatur och får och duvor och hur växlare satt där.",
+    "new": "När han fick i helgedomen se hur där satt män som sålde oxar och får och duvor och hur växlare satt där."
+  },
+  {
+    "old": "Då gjorde han sig ett gissel av tåg och drev dem alla ut ur helgedomen, med får och fäkreatur och slog ut växlarnas pengar och stötte omkull deras bord.",
+    "new": "Då gjorde han en piska av rep och drev dem alla ut ur helgedomen, med får och oxar och slog ut växlarnas pengar och stötte omkull deras bord."
+  },
+  {
+    "old": "Till duvomånglarna sa han: \"Ta bort detta härifrån. Gören inte min Faders hus till ett marknadshus.\"",
+    "new": "Till dem som sålde duvor sa han: \"Ta bort detta härifrån. Gör inte min Fars hus till en handelsplats.\""
+  },
+  {
+    "old": "Förundra dig inte över att jag sa dig att ni måsten födas på nytt.",
+    "new": "Förundra dig inte över att jag sa dig att ni måste födas på nytt."
+  },
+  {
+    "old": "Sannerligen, sannerligen säger jag dig: Vad vi veta, det tala vi och vad vi har sett, det vittna vi om, men vårt vittnesbörd tar ni inte emot.",
+    "new": "Sannerligen, sannerligen säger jag dig: Vad vi vet, det talar vi och vad vi har sett, det vittnar vi om, men vårt vittnesbörd tar ni inte emot."
+  },
+  {
+    "old": "så att var och en som tror ska i honom har oändligt liv.",
+    "new": "så att var och en som tror ska ha oändligt liv i honom."
+  },
+  {
+    "old": "För så älskade Gud världen, att han gav sin enfödde Son, för att var och en som tror på honom ska inte förgås, utan har oändligt liv.",
+    "new": "För så älskade Gud världen, att han gav sin enfödde Son, för att var och en som tror på honom ska inte förgås, utan ha oändligt liv."
+  },
+  {
+    "old": "Detta är domen, att när ljuset hade kommit i världen, människorna dock älskade mörkret mer än ljuset, eftersom deras gärningar var onda,",
+    "new": "Detta är domen, att när ljuset hade kommit i världen, älskade ändå människorna mörkret mer än ljuset, eftersom deras gärningar var onda,"
+  },
+  {
+    "old": "Då uppstod mellan Johannes lärjungar och en jude en tvist om reningen.",
+    "new": "Då blev det en diskussion om reningen mellan Johannes lärjungar och en jude."
+  },
+  {
+    "old": "Johannes svarade och sa: \"En människa kan inget taga, om det inte blir henne givet från himlen.\"",
+    "new": "Johannes svarade och sa: \"En människa kan inte ta något, om det inte ges till henne från himlen.\""
+  },
+  {
+    "old": "Ni kan själva ge mig det vittnesbördet att jag sa: 'Inte är jag Messias. Jag är bara sänd framför honom.'",
+    "new": "Ni kan själva ge mig det vittnesbördet att jag sa: 'Jag är inte Messias. Jag är bara sänd framför honom.'"
+  },
+  {
+    "old": "Den som tror på Sonen, han har oändligt liv. Men den som inte lyssnar på Sonen, han ska inte få se livet, utan Guds ilska stannar kvar över honom.\" ovanifrån. Jfr v. 31.",
+    "new": "Den som tror på Sonen, han har oändligt liv. Men den som inte lyssnar på Sonen, han ska inte få se livet, utan Guds ilska stannar kvar över honom.\""
+  },
+  {
+    "old": "Brudgum är den som har bruden. Men brudgummens vän, som står där och hör honom, han gläder sig storligen åt brudgummens röst. Den glädjen är mig nu given i fullt mått.",
+    "new": "Brudgum är den som har bruden. Men brudgummens vän, som står där och hör honom, han är mycket glad för brudgummens röst. Den glädjen har jag nu fått i fullt mått."
+  },
+  {
+    "old": "Det är som sig ska att han växer till och att jag förminskas. --",
+    "new": "Det är som det ska att han växer till och att jag förminskas. --"
+  },
+  {
+    "old": "Men Herren fick nu veta att fariséerna hade hört hurusom Jesus vann flera lärjungar och döpte fler än Johannes.",
+    "new": "Men Herren fick nu veta att fariséerna hade hört att Jesus fick fler lärjungar och döpte fler än Johannes."
+  },
+  {
+    "old": "dock var det inte Jesus själv som döpte, utan hans lärjungar.",
+    "new": "Men var det inte Jesus själv som döpte, utan hans lärjungar."
+  },
+  {
+    "old": "Så måste han ta vägen genom Samarien.",
+    "new": "Då måste han ta vägen genom Samarien."
+  },
+  {
+    "old": "Så kom han till en stad i Samarien som hette Sykar, nära det jordstycke som Jakob gav åt sin son Josef.",
+    "new": "Då kom han till en stad i Samarien som hette Sykar, nära den mark som Jakob gav åt sin son Josef."
+  },
+  {
+    "old": "Jesus svarade och sa till henne: \"Förstode du Guds gåva och vem den är som säger till dig: 'Ge mig att dricka', så skulle i stället du har bett honom och han skulle då har gett dig levande vatten.\"",
+    "new": "Jesus svarade och sa till henne: \"Förstod du Guds gåva och vem den är som säger till dig: 'Ge mig att dricka', så skulle i stället du har bett honom och han skulle då har gett dig levande vatten.\""
+  },
+  {
+    "old": "Inte är du väl förmer än vår far Jakob, som gav oss brunnen och själv med sina barn och sin boskap drack ur den?\"",
+    "new": "Inte är du väl större än vår far Jakob, som gav oss brunnen och själv med sina barn och sin boskap drack ur den?\""
+  },
+  {
+    "old": "Vid Fårporten i Jerusalem ligger en damm, på hebreiska kallad Betesda och invid den finnas fem pelargångar.",
+    "new": "Vid Fårporten i Jerusalem ligger en damm som på hebreiska kallas Betesda och bredvid den finns det fem pelargångar."
+  },
+  {
+    "old": "I dessa lågo många sjuka, blinda, halta, förtvinade.",
+    "new": "I dessa låg många sjuka, blinda, halta, förtvinade."
+  },
+  {
+    "old": "Därför sa judarna till mannen som hade blivit botad: \"Det är sabbat. Det är inte lovligt för dig att bära sängen.\"",
+    "new": "Därför sa judarna till mannen som hade blivit botad: \"Det är sabbat. Det är inte tillåtet för dig att bära sängen.\""
+  },
+  {
+    "old": "Sedan träffade Jesus honom i helgedomen och sa till honom: \"Se, du har blivit frisk. Synda inte härefter, för att inte något värre ska vederfaras dig.\"",
+    "new": "Sedan träffade Jesus honom i templet och sa till honom: \"Se, du har blivit frisk. Synda inte mer, så att inte något värre drabbar dig.\""
+  },
+  {
+    "old": "Mannen gick då bort och omtalade för judarna, att det var Jesus som hade gjort honom frisk.",
+    "new": "Mannen gick då bort och berättade för judarna, att det var Jesus som hade gjort honom frisk."
+  },
+  {
+    "old": "För som Fadern uppväcker döda och gör dem levande, så gör också Sonen levande vilka han vill.",
+    "new": "För som Fadern uppväcker döda och gör dem levande, så gör också Sonen vilka han vill levande."
+  },
+  {
+    "old": "Jag säger sanningen till er: Den stund kommer, jag, den är redan inne, så de döda ska höra Guds Sons röst och de som hör den ska bli levande.",
+    "new": "Jag säger sanningen till er: Den stund kommer, ja,den är redan inne, så de döda ska höra Guds Sons röst och de som hör den ska bli levande."
+  },
+  {
+    "old": "Förundren er inte över detta. För den stund kommer, då alla som är i gravarna ska höra hans röst",
+    "new": "Förundra er inte över detta. För den stund kommer, då alla som är i gravarna ska höra hans röst"
+  },
+  {
+    "old": "och gå ut ur dem: de som har gjort vad gott är ska uppstå till liv och de som har gjort det onda ska uppstå till dom.",
+    "new": "och gå ut ur dem: de som har gjort gott ska uppstå till liv och de som har gjort ont ska uppstå till dom."
+  },
+  {
+    "old": "och gå ut ur dem: de som har gjort vad gott är ska uppstå till liv och de som har gjort det onda ska uppstå till dom.",
+    "new": "och gå ut ur dem: de som har gjort gott ska uppstå till liv och de som har gjort ont ska uppstå till dom."
+  },
+  {
+    "old": "Men jag har ett vittnesbörd om mig, som är förmer än Johannes vittnesbörd: de gärningar som Fadern har gett mig att fullborda, just de gärningar som jag gör, de vittna om mig, att Fadern har sänt mig.",
+    "new": "Men jag har ett vittnesbörd om mig, som är förmer än Johannes vittnesbörd: de gärningar som Fadern har gett mig att fullborda, just de gärningar som jag gör, de vittnar om mig, att Fadern har sänt mig."
+  },
+  {
+    "old": "och hans ord har ni inte låtit stanna kvar i er. För den han har sänt, honom tron ni inte.",
+    "new": "och hans ord har ni inte låtit stanna kvar i er. För den han har sänt, honom tror ni inte."
+  },
+  {
+    "old": "Ni rannsakar skrifterna, för att ni menar er i dem har oändligt liv. Det är dessa som vittnar om mig.",
+    "new": "Ni undersöker skrifterna, för ni menar att ni har oändligt liv i dem. Det är dessa som vittnar om mig."
+  },
+  {
+    "old": "Då sa djävulen till honom: \"Är du Guds Son, så bjud denna sten att bli bröd.\"",
+    "new": "Då sa djävulen till honom: \"Är du Guds Son, så befall denna sten att bli bröd.\""
+  },
+  {
+    "old": "Jesus svarade honom: \"Det står: 'Människan ska leva inte bara av bröd.'\"",
+    "new": "Jesus svarade honom: \"Det står: 'Människan ska inte bara leva av bröd.'\""
+  },
+  {
+    "old": "och sa till honom: \"Åt dig vill jag ge makten över allt detta med dess härlighet. För åt mig har den blivit överlämnad och åt vem jag vill kan jag ge den.",
+    "new": "och sa till honom: \"Åt dig vill jag ge makten över allt detta med dess härlighet. För åt mig har den blivit överlämnad och jag kan ge den åt vem jag vill."
+  },
+  {
+    "old": "Jesus svarade och sa till honom: \"Det står: 'Herren, din Gud, ska du tillbedja och honom allena ska du tjäna.'\"",
+    "new": "Jesus svarade och sa till honom: \"Det står: 'Du ska tillbe Herren, din Gud, och du ska bara tjäna honom.'\""
+  },
+  {
+    "old": "Han sa till dem: \"Följen mig så ska jag göra er till människofiskare.\"",
+    "new": "Han sa till dem: \"Följ mig så ska jag göra er till människofiskare.\""
+  },
+  {
+    "old": "När han hade gått därifrån ett stycke längre fram, fick han se två andra bröder, Jakob, Sebedeus son och Johannes, hans bror, där de och sin far Sebedeus satt i båten och ordnade sina nät. Han kallade dem till sig.",
+    "new": "När han hade gått därifrån ett stycke längre fram, fick han se två andra bröder, Jakob, Sebedeus son och Johannes, hans bror, där de och deras far Sebedeus satt i båten och ordnade sina nät. Han kallade dem till sig."
   }
 ]
