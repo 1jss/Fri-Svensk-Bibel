@@ -2,9 +2,9 @@
 - Preserve exactly as written: personal names, places, theological terms, punctuation, spacing, alignment, and every XML tag/attribute.
 - Do not consult or imitate existing Swedish bible translations; aim for a relaxed, conversational tone that is still respectful.
 - Always swap out older or semi-archaic words/phrases. Sample pairs:
-  - `de kunna` → `de kan`; `vi vilja` → `vi vill`; `sade` → `sa`; `fören ut` → `för ut`; `trakt` → `område`; `förkunna` → `ropa ut`; `han berömme` → `han ska berömma`
+  - `de kunna` → `de kan`; `vi vilja` → `vi vill`; `sade` → `sa`; `fören ut` → `för ut`; `trakt` → `område`; `han berömme` → `han ska berömma`
   - `oförrätt` → `orätt`; `otukt` → `otrohet`; `tiga` → `vara tyst`; `saktmodig` → `mild`; `betungade` → `tyngda`
-  - `Ve dig` → `Ve över dig`; `kraftgärningar` → `underverk`; `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig`
+  - `kraftgärningar` → `underverk`; `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig`
   - Replace dated syntax like `Varför var det ni gick ut i öknen?` with `Varför gick ni ut i öknen?`
 - Keep dialogue markers, quotation marks, and XML attributes untouched; only alter the text content inside tags.
 - When smoothing sentences, keep the original meaning intact. Example: transformed `"Människosonen kom och han både äter och dricker"` into `"Människosonen kom, han äter och dricker"` for flow; updated `"han varken äter eller dricker och så säger man"` to `"han äter inte och dricker inte, och folk säger"` to sound current while preserving intent.
