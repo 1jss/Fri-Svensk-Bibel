@@ -1,14 +1,102 @@
 [
   {
-    "old": "Då han",
-    "new": "När han"
+    "old": "ni gören?",
+    "new": "ni gör?"
   },
   {
-    "old": "De behöva inte",
-    "new": "De behöver inte"
+    "old": " vilja stå upp ",
+    "new": " ska stå upp "
   },
   {
-    "old": "hade farit över",
-    "new": "hade åkt över"
+    "old": " bespottade ",
+    "new": " hånade "
+  },
+  {
+    "old": " de ligga ",
+    "new": " de ligger "
+  },
+  {
+    "old": " att rämna",
+    "new": " att rasa"
+  },
+  {
+    "old": " vi äro.",
+    "new": " vi är."
+  },
+  {
+    "old": " utplundrade ",
+    "new": " plundrade "
+  },
+  {
+    "old": " de föras ",
+    "new": " de förs "
+  },
+  {
+    "old": "Överskyl inte ",
+    "new": "Täck inte över "
+  },
+  {
+    "old": " vreda.",
+    "new": " arga."
+  },
+  {
+    "old": " de få vet ",
+    "new": " de får veta "
+  },
+  {
+    "old": " igentäppas",
+    "new": " täppas igen"
+  },
+  {
+    "old": " under det att ",
+    "new": " medan "
+  },
+  {
+    "old": " stod väpnad ",
+    "new": " stod vakt "
+  },
+  {
+    "old": " någon rämna ",
+    "new": " någon skada "
+  },
+  {
+    "old": "Spisoffer ",
+    "new": "Matoffer "
+  },
+  {
+    "old": "Kläden er ",
+    "new": "Klä er "
+  },
+  {
+    "old": " och sitten ",
+    "new": " och sitt "
+  },
+  {
+    "old": " åtos upp ",
+    "new": " åts upp "
+  },
+  {
+    "old": " klagen,",
+    "new": " klaga,"
+  },
+  {
+    "old": " bedja,",
+    "new": " be,"
+  },
+  {
+    "old": " skökor ",
+    "new": " prostituerade "
+  },
+  {
+    "old": "Följen mig ",
+    "new": "Följ mig "
+  },
+  {
+    "old": " drar dig till minnes ",
+    "new": " kommer ihåg "
+  },
+  {
+    "old": " i sinom tid ",
+    "new": " så småningom "
   }
 ]
