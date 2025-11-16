@@ -1,11 +1,20 @@
-- Task: Modernize the supplied excerpt from temp_context.xml. Work directly in that file, replacing archaic or formal Swedish expressions with simple everyday equivalents. If needed, adjust sentence structure so it reads naturally in contemporary Swedish.
+- Task: Modernize the supplied excerpt from temp_context.xml. Work directly in that file, replacing archaic or formal Swedish expressions with simple everyday equivalents. Restructure sentences freely — changing word order, breaking up complex clauses, or simplifying syntax—so the text reads naturally in contemporary Swedish.
 - Preserve exactly as written: personal names, places, theological terms, punctuation, spacing, alignment, and every XML tag/attribute.
-- Do not consult or imitate existing Swedish bible translations; aim for a relaxed, conversational tone that is still respectful.
-- Always swap out older or semi-archaic words/phrases. Sample pairs:
-  - `de kunna` → `de kan`; `vi vilja` → `vi vill`; `sade` → `sa`; `fören ut` → `för ut`; `trakt` → `område`; `han berömme` → `han ska berömma`
-  - `oförrätt` → `orätt`; `otukt` → `otrohet`; `tiga` → `vara tyst`; `saktmodig` → `mild`; `betungade` → `tyngda`
-  - `kraftgärningar` → `underverk`; `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig`
-  - Replace dated syntax like `Varför var det ni gick ut i öknen?` with `Varför gick ni ut i öknen?`
+- DO NOT consult or imitate existing Swedish bible translations; aim for a relaxed, conversational, every day tone that is still respectful.
+- Always swap out older or semi-archaic words/phrases with informal or modern equivalents. Sample pairs:
+  - Verbs (simplify to everyday/conversational forms): `de kunna` → `de kan` (conjugation); `vi vilja` → `vi vill` (conjugation); `viljen` → `ska` (auxiliary modernization); `kvad` → `sa` (archaic past → everyday); `sägen` → `säger` (plural archaic → modern); `skåda` → `se` (archaic → everyday); `stiga` → `gå` (formal → casual); `tala` → `prata` (formal → conversational); `äro` → `är` (archaic form → modern); `giver` → `ger` (archaic form → modern); `bedja` → `be` (archaic verb → modern)
+  - Nouns & adjectives (replace archaic/formal with everyday terms): `denne` → `den här` (archaic pronoun → casual); `boning` → `hem` (formal → everyday); `åkermannen` → `bonden` (formal → everyday); `fattige` → `fattiga` (archaic spelling → modern); `förnämsta` → `bästa` (formal → direct); `moderlivet` → `magen` (archaic noun → modern); `frälst` → `räddad` (archaic adjective → modern)
+  - Adverbs & connectives (informal flow): `för det att` → `eftersom` (archaic → modern conjunction); `fastmer` → `snarare` (formal → everyday); `göra känt` → `visa` (indirect → direct); `så låt inte` → `låt inte` (remove filler)
+  - Archaic nouns & concepts (concrete modernization): `meddelar` → `berättar` (formal → conversational); `utväljer` → `väljer` (archaic form → everyday); `undfinge` → `fick` (archaic past → modern); `rådslut` → `beslut` (formal council term → everyday); `sold` → `lön` (archaic → modern)
+  - Avoid replacing if already modern: `besatt` (already clear); `förvånade` (already clear)
+  - Complex phrases (restructure for natural flow): `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig` (clarify meaning while modernizing); `Vad saknas mig ännu?` → `Vad saknar jag mer?` (restructure for natural flow);
+- Freely restructure sentences for clarity and natural flow. Replace dated syntax and word order:
+  - Remove redundant constructions: `Varför var det ni gick ut i öknen?` → `Varför gick ni ut i öknen?` (eliminate archaic "var det" inversion)
+  - Simplify verb phrases: `Gören er inte bekymmer` → `Bekymra er inte` (direct modern imperative); `Sen på fåglarna` → `Se på fåglarna` (verb correction); `Beskåden liljorna` → `Se på liljorna` (verb modernization)
+  - Reorder clauses for flow: `de så inte, inte heller skörda de, inte heller samla de in i lador` → `de sår inte, skördar inte, samlar inte in i lador` (parallel structure, verb updates)
+  - Simplify nested structures: `Vilken av er kan, med allt sitt bekymmer, lägga en enda aln till sin livslängd?` → `Vem av er kan genom att oroa sig lägga till en enda dag till sitt liv?` (pronoun update, clause restructuring, concept simplification)
+  - Adjust prepositions & articles for naturalness: `en gåva, så låt inte` → `en gåva, låt inte` (remove `så`); `föder er himmelske Far dem` → `ger er Far i himlen dem mat` (word order, conceptual clarity)
+  - Modernize time references: `morgondagen` → `imorgon` (contemporary form); `Var dag` → `Varje dag` (modern quantifier)
 - Keep dialogue markers, quotation marks, and XML attributes untouched; only alter the text content inside tags.
-- When smoothing sentences, keep the original meaning intact. Example: transformed `"Människosonen kom och han både äter och dricker"` into `"Människosonen kom, han äter och dricker"` for flow; updated `"han varken äter eller dricker och så säger man"` to `"han äter inte och dricker inte, och folk säger"` to sound current while preserving intent.
+- When restructuring sentences, keep the original meaning intact. Example: transformed `"Människosonen kom och han både äter och dricker"` into `"Människosonen kom, han äter och dricker"` for flow; updated `"han varken äter eller dricker och så säger man"` to `"han äter inte och dricker inte, och folk säger"` to sound current while preserving intent.
 - Output requirement: Only apply the changes inline in the temp_context.xml file. Do not add any explanations. No other report or summary is needed.

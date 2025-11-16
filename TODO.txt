@@ -1,10 +1,8 @@
-[a-z]+[a-z]+en ni 
 fader
 viljen -> ska
 beskärma
 fastmer -> snarare
 Undfinge -> fick
-ni [a-z]+[a-z]+en 
 underlåten -> försummar
 älsken
 begära
@@ -56,3 +54,67 @@ kvad -> sa
 fattige -> fattiga
 skåden på -> se på
 Månne
+
+Oavlåtligen
+Åtanke
+Erinras
+Oskymtade
+Tuktighetens
+Blygs
+Giver
+Rådslut
+Betrott
+Vederkvickelse
+Insnärjas
+Sold
+Deltager
+Åkermannen
+Stadgad
+Ogärningsman
+Ståndaktigt
+Äro
+Befatta
+Gagna
+Insegel
+Hedersamt
+Gagneligt
+Tvistefrågor 
+
+
+
+<VERS vnumber="1">"Ta er till vara för att öva er rättfärdighet inför människorna, för att bli sedda av dem. Annars har ni ingen lön hos er Far, som är i himlen.</VERS>
+<VERS vnumber="1">"Akta er för att visa er rättfärdighet inför människor för att de ska se er. Annars får ni ingen lön av er Far i himlen.</VERS>
+
+
+ 
+<VERS vnumber="2">Därför, när du ger en gåva, så låt inte stöta i basun för dig, som skrymtarna göra i synagogorna och på gatorna, för att de ska bli prisade av människorna. Jag säger sanningen till er: De har fått ut sin lön.</VERS>
+<VERS vnumber="2">När du ger en gåva, låt inte blåsa i trumpet för dig, som hycklarna gör i synagogorna och på gatorna för att människor ska prisa dem. Jag säger er sanningen: De har redan fått sin lön.</VERS>
+
+
+
+ <VERS vnumber="25">Därför säger jag er: Gören er inte bekymmer för ert liv, vad ni ska äta eller dricka, inte heller för er kropp, vad ni ska kläda er med. Är inte livet mer än maten och kroppen mer än kläderna?</VERS>
+   <VERS vnumber="25">Därför säger jag er: Bekymra er inte för ert liv, vad ni ska äta eller dricka, inte heller för er kropp, vad ni ska ha på er. Är inte livet viktigare än maten och kroppen viktigare än kläderna?</VERS>
+
+   <VERS vnumber="26">Sen på fåglarna under himmelen: de så inte, inte heller skörda de, inte heller samla de in i lador. Ändå föder er himmelske Far dem. Ären ni inte mycket mer än de?</VERS>
+   <VERS vnumber="26">Se på fåglarna på himmelen: de sår inte, skördar inte, samlar inte in i lador. Ändå ger er Far i himlen dem mat. Är ni inte mycket viktigare än de?</VERS>
+ 
+   <VERS vnumber="27">Vilken av er kan, med allt sitt bekymmer, lägga en enda aln till sin livslängd?</VERS>
+   <VERS vnumber="27">Vem av er kan genom att oroa sig lägga till en enda dag till sitt liv?</VERS>
+ 
+   <VERS vnumber="28">Varför bekymrar ni er för kläder? Beskåden liljorna på marken, hur de växa: de arbeta inte, inte heller spinna de.</VERS>
+   <VERS vnumber="28">Varför oroar ni er för kläder? Se på liljorna på marken, hur de växer: de arbetar inte, spinner inte.</VERS>
+ 
+   <VERS vnumber="30">Kläder nu Gud så gräset på marken, vilket i dag står och i morgon kastas i ugnen, skulle han då inte mycket mer kläda er, ni klentrogne?</VERS>
+   <VERS vnumber="30">Om Gud klär gräset på marken, som i dag står och i morgon kastas i ugnen, skulle han då inte mycket mer klä er, ni som har så lite tro?</VERS>
+ 
+   <VERS vnumber="31">Så gör er nu inte bekymmer och säg inte: 'Vad ska vi äta?' eller: 'Vad ska vi dricka?' eller: 'Vad ska vi kläda oss med?'</VERS>
+   <VERS vnumber="31">Så oroa er inte och säg inte: 'Vad ska vi äta?' eller 'Vad ska vi dricka?' eller 'Vad ska vi ha på oss?'</VERS>
+   
+   <VERS vnumber="34">Gören er alltså inte bekymmer för morgondagen, för morgondagen ska själv bära sitt bekymmer. Var dag har nog av sin egen plåga."</VERS>
+   <VERS vnumber="34">Oroa er alltså inte för imorgon, för imorgon ska själv bära sitt bekymmer. Varje dag har nog av sina egna problem."</VERS>
+   
+   <VERS vnumber="32">Efter allt detta söker ju hedningarna och er himmelske Far vet att ni behöver allt detta.</VERS>
+   <VERS vnumber="32">Hedningarna strävar efter allt detta och er Far i himlen vet att ni behöver det.</VERS>
+   
+   <VERS vnumber="33">Nej, söken först efter hans rike och hans rättfärdighet, så ska också allt detta andra tillfalla er.</VERS>
+   <VERS vnumber="33">Nej, sök först efter hans rike och hans rättfärdighet, så ska ska ni få allt det andra också.</VERS>
