@@ -6,7 +6,7 @@
   - Nouns & adjectives (replace archaic/formal with everyday terms): `denne` → `den här` (archaic pronoun → casual); `boning` → `hem` (formal → everyday); `åkermannen` → `bonden` (formal → everyday); `fattige` → `fattiga` (archaic spelling → modern); `förnämsta` → `bästa` (formal → direct); `moderlivet` → `magen` (archaic noun → modern); `frälst` → `räddad` (archaic adjective → modern)
   - Adverbs & connectives (informal flow): `för det att` → `eftersom` (archaic → modern conjunction); `fastmer` → `snarare` (formal → everyday); `göra känt` → `visa` (indirect → direct); `så låt inte` → `låt inte` (remove filler)
   - Archaic nouns & concepts (concrete modernization): `meddelar` → `berättar` (formal → conversational); `utväljer` → `väljer` (archaic form → everyday); `undfinge` → `fick` (archaic past → modern); `rådslut` → `beslut` (formal council term → everyday); `sold` → `lön` (archaic → modern)
-  - Avoid replacing if already modern: `besatt` (already clear); `förvånade` (already clear)
+  - Avoid replacing if already modern: `besatt` (already clear); `förvånade` (already clear); `oändligt` (already modern)
   - Complex phrases (restructure for natural flow): `förehålla dem att de inte hade gjort bättring` → `förebrå dem för att de inte hade ångrat sig` (clarify meaning while modernizing); `Vad saknas mig ännu?` → `Vad saknar jag mer?` (restructure for natural flow);
 - Freely restructure sentences for clarity and natural flow. Replace dated syntax and word order:
   - Remove redundant constructions: `Varför var det ni gick ut i öknen?` → `Varför gick ni ut i öknen?` (eliminate archaic "var det" inversion)

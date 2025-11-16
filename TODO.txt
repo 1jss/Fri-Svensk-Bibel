@@ -118,3 +118,10 @@ Tvistefrågor
    
    <VERS vnumber="33">Nej, söken först efter hans rike och hans rättfärdighet, så ska också allt detta andra tillfalla er.</VERS>
    <VERS vnumber="33">Nej, sök först efter hans rike och hans rättfärdighet, så ska ska ni få allt det andra också.</VERS>
+
+
+   moderlivet -> magen
+   bedja -> be
+   Vad saknas mig ännu? -> Vad saknar jag mer?
+   frälst -> räddad
+   Då tog X till orda
