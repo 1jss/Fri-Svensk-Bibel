@@ -1,6 +1,10 @@
 [
   {
-    "old": "den tid då",
-    "new": "den tiden då"
+    "old": "ska tagas från",
+    "new": "ska tas från"
+  },
+  {
+    "old": "och givas åt",
+    "new": "och ges åt"
   }
 ]
