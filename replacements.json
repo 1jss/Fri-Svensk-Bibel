@@ -1,10 +1,34 @@
 [
   {
-    "old": "ska tagas från",
-    "new": "ska tas från"
+    "old": "se skattepenningen.",
+    "new": "se skattemyntet."
   },
   {
-    "old": "och givas åt",
-    "new": "och ges åt"
+    "old": "ville påstå att",
+    "new": "ville hävda att"
+  },
+  {
+    "old": "det yppersta budet",
+    "new": "det viktigaste budet"
+  },
+  {
+    "old": "av allt ditt",
+    "new": "av hela ditt"
+  },
+  {
+    "old": "av all din",
+    "new": "av hela din"
+  },
+  {
+    "old": "det yppersta och",
+    "new": "det viktigaste och"
+  },
+  {
+    "old": "genom andeingivelse, kalla",
+    "new": "genom Anden, kalla"
+  },
+  {
+    "old": "honom 'herre'? Han",
+    "new": "honom 'Herre'? Han"
   }
 ]
