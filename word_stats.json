@@ -13,7 +13,7 @@
   },
   {
     "word": "ska",
-    "count": 12975
+    "count": 12981
   },
   {
     "word": "han",
@@ -137,7 +137,7 @@
   },
   {
     "word": "er",
-    "count": 3686
+    "count": 3687
   },
   {
     "word": "hans",
@@ -5084,6 +5084,10 @@
     "count": 46
   },
   {
+    "word": "föröka",
+    "count": 45
+  },
+  {
     "word": "träden",
     "count": 45
   },
@@ -5586,10 +5590,6 @@
   {
     "word": "bättring",
     "count": 41
-  },
-  {
-    "word": "föröka",
-    "count": 40
   },
   {
     "word": "ätit",
@@ -27156,10 +27156,6 @@
     "count": 5
   },
   {
-    "word": "föröke",
-    "count": 5
-  },
-  {
     "word": "varelse",
     "count": 5
   },
@@ -35856,6 +35852,10 @@
     "count": 3
   },
   {
+    "word": "frambringa",
+    "count": 3
+  },
+  {
     "word": "vimmel",
     "count": 3
   },
@@ -43709,10 +43709,6 @@
   },
   {
     "word": "ljusen",
-    "count": 2
-  },
-  {
-    "word": "frambringa",
     "count": 2
   },
   {
@@ -52680,10 +52676,6 @@
     "count": 2
   },
   {
-    "word": "seder",
-    "count": 2
-  },
-  {
     "word": "välgärningar",
     "count": 2
   },
@@ -58217,10 +58209,6 @@
   },
   {
     "word": "vimlar",
-    "count": 1
-  },
-  {
-    "word": "frambringe",
     "count": 1
   },
   {
@@ -91141,6 +91129,10 @@
   },
   {
     "word": "undantagen",
+    "count": 1
+  },
+  {
+    "word": "seder",
     "count": 1
   },
   {

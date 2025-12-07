@@ -1,13 +1,13 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,720
-Total word occurrences: 710,184
+Total unique words: 23,718
+Total word occurrences: 710,190
 Average occurrences per word: 29.94
 
 Single-use words (hapax legomena): 9,170 (38.66% of unique words)
-Words used 2-5 times: 7,762 (32.72% of unique words)
+Words used 2-5 times: 7,760 (32.72% of unique words)
 
-Top 100 words cover: 396,946 occurrences
+Top 100 words cover: 396,953 occurrences
 That's 55.89% of all word occurrences
 
 Words used 100+ times: 658
@@ -23,12 +23,12 @@ Words used 10+ times: 4,669
 70% coverage: 290 most common words
 80% coverage: 796 most common words
 90% coverage: 2,830 most common words
-95% coverage: 6,191 most common words
-99% coverage: 16,619 most common words
+95% coverage: 6,190 most common words
+99% coverage: 16,617 most common words
 
 === Frequency Distribution ===
 1 time: 9,170 words (38.66%)
-2-5 times: 7,762 words (32.72%)
+2-5 times: 7,760 words (32.72%)
 6-10 times: 2,469 words (10.41%)
 11-50 times: 3,161 words (13.33%)
 51-100 times: 508 words (2.14%)
@@ -37,33 +37,33 @@ Words used 10+ times: 4,669
 1000+ times: 107 words (0.45%)
 
 === Word Length Analysis ===
-1-3 letters: 553 words (2.33%), avg frequency: 612.01
-4-6 letters: 8,222 words (34.66%), avg frequency: 33.35
-7-9 letters: 9,351 words (39.42%), avg frequency: 7.94
-10-12 letters: 4,262 words (17.97%), avg frequency: 4.49
+1-3 letters: 553 words (2.33%), avg frequency: 612.02
+4-6 letters: 8,221 words (34.66%), avg frequency: 33.35
+7-9 letters: 9,351 words (39.43%), avg frequency: 7.94
+10-12 letters: 4,261 words (17.97%), avg frequency: 4.49
 13+ letters: 1,332 words (5.62%), avg frequency: 3.11
 
 === Potential Archaic Words (long, rare words) ===
   1. "vattensamlingen" (1 times, 15 letters)
   2. "havsdjuren" (1 times, 10 letters)
-  3. "frambringe" (1 times, 10 letters)
-  4. "söndertrampa" (1 times, 12 letters)
-  5. "tubalkains" (1 times, 10 letters)
-  6. "sjuttiofalt" (1 times, 11 letters)
-  7. "mahalalels" (1 times, 10 letters)
-  8. "undervåning" (1 times, 11 letters)
-  9. "mellanvåning" (1 times, 12 letters)
-  10. "utplånades" (1 times, 10 letters)
-  11. "sexhundraförsta" (1 times, 15 letters)
-  12. "människoblod" (1 times, 12 letters)
-  13. "jordbrukare" (1 times, 11 letters)
-  14. "människobarnen" (1 times, 14 letters)
-  15. "förbistrade" (1 times, 11 letters)
-  16. "boskapsherdar" (1 times, 13 letters)
-  17. "asterotkarnaim" (1 times, 14 letters)
-  18. "savekirjataim" (1 times, 13 letters)
-  19. "jordbecksgropar" (1 times, 15 letters)
-  20. "kenasernas" (1 times, 10 letters)
+  3. "söndertrampa" (1 times, 12 letters)
+  4. "tubalkains" (1 times, 10 letters)
+  5. "sjuttiofalt" (1 times, 11 letters)
+  6. "mahalalels" (1 times, 10 letters)
+  7. "undervåning" (1 times, 11 letters)
+  8. "mellanvåning" (1 times, 12 letters)
+  9. "utplånades" (1 times, 10 letters)
+  10. "sexhundraförsta" (1 times, 15 letters)
+  11. "människoblod" (1 times, 12 letters)
+  12. "jordbrukare" (1 times, 11 letters)
+  13. "människobarnen" (1 times, 14 letters)
+  14. "förbistrade" (1 times, 11 letters)
+  15. "boskapsherdar" (1 times, 13 letters)
+  16. "asterotkarnaim" (1 times, 14 letters)
+  17. "savekirjataim" (1 times, 13 letters)
+  18. "jordbecksgropar" (1 times, 15 letters)
+  19. "kenasernas" (1 times, 10 letters)
+  20. "kadmonernas" (1 times, 11 letters)
 
 === Simplification Suggestions ===
 
@@ -73,40 +73,40 @@ Sample single-use words (potential candidates for replacement):
   3. "utmärka"
   4. "havsdjuren"
   5. "vimlar"
-  6. "frambringe"
-  7. "ört"
-  8. "pison"
-  9. "onyxsten"
-  10. "revbenet"
-  11. "skämdes"
-  12. "listigare"
-  13. "fikonlöv"
-  14. "sval"
-  15. "söndertrampa"
-  16. "fåraherde"
-  17. "förvisad"
-  18. "nod"
-  19. "jabal"
-  20. "jubal"
+  6. "ört"
+  7. "pison"
+  8. "onyxsten"
+  9. "revbenet"
+  10. "skämdes"
+  11. "listigare"
+  12. "fikonlöv"
+  13. "sval"
+  14. "söndertrampa"
+  15. "fåraherde"
+  16. "förvisad"
+  17. "nod"
+  18. "jabal"
+  19. "jubal"
+  20. "hanterar"
 
 Sample rare words (2-5 occurrences):
   1. "svävade" (5 times)
-  2. "föröke" (5 times)
-  3. "varelse" (5 times)
-  4. "gihon" (5 times)
-  5. "hövdes" (5 times)
-  6. "bedrog" (5 times)
-  7. "flammande" (5 times)
-  8. "kenan" (5 times)
-  9. "sextiofem" (5 times)
-  10. "metusela" (5 times)
-  11. "förbannat" (5 times)
-  12. "fagra" (5 times)
-  13. "alltmer" (5 times)
-  14. "fördärvad" (5 times)
-  15. "synliga" (5 times)
-  16. "sommar" (5 times)
-  17. "javans" (5 times)
-  18. "girgaserna" (5 times)
-  19. "adma" (5 times)
-  20. "regu" (5 times)
+  2. "varelse" (5 times)
+  3. "gihon" (5 times)
+  4. "hövdes" (5 times)
+  5. "bedrog" (5 times)
+  6. "flammande" (5 times)
+  7. "kenan" (5 times)
+  8. "sextiofem" (5 times)
+  9. "metusela" (5 times)
+  10. "förbannat" (5 times)
+  11. "fagra" (5 times)
+  12. "alltmer" (5 times)
+  13. "fördärvad" (5 times)
+  14. "synliga" (5 times)
+  15. "sommar" (5 times)
+  16. "javans" (5 times)
+  17. "girgaserna" (5 times)
+  18. "adma" (5 times)
+  19. "regu" (5 times)
+  20. "serug" (5 times)
