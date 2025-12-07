@@ -1,4 +1,4 @@
-- Task: Modernize the supplied excerpt from temp_context.xml. Work directly in that file, replacing archaic or formal Swedish expressions with simple everyday equivalents. Restructure sentences freely — changing word order, breaking up complex clauses, or simplifying syntax—so the text reads naturally in contemporary Swedish.
+- Task: Modernize the supplied excerpt from temp_context.xml (25 rows). Work directly in that file, replacing archaic or formal Swedish expressions with simple everyday equivalents. Restructure sentences freely — changing word order, breaking up complex clauses, or simplifying syntax—so the text reads naturally in contemporary Swedish.
 - Preserve exactly as written: personal names, places, theological terms, punctuation, spacing, alignment, and every XML tag/attribute.
 - DO NOT consult or imitate existing Swedish bible translations; aim for a relaxed, conversational, every day tone that is still respectful.
 - Always swap out older or semi-archaic words/phrases with informal or modern equivalents. Sample pairs:
