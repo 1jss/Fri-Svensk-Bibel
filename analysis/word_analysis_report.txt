@@ -1,35 +1,45 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,720
-Total word occurrences: 710,183
+Total unique words: 23,724
+Total word occurrences: 710,215
 Average occurrences per word: 29.94
 
-New unique words since last run: 7
+New unique words since last run: 13
 Sample new words:
-  1. "förberedelsedag" (4 times)
-  2. "förberedelse" (3 times)
-  3. "förberedelsedagen" (2 times)
-  4. "slösar" (1 times)
-  5. "slösas" (1 times)
-  6. "förbereder" (1 times)
-  7. "förberedde" (1 times)
+  1. "hällt" (23 times)
+  2. "uthälld" (13 times)
+  3. "uthällt" (8 times)
+  4. "häll" (7 times)
+  5. "utlösning" (5 times)
+  6. "hälls" (3 times)
+  7. "huligan" (1 times)
+  8. "vinstocken" (1 times)
+  9. "skingras" (1 times)
+  10. "tuppen" (1 times)
+  11. "galer" (1 times)
+  12. "tyngd" (1 times)
+  13. "hej" (1 times)
 
-Removed unique words since last run: 5
+Removed unique words since last run: 9
 Sample removed words:
-  1. "tillredelsedag" (4 times)
-  2. "tillredelse" (3 times)
-  3. "tillredelsedagen" (2 times)
-  4. "förslösar" (1 times)
-  5. "förslösa" (1 times)
+  1. "utgjutit" (24 times)
+  2. "utgjuter" (17 times)
+  3. "utgjuten" (15 times)
+  4. "utgjutet" (8 times)
+  5. "sädesutgjutning" (5 times)
+  6. "utgjut" (5 times)
+  7. "utgjutas" (2 times)
+  8. "utgjutes" (2 times)
+  9. "utgjuta" (1 times)
 
-Single-use words (hapax legomena): 9,170 (38.66% of unique words)
-Words used 2-5 times: 7,762 (32.72% of unique words)
+Single-use words (hapax legomena): 9,178 (38.69% of unique words)
+Words used 2-5 times: 7,758 (32.70% of unique words)
 
-Top 100 words cover: 396,948 occurrences
-That's 55.89% of all word occurrences
+Top 100 words cover: 396,990 occurrences
+That's 55.90% of all word occurrences
 
-Words used 100+ times: 658
-Words used 10+ times: 4,668
+Words used 100+ times: 659
+Words used 10+ times: 4,669
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -40,26 +50,26 @@ Words used 10+ times: 4,668
 60% coverage: 132 most common words
 70% coverage: 290 most common words
 80% coverage: 796 most common words
-90% coverage: 2,830 most common words
+90% coverage: 2,829 most common words
 95% coverage: 6,191 most common words
-99% coverage: 16,619 most common words
+99% coverage: 16,622 most common words
 
 === Frequency Distribution ===
-1 time: 9,170 words (38.66%)
-2-5 times: 7,762 words (32.72%)
-6-10 times: 2,470 words (10.41%)
-11-50 times: 3,160 words (13.32%)
-51-100 times: 508 words (2.14%)
+1 time: 9,178 words (38.69%)
+2-5 times: 7,758 words (32.70%)
+6-10 times: 2,472 words (10.42%)
+11-50 times: 3,157 words (13.31%)
+51-100 times: 509 words (2.15%)
 101-500 times: 472 words (1.99%)
 501-1000 times: 71 words (0.30%)
 1000+ times: 107 words (0.45%)
 
 === Word Length Analysis ===
-1-3 letters: 553 words (2.33%), avg frequency: 612.02
-4-6 letters: 8,223 words (34.67%), avg frequency: 33.35
-7-9 letters: 9,349 words (39.41%), avg frequency: 7.94
-10-12 letters: 4,263 words (17.97%), avg frequency: 4.49
-13+ letters: 1,332 words (5.62%), avg frequency: 3.11
+1-3 letters: 554 words (2.34%), avg frequency: 611.00
+4-6 letters: 8,228 words (34.68%), avg frequency: 33.33
+7-9 letters: 9,347 words (39.40%), avg frequency: 7.94
+10-12 letters: 4,264 words (17.97%), avg frequency: 4.48
+13+ letters: 1,331 words (5.61%), avg frequency: 3.11
 
 === Potential Archaic Words (long, rare words) ===
   1. "vattensamlingen" (1 times, 15 letters)
