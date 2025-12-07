@@ -1,22 +1,26 @@
 [
   {
-    "old": "punden vann på",
-    "new": "punden tjänade på"
+    "old": "ni klädden mig.",
+    "new": "ni klädde mig."
   },
   {
-    "old": "sätt andra två",
-    "new": "sätt ytterligare två"
+    "old": "ni besökten mig.",
+    "new": "ni besökte mig."
   },
   {
-    "old": "fram andra fem",
-    "new": "fram ytterligare fem"
+    "old": "som stå på",
+    "new": "som står på"
   },
   {
-    "old": "Se, andra fem",
-    "new": "Se, ytterligare fem"
+    "old": "den oändliga elden,",
+    "new": "den eviga elden,"
   },
   {
-    "old": "Se, andra två",
-    "new": "Se, ytterligare två"
+    "old": "är tillredd åt",
+    "new": "är förberedd åt"
+  },
+  {
+    "old": "ni gåven mig",
+    "new": "ni gav mig"
   }
 ]
