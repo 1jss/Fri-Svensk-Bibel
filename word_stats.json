@@ -317,7 +317,7 @@
   },
   {
     "word": "blev",
-    "count": 1360
+    "count": 1359
   },
   {
     "word": "göra",
@@ -4912,6 +4912,10 @@
     "count": 47
   },
   {
+    "word": "band",
+    "count": 47
+  },
+  {
     "word": "rörde",
     "count": 47
   },
@@ -5409,10 +5413,6 @@
   },
   {
     "word": "bakom",
-    "count": 42
-  },
-  {
-    "word": "band",
     "count": 42
   },
   {
@@ -18684,6 +18684,10 @@
     "count": 9
   },
   {
+    "word": "insåg",
+    "count": 9
+  },
+  {
     "word": "mörk",
     "count": 9
   },
@@ -21257,10 +21261,6 @@
   },
   {
     "word": "lösningen",
-    "count": 8
-  },
-  {
-    "word": "insåg",
     "count": 8
   },
   {
@@ -27172,14 +27172,6 @@
     "count": 5
   },
   {
-    "word": "varse",
-    "count": 5
-  },
-  {
-    "word": "bundo",
-    "count": 5
-  },
-  {
     "word": "bedrog",
     "count": 5
   },
@@ -31041,6 +31033,10 @@
   },
   {
     "word": "lägel",
+    "count": 4
+  },
+  {
+    "word": "varse",
     "count": 4
   },
   {
