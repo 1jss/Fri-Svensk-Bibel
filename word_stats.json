@@ -13,7 +13,7 @@
   },
   {
     "word": "ska",
-    "count": 12973
+    "count": 12975
   },
   {
     "word": "han",
@@ -201,7 +201,7 @@
   },
   {
     "word": "också",
-    "count": 2243
+    "count": 2242
   },
   {
     "word": "detta",
@@ -10948,6 +10948,10 @@
     "count": 18
   },
   {
+    "word": "flyga",
+    "count": 18
+  },
+  {
     "word": "gröna",
     "count": 18
   },
@@ -11533,10 +11537,6 @@
   },
   {
     "word": "blåsa",
-    "count": 17
-  },
-  {
-    "word": "flyga",
     "count": 17
   },
   {
@@ -43712,7 +43712,7 @@
     "count": 2
   },
   {
-    "word": "frambringe",
+    "word": "frambringa",
     "count": 2
   },
   {
@@ -58212,15 +58212,15 @@
     "count": 1
   },
   {
-    "word": "flyge",
-    "count": 1
-  },
-  {
     "word": "havsdjuren",
     "count": 1
   },
   {
     "word": "vimlar",
+    "count": 1
+  },
+  {
+    "word": "frambringe",
     "count": 1
   },
   {
@@ -59581,10 +59581,6 @@
   },
   {
     "word": "stenkärl",
-    "count": 1
-  },
-  {
-    "word": "frambringa",
     "count": 1
   },
   {
