@@ -1,7 +1,7 @@
 [
   {
     "word": "och",
-    "count": 32531
+    "count": 32527
   },
   {
     "word": "som",
@@ -33,7 +33,7 @@
   },
   {
     "word": "det",
-    "count": 9515
+    "count": 9514
   },
   {
     "word": "jag",
@@ -57,11 +57,11 @@
   },
   {
     "word": "en",
-    "count": 7513
+    "count": 7514
   },
   {
     "word": "den",
-    "count": 7302
+    "count": 7303
   },
   {
     "word": "så",
@@ -69,7 +69,7 @@
   },
   {
     "word": "med",
-    "count": 6605
+    "count": 6609
   },
   {
     "word": "du",
@@ -161,7 +161,7 @@
   },
   {
     "word": "ett",
-    "count": 2748
+    "count": 2747
   },
   {
     "word": "åt",
@@ -504,10 +504,6 @@
     "count": 836
   },
   {
-    "word": "dag",
-    "count": 817
-  },
-  {
     "word": "än",
     "count": 810
   },
@@ -576,8 +572,16 @@
     "count": 732
   },
   {
+    "word": "dag",
+    "count": 730
+  },
+  {
     "word": "gav",
     "count": 729
+  },
+  {
+    "word": "dagen",
+    "count": 717
   },
   {
     "word": "namn",
@@ -630,10 +634,6 @@
   {
     "word": "far",
     "count": 636
-  },
-  {
-    "word": "dagen",
-    "count": 630
   },
   {
     "word": "ögon",
@@ -745,7 +745,7 @@
   },
   {
     "word": "mycket",
-    "count": 470
+    "count": 471
   },
   {
     "word": "ända",
@@ -5536,10 +5536,6 @@
     "count": 41
   },
   {
-    "word": "vinträd",
-    "count": 41
-  },
-  {
     "word": "kommande",
     "count": 41
   },
@@ -5673,6 +5669,10 @@
   },
   {
     "word": "lärt",
+    "count": 40
+  },
+  {
+    "word": "vinträd",
     "count": 40
   },
   {
@@ -7776,6 +7776,10 @@
     "count": 27
   },
   {
+    "word": "vilar",
+    "count": 27
+  },
+  {
     "word": "blind",
     "count": 27
   },
@@ -8101,10 +8105,6 @@
   },
   {
     "word": "talrika",
-    "count": 26
-  },
-  {
-    "word": "vilar",
     "count": 26
   },
   {
@@ -12560,10 +12560,6 @@
     "count": 16
   },
   {
-    "word": "djupt",
-    "count": 16
-  },
-  {
     "word": "försmäktar",
     "count": 16
   },
@@ -13349,6 +13345,10 @@
   },
   {
     "word": "idel",
+    "count": 15
+  },
+  {
+    "word": "djupt",
     "count": 15
   },
   {
@@ -14316,6 +14316,10 @@
     "count": 13
   },
   {
+    "word": "vinstocken",
+    "count": 13
+  },
+  {
     "word": "korgen",
     "count": 13
   },
@@ -15237,10 +15241,6 @@
   },
   {
     "word": "ynnest",
-    "count": 12
-  },
-  {
-    "word": "vinträdet",
     "count": 12
   },
   {
@@ -18596,6 +18596,10 @@
     "count": 10
   },
   {
+    "word": "utsända",
+    "count": 10
+  },
+  {
     "word": "lösaktighet",
     "count": 10
   },
@@ -20137,10 +20141,6 @@
   },
   {
     "word": "söderlandet",
-    "count": 9
-  },
-  {
-    "word": "utsända",
     "count": 9
   },
   {
@@ -21873,10 +21873,6 @@
   },
   {
     "word": "övergivna",
-    "count": 8
-  },
-  {
-    "word": "utsänd",
     "count": 8
   },
   {
@@ -23985,6 +23981,10 @@
   },
   {
     "word": "vargar",
+    "count": 7
+  },
+  {
+    "word": "utsänd",
     "count": 7
   },
   {
@@ -34820,6 +34820,10 @@
     "count": 4
   },
   {
+    "word": "vinstockens",
+    "count": 4
+  },
+  {
     "word": "sjukt",
     "count": 4
   },
@@ -36017,10 +36021,6 @@
   },
   {
     "word": "tältets",
-    "count": 3
-  },
-  {
-    "word": "vilen",
     "count": 3
   },
   {
@@ -42372,10 +42372,6 @@
     "count": 3
   },
   {
-    "word": "vinstockens",
-    "count": 3
-  },
-  {
     "word": "kummel",
     "count": 3
   },
@@ -44109,6 +44105,10 @@
   },
   {
     "word": "hemfödde",
+    "count": 2
+  },
+  {
+    "word": "vilen",
     "count": 2
   },
   {
@@ -59149,6 +59149,10 @@
   },
   {
     "word": "förskaffade",
+    "count": 1
+  },
+  {
+    "word": "vinstock",
     "count": 1
   },
   {
@@ -77456,10 +77460,6 @@
     "count": 1
   },
   {
-    "word": "vinträdets",
-    "count": 1
-  },
-  {
     "word": "äpplens",
     "count": 1
   },
@@ -86585,10 +86585,6 @@
   },
   {
     "word": "förberedde",
-    "count": 1
-  },
-  {
-    "word": "vinstocken",
     "count": 1
   },
   {
