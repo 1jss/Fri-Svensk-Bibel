@@ -1,50 +1,34 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,744
-Total word occurrences: 709,267
-Average occurrences per word: 29.87
+Total unique words: 23,735
+Total word occurrences: 709,411
+Average occurrences per word: 29.89
 
-New unique words since last run: 13
+New unique words since last run: 1
 Sample new words:
-  1. "planerar" (2 times)
-  2. "aha" (2 times)
-  3. "middagssolens" (1 times)
-  4. "gillar" (1 times)
-  5. "utkik" (1 times)
-  6. "döms" (1 times)
-  7. "krökt" (1 times)
-  8. "inflammation" (1 times)
-  9. "kraftlös" (1 times)
-  10. "hett" (1 times)
-  11. "kortlivad" (1 times)
-  12. "dumme" (1 times)
-  13. "uppfriskad" (1 times)
+  1. "lockades" (1 times)
 
-Removed unique words since last run: 14
+Removed unique words since last run: 10
 Sample removed words:
-  1. "redbarhet" (1 times)
-  2. "avhåll" (1 times)
-  3. "hugnas" (1 times)
-  4. "sönderbrytas" (1 times)
-  5. "ängarnas" (1 times)
-  6. "trotsade" (1 times)
-  7. "dårskaps" (1 times)
-  8. "krokig" (1 times)
-  9. "sönderslagen" (1 times)
-  10. "jämmers" (1 times)
-  11. "drömbild" (1 times)
-  12. "förbidar" (1 times)
-  13. "hägn" (1 times)
-  14. "vederkvickas" (1 times)
+  1. "givas" (36 times)
+  2. "knorrade" (14 times)
+  3. "tillfalla" (14 times)
+  4. "uppbygga" (13 times)
+  5. "bedja" (8 times)
+  6. "skåden" (5 times)
+  7. "meddelar" (2 times)
+  8. "uppbådades" (1 times)
+  9. "rädens" (1 times)
+  10. "betungade" (1 times)
 
-Single-use words (hapax legomena): 9,201 (38.75% of unique words)
-Words used 2-5 times: 7,757 (32.67% of unique words)
+Single-use words (hapax legomena): 9,199 (38.76% of unique words)
+Words used 2-5 times: 7,757 (32.68% of unique words)
 
-Top 100 words cover: 396,287 occurrences
-That's 55.87% of all word occurrences
+Top 100 words cover: 396,402 occurrences
+That's 55.88% of all word occurrences
 
 Words used 100+ times: 654
-Words used 10+ times: 4,653
+Words used 10+ times: 4,646
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -53,27 +37,27 @@ Words used 10+ times: 4,653
 40% coverage: 37 most common words
 50% coverage: 68 most common words
 60% coverage: 132 most common words
-70% coverage: 291 most common words
-80% coverage: 797 most common words
-90% coverage: 2,832 most common words
-95% coverage: 6,196 most common words
-99% coverage: 16,652 most common words
+70% coverage: 290 most common words
+80% coverage: 794 most common words
+90% coverage: 2,826 most common words
+95% coverage: 6,188 most common words
+99% coverage: 16,641 most common words
 
 === Frequency Distribution ===
-1 time: 9,201 words (38.75%)
-2-5 times: 7,757 words (32.67%)
-6-10 times: 2,479 words (10.44%)
-11-50 times: 3,146 words (13.25%)
-51-100 times: 513 words (2.16%)
+1 time: 9,199 words (38.76%)
+2-5 times: 7,757 words (32.68%)
+6-10 times: 2,478 words (10.44%)
+11-50 times: 3,142 words (13.24%)
+51-100 times: 511 words (2.15%)
 101-500 times: 471 words (1.98%)
 501-1000 times: 70 words (0.29%)
 1000+ times: 107 words (0.45%)
 
 === Word Length Analysis ===
-1-3 letters: 557 words (2.35%), avg frequency: 606.60
-4-6 letters: 8,255 words (34.77%), avg frequency: 33.22
-7-9 letters: 9,341 words (39.34%), avg frequency: 7.93
-10-12 letters: 4,262 words (17.95%), avg frequency: 4.46
+1-3 letters: 557 words (2.35%), avg frequency: 607.12
+4-6 letters: 8,251 words (34.76%), avg frequency: 33.21
+7-9 letters: 9,337 words (39.34%), avg frequency: 7.94
+10-12 letters: 4,261 words (17.95%), avg frequency: 4.46
 13+ letters: 1,329 words (5.60%), avg frequency: 3.10
 
 === Potential Archaic Words (long, rare words) ===
