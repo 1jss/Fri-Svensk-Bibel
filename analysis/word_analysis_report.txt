@@ -1,63 +1,50 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,745
-Total word occurrences: 709,269
+Total unique words: 23,744
+Total word occurrences: 709,267
 Average occurrences per word: 29.87
 
-New unique words since last run: 28
+New unique words since last run: 13
 Sample new words:
-  1. "tvättade" (17 times)
-  2. "spär" (2 times)
-  3. "himlavalvet" (1 times)
-  4. "allvarlig" (1 times)
-  5. "besvikna" (1 times)
-  6. "uttorkad" (1 times)
-  7. "vörda" (1 times)
-  8. "framtida" (1 times)
-  9. "lyckligt" (1 times)
-  10. "snubblar" (1 times)
-  11. "jubeloffer" (1 times)
-  12. "orädd" (1 times)
-  13. "jubeln" (1 times)
-  14. "förtalad" (1 times)
-  15. "sammansvärjningar" (1 times)
-  16. "modiga" (1 times)
-  17. "orädda" (1 times)
-  18. "hittas" (1 times)
-  19. "låtsades" (1 times)
-  20. "freden" (1 times)
+  1. "planerar" (2 times)
+  2. "aha" (2 times)
+  3. "middagssolens" (1 times)
+  4. "gillar" (1 times)
+  5. "utkik" (1 times)
+  6. "döms" (1 times)
+  7. "krökt" (1 times)
+  8. "inflammation" (1 times)
+  9. "kraftlös" (1 times)
+  10. "hett" (1 times)
+  11. "kortlivad" (1 times)
+  12. "dumme" (1 times)
+  13. "uppfriskad" (1 times)
 
-Removed unique words since last run: 32
+Removed unique words since last run: 14
 Sample removed words:
-  1. "tvådde" (16 times)
-  2. "söndertrampa" (1 times)
-  3. "enfaldige" (1 times)
-  4. "bönhöre" (1 times)
-  5. "beskydde" (1 times)
-  6. "tänke" (1 times)
-  7. "upptage" (1 times)
-  8. "fullborde" (1 times)
-  9. "svare" (1 times)
-  10. "anleten" (1 times)
-  11. "hulpna" (1 times)
-  12. "befrie" (1 times)
-  13. "rädde" (1 times)
-  14. "släktled" (1 times)
-  15. "jublets" (1 times)
-  16. "förehåller" (1 times)
-  17. "fördölj" (1 times)
-  18. "förskjut" (1 times)
-  19. "ljungeldslågor" (1 times)
-  20. "fröjdesprång" (1 times)
+  1. "redbarhet" (1 times)
+  2. "avhåll" (1 times)
+  3. "hugnas" (1 times)
+  4. "sönderbrytas" (1 times)
+  5. "ängarnas" (1 times)
+  6. "trotsade" (1 times)
+  7. "dårskaps" (1 times)
+  8. "krokig" (1 times)
+  9. "sönderslagen" (1 times)
+  10. "jämmers" (1 times)
+  11. "drömbild" (1 times)
+  12. "förbidar" (1 times)
+  13. "hägn" (1 times)
+  14. "vederkvickas" (1 times)
 
-Single-use words (hapax legomena): 9,205 (38.77% of unique words)
-Words used 2-5 times: 7,754 (32.66% of unique words)
+Single-use words (hapax legomena): 9,201 (38.75% of unique words)
+Words used 2-5 times: 7,757 (32.67% of unique words)
 
-Top 100 words cover: 396,293 occurrences
+Top 100 words cover: 396,287 occurrences
 That's 55.87% of all word occurrences
 
-Words used 100+ times: 655
-Words used 10+ times: 4,656
+Words used 100+ times: 654
+Words used 10+ times: 4,653
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -68,26 +55,26 @@ Words used 10+ times: 4,656
 60% coverage: 132 most common words
 70% coverage: 291 most common words
 80% coverage: 797 most common words
-90% coverage: 2,833 most common words
-95% coverage: 6,197 most common words
-99% coverage: 16,653 most common words
+90% coverage: 2,832 most common words
+95% coverage: 6,196 most common words
+99% coverage: 16,652 most common words
 
 === Frequency Distribution ===
-1 time: 9,205 words (38.77%)
-2-5 times: 7,754 words (32.66%)
-6-10 times: 2,477 words (10.43%)
-11-50 times: 3,148 words (13.26%)
-51-100 times: 514 words (2.16%)
-101-500 times: 470 words (1.98%)
+1 time: 9,201 words (38.75%)
+2-5 times: 7,757 words (32.67%)
+6-10 times: 2,479 words (10.44%)
+11-50 times: 3,146 words (13.25%)
+51-100 times: 513 words (2.16%)
+101-500 times: 471 words (1.98%)
 501-1000 times: 70 words (0.29%)
 1000+ times: 107 words (0.45%)
 
 === Word Length Analysis ===
-1-3 letters: 556 words (2.34%), avg frequency: 607.71
-4-6 letters: 8,253 words (34.76%), avg frequency: 33.22
-7-9 letters: 9,345 words (39.36%), avg frequency: 7.93
-10-12 letters: 4,263 words (17.95%), avg frequency: 4.46
-13+ letters: 1,328 words (5.59%), avg frequency: 3.11
+1-3 letters: 557 words (2.35%), avg frequency: 606.60
+4-6 letters: 8,255 words (34.77%), avg frequency: 33.22
+7-9 letters: 9,341 words (39.34%), avg frequency: 7.93
+10-12 letters: 4,262 words (17.95%), avg frequency: 4.46
+13+ letters: 1,329 words (5.60%), avg frequency: 3.10
 
 === Potential Archaic Words (long, rare words) ===
   1. "vattensamlingen" (1 times, 15 letters)
