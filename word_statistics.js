@@ -69,15 +69,15 @@ function analyzeWordStatistics(wordStats, oldStats) {
         const removedWords = oldStats.filter(item => !newWordsSet.has(item.word));
         log += `\nNew unique words since last run: ${newWords.length.toLocaleString()}\n`;
         if (newWords.length > 0) {
-            log += 'Sample new words:\n';
-            newWords.slice(0, 20).forEach((item, index) => {
+            log += 'All new words:\n';
+            newWords.forEach((item, index) => {
                 log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
             });
         }
         log += `\nRemoved unique words since last run: ${removedWords.length.toLocaleString()}\n`;
         if (removedWords.length > 0) {
-            log += 'Sample removed words:\n';
-            removedWords.slice(0, 20).forEach((item, index) => {
+            log += 'All removed words:\n';
+            removedWords.forEach((item, index) => {
                 log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
             });
         }
