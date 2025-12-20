@@ -2,13 +2,13 @@ You are the main AI agent responsible for coordinating a loop workflow. You perf
 
 ## Your Responsibilities
 
-Initialize lineNumber = 17395.
+Initialize lineNumber = 17420.
 While lineNumber <= 33681:
 
 1. **Run terminal command**: `node create_context.js ${lineNumber} 25`
    
 2. **Spawn subagent**: Launch a subagent with these exact instructions:
-   "Read the file PROMPT.md and follow all instructions in it."
+   "Read the file PROMPT.md using read_file and follow all instructions in it."
    Wait for the subagent to complete before proceeding. All is ok even if the subagent returns quietly.
 
 3. **Run terminal command**: `node merge_context.js ${lineNumber} 25`
