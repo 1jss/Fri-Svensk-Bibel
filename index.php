@@ -300,35 +300,70 @@ $book_names = [
       color: var(--text-color);
       font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     }
+    @media (max-width: 768px) {
+      .navigation {
+        font-size: 1em;
+      }
+      #book-select, #chapter-select {
+        font-size: 1em;
+      }
+    }
     #edit-backdrop {
       display: none; /* Initially hidden */
-      justify-content: center;
-      align-items: center;
       position: fixed;
       top: 0;
       left: 0;
       width: 100vw;
-      height: 100vh;
+      height: 100dvh;
       margin: 0;
       padding: 0;
       z-index: 999;
-      background-color: var(--background-color-transparent);
-      backdrop-filter: blur(2px);
-      overflow: auto;
+      background-color: var(--background-color);
+      overflow: hidden;
+    }
+    body.edit-open {
+      overflow: hidden;
+    }
+    body.edit-open .navigation {
+      display: none;
     }
     #edit-popup {
       width: 100%;
-      max-width: 480px;
+      height: 100%;
       background-color: var(--background-color);
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: var(--box-shadow);
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+    }
+    #edit-popup-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--text-color-muted);
+    }
+    #edit-popup-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: auto;
+      padding: 16px;
+      box-sizing: border-box;
+    }
+    #close-button {
+      background-color: transparent;
+      color: var(--text-color);
+      font-size: 1.5em;
+      line-height: 1;
+      padding: 4px 8px;
     }
     #original-text, #edited-text {
       background-color: transparent;
       font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
       font-size: 1.2em;
       margin-bottom: 10px;
+      border: none;
     }
     #original-text {
       color: var(--text-color-muted);
@@ -336,20 +371,23 @@ $book_names = [
     #edited-text {
       width: 100%;
       color: var(--text-color);
-    }
-    textarea {
-      font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-      width: 100% !important;
-      height: 2em;
-      font-size: 1em;
-      resize: none;
+      flex: 1;
       border: 0;
-      margin: 0;
       padding: 0;
-      overflow: hidden;
+      resize: none;
+      margin: 0;
     }
-    textarea:focus {
-      outline: none;
+    #edit-form {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      box-sizing: border-box;
+    }
+    #edit-form-buttons {
+      display: flex;
+      gap: 8px;
+      padding-top: 12px;
+      border-top: 1px solid var(--text-color-muted);
     }
     button {
       border: 0;
@@ -416,11 +454,19 @@ $book_names = [
 
   <div id="edit-backdrop">
     <div id="edit-popup">
-      <form id="edit-form">
-        <textarea id="original-text" name="original-text" readonly></textarea>
-        <textarea id="edited-text" name="edited-text" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px';"></textarea>
-        <button type="submit" id="save-button">Save</button>
-      </form>
+      <div id="edit-popup-header">
+        <h2 style="margin: 0; font-size: 1.2em;">Edit Verse</h2>
+        <button type="button" id="close-button">✕</button>
+      </div>
+      <div id="edit-popup-content">
+        <form id="edit-form">
+          <textarea id="original-text" name="original-text" readonly></textarea>
+          <textarea id="edited-text" name="edited-text" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px';"></textarea>
+          <div id="edit-form-buttons">
+            <button type="submit" id="save-button">Save</button>
+          </div>
+        </form>
+      </div>
     </div>
   </div>
 
@@ -434,6 +480,14 @@ $book_names = [
   <script>
     const edit_backdrop = document.getElementById('edit-backdrop');
     const edit_form = document.getElementById('edit-form');
+    const close_button = document.getElementById('close-button');
+    
+    close_button.addEventListener('click', (e) => {
+      e.preventDefault();
+      edit_backdrop.style.display = 'none';
+      document.body.classList.remove('edit-open');
+    });
+    
     edit_form.addEventListener('submit', (e) => {
       e.preventDefault();
       const form_data = new FormData(edit_form);
@@ -446,21 +500,11 @@ $book_names = [
       .then(data => {
         console.log('Response:', data);
         edit_backdrop.style.display = 'none';
+        document.body.classList.remove('edit-open');
       })
       .catch(error => {
         console.error('Error');
       });
-    });
-    
-    // Close the edit popup when clicking the backdrop
-    edit_backdrop.addEventListener('click', () => {
-      edit_backdrop.style.display = 'none';
-    });
-    
-    // Prevent click event from closing the edit popup
-    const edit_popup = document.getElementById('edit-popup');
-    edit_popup.addEventListener('click', (e) => {
-      e.stopPropagation();
     });
     
     // Add click event listener to all verse elements
@@ -474,6 +518,7 @@ $book_names = [
         original_text.value = verse_content;
         edited_text.value = verse_content;
         edit_backdrop.style.display = 'flex';
+        document.body.classList.add('edit-open');
         original_text.style.height = '';
         original_text.style.height = original_text.scrollHeight + 'px';
         edited_text.style.height = '';
