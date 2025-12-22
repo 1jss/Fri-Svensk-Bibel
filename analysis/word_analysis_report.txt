@@ -1,27 +1,31 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,715
-Total word occurrences: 708,829
+Total unique words: 23,711
+Total word occurrences: 708,827
 Average occurrences per word: 29.89
 
 New unique words since last run: 2
 All new words:
-  1. "hjärtligt" (1 times)
-  2. "ovänlige" (1 times)
+  1. "festen" (2 times)
+  2. "sorgens" (1 times)
 
-Removed unique words since last run: 2
+Removed unique words since last run: 6
 All removed words:
-  1. "överföllo" (5 times)
-  2. "hjärtligen" (1 times)
+  1. "gästabud" (33 times)
+  2. "bliva" (20 times)
+  3. "ostörda" (1 times)
+  4. "avbita" (1 times)
+  5. "prisge" (1 times)
+  6. "kullfallna" (1 times)
 
-Single-use words (hapax legomena): 9,199 (38.79% of unique words)
-Words used 2-5 times: 7,751 (32.68% of unique words)
+Single-use words (hapax legomena): 9,195 (38.78% of unique words)
+Words used 2-5 times: 7,754 (32.70% of unique words)
 
-Top 100 words cover: 396,086 occurrences
+Top 100 words cover: 396,079 occurrences
 That's 55.88% of all word occurrences
 
 Words used 100+ times: 657
-Words used 10+ times: 4,636
+Words used 10+ times: 4,633
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -32,25 +36,25 @@ Words used 10+ times: 4,636
 60% coverage: 132 most common words
 70% coverage: 290 most common words
 80% coverage: 792 most common words
-90% coverage: 2,815 most common words
-95% coverage: 6,167 most common words
-99% coverage: 16,627 most common words
+90% coverage: 2,813 most common words
+95% coverage: 6,166 most common words
+99% coverage: 16,623 most common words
 
 === Frequency Distribution ===
-1 time: 9,199 words (38.79%)
-2-5 times: 7,751 words (32.68%)
-6-10 times: 2,468 words (10.41%)
-11-50 times: 3,143 words (13.25%)
-51-100 times: 503 words (2.12%)
-101-500 times: 475 words (2.00%)
+1 time: 9,195 words (38.78%)
+2-5 times: 7,754 words (32.70%)
+6-10 times: 2,467 words (10.40%)
+11-50 times: 3,141 words (13.25%)
+51-100 times: 504 words (2.13%)
+101-500 times: 474 words (2.00%)
 501-1000 times: 68 words (0.29%)
 1000+ times: 108 words (0.46%)
 
 === Word Length Analysis ===
-1-3 letters: 559 words (2.36%), avg frequency: 604.50
-4-6 letters: 8,251 words (34.79%), avg frequency: 33.23
-7-9 letters: 9,326 words (39.33%), avg frequency: 7.92
-10-12 letters: 4,252 words (17.93%), avg frequency: 4.44
+1-3 letters: 559 words (2.36%), avg frequency: 604.53
+4-6 letters: 8,249 words (34.79%), avg frequency: 33.24
+7-9 letters: 9,325 words (39.33%), avg frequency: 7.91
+10-12 letters: 4,251 words (17.93%), avg frequency: 4.44
 13+ letters: 1,327 words (5.60%), avg frequency: 3.06
 
 === Potential Archaic Words (long, rare words) ===
