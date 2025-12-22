@@ -1,68 +1,23 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,688
-Total word occurrences: 708,802
-Average occurrences per word: 29.92
+Total unique words: 23,693
+Total word occurrences: 709,120
+Average occurrences per word: 29.93
 
-New unique words since last run: 13
+New unique words since last run: 5
 All new words:
-  1. "orsakat" (2 times)
-  2. "avvanat" (2 times)
-  3. "vallfärdssång" (2 times)
-  4. "bortifrån" (2 times)
-  5. "trumma" (2 times)
-  6. "kragen" (1 times)
-  7. "klistrar" (1 times)
-  8. "undersök" (1 times)
-  9. "dras" (1 times)
-  10. "skriker" (1 times)
-  11. "portars" (1 times)
-  12. "värdefullt" (1 times)
-  13. "flocken" (1 times)
+  1. "evinnerligen" (1 times)
+  2. "nattvakt" (1 times)
+  3. "spolar" (1 times)
+  4. "ljuvhet" (1 times)
+  5. "farliga" (1 times)
 
-Removed unique words since last run: 36
-All removed words:
-  1. "tillbedja" (6 times)
-  2. "övergiv" (4 times)
-  3. "böners" (2 times)
-  4. "uttänka" (2 times)
-  5. "falskhetens" (2 times)
-  6. "fröjde" (2 times)
-  7. "olivtelningar" (1 times)
-  8. "osviklig" (1 times)
-  9. "rett" (1 times)
-  10. "linningen" (1 times)
-  11. "sionsbergen" (1 times)
-  12. "förgäte" (1 times)
-  13. "låde" (1 times)
-  14. "högmodige" (1 times)
-  15. "bäddade" (1 times)
-  16. "toge" (1 times)
-  17. "sammanvävde" (1 times)
-  18. "förborgade" (1 times)
-  19. "mångfald" (1 times)
-  20. "bragt" (1 times)
-  21. "olycksväg" (1 times)
-  22. "bereda" (1 times)
-  23. "förtalets" (1 times)
-  24. "gälle" (1 times)
-  25. "stelnat" (1 times)
-  26. "eftersinnar" (1 times)
-  27. "sänk" (1 times)
-  28. "ryka" (1 times)
-  29. "outrannsaklig" (1 times)
-  30. "majestäts" (1 times)
-  31. "villa" (1 times)
-  32. "frusna" (1 times)
-  33. "stormande" (1 times)
-  34. "smyckar" (1 times)
-  35. "flockens" (1 times)
-  36. "mamma" (1 times)
+Removed unique words since last run: 0
 
-Single-use words (hapax legomena): 9,173 (38.72% of unique words)
-Words used 2-5 times: 7,759 (32.75% of unique words)
+Single-use words (hapax legomena): 9,174 (38.72% of unique words)
+Words used 2-5 times: 7,761 (32.76% of unique words)
 
-Top 100 words cover: 396,083 occurrences
+Top 100 words cover: 396,239 occurrences
 That's 55.88% of all word occurrences
 
 Words used 100+ times: 657
@@ -79,21 +34,21 @@ Words used 10+ times: 4,631
 80% coverage: 791 most common words
 90% coverage: 2,810 most common words
 95% coverage: 6,161 most common words
-99% coverage: 16,600 most common words
+99% coverage: 16,602 most common words
 
 === Frequency Distribution ===
-1 time: 9,173 words (38.72%)
-2-5 times: 7,759 words (32.75%)
-6-10 times: 2,467 words (10.41%)
-11-50 times: 3,133 words (13.23%)
-51-100 times: 508 words (2.14%)
-101-500 times: 472 words (1.99%)
+1 time: 9,174 words (38.72%)
+2-5 times: 7,761 words (32.76%)
+6-10 times: 2,469 words (10.42%)
+11-50 times: 3,133 words (13.22%)
+51-100 times: 507 words (2.14%)
+101-500 times: 473 words (2.00%)
 501-1000 times: 67 words (0.28%)
 1000+ times: 109 words (0.46%)
 
 === Word Length Analysis ===
-1-3 letters: 559 words (2.36%), avg frequency: 604.61
-4-6 letters: 8,239 words (34.78%), avg frequency: 33.27
-7-9 letters: 9,317 words (39.33%), avg frequency: 7.92
-10-12 letters: 4,247 words (17.93%), avg frequency: 4.44
+1-3 letters: 559 words (2.36%), avg frequency: 604.88
+4-6 letters: 8,240 words (34.78%), avg frequency: 33.28
+7-9 letters: 9,320 words (39.34%), avg frequency: 7.92
+10-12 letters: 4,248 words (17.93%), avg frequency: 4.44
 13+ letters: 1,326 words (5.60%), avg frequency: 3.06
