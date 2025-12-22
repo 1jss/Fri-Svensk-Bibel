@@ -162,34 +162,7 @@ function analyzeWordStatistics(wordStats, oldStats) {
         const avgFrequency = wordsInBucket.length > 0 ? (wordsInBucket.reduce((sum, item) => sum + item.count, 0) / wordsInBucket.length).toFixed(2) : '0';
         log += `${bucket.range}: ${count.toLocaleString()} words (${percentage}%), avg frequency: ${avgFrequency}\n`;
     });
-    
-    // Potential archaic words (long words with low frequency)
-    const potentialArchaicWords = wordStats.filter(item => 
-        item.word.length >= 10 && item.count <= 5
-    ).sort((a, b) => a.count - b.count).slice(0, 50);
-    
-    log += '\n=== Potential Archaic Words (long, rare words) ===\n';
-    potentialArchaicWords.slice(0, 20).forEach((item, index) => {
-        log += `  ${index + 1}. "${item.word}" (${item.count} times, ${item.word.length} letters)\n`;
-    });
-    
-    // Generate suggestions for simplification
-    log += '\n=== Simplification Suggestions ===\n';
-    
-    // Show some single-use words that could potentially be replaced
-    log += '\nSample single-use words (potential candidates for replacement):\n';
-    const sampleSingleUse = singleUseWords.slice(0, 20);
-    sampleSingleUse.forEach((item, index) => {
-        log += `  ${index + 1}. "${item.word}"\n`;
-    });
-    
-    // Show some rare words (2-5 occurrences)
-    log += '\nSample rare words (2-5 occurrences):\n';
-    const sampleRare = rareWords.slice(0, 20);
-    sampleRare.forEach((item, index) => {
-        log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
-    });
-    
+
     console.log(log);
     
     // Save the report
