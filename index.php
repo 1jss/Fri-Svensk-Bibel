@@ -277,6 +277,9 @@ $book_names = [
       color: var(--text-color-muted);
       margin-right: 0.3em;
     }
+    .chapter {
+      scroll-margin-top: 60px;
+    }
     .navigation {
       position: fixed;
       top: 0;
@@ -302,29 +305,44 @@ $book_names = [
     }
     @media (max-width: 768px) {
       .navigation {
-        font-size: 1em;
+        font-size: 0.8em;
       }
       #book-select, #chapter-select {
         font-size: 1em;
       }
+    }
+    html.edit-open,
+    body.edit-open {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      overscroll-behavior: none;
     }
     #edit-backdrop {
       display: none; /* Initially hidden */
       position: fixed;
       top: 0;
       left: 0;
-      width: 100vw;
-      height: 100dvh;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
       margin: 0;
       padding: 0;
       z-index: 999;
-      background-color: var(--background-color);
+      background-color: rgba(0, 0, 0, 0.5);
       overflow: hidden;
+      -webkit-user-select: none;
+      user-select: none;
     }
-    body.edit-open {
-      overflow: hidden;
+    #edit-backdrop.open {
+      display: flex;
     }
     body.edit-open .navigation {
+      display: none;
+    }
+    body.edit-open #theme-toggle {
       display: none;
     }
     #edit-popup {
@@ -335,47 +353,39 @@ $book_names = [
       display: flex;
       flex-direction: column;
       box-sizing: border-box;
-    }
-    #edit-popup-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 12px 16px;
-      border-bottom: 1px solid var(--text-color-muted);
+      position: relative;
+      z-index: 1000;
+      -webkit-touch-callout: none;
     }
     #edit-popup-content {
       flex: 1;
       display: flex;
       flex-direction: column;
       overflow: auto;
-      padding: 16px;
+      padding: 12px;
       box-sizing: border-box;
-    }
-    #close-button {
-      background-color: transparent;
-      color: var(--text-color);
-      font-size: 1.5em;
-      line-height: 1;
-      padding: 4px 8px;
+      -webkit-overflow-scrolling: touch;
     }
     #original-text, #edited-text {
       background-color: transparent;
       font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-      font-size: 1.2em;
-      margin-bottom: 10px;
+      font-size: 1em;
       border: none;
+      padding: 0;
+      margin: 0;
+      -webkit-appearance: none;
     }
     #original-text {
       color: var(--text-color-muted);
+      margin-bottom: 8px;
+      flex-shrink: 0;
     }
     #edited-text {
       width: 100%;
       color: var(--text-color);
       flex: 1;
-      border: 0;
-      padding: 0;
       resize: none;
-      margin: 0;
+      -webkit-appearance: none;
     }
     #edit-form {
       display: flex;
@@ -386,18 +396,28 @@ $book_names = [
     #edit-form-buttons {
       display: flex;
       gap: 8px;
-      padding-top: 12px;
+      padding: 12px 0;
+      margin-top: 8px;
       border-top: 1px solid var(--text-color-muted);
+      flex-shrink: 0;
+      justify-content: space-between;
     }
-    button {
+    #edit-popup button {
       border: 0;
-      border-radius: 0.5em;
-      padding: 0.5em 0.6em;
-      font-size: 0.7em;
+      border-radius: 0.4em;
+      padding: 0.4em 0.8em;
+      font-size: 0.85em;
+      background-color: transparent;
+      color: var(--text-color);
+      cursor: pointer;
     }
     #save-button {
       background-color: var(--button-color);
       color: var(--button-text-color);
+    }
+    #close-button-form {
+      background-color: transparent;
+      color: var(--text-color);
     }
     #theme-toggle {
       position: fixed;
@@ -411,6 +431,7 @@ $book_names = [
       line-height: 1.2em;
       background-color: transparent;
       color: var(--text-color);
+      border: none;
     }
   </style>
 </head>
@@ -454,15 +475,12 @@ $book_names = [
 
   <div id="edit-backdrop">
     <div id="edit-popup">
-      <div id="edit-popup-header">
-        <h2 style="margin: 0; font-size: 1.2em;">Edit Verse</h2>
-        <button type="button" id="close-button">✕</button>
-      </div>
       <div id="edit-popup-content">
         <form id="edit-form">
           <textarea id="original-text" name="original-text" readonly></textarea>
           <textarea id="edited-text" name="edited-text" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px';"></textarea>
           <div id="edit-form-buttons">
+            <button type="button" id="close-button-form">Close</button>
             <button type="submit" id="save-button">Save</button>
           </div>
         </form>
@@ -481,11 +499,29 @@ $book_names = [
     const edit_backdrop = document.getElementById('edit-backdrop');
     const edit_form = document.getElementById('edit-form');
     const close_button = document.getElementById('close-button');
+    const chapter_select = document.getElementById('chapter-select');
     
-    close_button.addEventListener('click', (e) => {
-      e.preventDefault();
-      edit_backdrop.style.display = 'none';
+    let scrollPosition = 0;
+    
+    function closeEditModal() {
+      edit_backdrop.classList.remove('open');
+      document.documentElement.classList.remove('edit-open');
       document.body.classList.remove('edit-open');
+      // Restore scroll position
+      window.scrollTo(0, scrollPosition);
+    }
+    
+    const close_button_form = document.getElementById('close-button-form');
+    close_button_form.addEventListener('click', (e) => {
+      e.preventDefault();
+      closeEditModal();
+    });
+    
+    // Close on backdrop click (outside the popup)
+    edit_backdrop.addEventListener('click', (e) => {
+      if (e.target === edit_backdrop) {
+        closeEditModal();
+      }
     });
     
     edit_form.addEventListener('submit', (e) => {
@@ -499,8 +535,7 @@ $book_names = [
       .then(response => response.text())
       .then(data => {
         console.log('Response:', data);
-        edit_backdrop.style.display = 'none';
-        document.body.classList.remove('edit-open');
+        closeEditModal();
       })
       .catch(error => {
         console.error('Error');
@@ -513,17 +548,48 @@ $book_names = [
     const edited_text = document.getElementById('edited-text');
     verse_elements.forEach(verse => {
       verse.addEventListener('click', () => {
+        // Save scroll position before opening modal
+        scrollPosition = window.scrollY;
         // Split after verse number
         const verse_content = verse.innerHTML.split('</i>')[1];
         original_text.value = verse_content;
         edited_text.value = verse_content;
-        edit_backdrop.style.display = 'flex';
+        edit_backdrop.classList.add('open');
+        document.documentElement.classList.add('edit-open');
         document.body.classList.add('edit-open');
-        original_text.style.height = '';
-        original_text.style.height = original_text.scrollHeight + 'px';
-        edited_text.style.height = '';
-        edited_text.style.height = edited_text.scrollHeight + 'px';
+        // Reset scroll position to top of form
+        edit_backdrop.scrollTop = 0;
+        document.getElementById('edit-popup-content').scrollTop = 0;
+        // Auto-resize textareas
+        setTimeout(() => {
+          original_text.style.height = '';
+          original_text.style.height = original_text.scrollHeight + 'px';
+          edited_text.style.height = '';
+          edited_text.style.height = edited_text.scrollHeight + 'px';
+        }, 0);
       });
+    });
+
+    // Update chapter-select on scroll
+    let last_chapter = null;
+    window.addEventListener('scroll', () => {
+      const chapters_elements = document.querySelectorAll('.chapter');
+      let current_chapter = null;
+
+      chapters_elements.forEach(chapter => {
+        const rect = chapter.getBoundingClientRect();
+        // Check if chapter heading is in view (top of chapter within viewport)
+        if (rect.top <= window.innerHeight / 3) {
+          current_chapter = chapter.id;
+        }
+      });
+
+      // Update the select and URL if we found a visible chapter and it's different
+      if (current_chapter && current_chapter !== last_chapter) {
+        chapter_select.value = current_chapter;
+        window.location.hash = current_chapter;
+        last_chapter = current_chapter;
+      }
     });
 
   </script>
