@@ -13,7 +13,7 @@
   },
   {
     "word": "ska",
-    "count": 12998
+    "count": 12996
   },
   {
     "word": "han",
@@ -21,7 +21,7 @@
   },
   {
     "word": "för",
-    "count": 11330
+    "count": 11332
   },
   {
     "word": "att",
@@ -45,7 +45,7 @@
   },
   {
     "word": "är",
-    "count": 8119
+    "count": 8121
   },
   {
     "word": "inte",
@@ -117,7 +117,7 @@
   },
   {
     "word": "om",
-    "count": 4034
+    "count": 4035
   },
   {
     "word": "sa",
@@ -157,7 +157,7 @@
   },
   {
     "word": "sin",
-    "count": 2891
+    "count": 2880
   },
   {
     "word": "ett",
@@ -245,7 +245,7 @@
   },
   {
     "word": "vara",
-    "count": 1802
+    "count": 1800
   },
   {
     "word": "allt",
@@ -369,7 +369,7 @@
   },
   {
     "word": "tog",
-    "count": 1161
+    "count": 1160
   },
   {
     "word": "dess",
@@ -425,7 +425,7 @@
   },
   {
     "word": "in",
-    "count": 1014
+    "count": 1015
   },
   {
     "word": "kan",
@@ -704,11 +704,11 @@
     "count": 511
   },
   {
-    "word": "höra",
-    "count": 497
+    "word": "vet",
+    "count": 496
   },
   {
-    "word": "vet",
+    "word": "höra",
     "count": 496
   },
   {
@@ -1488,10 +1488,6 @@
     "count": 204
   },
   {
-    "word": "tar",
-    "count": 204
-  },
-  {
     "word": "kvinna",
     "count": 202
   },
@@ -1573,6 +1569,10 @@
   },
   {
     "word": "olycka",
+    "count": 193
+  },
+  {
+    "word": "tar",
     "count": 193
   },
   {
@@ -2832,10 +2832,6 @@
     "count": 91
   },
   {
-    "word": "oändlig",
-    "count": 91
-  },
-  {
     "word": "råd",
     "count": 90
   },
@@ -2945,6 +2941,10 @@
   },
   {
     "word": "kunskap",
+    "count": 87
+  },
+  {
+    "word": "evig",
     "count": 87
   },
   {
@@ -3168,6 +3168,10 @@
     "count": 79
   },
   {
+    "word": "starka",
+    "count": 79
+  },
+  {
     "word": "ihåg",
     "count": 79
   },
@@ -3189,10 +3193,6 @@
   },
   {
     "word": "blodet",
-    "count": 78
-  },
-  {
-    "word": "starka",
     "count": 78
   },
   {
@@ -4156,10 +4156,6 @@
     "count": 57
   },
   {
-    "word": "tillflykt",
-    "count": 57
-  },
-  {
     "word": "skatter",
     "count": 57
   },
@@ -4604,10 +4600,6 @@
     "count": 51
   },
   {
-    "word": "akt",
-    "count": 51
-  },
-  {
     "word": "tyrus",
     "count": 51
   },
@@ -4693,6 +4685,10 @@
   },
   {
     "word": "sista",
+    "count": 50
+  },
+  {
+    "word": "akt",
     "count": 50
   },
   {
@@ -5045,6 +5041,10 @@
   },
   {
     "word": "väntar",
+    "count": 46
+  },
+  {
+    "word": "tillflykt",
     "count": 46
   },
   {
@@ -5673,6 +5673,10 @@
   },
   {
     "word": "gilgal",
+    "count": 40
+  },
+  {
+    "word": "flyr",
     "count": 40
   },
   {
@@ -7100,6 +7104,10 @@
     "count": 30
   },
   {
+    "word": "aktade",
+    "count": 30
+  },
+  {
     "word": "lagar",
     "count": 30
   },
@@ -7308,10 +7316,6 @@
     "count": 29
   },
   {
-    "word": "aktade",
-    "count": 29
-  },
-  {
     "word": "tydligt",
     "count": 29
   },
@@ -7469,10 +7473,6 @@
   },
   {
     "word": "gräs",
-    "count": 29
-  },
-  {
-    "word": "flyr",
     "count": 29
   },
   {
@@ -8056,6 +8056,10 @@
     "count": 26
   },
   {
+    "word": "höras",
+    "count": 26
+  },
+  {
     "word": "lea",
     "count": 26
   },
@@ -8256,6 +8260,10 @@
     "count": 26
   },
   {
+    "word": "oändlig",
+    "count": 26
+  },
+  {
     "word": "vinner",
     "count": 26
   },
@@ -8345,10 +8353,6 @@
   },
   {
     "word": "vattnen",
-    "count": 25
-  },
-  {
-    "word": "höras",
     "count": 25
   },
   {
@@ -9584,10 +9588,6 @@
     "count": 22
   },
   {
-    "word": "evig",
-    "count": 22
-  },
-  {
     "word": "levandes",
     "count": 22
   },
@@ -10392,10 +10392,6 @@
     "count": 20
   },
   {
-    "word": "övermäktiga",
-    "count": 20
-  },
-  {
     "word": "uppdrag",
     "count": 20
   },
@@ -10761,6 +10757,10 @@
   },
   {
     "word": "amalekiterna",
+    "count": 19
+  },
+  {
+    "word": "övermäktiga",
     "count": 19
   },
   {
@@ -15128,6 +15128,10 @@
     "count": 12
   },
   {
+    "word": "tyckte",
+    "count": 12
+  },
+  {
     "word": "äntligen",
     "count": 12
   },
@@ -15932,6 +15936,10 @@
     "count": 11
   },
   {
+    "word": "överföll",
+    "count": 11
+  },
+  {
     "word": "dräper",
     "count": 11
   },
@@ -16041,10 +16049,6 @@
   },
   {
     "word": "bespottare",
-    "count": 11
-  },
-  {
-    "word": "tyckte",
     "count": 11
   },
   {
@@ -22980,10 +22984,6 @@
     "count": 7
   },
   {
-    "word": "vrånga",
-    "count": 7
-  },
-  {
     "word": "dyrka",
     "count": 7
   },
@@ -24137,10 +24137,6 @@
   },
   {
     "word": "svärdets",
-    "count": 6
-  },
-  {
-    "word": "överföll",
     "count": 6
   },
   {
@@ -25409,6 +25405,10 @@
   },
   {
     "word": "förstrött",
+    "count": 6
+  },
+  {
+    "word": "vrånga",
     "count": 6
   },
   {
@@ -27352,10 +27352,6 @@
     "count": 5
   },
   {
-    "word": "överföllo",
-    "count": 5
-  },
-  {
     "word": "behandla",
     "count": 5
   },
@@ -28929,10 +28925,6 @@
   },
   {
     "word": "beställt",
-    "count": 5
-  },
-  {
-    "word": "sängar",
     "count": 5
   },
   {
@@ -33057,6 +33049,10 @@
   },
   {
     "word": "ogärningsman",
+    "count": 4
+  },
+  {
+    "word": "sängar",
     "count": 4
   },
   {
@@ -38885,6 +38881,10 @@
   },
   {
     "word": "vindens",
+    "count": 3
+  },
+  {
+    "word": "bäddar",
     "count": 3
   },
   {
@@ -48472,10 +48472,6 @@
     "count": 2
   },
   {
-    "word": "bäddar",
-    "count": 2
-  },
-  {
     "word": "blottades",
     "count": 2
   },
@@ -51909,10 +51905,6 @@
   },
   {
     "word": "olycksdag",
-    "count": 2
-  },
-  {
-    "word": "gillade",
     "count": 2
   },
   {
@@ -74084,7 +74076,7 @@
     "count": 1
   },
   {
-    "word": "hjärtligen",
+    "word": "hjärtligt",
     "count": 1
   },
   {
@@ -74093,6 +74085,10 @@
   },
   {
     "word": "lönade",
+    "count": 1
+  },
+  {
+    "word": "ovänlige",
     "count": 1
   },
   {
@@ -89501,6 +89497,10 @@
   },
   {
     "word": "utgöts",
+    "count": 1
+  },
+  {
+    "word": "gillade",
     "count": 1
   },
   {
