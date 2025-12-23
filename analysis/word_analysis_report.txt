@@ -1,23 +1,27 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,693
+Total unique words: 23,689
 Total word occurrences: 709,120
 Average occurrences per word: 29.93
 
-New unique words since last run: 5
+New unique words since last run: 2
 All new words:
-  1. "evinnerligen" (1 times)
-  2. "nattvakt" (1 times)
-  3. "spolar" (1 times)
-  4. "ljuvhet" (1 times)
-  5. "farliga" (1 times)
+  1. "lycklige" (2 times)
+  2. "nattväkt" (1 times)
 
-Removed unique words since last run: 0
+Removed unique words since last run: 6
+All removed words:
+  1. "salig" (6 times)
+  2. "saligt" (2 times)
+  3. "salige" (2 times)
+  4. "lovsägen" (1 times)
+  5. "evinnerligen" (1 times)
+  6. "nattvakt" (1 times)
 
-Single-use words (hapax legomena): 9,174 (38.72% of unique words)
-Words used 2-5 times: 7,761 (32.76% of unique words)
+Single-use words (hapax legomena): 9,172 (38.72% of unique words)
+Words used 2-5 times: 7,756 (32.74% of unique words)
 
-Top 100 words cover: 396,239 occurrences
+Top 100 words cover: 396,238 occurrences
 That's 55.88% of all word occurrences
 
 Words used 100+ times: 657
@@ -31,24 +35,24 @@ Words used 10+ times: 4,631
 50% coverage: 68 most common words
 60% coverage: 132 most common words
 70% coverage: 290 most common words
-80% coverage: 791 most common words
+80% coverage: 792 most common words
 90% coverage: 2,810 most common words
-95% coverage: 6,161 most common words
-99% coverage: 16,602 most common words
+95% coverage: 6,160 most common words
+99% coverage: 16,598 most common words
 
 === Frequency Distribution ===
-1 time: 9,174 words (38.72%)
-2-5 times: 7,761 words (32.76%)
-6-10 times: 2,469 words (10.42%)
-11-50 times: 3,133 words (13.22%)
+1 time: 9,172 words (38.72%)
+2-5 times: 7,756 words (32.74%)
+6-10 times: 2,473 words (10.44%)
+11-50 times: 3,132 words (13.22%)
 51-100 times: 507 words (2.14%)
 101-500 times: 473 words (2.00%)
 501-1000 times: 67 words (0.28%)
 1000+ times: 109 words (0.46%)
 
 === Word Length Analysis ===
-1-3 letters: 559 words (2.36%), avg frequency: 604.88
-4-6 letters: 8,240 words (34.78%), avg frequency: 33.28
+1-3 letters: 559 words (2.36%), avg frequency: 604.84
+4-6 letters: 8,237 words (34.77%), avg frequency: 33.30
 7-9 letters: 9,320 words (39.34%), avg frequency: 7.92
-10-12 letters: 4,248 words (17.93%), avg frequency: 4.44
+10-12 letters: 4,247 words (17.93%), avg frequency: 4.44
 13+ letters: 1,326 words (5.60%), avg frequency: 3.06

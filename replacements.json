@@ -1,198 +1,122 @@
 [
   {
-    "old": "fader",
-    "new": "far"
+    "old": "till gästabudet, som",
+    "new": "till festen, som"
   },
   {
-    "old": "viljen",
-    "new": "ska"
+    "old": "för sed att",
+    "new": "för vana att"
   },
   {
-    "old": "fastmer",
-    "new": "snarare"
+    "old": "din rätt som",
+    "new": "din rättvisa som"
   },
   {
-    "old": "underlåten",
-    "new": "försumma"
+    "old": "filistéerna grep honom",
+    "new": "filistéerna fångade honom"
   },
   {
-    "old": "uppbådades",
-    "new": "lockades"
+    "old": "Vad kunna människor",
+    "new": "Vad kan människor"
   },
   {
-    "old": "tillbådo",
-    "new": "tillbad"
+    "old": "ska två sina",
+    "new": "ska tvätta sina"
   },
   {
-    "old": "Pröva",
-    "new": "Testa"
+    "old": "att bäva och",
+    "new": "att skaka och"
   },
   {
-    "old": "uppbygga",
-    "new": "bygga upp"
+    "old": "med strängaspel. En",
+    "new": "med stränginstrument. En"
   },
   {
-    "old": "rädens",
-    "new": "rädd"
+    "old": "ska bor i",
+    "new": "ska bo i"
   },
   {
-    "old": "sade",
-    "new": "sa"
+    "old": "inte mer tänker",
+    "new": "inte längre tänker"
   },
   {
-    "old": "meddelar",
-    "new": "berättar"
+    "old": "ska hemsöka dem",
+    "new": "ska straffa dem"
   },
   {
-    "old": "för det att",
-    "new": "eftersom"
+    "old": "de bryta mot",
+    "new": "de bryter mot"
   },
   {
-    "old": "göra känt",
-    "new": "visa"
+    "old": "mina stadgar och",
+    "new": "mina regler och"
   },
   {
-    "old": "utväljer",
-    "new": "väljer"
+    "old": "står jordkretsen fast",
+    "new": "står jorden fast"
   },
   {
-    "old": "stridde",
-    "new": "kämpade"
+    "old": "då bli de",
+    "new": "då blir de"
   },
   {
-    "old": "bjudit",
-    "new": "befallt"
+    "old": "Herren, åkallen hans",
+    "new": "Herren, åkalla hans"
   },
   {
-    "old": "skåden",
-    "new": "skåda"
+    "old": "gärningar kunniga bland",
+    "new": "gärningar kända bland"
   },
   {
-    "old": "skåda",
-    "new": "se på"
+    "old": "ära, lovsägen honom,",
+    "new": "ära, lovsjung honom,"
   },
   {
-    "old": "betungade",
-    "new": "tyngda"
+    "old": "makt, söken hans",
+    "new": "makt, sök hans"
   },
   {
-    "old": "bådo",
-    "new": "bad"
+    "old": "de resa sig",
+    "new": "de reser sig"
   },
   {
-    "old": "Fräls",
-    "new": "Rädda"
+    "old": "har tuktat mig",
+    "new": "har uppfostrat mig"
   },
   {
-    "old": "fjärran",
-    "new": "långt borta"
+    "old": "själ trängtar efter",
+    "new": "själ längtar efter"
   },
   {
-    "old": "akten",
-    "new": "tänk"
+    "old": "din vilostad, du",
+    "new": "din viloplats, du"
   },
   {
-    "old": "red nu till",
-    "new": "gör nu i ordning"
+    "old": "jag kläda i",
+    "new": "jag klä i"
   },
   {
-    "old": "akta på",
-    "new": "akta på"
+    "old": "med puka och",
+    "new": "med trumma och"
   },
   {
-    "old": "vad gott är",
-    "new": "vad som är gott"
+    "old": "fars tuktan och",
+    "new": "fars uppfostran och"
   },
   {
-    "old": "givas",
-    "new": "ges"
+    "old": "fötter hasta till",
+    "new": "fötter skyndar till"
   },
   {
-    "old": "kvad",
-    "new": "sa"
+    "old": "en oändlig sömn,",
+    "new": "en evig sömn,"
   },
   {
-    "old": "skåden på",
-    "new": "se på"
+    "old": "de försåt för",
+    "new": "de bakhåll för"
   },
   {
-    "old": "Månne",
-    "new": "Kanske"
-  },
-  {
-    "old": "Oavlåtligen",
-    "new": "Oavbrutet"
-  },
-  {
-    "old": "Erinras",
-    "new": "Komma ihåg"
-  },
-  {
-    "old": "Tuktighetens",
-    "new": "Tuktens"
-  },
-  {
-    "old": "Giver",
-    "new": "Ger"
-  },
-  {
-    "old": "Rådslut",
-    "new": "Beslut"
-  },
-  {
-    "old": "Insnärjas",
-    "new": "Fångas"
-  },
-  {
-    "old": "Sold",
-    "new": "Lön"
-  },
-  {
-    "old": "Deltager",
-    "new": "Deltar"
-  },
-  {
-    "old": "Åkermannen",
-    "new": "Bonden"
-  },
-  {
-    "old": "Stadgad",
-    "new": "Stadig"
-  },
-  {
-    "old": "Ståndaktigt",
-    "new": "Uthålligt"
-  },
-  {
-    "old": "Äro",
-    "new": "Är"
-  },
-  {
-    "old": "Insegel",
-    "new": "Sigill"
-  },
-  {
-    "old": "Hedersamt",
-    "new": "Hedrande"
-  },
-  {
-    "old": "Gagneligt",
-    "new": "Nyttigt"
-  },
-  {
-    "old": "bedja",
-    "new": "be"
-  },
-  {
-    "old": "Vad saknas mig ännu?",
-    "new": "Vad saknar jag mer?"
-  },
-  {
-    "old": "knorrade",
-    "new": "klagade"
-  },
-  {
-    "old": "tillfalla",
-    "new": "ges till"
+    "old": "vatten, skyar som",
+    "new": "vatten, moln som"
   }
 ]
