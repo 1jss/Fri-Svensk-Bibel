@@ -6,6 +6,7 @@ const replacementsFile = 'replacements.json';
 
 let preLines = fs.readFileSync(preFile, 'utf8').split('\n');
 let fsbLines = fs.readFileSync(fsbFile, 'utf8').split('\n');
+let fsbContent = fs.readFileSync(fsbFile, 'utf8');
 
 let replacements = [];
 
@@ -22,9 +23,12 @@ for (let i = 0; i < Math.min(preLines.length, fsbLines.length); i++) {
                 let oldStr = preWords[j] + ' ' + preWords[j + 1] + ' ' + preWords[j + 2];
                 let newStr = fsbWords[j] + ' ' + fsbWords[j + 1] + ' ' + fsbWords[j + 2];
 
-                // Check if this replacement already exists
-                if (!replacements.some(r => r.old === oldStr && r.new === newStr)) {
-                    replacements.push({ old: oldStr, new: newStr });
+                // Only include if the old pattern still exists in FSB.xml
+                if (fsbContent.includes(oldStr)) {
+                    // Check if this replacement already exists
+                    if (!replacements.some(r => r.old === oldStr && r.new === newStr)) {
+                        replacements.push({ old: oldStr, new: newStr });
+                    }
                 }
             }
         }
