@@ -4,90 +4,9 @@ Total unique words: 23,666
 Total word occurrences: 708,812
 Average occurrences per word: 29.95
 
-New unique words since last run: 37
-All new words:
-  1. "tidpunkt" (4 times)
-  2. "vanhelga" (2 times)
-  3. "avgudabilden" (2 times)
-  4. "pennan" (2 times)
-  5. "gräm" (1 times)
-  6. "läggs" (1 times)
-  7. "rusade" (1 times)
-  8. "tittade" (1 times)
-  9. "fälgar" (1 times)
-  10. "fälgarna" (1 times)
-  11. "försjunken" (1 times)
-  12. "varningen" (1 times)
-  13. "rita" (1 times)
-  14. "belägringsverk" (1 times)
-  15. "jordvall" (1 times)
-  16. "attackera" (1 times)
-  17. "motsvara" (1 times)
-  18. "sjättedel" (1 times)
-  19. "söndertrasat" (1 times)
-  20. "avskyvärt" (1 times)
-  21. "försörjningen" (1 times)
-  22. "grips" (1 times)
-  23. "använd" (1 times)
-  24. "mantelflikarna" (1 times)
-  25. "styggheter" (1 times)
-  26. "används" (1 times)
-  27. "gror" (1 times)
-  28. "överlever" (1 times)
-  29. "hemska" (1 times)
-  30. "avskyvärda" (1 times)
-  31. "vanhelgar" (1 times)
-  32. "vanhelgade" (1 times)
-  33. "rapporterade" (1 times)
-  34. "kerubsansikte" (1 times)
-  35. "människansikte" (1 times)
-  36. "örnansikte" (1 times)
-  37. "byggs" (1 times)
+New unique words since last run: 0
 
-Removed unique words since last run: 42
-All removed words:
-  1. "fäkreatur" (70 times)
-  2. "dräpt" (46 times)
-  3. "plägar" (17 times)
-  4. "gensträviga" (6 times)
-  5. "omgives" (2 times)
-  6. "hednafolks" (2 times)
-  7. "bildat" (2 times)
-  8. "skrivtyget" (2 times)
-  9. "rundlarna" (2 times)
-  10. "sålden" (1 times)
-  11. "grämen" (1 times)
-  12. "pålägges" (1 times)
-  13. "fyras" (1 times)
-  14. "människoansikten" (1 times)
-  15. "lötar" (1 times)
-  16. "lötarna" (1 times)
-  17. "verop" (1 times)
-  18. "missgärningsår" (1 times)
-  19. "motsvaras" (1 times)
-  20. "svarande" (1 times)
-  21. "kornkakor" (1 times)
-  22. "vederstyggligt" (1 times)
-  23. "livsuppehället" (1 times)
-  24. "flikarna" (1 times)
-  25. "uttömmer" (1 times)
-  26. "blodsutgjutelse" (1 times)
-  27. "sönderslagna" (1 times)
-  28. "nedhuggna" (1 times)
-  29. "stampa" (1 times)
-  30. "bergstoppar" (1 times)
-  31. "dibla" (1 times)
-  32. "klyftornas" (1 times)
-  33. "ogudaktigaste" (1 times)
-  34. "blodsdomar" (1 times)
-  35. "bedriva" (1 times)
-  36. "skrivtyg" (1 times)
-  37. "tempelhusets" (1 times)
-  38. "bedrivas" (1 times)
-  39. "åldringar" (1 times)
-  40. "kerubs" (1 times)
-  41. "örns" (1 times)
-  42. "betäck" (1 times)
+Removed unique words since last run: 0
 
 Single-use words (hapax legomena): 9,167 (38.73% of unique words)
 Words used 2-5 times: 7,754 (32.76% of unique words)
@@ -95,7 +14,7 @@ Words used 2-5 times: 7,754 (32.76% of unique words)
 Top 100 words cover: 396,087 occurrences
 That's 55.88% of all word occurrences
 
-Words used 100+ times: 656
+Words used 100+ times: 654
 Words used 10+ times: 4,630
 
 === Coverage Analysis ===
@@ -114,16 +33,16 @@ Words used 10+ times: 4,630
 === Frequency Distribution ===
 1 time: 9,167 words (38.73%)
 2-5 times: 7,754 words (32.76%)
-6-10 times: 2,465 words (10.42%)
+6-10 times: 2,464 words (10.41%)
 11-50 times: 3,127 words (13.21%)
-51-100 times: 504 words (2.13%)
-101-500 times: 473 words (2.00%)
+51-100 times: 506 words (2.14%)
+101-500 times: 472 words (1.99%)
 501-1000 times: 67 words (0.28%)
 1000+ times: 109 words (0.46%)
 
 === Word Length Analysis ===
-1-3 letters: 560 words (2.37%), avg frequency: 603.72
-4-6 letters: 8,230 words (34.78%), avg frequency: 33.32
-7-9 letters: 9,309 words (39.33%), avg frequency: 7.91
+1-3 letters: 560 words (2.37%), avg frequency: 603.74
+4-6 letters: 8,230 words (34.78%), avg frequency: 33.33
+7-9 letters: 9,309 words (39.33%), avg frequency: 7.90
 10-12 letters: 4,244 words (17.93%), avg frequency: 4.44
 13+ letters: 1,323 words (5.59%), avg frequency: 3.05

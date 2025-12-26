@@ -1,6 +1,30 @@
 [
   {
-    "old": "sin först-födde son",
-    "new": "sin förstfödde son"
+    "old": "köp litet säd",
+    "new": "köp lite säd"
+  },
+  {
+    "old": "till föda åt",
+    "new": "till mat åt"
+  },
+  {
+    "old": "ännu återstå fem",
+    "new": "ännu återstår fem"
+  },
+  {
+    "old": "få bor i",
+    "new": "få bo i"
+  },
+  {
+    "old": "eller lyssna till",
+    "new": "eller lyssnar till"
+  },
+  {
+    "old": "vid strömmen Kebar,",
+    "new": "vid floden Kebar,"
+  },
+  {
+    "old": "ska förnimma att",
+    "new": "ska inse att"
   }
-]
+ ]

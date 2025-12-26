@@ -868,10 +868,6 @@
     "count": 398
   },
   {
-    "word": "bor",
-    "count": 395
-  },
-  {
     "word": "rätt",
     "count": 394
   },
@@ -902,6 +898,10 @@
   {
     "word": "står",
     "count": 378
+  },
+  {
+    "word": "bor",
+    "count": 377
   },
   {
     "word": "hörde",
@@ -1912,6 +1912,10 @@
     "count": 150
   },
   {
+    "word": "mat",
+    "count": 150
+  },
+  {
     "word": "vattnet",
     "count": 149
   },
@@ -1937,6 +1941,10 @@
   },
   {
     "word": "himmelens",
+    "count": 146
+  },
+  {
+    "word": "bo",
     "count": 146
   },
   {
@@ -1969,10 +1977,6 @@
   },
   {
     "word": "tjugo",
-    "count": 142
-  },
-  {
-    "word": "mat",
     "count": 142
   },
   {
@@ -2092,14 +2096,6 @@
     "count": 129
   },
   {
-    "word": "förnimma",
-    "count": 129
-  },
-  {
-    "word": "bo",
-    "count": 128
-  },
-  {
     "word": "anden",
     "count": 128
   },
@@ -2168,10 +2164,6 @@
     "count": 123
   },
   {
-    "word": "lyssna",
-    "count": 122
-  },
-  {
     "word": "ställde",
     "count": 122
   },
@@ -2193,6 +2185,10 @@
   },
   {
     "word": "därav",
+    "count": 121
+  },
+  {
+    "word": "lyssna",
     "count": 121
   },
   {
@@ -2380,6 +2376,10 @@
     "count": 111
   },
   {
+    "word": "floden",
+    "count": 110
+  },
+  {
     "word": "ropar",
     "count": 110
   },
@@ -2422,10 +2422,6 @@
   {
     "word": "sanningen",
     "count": 109
-  },
-  {
-    "word": "floden",
-    "count": 108
   },
   {
     "word": "vilket",
@@ -2594,10 +2590,6 @@
   {
     "word": "hopp",
     "count": 101
-  },
-  {
-    "word": "föda",
-    "count": 100
   },
   {
     "word": "unga",
@@ -2796,6 +2788,10 @@
     "count": 93
   },
   {
+    "word": "föda",
+    "count": 92
+  },
+  {
     "word": "lång",
     "count": 92
   },
@@ -2821,6 +2817,10 @@
   },
   {
     "word": "regerade",
+    "count": 91
+  },
+  {
+    "word": "inse",
     "count": 91
   },
   {
@@ -2944,10 +2944,6 @@
     "count": 86
   },
   {
-    "word": "litet",
-    "count": 86
-  },
-  {
     "word": "förgöra",
     "count": 86
   },
@@ -2973,6 +2969,10 @@
   },
   {
     "word": "välsigna",
+    "count": 85
+  },
+  {
+    "word": "litet",
     "count": 85
   },
   {
@@ -4013,6 +4013,10 @@
   },
   {
     "word": "förtära",
+    "count": 59
+  },
+  {
+    "word": "förnimma",
     "count": 59
   },
   {
@@ -6456,6 +6460,10 @@
     "count": 34
   },
   {
+    "word": "lyssnar",
+    "count": 34
+  },
+  {
     "word": "leviternas",
     "count": 34
   },
@@ -6605,10 +6613,6 @@
   },
   {
     "word": "stadga",
-    "count": 33
-  },
-  {
-    "word": "lyssnar",
     "count": 33
   },
   {
@@ -9961,10 +9965,6 @@
   },
   {
     "word": "väldige",
-    "count": 21
-  },
-  {
-    "word": "inse",
     "count": 21
   },
   {
@@ -14768,10 +14768,6 @@
     "count": 13
   },
   {
-    "word": "strömmen",
-    "count": 13
-  },
-  {
     "word": "avgrunden",
     "count": 13
   },
@@ -16132,6 +16128,10 @@
     "count": 11
   },
   {
+    "word": "lite",
+    "count": 11
+  },
+  {
     "word": "ynglingen",
     "count": 11
   },
@@ -16948,6 +16948,10 @@
     "count": 11
   },
   {
+    "word": "strömmen",
+    "count": 11
+  },
+  {
     "word": "blinde",
     "count": 11
   },
@@ -17329,10 +17333,6 @@
   },
   {
     "word": "nämnda",
-    "count": 10
-  },
-  {
-    "word": "lite",
     "count": 10
   },
   {
@@ -20356,6 +20356,10 @@
     "count": 8
   },
   {
+    "word": "återstår",
+    "count": 8
+  },
+  {
     "word": "greps",
     "count": 8
   },
@@ -22249,10 +22253,6 @@
   },
   {
     "word": "spå",
-    "count": 7
-  },
-  {
-    "word": "återstår",
     "count": 7
   },
   {
@@ -31084,10 +31084,6 @@
     "count": 4
   },
   {
-    "word": "återstå",
-    "count": 4
-  },
-  {
     "word": "pallu",
     "count": 4
   },
@@ -37049,6 +37045,10 @@
   },
   {
     "word": "verklig",
+    "count": 3
+  },
+  {
+    "word": "återstå",
     "count": 3
   },
   {
