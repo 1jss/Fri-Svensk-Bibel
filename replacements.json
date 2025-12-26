@@ -1,30 +1,38 @@
 [
   {
-    "old": "köp litet säd",
-    "new": "köp lite säd"
+    "old": "som gå på",
+    "new": "som går på"
   },
   {
-    "old": "till föda åt",
-    "new": "till mat åt"
+    "old": "och vandra på",
+    "new": "och vandrar på"
   },
   {
-    "old": "ännu återstå fem",
-    "new": "ännu återstår fem"
+    "old": "gör ände på",
+    "new": "gör slut på"
   },
   {
-    "old": "få bor i",
-    "new": "få bo i"
+    "old": "låg hos henne",
+    "new": "låg med henne"
   },
   {
-    "old": "eller lyssna till",
-    "new": "eller lyssnar till"
+    "old": "bli drucken och",
+    "new": "bli full och"
   },
   {
-    "old": "vid strömmen Kebar,",
-    "new": "vid floden Kebar,"
+    "old": "Du människobarn, vill",
+    "new": "Du människa, vill"
   },
   {
-    "old": "ska förnimma att",
-    "new": "ska inse att"
+    "old": "de förnimma att",
+    "new": "de inse att"
+  },
+  {
+    "old": "och fullkomlig i",
+    "new": "och perfekt i"
+  },
+  {
+    "old": "dina strömmar och",
+    "new": "dina floder och"
   }
- ]
+]
