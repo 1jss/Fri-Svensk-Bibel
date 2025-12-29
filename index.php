@@ -289,8 +289,7 @@ $book_names = [
       font-size: 0.7em;
       background-color: var(--background-color-transparent);
       backdrop-filter: blur(2px);
-      border-bottom-left-radius: 0.5em;
-      border-bottom-right-radius: 0.5em;
+      border-radius: 0.5em;
       box-shadow: var(--box-shadow);
       z-index: 1000;
       display: flex;
