@@ -1,49 +1,27 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,641
-Total word occurrences: 708,423
+Total unique words: 23,639
+Total word occurrences: 708,425
 Average occurrences per word: 29.97
 
-New unique words since last run: 9
+New unique words since last run: 1
 All new words:
-  1. "bråk" (8 times)
-  2. "slöjan" (4 times)
-  3. "bråka" (3 times)
-  4. "täckenas" (2 times)
-  5. "uppgett" (1 times)
-  6. "vinns" (1 times)
-  7. "intar" (1 times)
-  8. "bråket" (1 times)
-  9. "belöningar" (1 times)
+  1. "hjältens" (1 times)
 
-Removed unique words since last run: 17
+Removed unique words since last run: 3
 All removed words:
-  1. "skänker" (45 times)
-  2. "kanhända" (34 times)
-  3. "täckelse" (18 times)
-  4. "träta" (11 times)
-  5. "täckelset" (10 times)
-  6. "gossebarn" (4 times)
-  7. "täckelsets" (2 times)
-  8. "tilldrog" (2 times)
-  9. "trätan" (2 times)
-  10. "uppgivit" (1 times)
-  11. "barnaföderskorna" (1 times)
-  12. "upptog" (1 times)
-  13. "örontasslare" (1 times)
-  14. "hulpen" (1 times)
-  15. "meddelen" (1 times)
-  16. "oborttaget" (1 times)
-  17. "bortskymt" (1 times)
+  1. "frälst" (19 times)
+  2. "huru" (15 times)
+  3. "förgät" (1 times)
 
-Single-use words (hapax legomena): 9,171 (38.79% of unique words)
+Single-use words (hapax legomena): 9,171 (38.80% of unique words)
 Words used 2-5 times: 7,730 (32.70% of unique words)
 
-Top 100 words cover: 395,992 occurrences
+Top 100 words cover: 395,993 occurrences
 That's 55.90% of all word occurrences
 
-Words used 100+ times: 656
-Words used 10+ times: 4,611
+Words used 100+ times: 655
+Words used 10+ times: 4,608
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -54,23 +32,23 @@ Words used 10+ times: 4,611
 60% coverage: 132 most common words
 70% coverage: 289 most common words
 80% coverage: 787 most common words
-90% coverage: 2,793 most common words
-95% coverage: 6,140 most common words
-99% coverage: 16,557 most common words
+90% coverage: 2,792 most common words
+95% coverage: 6,138 most common words
+99% coverage: 16,555 most common words
 
 === Frequency Distribution ===
-1 time: 9,171 words (38.79%)
+1 time: 9,171 words (38.80%)
 2-5 times: 7,730 words (32.70%)
-6-10 times: 2,481 words (10.49%)
-11-50 times: 3,107 words (13.14%)
+6-10 times: 2,481 words (10.50%)
+11-50 times: 3,105 words (13.14%)
 51-100 times: 502 words (2.12%)
 101-500 times: 472 words (2.00%)
 501-1000 times: 69 words (0.29%)
 1000+ times: 109 words (0.46%)
 
 === Word Length Analysis ===
-1-3 letters: 560 words (2.37%), avg frequency: 603.54
-4-6 letters: 8,235 words (34.83%), avg frequency: 33.33
-7-9 letters: 9,296 words (39.32%), avg frequency: 7.87
+1-3 letters: 560 words (2.37%), avg frequency: 603.56
+4-6 letters: 8,232 words (34.82%), avg frequency: 33.34
+7-9 letters: 9,297 words (39.33%), avg frequency: 7.87
 10-12 letters: 4,234 words (17.91%), avg frequency: 4.43
 13+ letters: 1,316 words (5.57%), avg frequency: 3.05

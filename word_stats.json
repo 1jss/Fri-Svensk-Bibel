@@ -33,7 +33,7 @@
   },
   {
     "word": "det",
-    "count": 9403
+    "count": 9404
   },
   {
     "word": "jag",
@@ -85,7 +85,7 @@
   },
   {
     "word": "honom",
-    "count": 5874
+    "count": 5875
   },
   {
     "word": "herren",
@@ -141,7 +141,7 @@
   },
   {
     "word": "hans",
-    "count": 3660
+    "count": 3659
   },
   {
     "word": "när",
@@ -245,7 +245,7 @@
   },
   {
     "word": "vara",
-    "count": 1804
+    "count": 1805
   },
   {
     "word": "allt",
@@ -285,7 +285,7 @@
   },
   {
     "word": "skulle",
-    "count": 1503
+    "count": 1504
   },
   {
     "word": "vill",
@@ -293,7 +293,7 @@
   },
   {
     "word": "bli",
-    "count": 1490
+    "count": 1489
   },
   {
     "word": "hus",
@@ -329,7 +329,7 @@
   },
   {
     "word": "komma",
-    "count": 1340
+    "count": 1339
   },
   {
     "word": "sitt",
@@ -469,7 +469,7 @@
   },
   {
     "word": "kommer",
-    "count": 931
+    "count": 932
   },
   {
     "word": "under",
@@ -505,15 +505,15 @@
   },
   {
     "word": "än",
-    "count": 809
+    "count": 807
+  },
+  {
+    "word": "hur",
+    "count": 803
   },
   {
     "word": "lät",
     "count": 791
-  },
-  {
-    "word": "hur",
-    "count": 788
   },
   {
     "word": "juda",
@@ -625,7 +625,7 @@
   },
   {
     "word": "blir",
-    "count": 645
+    "count": 646
   },
   {
     "word": "vår",
@@ -1208,15 +1208,15 @@
     "count": 253
   },
   {
+    "word": "ändå",
+    "count": 253
+  },
+  {
     "word": "själ",
     "count": 252
   },
   {
     "word": "fem",
-    "count": 252
-  },
-  {
-    "word": "ändå",
     "count": 252
   },
   {
@@ -2168,6 +2168,10 @@
     "count": 123
   },
   {
+    "word": "be",
+    "count": 123
+  },
+  {
     "word": "bättre",
     "count": 123
   },
@@ -2281,10 +2285,6 @@
   },
   {
     "word": "hustrur",
-    "count": 116
-  },
-  {
-    "word": "be",
     "count": 116
   },
   {
@@ -2608,10 +2608,6 @@
     "count": 100
   },
   {
-    "word": "vore",
-    "count": 100
-  },
-  {
     "word": "kasta",
     "count": 100
   },
@@ -2641,6 +2637,10 @@
   },
   {
     "word": "reste",
+    "count": 99
+  },
+  {
+    "word": "vore",
     "count": 99
   },
   {
@@ -4972,6 +4972,10 @@
     "count": 46
   },
   {
+    "word": "räddat",
+    "count": 46
+  },
+  {
     "word": "nådig",
     "count": 46
   },
@@ -5037,6 +5041,10 @@
   },
   {
     "word": "jubla",
+    "count": 46
+  },
+  {
+    "word": "räddad",
     "count": 46
   },
   {
@@ -5776,10 +5784,6 @@
     "count": 39
   },
   {
-    "word": "räddat",
-    "count": 39
-  },
-  {
     "word": "däri",
     "count": 39
   },
@@ -6501,10 +6505,6 @@
   },
   {
     "word": "uria",
-    "count": 34
-  },
-  {
-    "word": "räddad",
     "count": 34
   },
   {
@@ -7260,10 +7260,6 @@
     "count": 30
   },
   {
-    "word": "frälsare",
-    "count": 30
-  },
-  {
     "word": "makten",
     "count": 30
   },
@@ -7696,6 +7692,10 @@
     "count": 28
   },
   {
+    "word": "även",
+    "count": 28
+  },
+  {
     "word": "portarna",
     "count": 28
   },
@@ -7929,10 +7929,6 @@
   },
   {
     "word": "hedmarken",
-    "count": 27
-  },
-  {
-    "word": "även",
     "count": 27
   },
   {
@@ -9936,6 +9932,10 @@
     "count": 21
   },
   {
+    "word": "räddare",
+    "count": 21
+  },
+  {
     "word": "rådslag",
     "count": 21
   },
@@ -10789,10 +10789,6 @@
   },
   {
     "word": "vapendragare",
-    "count": 19
-  },
-  {
-    "word": "frälst",
     "count": 19
   },
   {
@@ -12120,6 +12116,10 @@
     "count": 16
   },
   {
+    "word": "lyfta",
+    "count": 16
+  },
+  {
     "word": "köp",
     "count": 16
   },
@@ -12752,10 +12752,6 @@
     "count": 15
   },
   {
-    "word": "lyfta",
-    "count": 15
-  },
-  {
     "word": "hälsade",
     "count": 15
   },
@@ -12945,10 +12941,6 @@
   },
   {
     "word": "fikon",
-    "count": 15
-  },
-  {
-    "word": "huru",
     "count": 15
   },
   {
@@ -13680,10 +13672,6 @@
     "count": 14
   },
   {
-    "word": "bed",
-    "count": 14
-  },
-  {
     "word": "bygg",
     "count": 14
   },
@@ -13985,6 +13973,10 @@
   },
   {
     "word": "murpelare",
+    "count": 14
+  },
+  {
+    "word": "frälsare",
     "count": 14
   },
   {
@@ -18124,10 +18116,6 @@
     "count": 10
   },
   {
-    "word": "upplyfta",
-    "count": 10
-  },
-  {
     "word": "bekände",
     "count": 10
   },
@@ -19228,6 +19216,10 @@
     "count": 9
   },
   {
+    "word": "glöm",
+    "count": 9
+  },
+  {
     "word": "lovar",
     "count": 9
   },
@@ -19649,6 +19641,10 @@
   },
   {
     "word": "föreståndarna",
+    "count": 9
+  },
+  {
+    "word": "upplyfta",
     "count": 9
   },
   {
@@ -20837,10 +20833,6 @@
   },
   {
     "word": "högmodigt",
-    "count": 8
-  },
-  {
-    "word": "glöm",
     "count": 8
   },
   {
@@ -22733,6 +22725,10 @@
   },
   {
     "word": "lustar",
+    "count": 7
+  },
+  {
+    "word": "bed",
     "count": 7
   },
   {
@@ -26556,10 +26552,6 @@
     "count": 6
   },
   {
-    "word": "hjälten",
-    "count": 6
-  },
-  {
     "word": "förhävt",
     "count": 6
   },
@@ -28872,10 +28864,6 @@
     "count": 5
   },
   {
-    "word": "räddare",
-    "count": 5
-  },
-  {
     "word": "skakades",
     "count": 5
   },
@@ -29965,6 +29953,10 @@
   },
   {
     "word": "vältrar",
+    "count": 5
+  },
+  {
+    "word": "hjälten",
     "count": 5
   },
   {
@@ -62324,10 +62316,6 @@
     "count": 1
   },
   {
-    "word": "förgät",
-    "count": 1
-  },
-  {
     "word": "hemlös",
     "count": 1
   },
@@ -79425,6 +79413,10 @@
   },
   {
     "word": "segerns",
+    "count": 1
+  },
+  {
+    "word": "hjältens",
     "count": 1
   },
   {
