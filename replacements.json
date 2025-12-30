@@ -1,86 +1,18 @@
 [
   {
-    "old": "era eländiga avgudar.",
-    "new": "era usla avgudar."
+    "old": "skulle har för",
+    "new": "skulle ha för"
   },
   {
-    "new": "att kasta lott",
-    "old": "att slå lott"
+    "old": "Nu frågen ni:",
+    "new": "Nu frågar ni:"
   },
   {
-    "old": "inte mer höra",
-    "new": "inte längre höra"
+    "old": "ni bären fram",
+    "new": "ni bär fram"
   },
   {
-    "old": "Aldrig längre ska",
-    "new": "Aldrig mer ska"
-  },
-  {
-    "old": "en klagosång över",
-    "new": "en sorgesång över"
-  },
-  {
-    "old": "din här och",
-    "new": "din armé och"
-  },
-  {
-    "old": "är förbi med",
-    "new": "är slut med"
-  },
-  {
-    "old": "och övar rätt",
-    "new": "och gör rätt"
-  },
-  {
-    "old": "inte mer låta",
-    "new": "inte längre låta"
-  },
-  {
-    "old": "inte mer behöva",
-    "new": "inte längre behöva"
-  },
-  {
-    "old": "var liksom stor",
-    "new": "var lika stor"
-  },
-  {
-    "old": "vaktkamrar, murpelare och",
-    "new": "vaktkamrar, pelare och"
-  },
-  {
-    "old": "härlighet uppfyllde huset.</VERS>",
-    "new": "härlighet fyllde huset.</VERS>"
-  },
-  {
-    "old": "ta något av",
-    "new": "ta lite av"
-  },
-  {
-    "old": "härlighet uppfyllde Herrens",
-    "new": "härlighet fyllde Herrens"
-  },
-  {
-    "old": "de komma in",
-    "new": "de kommer in"
-  },
-  {
-    "old": "De få inte",
-    "new": "De får inte"
-  },
-  {
-    "old": "till var tjur",
-    "new": "till varje tjur"
-  },
-  {
-    "old": "till föda och",
-    "new": "till mat och"
-  },
-  {
-    "old": "som arvedel åt",
-    "new": "som arv åt"
-  },
-  {
-    "old": "ska har en",
-    "new": "ska ha en"
+    "old": "Åter frågen ni:",
+    "new": "Åter frågar ni:"
   }
 ]
