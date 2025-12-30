@@ -1,33 +1,188 @@
 === Word Statistics Analysis ===
 
-Total unique words: 23,626
-Total word occurrences: 708,053
+Total unique words: 23,607
+Total word occurrences: 707,473
 Average occurrences per word: 29.97
 
-New unique words since last run: 4
+New unique words since last run: 73
 All new words:
-  1. "psaltaren" (2 times)
-  2. "hundratjugo" (1 times)
-  3. "kretensare" (1 times)
-  4. "berusade" (1 times)
+  1. "myndigheten" (6 times)
+  2. "fördel" (3 times)
+  3. "ympas" (3 times)
+  4. "intas" (2 times)
+  5. "rättfärdiggörande" (2 times)
+  6. "ympats" (2 times)
+  7. "omöjliga" (2 times)
+  8. "jobbat" (2 times)
+  9. "binds" (1 times)
+  10. "upptänds" (1 times)
+  11. "brotten" (1 times)
+  12. "soldat" (1 times)
+  13. "traditioner" (1 times)
+  14. "utlämnad" (1 times)
+  15. "motsatte" (1 times)
+  16. "tvungen" (1 times)
+  17. "övertygas" (1 times)
+  18. "förhärdat" (1 times)
+  19. "sugna" (1 times)
+  20. "obotfärdiga" (1 times)
+  21. "envist" (1 times)
+  22. "avskyr" (1 times)
+  23. "inombords" (1 times)
+  24. "roll" (1 times)
+  25. "ormgift" (1 times)
+  26. "befrielsen" (1 times)
+  27. "förfader" (1 times)
+  28. "utlämnades" (1 times)
+  29. "tillgång" (1 times)
+  30. "styrkan" (1 times)
+  31. "uttryckligt" (1 times)
+  32. "begravda" (1 times)
+  33. "väcktes" (1 times)
+  34. "aktiva" (1 times)
+  35. "överdrivet" (1 times)
+  36. "stackars" (1 times)
+  37. "lagts" (1 times)
+  38. "frigöras" (1 times)
+  39. "utväljande" (1 times)
+  40. "ansträngning" (1 times)
+  41. "slutgiltig" (1 times)
+  42. "predikanter" (1 times)
+  43. "rentav" (1 times)
+  44. "olydigt" (1 times)
+  45. "trotsigt" (1 times)
+  46. "valts" (1 times)
+  47. "sömnens" (1 times)
+  48. "fåtal" (1 times)
+  49. "värdesätter" (1 times)
+  50. "avvisande" (1 times)
+  51. "accepterande" (1 times)
+  52. "saftiga" (1 times)
+  53. "ympa" (1 times)
+  54. "huggits" (1 times)
+  55. "förhärdelse" (1 times)
+  56. "visats" (1 times)
+  57. "utforskliga" (1 times)
+  58. "anpassa" (1 times)
+  59. "enkelt" (1 times)
+  60. "myndigheterna" (1 times)
+  61. "undvika" (1 times)
+  62. "godkänd" (1 times)
+  63. "skrevs" (1 times)
+  64. "handling" (1 times)
+  65. "hindrats" (1 times)
+  66. "stödet" (1 times)
+  67. "rekommenderar" (1 times)
+  68. "inklusive" (1 times)
+  69. "riskerat" (1 times)
+  70. "jobbar" (1 times)
+  71. "förkunnats" (1 times)
+  72. "splittringar" (1 times)
+  73. "inställning" (1 times)
 
-Removed unique words since last run: 6
+Removed unique words since last run: 92
 All removed words:
-  1. "psalmernas" (2 times)
-  2. "bönfallen" (1 times)
-  3. "upptänden" (1 times)
-  4. "etthundratjugu" (1 times)
-  5. "insättas" (1 times)
-  6. "kretenser" (1 times)
+  1. "beståndande" (16 times)
+  2. "tagas" (13 times)
+  3. "grundval" (7 times)
+  4. "övervinna" (6 times)
+  5. "dragas" (4 times)
+  6. "endas" (4 times)
+  7. "tillräknad" (2 times)
+  8. "fördömelsedom" (2 times)
+  9. "uppväckas" (2 times)
+  10. "inympad" (2 times)
+  11. "överträdelsens" (1 times)
+  12. "upptändens" (1 times)
+  13. "romarnas" (1 times)
+  14. "andevarelse" (1 times)
+  15. "mordlust" (1 times)
+  16. "grälsjuka" (1 times)
+  17. "vrångsinthet" (1 times)
+  18. "skonsamhets" (1 times)
+  19. "tålamods" (1 times)
+  20. "obotfärdighet" (1 times)
+  21. "judens" (1 times)
+  22. "grekens" (1 times)
+  23. "tempelrån" (1 times)
+  24. "betrodda" (1 times)
+  25. "tillstoppad" (1 times)
+  26. "försoningsmedel" (1 times)
+  27. "begångna" (1 times)
+  28. "beviset" (1 times)
+  29. "utestängd" (1 times)
+  30. "skedde" (1 times)
+  31. "arvedelen" (1 times)
+  32. "försvagades" (1 times)
+  33. "tillräknades" (1 times)
+  34. "rättfärdiggörelses" (1 times)
+  35. "rättfärdiggörelsedom" (1 times)
+  36. "rättfärdighetsgåvan" (1 times)
+  37. "rättfärdiggörelsedomen" (1 times)
+  38. "medför" (1 times)
+  39. "utövat" (1 times)
+  40. "orättfärdighetsvapen" (1 times)
+  41. "rättfärdighetsvapen" (1 times)
+  42. "lyden" (1 times)
+  43. "verksamma" (1 times)
+  44. "varunder" (1 times)
+  45. "hemföll" (1 times)
+  46. "vidgår" (1 times)
+  47. "fördömde" (1 times)
+  48. "förpliktelse" (1 times)
+  49. "slaveriets" (1 times)
+  50. "barnaskapets" (1 times)
+  51. "skapelsens" (1 times)
+  52. "frigjord" (1 times)
+  53. "skänka" (1 times)
+  54. "utkorelserådslut" (1 times)
+  55. "slutdom" (1 times)
+  56. "ohörsamt" (1 times)
+  57. "sömnaktighetens" (1 times)
+  58. "fåtalighet" (1 times)
+  59. "fulltalighet" (1 times)
+  60. "förkastelse" (1 times)
+  61. "mottagande" (1 times)
+  62. "saftrika" (1 times)
+  63. "bortbrutna" (1 times)
+  64. "inympade" (1 times)
+  65. "inympa" (1 times)
+  66. "inympats" (1 times)
+  67. "inympas" (1 times)
+  68. "förlossaren" (1 times)
+  69. "bruke" (1 times)
+  70. "lärarkall" (1 times)
+  71. "hedersbevisning" (1 times)
+  72. "övervinn" (1 times)
+  73. "förordnad" (1 times)
+  74. "vredesdomens" (1 times)
+  75. "ändamål" (1 times)
+  76. "vållas" (1 times)
+  77. "ondo" (1 times)
+  78. "ståndaktighetens" (1 times)
+  79. "tröstens" (1 times)
+  80. "efterföljelse" (1 times)
+  81. "sannfärdighet" (1 times)
+  82. "barmhärtighets" (1 times)
+  83. "prise" (1 times)
+  84. "uppfylle" (1 times)
+  85. "prästerlig" (1 times)
+  86. "lydaktiga" (1 times)
+  87. "förhindrad" (1 times)
+  88. "genomresan" (1 times)
+  89. "stillad" (1 times)
+  90. "bistån" (1 times)
+  91. "avslöjade" (1 times)
+  92. "klyftiga" (1 times)
 
-Single-use words (hapax legomena): 9,149 (38.72% of unique words)
-Words used 2-5 times: 7,748 (32.79% of unique words)
+Single-use words (hapax legomena): 9,152 (38.77% of unique words)
+Words used 2-5 times: 7,725 (32.72% of unique words)
 
-Top 100 words cover: 395,651 occurrences
-That's 55.88% of all word occurrences
+Top 100 words cover: 395,224 occurrences
+That's 55.86% of all word occurrences
 
 Words used 100+ times: 659
-Words used 10+ times: 4,591
+Words used 10+ times: 4,592
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -37,24 +192,24 @@ Words used 10+ times: 4,591
 50% coverage: 68 most common words
 60% coverage: 132 most common words
 70% coverage: 289 most common words
-80% coverage: 786 most common words
-90% coverage: 2,787 most common words
-95% coverage: 6,135 most common words
-99% coverage: 16,546 most common words
+80% coverage: 787 most common words
+90% coverage: 2,785 most common words
+95% coverage: 6,133 most common words
+99% coverage: 16,533 most common words
 
 === Frequency Distribution ===
-1 time: 9,149 words (38.72%)
-2-5 times: 7,748 words (32.79%)
-6-10 times: 2,478 words (10.49%)
-11-50 times: 3,096 words (13.10%)
-51-100 times: 504 words (2.13%)
+1 time: 9,152 words (38.77%)
+2-5 times: 7,725 words (32.72%)
+6-10 times: 2,482 words (10.51%)
+11-50 times: 3,092 words (13.10%)
+51-100 times: 505 words (2.14%)
 101-500 times: 473 words (2.00%)
 501-1000 times: 68 words (0.29%)
 1000+ times: 110 words (0.47%)
 
 === Word Length Analysis ===
-1-3 letters: 561 words (2.37%), avg frequency: 602.21
-4-6 letters: 8,234 words (34.85%), avg frequency: 33.34
-7-9 letters: 9,290 words (39.32%), avg frequency: 7.86
-10-12 letters: 4,229 words (17.90%), avg frequency: 4.42
-13+ letters: 1,312 words (5.55%), avg frequency: 3.05
+1-3 letters: 561 words (2.38%), avg frequency: 601.54
+4-6 letters: 8,240 words (34.90%), avg frequency: 33.30
+7-9 letters: 9,284 words (39.33%), avg frequency: 7.86
+10-12 letters: 4,224 words (17.89%), avg frequency: 4.41
+13+ letters: 1,298 words (5.50%), avg frequency: 3.06
