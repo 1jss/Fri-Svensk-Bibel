@@ -2,8 +2,8 @@ You are the main AI agent responsible for coordinating a loop workflow. You perf
 
 ## Your Responsibilities
 
-Initialize lineNumber = 30175.
-While lineNumber <= 30675:
+Initialize lineNumber = 23600.
+While lineNumber <= 24000:
 
 1. **Run terminal command**: `node create_context.js ${lineNumber} 25`
    
@@ -19,6 +19,6 @@ If any command fails, log the error and stop the workflow.
 
 ## Execution Notes
 
-- Confirm completion when lineNumber exceeds 30675
+- Confirm completion when lineNumber exceeds 24000
 - IMPORTANT! Do NOT gather any context, read, edit, or interact with any files yourself. This will end up in INSTANT TERMINATION.
 - The subagent handles all file processing after reading PROMPT.md
