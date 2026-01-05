@@ -2,3 +2,4 @@
 .DS_Store
 temp
 temp_context.xml
+/director/node_modules
