@@ -30,5 +30,33 @@
   {
     "text": "Josef dog, och alla hans bröder och hela hans släkt följde efter.",
     "comment": "- Status: OLIKA\n- Avikelse: Text B antyder en tidsmässig efterföljd (\"följde efter\") som inte uttrycks i Text A, vilket förändrar den logiska innebörden något."
+  },
+  {
+    "text": "På denna dag i månaden Abib ska ni stanna kvar nu.",
+    "comment": "- Status: OLIKA\n- Avikelse: Meningarna har motsatt logisk innebörd; Text A antyder en utresa, medan Text B antyder att man ska stanna kvar."
+  },
+  {
+    "text": "Levis barn gjorde som Mose hade sagt. På den dagen dog ungefär tre tusen män.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en följd av händelser som ett resultat av Mose's instruktioner, medan Text B fokuserar på dödsfallet som en händelse som inträffade."
+  },
+  {
+    "text": "Gjutna gudar ska du inte förringa.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text A uttrycker ett förbud mot att skapa avgudagestalter, medan Text B handlar om att inte nedvärdera dem."
+  },
+  {
+    "text": "Men om någon vill offra ett lamm som syndoffer, ska han föra fram ett felfritt djur av hönkön.",
+    "comment": "- Status: OLIKA\n- Avikelse: Ordet \"hönkön\" i Text B är en felaktig transkribering av \"honkön\" och förändrar djurets kön, vilket påverkar den logiska innebörden av ritualen."
+  },
+  {
+    "text": "ugglen, dykfågeln, havsörnen,",
+    "comment": "- Status: OLIKA\n- Avikelse: Listan över fåglar har ändrats, vilket påverkar den specifika informationen som förmedlas."
+  },
+  {
+    "text": "Prästen ska befara att man slaktar den ena fågeln över ett lerkärl med friskt vatten i.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en handling som prästen initierar, medan Text B uttrycker prästens rädsla för en handling."
+  },
+  {
+    "text": "Detta är lagen om den som har flytt och om den som har blivit renad, så att han genom det blir oren.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en situation där handlingen (sädesutgjutning) leder till orenhet, medan Text B beskriver en situation där reningsprocessen (blivit renad) leder till orenhet."
   }
 ]
