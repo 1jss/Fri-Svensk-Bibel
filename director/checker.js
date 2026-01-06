@@ -7,20 +7,17 @@ async function main() {
   const client = new LMStudioClient();
   const model = await client.llm.model(); // Uses the default loaded model
 
-  const systemPrompt = `Du är en expert på lingvistik och semantik med specialisering i svenska språket från 1900-talets början fram till idag.
-
-Din uppgift är att jämföra två meningar (Text A från år 1900 och Text B från år 2000) och avgöra om de förmedlar exakt samma budskap och logiska innebörd, trots skillnader i stil, ordförråd och grammatik.
-
-### Bedömningskriterier:
-1. Andemening: Är det grundläggande budskapet detsamma?
-2. Logik och Syftning: Flagga för skillnad om vem som gör vad, eller förhållandet mellan objekt, har ändrats.
-3. Kontextuella synonymer: Acceptera att ord som "automobil" (1900) motsvarar "bil" (2000).
-4. Acceptera inte förändringar av namn, platser eller specifika fakta.
+  const systemPrompt = `Du är en noggrann granskare. Din uppgift är att jämföra egennamn och personnamn (ovanliga namn) i två texter (A och B) och se till att de är identiska.
+  
+Regler:
+* Se om det finns några egennamn (personnamn och platsnamn) med stor bokstav. Jämför endast dessa.
+* Om namnen finns i båda texterna och är identiska, svara med "LIKA" och "INGEN" som avikelse.
+* Om det finns skillnader, svara med "OLIKA" och specificera vad som skiljer sig åt.
 
 ### Output-format:
 Svara strikt enligt följande struktur utan ytterligare förklaringar:
 - Status: [LIKA / OLIKA]
-- Avikelse: [En mening som förklarar skillnaden, eller "Inga avvikelser" om de är lika.]
+- Avikelse: [Vad som har ändrats, eller "INGEN" om inga skillnader finns]
 `; // Hard-coded system prompt
 
   const startLine = parseInt(process.argv[2]) || 0;
@@ -55,7 +52,7 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
     if (matchPre && matchPost) {
       const textPre = matchPre[1];
       const textPost = matchPost[1];
-      const promptText = `Text A (1900): "${textPre}"\nText B (2000): "${textPost}"`;
+      const promptText = `Text A: "${textPre}"\nText B: "${textPost}"`;
       const chat = Chat.from([
         { role: "system", content: systemPrompt },
         { role: "user", content: promptText }
