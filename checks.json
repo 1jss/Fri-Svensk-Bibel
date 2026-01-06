@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Då sa Herren till Kain: \"Var är din bror Abel?\" Han svarade: \"Jag vet inte. Ska jag vara ansvarig för min broder?\"",
+    "comment": "- Status: [OLIKA]\n- Avikelse: Syftningen har förändrats; i Text A frågas om Kain tar vara på Abel, medan Text B frågar om han är ansvarig för Abel."
+  },
+  {
+    "text": "På samma sätt tog han med sju par fåglar från himlen, ett hane och ett hon, för att bevara deras släkt på hela jorden.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver fåglarnas agerande, medan Text B specificerar att \"han\" tar med fåglarna."
+  },
+  {
+    "text": "och han talade med dem och sa: \"Om ni tillåter att jag bär ut min döda och begraver henne, så lyssnar ni på mig och lovar mig att köpa marken av Efron, Sohars son.\"",
+    "comment": "- Status: [OLIKA]\n- Avikelse: \"Tillstädjen\" har ersatts med \"tillåter\", och \"läggen eder ut för mig hos Efron\" har ersatts med \"lovar mig att köpa marken av Efron\", vilket ändrar den exakta handlingen som begärs."
+  },
+  {
+    "text": "Men de svarade: \"Skulle man då behandla vår syster som en otrogen?\"",
+    "comment": "- Status: OLIKA\n- Avikelse: Ändringen från \"sköka\" till \"otrogen\" förändrar den exakta innebörden av anklagelsen och därmed budskapet."
+  },
+  {
+    "text": "Men du, Judas förstfödde, misshagade Herren. Därför dödade han honom.",
+    "comment": "- Status: OLIKA\n- Avikelse: Subjektet som utför handlingen \"döda\" har ändrats från HERREN till Judas."
+  },
+  {
+    "text": "När Josef sedan kom hem, tog de skänkarna som de hade med sig in till honom i huset och föll ner på knä framför honom.",
+    "comment": "- Status: OLIKA\n- Avikelse: Handlingen \"föllo ned för honom till jorden\" i Text A har förändrats till \"föll ner på knä framför honom\" i Text B, vilket indikerar en förändring i syftning och handlingens natur."
+  },
+  {
+    "text": "De som kom med Jakob till Egypten, de som hade utgått från hans land, utgjorde alla tillsammans sextiosex personer, förutom Jakobs döttrar.",
+    "comment": "- Status: [OLIKA]\n- Avikelse: \"Sonhustrur\" och \"döttrar\" är inte semantiskt ekvivalenta, vilket förändrar den exakta informationen om vilka som ingick i gruppen."
+  },
+  {
+    "text": "Josef dog, och alla hans bröder och hela hans släkt följde efter.",
+    "comment": "- Status: OLIKA\n- Avikelse: Text B antyder en tidsmässig efterföljd (\"följde efter\") som inte uttrycks i Text A, vilket förändrar den logiska innebörden något."
+  }
+]
