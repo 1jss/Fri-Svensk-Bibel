@@ -1,11 +1,11 @@
 [
   {
     "word": "och",
-    "count": 31977
+    "count": 31972
   },
   {
     "word": "som",
-    "count": 15249
+    "count": 15250
   },
   {
     "word": "till",
@@ -13,7 +13,7 @@
   },
   {
     "word": "ska",
-    "count": 12897
+    "count": 12896
   },
   {
     "word": "han",
@@ -25,7 +25,7 @@
   },
   {
     "word": "de",
-    "count": 10613
+    "count": 10615
   },
   {
     "word": "att",
@@ -33,7 +33,7 @@
   },
   {
     "word": "det",
-    "count": 9272
+    "count": 9271
   },
   {
     "word": "jag",
@@ -45,7 +45,7 @@
   },
   {
     "word": "inte",
-    "count": 8125
+    "count": 8126
   },
   {
     "word": "är",
@@ -57,7 +57,7 @@
   },
   {
     "word": "en",
-    "count": 7464
+    "count": 7463
   },
   {
     "word": "den",
@@ -65,7 +65,7 @@
   },
   {
     "word": "så",
-    "count": 6738
+    "count": 6739
   },
   {
     "word": "med",
@@ -77,7 +77,7 @@
   },
   {
     "word": "av",
-    "count": 6005
+    "count": 6006
   },
   {
     "word": "honom",
@@ -113,7 +113,7 @@
   },
   {
     "word": "om",
-    "count": 4059
+    "count": 4060
   },
   {
     "word": "från",
@@ -129,7 +129,7 @@
   },
   {
     "word": "sig",
-    "count": 3776
+    "count": 3777
   },
   {
     "word": "hade",
@@ -161,7 +161,7 @@
   },
   {
     "word": "ett",
-    "count": 2672
+    "count": 2673
   },
   {
     "word": "min",
@@ -169,7 +169,7 @@
   },
   {
     "word": "din",
-    "count": 2560
+    "count": 2561
   },
   {
     "word": "över",
@@ -185,7 +185,7 @@
   },
   {
     "word": "efter",
-    "count": 2305
+    "count": 2304
   },
   {
     "word": "åt",
@@ -201,11 +201,11 @@
   },
   {
     "word": "också",
-    "count": 2132
+    "count": 2131
   },
   {
     "word": "ut",
-    "count": 2120
+    "count": 2119
   },
   {
     "word": "där",
@@ -225,7 +225,7 @@
   },
   {
     "word": "son",
-    "count": 1942
+    "count": 1941
   },
   {
     "word": "deras",
@@ -253,7 +253,7 @@
   },
   {
     "word": "vara",
-    "count": 1712
+    "count": 1711
   },
   {
     "word": "barn",
@@ -333,7 +333,7 @@
   },
   {
     "word": "ja",
-    "count": 1280
+    "count": 1279
   },
   {
     "word": "sitt",
@@ -389,15 +389,15 @@
   },
   {
     "word": "in",
-    "count": 1065
+    "count": 1066
   },
   {
     "word": "ditt",
-    "count": 1063
+    "count": 1062
   },
   {
     "word": "kung",
-    "count": 1061
+    "count": 1059
   },
   {
     "word": "mina",
@@ -473,7 +473,7 @@
   },
   {
     "word": "bland",
-    "count": 931
+    "count": 933
   },
   {
     "word": "under",
@@ -497,7 +497,7 @@
   },
   {
     "word": "får",
-    "count": 869
+    "count": 870
   },
   {
     "word": "låt",
@@ -517,7 +517,7 @@
   },
   {
     "word": "än",
-    "count": 793
+    "count": 792
   },
   {
     "word": "män",
@@ -548,11 +548,11 @@
     "count": 756
   },
   {
-    "word": "fick",
-    "count": 751
+    "word": "far",
+    "count": 750
   },
   {
-    "word": "far",
+    "word": "fick",
     "count": 750
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "word": "namn",
-    "count": 706
+    "count": 707
   },
   {
     "word": "dag",
@@ -693,11 +693,11 @@
   },
   {
     "word": "samma",
-    "count": 507
+    "count": 508
   },
   {
     "word": "emot",
-    "count": 503
+    "count": 502
   },
   {
     "word": "bröder",
@@ -749,7 +749,7 @@
   },
   {
     "word": "ansikte",
-    "count": 464
+    "count": 463
   },
   {
     "word": "äta",
@@ -925,7 +925,7 @@
   },
   {
     "word": "tala",
-    "count": 356
+    "count": 357
   },
   {
     "word": "dock",
@@ -1408,16 +1408,16 @@
     "count": 213
   },
   {
-    "word": "låter",
-    "count": 209
-  },
-  {
     "word": "lag",
-    "count": 209
+    "count": 210
   },
   {
     "word": "berg",
-    "count": 208
+    "count": 209
+  },
+  {
+    "word": "låter",
+    "count": 209
   },
   {
     "word": "dricka",
@@ -1656,6 +1656,10 @@
     "count": 181
   },
   {
+    "word": "arvedel",
+    "count": 181
+  },
+  {
     "word": "sex",
     "count": 180
   },
@@ -1665,10 +1669,6 @@
   },
   {
     "word": "josef",
-    "count": 180
-  },
-  {
-    "word": "arvedel",
     "count": 180
   },
   {
@@ -1716,19 +1716,15 @@
     "count": 174
   },
   {
+    "word": "fars",
+    "count": 174
+  },
+  {
     "word": "sänt",
     "count": 174
   },
   {
     "word": "ske",
-    "count": 173
-  },
-  {
-    "word": "fars",
-    "count": 173
-  },
-  {
-    "word": "bygga",
     "count": 173
   },
   {
@@ -1741,6 +1737,10 @@
   },
   {
     "word": "mat",
+    "count": 172
+  },
+  {
+    "word": "bygga",
     "count": 172
   },
   {
@@ -1764,10 +1764,6 @@
     "count": 171
   },
   {
-    "word": "ropa",
-    "count": 171
-  },
-  {
     "word": "gammal",
     "count": 170
   },
@@ -1777,6 +1773,10 @@
   },
   {
     "word": "känner",
+    "count": 170
+  },
+  {
+    "word": "ropa",
     "count": 170
   },
   {
@@ -1840,16 +1840,16 @@
     "count": 162
   },
   {
+    "word": "sons",
+    "count": 161
+  },
+  {
     "word": "la",
     "count": 161
   },
   {
     "word": "fråga",
     "count": 161
-  },
-  {
-    "word": "sons",
-    "count": 160
   },
   {
     "word": "berget",
@@ -1864,15 +1864,15 @@
     "count": 159
   },
   {
-    "word": "liksom",
-    "count": 158
-  },
-  {
     "word": "nära",
     "count": 157
   },
   {
     "word": "följa",
+    "count": 157
+  },
+  {
+    "word": "liksom",
     "count": 157
   },
   {
@@ -2036,6 +2036,10 @@
     "count": 136
   },
   {
+    "word": "älskar",
+    "count": 135
+  },
+  {
     "word": "johannes",
     "count": 135
   },
@@ -2044,12 +2048,16 @@
     "count": 134
   },
   {
-    "word": "älskar",
+    "word": "sak",
     "count": 134
   },
   {
     "word": "jeremia",
     "count": 134
+  },
+  {
+    "word": "verk",
+    "count": 133
   },
   {
     "word": "steg",
@@ -2062,14 +2070,6 @@
   {
     "word": "enda",
     "count": 133
-  },
-  {
-    "word": "sak",
-    "count": 133
-  },
-  {
-    "word": "verk",
-    "count": 132
   },
   {
     "word": "våld",
@@ -2344,6 +2344,10 @@
     "count": 113
   },
   {
+    "word": "judas",
+    "count": 113
+  },
+  {
     "word": "hiskia",
     "count": 113
   },
@@ -2361,10 +2365,6 @@
   },
   {
     "word": "just",
-    "count": 112
-  },
-  {
-    "word": "judas",
     "count": 112
   },
   {
@@ -2480,15 +2480,15 @@
     "count": 107
   },
   {
+    "word": "stadgar",
+    "count": 107
+  },
+  {
     "word": "femtio",
     "count": 106
   },
   {
     "word": "gamla",
-    "count": 106
-  },
-  {
-    "word": "stadgar",
     "count": 106
   },
   {
@@ -2536,6 +2536,10 @@
     "count": 103
   },
   {
+    "word": "bergen",
+    "count": 103
+  },
+  {
     "word": "missgärning",
     "count": 103
   },
@@ -2565,10 +2569,6 @@
   },
   {
     "word": "syster",
-    "count": 102
-  },
-  {
-    "word": "bergen",
     "count": 102
   },
   {
@@ -2712,6 +2712,10 @@
     "count": 97
   },
   {
+    "word": "kungs",
+    "count": 97
+  },
+  {
     "word": "god",
     "count": 96
   },
@@ -2745,10 +2749,6 @@
   },
   {
     "word": "följande",
-    "count": 95
-  },
-  {
-    "word": "kungs",
     "count": 95
   },
   {
@@ -2896,10 +2896,6 @@
     "count": 89
   },
   {
-    "word": "därav",
-    "count": 88
-  },
-  {
     "word": "alldeles",
     "count": 88
   },
@@ -2924,7 +2920,15 @@
     "count": 88
   },
   {
+    "word": "därav",
+    "count": 87
+  },
+  {
     "word": "förstår",
+    "count": 87
+  },
+  {
+    "word": "nästa",
     "count": 87
   },
   {
@@ -3024,10 +3028,6 @@
     "count": 84
   },
   {
-    "word": "tempel",
-    "count": 84
-  },
-  {
     "word": "kvällen",
     "count": 83
   },
@@ -3037,10 +3037,6 @@
   },
   {
     "word": "nog",
-    "count": 83
-  },
-  {
-    "word": "nästa",
     "count": 83
   },
   {
@@ -3057,6 +3053,10 @@
   },
   {
     "word": "slagna",
+    "count": 83
+  },
+  {
+    "word": "tempel",
     "count": 83
   },
   {
@@ -3136,10 +3136,6 @@
     "count": 80
   },
   {
-    "word": "offrade",
-    "count": 80
-  },
-  {
     "word": "visste",
     "count": 80
   },
@@ -3165,6 +3161,10 @@
   },
   {
     "word": "mörker",
+    "count": 79
+  },
+  {
+    "word": "offrade",
     "count": 79
   },
   {
@@ -3844,6 +3844,10 @@
     "count": 62
   },
   {
+    "word": "lika",
+    "count": 61
+  },
+  {
     "word": "äldre",
     "count": 61
   },
@@ -3878,10 +3882,6 @@
   {
     "word": "lögn",
     "count": 61
-  },
-  {
-    "word": "lika",
-    "count": 60
   },
   {
     "word": "människan",
@@ -3965,6 +3965,10 @@
   },
   {
     "word": "efa",
+    "count": 59
+  },
+  {
+    "word": "bergsbygd",
     "count": 59
   },
   {
@@ -4144,6 +4148,10 @@
     "count": 56
   },
   {
+    "word": "vare",
+    "count": 56
+  },
+  {
     "word": "skett",
     "count": 56
   },
@@ -4197,10 +4205,6 @@
   },
   {
     "word": "hälsa",
-    "count": 55
-  },
-  {
-    "word": "vare",
     "count": 55
   },
   {
@@ -4520,10 +4524,6 @@
     "count": 52
   },
   {
-    "word": "bergsbygd",
-    "count": 52
-  },
-  {
     "word": "sinne",
     "count": 52
   },
@@ -4565,10 +4565,6 @@
   },
   {
     "word": "herde",
-    "count": 51
-  },
-  {
-    "word": "dottern",
     "count": 51
   },
   {
@@ -4665,6 +4661,10 @@
   },
   {
     "word": "tjänade",
+    "count": 50
+  },
+  {
+    "word": "dottern",
     "count": 50
   },
   {
@@ -4816,6 +4816,10 @@
     "count": 48
   },
   {
+    "word": "vittne",
+    "count": 48
+  },
+  {
     "word": "vitt",
     "count": 48
   },
@@ -4893,10 +4897,6 @@
   },
   {
     "word": "laban",
-    "count": 47
-  },
-  {
-    "word": "vittne",
     "count": 47
   },
   {
@@ -5084,6 +5084,10 @@
     "count": 45
   },
   {
+    "word": "öken",
+    "count": 45
+  },
+  {
     "word": "dans",
     "count": 45
   },
@@ -5169,10 +5173,6 @@
   },
   {
     "word": "född",
-    "count": 44
-  },
-  {
-    "word": "öken",
     "count": 44
   },
   {
@@ -5876,10 +5876,6 @@
     "count": 38
   },
   {
-    "word": "naftali",
-    "count": 38
-  },
-  {
     "word": "skaffade",
     "count": 38
   },
@@ -5965,6 +5961,10 @@
   },
   {
     "word": "röda",
+    "count": 37
+  },
+  {
+    "word": "naftali",
     "count": 37
   },
   {
@@ -6268,10 +6268,6 @@
     "count": 35
   },
   {
-    "word": "detsamma",
-    "count": 35
-  },
-  {
     "word": "kommande",
     "count": 35
   },
@@ -6428,10 +6424,6 @@
     "count": 34
   },
   {
-    "word": "faders",
-    "count": 34
-  },
-  {
     "word": "sörja",
     "count": 34
   },
@@ -6453,6 +6445,10 @@
   },
   {
     "word": "höjde",
+    "count": 34
+  },
+  {
+    "word": "detsamma",
     "count": 34
   },
   {
@@ -6601,6 +6597,10 @@
   },
   {
     "word": "hända",
+    "count": 33
+  },
+  {
+    "word": "faders",
     "count": 33
   },
   {
@@ -6780,6 +6780,10 @@
     "count": 32
   },
   {
+    "word": "gift",
+    "count": 32
+  },
+  {
     "word": "saken",
     "count": 32
   },
@@ -6864,10 +6868,6 @@
     "count": 32
   },
   {
-    "word": "baal",
-    "count": 32
-  },
-  {
     "word": "mycke",
     "count": 32
   },
@@ -6949,10 +6949,6 @@
   },
   {
     "word": "edoms",
-    "count": 31
-  },
-  {
-    "word": "gift",
     "count": 31
   },
   {
@@ -7057,6 +7053,10 @@
   },
   {
     "word": "mäktiga",
+    "count": 31
+  },
+  {
+    "word": "baal",
     "count": 31
   },
   {
@@ -7197,6 +7197,10 @@
   },
   {
     "word": "stänger",
+    "count": 30
+  },
+  {
+    "word": "fästa",
     "count": 30
   },
   {
@@ -7413,10 +7417,6 @@
   },
   {
     "word": "långa",
-    "count": 29
-  },
-  {
-    "word": "fästa",
     "count": 29
   },
   {
@@ -7808,6 +7808,10 @@
     "count": 27
   },
   {
+    "word": "offrar",
+    "count": 27
+  },
+  {
     "word": "hållas",
     "count": 27
   },
@@ -8093,10 +8097,6 @@
   },
   {
     "word": "bett",
-    "count": 26
-  },
-  {
-    "word": "offrar",
     "count": 26
   },
   {
@@ -8609,6 +8609,10 @@
   },
   {
     "word": "sinai",
+    "count": 24
+  },
+  {
+    "word": "nästas",
     "count": 24
   },
   {
@@ -11284,6 +11288,10 @@
     "count": 18
   },
   {
+    "word": "näsa",
+    "count": 17
+  },
+  {
     "word": "flod",
     "count": 17
   },
@@ -11456,10 +11464,6 @@
     "count": 17
   },
   {
-    "word": "nästas",
-    "count": 17
-  },
-  {
     "word": "lyda",
     "count": 17
   },
@@ -11501,6 +11505,10 @@
   },
   {
     "word": "skändlighet",
+    "count": 17
+  },
+  {
+    "word": "hårdhet",
     "count": 17
   },
   {
@@ -11792,10 +11800,6 @@
     "count": 16
   },
   {
-    "word": "näsa",
-    "count": 16
-  },
-  {
     "word": "ljuvligt",
     "count": 16
   },
@@ -11885,10 +11889,6 @@
   },
   {
     "word": "red",
-    "count": 16
-  },
-  {
-    "word": "person",
     "count": 16
   },
   {
@@ -12084,10 +12084,6 @@
     "count": 16
   },
   {
-    "word": "hårdhet",
-    "count": 16
-  },
-  {
     "word": "fyrtiotvå",
     "count": 16
   },
@@ -12237,6 +12233,10 @@
   },
   {
     "word": "geba",
+    "count": 16
+  },
+  {
+    "word": "baalerna",
     "count": 16
   },
   {
@@ -12525,6 +12525,10 @@
   },
   {
     "word": "lyssnat",
+    "count": 15
+  },
+  {
+    "word": "person",
     "count": 15
   },
   {
@@ -12849,10 +12853,6 @@
   },
   {
     "word": "förstått",
-    "count": 15
-  },
-  {
-    "word": "baalerna",
     "count": 15
   },
   {
@@ -14056,6 +14056,10 @@
     "count": 13
   },
   {
+    "word": "naftalis",
+    "count": 13
+  },
+  {
     "word": "ungt",
     "count": 13
   },
@@ -14845,10 +14849,6 @@
   },
   {
     "word": "kehat",
-    "count": 12
-  },
-  {
-    "word": "naftalis",
     "count": 12
   },
   {
@@ -16248,10 +16248,6 @@
     "count": 11
   },
   {
-    "word": "juden",
-    "count": 11
-  },
-  {
     "word": "sårade",
     "count": 11
   },
@@ -17444,10 +17440,6 @@
     "count": 10
   },
   {
-    "word": "orättfärdig",
-    "count": 10
-  },
-  {
     "word": "avståndet",
     "count": 10
   },
@@ -17881,6 +17873,10 @@
   },
   {
     "word": "förvaltare",
+    "count": 10
+  },
+  {
+    "word": "juden",
     "count": 10
   },
   {
@@ -19344,6 +19340,10 @@
     "count": 9
   },
   {
+    "word": "orättfärdig",
+    "count": 9
+  },
+  {
     "word": "förgäten",
     "count": 9
   },
@@ -20376,6 +20376,10 @@
     "count": 8
   },
   {
+    "word": "jahas",
+    "count": 8
+  },
+  {
     "word": "arnons",
     "count": 8
   },
@@ -20445,6 +20449,10 @@
   },
   {
     "word": "umgänge",
+    "count": 8
+  },
+  {
+    "word": "olivplanteringar",
     "count": 8
   },
   {
@@ -21852,10 +21860,6 @@
     "count": 7
   },
   {
-    "word": "bjöd",
-    "count": 7
-  },
-  {
     "word": "mödrar",
     "count": 7
   },
@@ -21881,10 +21885,6 @@
   },
   {
     "word": "reguel",
-    "count": 7
-  },
-  {
-    "word": "bergstrakter",
     "count": 7
   },
   {
@@ -22060,10 +22060,6 @@
     "count": 7
   },
   {
-    "word": "granne",
-    "count": 7
-  },
-  {
     "word": "isop",
     "count": 7
   },
@@ -22101,10 +22097,6 @@
   },
   {
     "word": "basunljud",
-    "count": 7
-  },
-  {
-    "word": "grannes",
     "count": 7
   },
   {
@@ -22388,10 +22380,6 @@
     "count": 7
   },
   {
-    "word": "jahas",
-    "count": 7
-  },
-  {
     "word": "sippors",
     "count": 7
   },
@@ -22445,10 +22433,6 @@
   },
   {
     "word": "vittnens",
-    "count": 7
-  },
-  {
-    "word": "astarot",
     "count": 7
   },
   {
@@ -24036,6 +24020,10 @@
     "count": 6
   },
   {
+    "word": "bjöd",
+    "count": 6
+  },
+  {
     "word": "föl",
     "count": 6
   },
@@ -24604,10 +24592,6 @@
     "count": 6
   },
   {
-    "word": "rättfärdigheter",
-    "count": 6
-  },
-  {
     "word": "iaktta",
     "count": 6
   },
@@ -24852,6 +24836,10 @@
     "count": 6
   },
   {
+    "word": "astarot",
+    "count": 6
+  },
+  {
     "word": "fordom",
     "count": 6
   },
@@ -24973,10 +24961,6 @@
   },
   {
     "word": "famla",
-    "count": 6
-  },
-  {
-    "word": "olivplanteringar",
     "count": 6
   },
   {
@@ -27220,10 +27204,6 @@
     "count": 5
   },
   {
-    "word": "envishet",
-    "count": 5
-  },
-  {
     "word": "molnstod",
     "count": 5
   },
@@ -27632,6 +27612,10 @@
     "count": 5
   },
   {
+    "word": "rättfärdigheter",
+    "count": 5
+  },
+  {
     "word": "ohelgat",
     "count": 5
   },
@@ -27928,6 +27912,10 @@
     "count": 5
   },
   {
+    "word": "ain",
+    "count": 5
+  },
+  {
     "word": "bucki",
     "count": 5
   },
@@ -28053,6 +28041,10 @@
   },
   {
     "word": "råmärke",
+    "count": 5
+  },
+  {
+    "word": "orättfärdigt",
     "count": 5
   },
   {
@@ -28241,6 +28233,10 @@
   },
   {
     "word": "ostraffbart",
+    "count": 5
+  },
+  {
+    "word": "astarterna",
     "count": 5
   },
   {
@@ -31048,6 +31044,10 @@
     "count": 4
   },
   {
+    "word": "envishet",
+    "count": 4
+  },
+  {
     "word": "omväg",
     "count": 4
   },
@@ -31800,6 +31800,10 @@
     "count": 4
   },
   {
+    "word": "granatträd",
+    "count": 4
+  },
+  {
     "word": "obot",
     "count": 4
   },
@@ -31889,10 +31893,6 @@
   },
   {
     "word": "anförda",
-    "count": 4
-  },
-  {
-    "word": "ain",
     "count": 4
   },
   {
@@ -32016,10 +32016,6 @@
     "count": 4
   },
   {
-    "word": "spåman",
-    "count": 4
-  },
-  {
     "word": "förtjänat",
     "count": 4
   },
@@ -32041,10 +32037,6 @@
   },
   {
     "word": "befästningar",
-    "count": 4
-  },
-  {
-    "word": "försmår",
     "count": 4
   },
   {
@@ -32461,10 +32453,6 @@
   },
   {
     "word": "omkommo",
-    "count": 4
-  },
-  {
-    "word": "astarterna",
     "count": 4
   },
   {
@@ -33769,10 +33757,6 @@
   },
   {
     "word": "villen",
-    "count": 4
-  },
-  {
-    "word": "orättfärdigt",
     "count": 4
   },
   {
@@ -36148,6 +36132,10 @@
     "count": 3
   },
   {
+    "word": "granne",
+    "count": 3
+  },
+  {
     "word": "vredesmod",
     "count": 3
   },
@@ -37060,10 +37048,6 @@
     "count": 3
   },
   {
-    "word": "granatträd",
-    "count": 3
-  },
-  {
     "word": "problem",
     "count": 3
   },
@@ -37353,6 +37337,10 @@
   },
   {
     "word": "svartkonst",
+    "count": 3
+  },
+  {
+    "word": "spåman",
     "count": 3
   },
   {
@@ -40240,6 +40228,10 @@
     "count": 3
   },
   {
+    "word": "försmår",
+    "count": 3
+  },
+  {
     "word": "eggar",
     "count": 3
   },
@@ -41205,6 +41197,10 @@
   },
   {
     "word": "morgonrodnad",
+    "count": 3
+  },
+  {
+    "word": "granatträden",
     "count": 3
   },
   {
@@ -44864,6 +44860,10 @@
     "count": 2
   },
   {
+    "word": "bjuder",
+    "count": 2
+  },
+  {
     "word": "inleder",
     "count": 2
   },
@@ -46388,10 +46388,6 @@
     "count": 2
   },
   {
-    "word": "olivlundar",
-    "count": 2
-  },
-  {
     "word": "fäkreaturs",
     "count": 2
   },
@@ -46664,10 +46660,6 @@
     "count": 2
   },
   {
-    "word": "skapelser",
-    "count": 2
-  },
-  {
     "word": "uråldriga",
     "count": 2
   },
@@ -46856,6 +46848,14 @@
     "count": 2
   },
   {
+    "word": "kedemot",
+    "count": 2
+  },
+  {
+    "word": "mefaat",
+    "count": 2
+  },
+  {
     "word": "safon",
     "count": 2
   },
@@ -46905,10 +46905,6 @@
   },
   {
     "word": "avskedspresent",
-    "count": 2
-  },
-  {
-    "word": "stamområde",
     "count": 2
   },
   {
@@ -53229,10 +53225,6 @@
   },
   {
     "word": "blomstersängar",
-    "count": 2
-  },
-  {
-    "word": "granatträden",
     "count": 2
   },
   {
@@ -60196,10 +60188,6 @@
     "count": 1
   },
   {
-    "word": "bjuder",
-    "count": 1
-  },
-  {
     "word": "nötdjuren",
     "count": 1
   },
@@ -62912,10 +62900,6 @@
     "count": 1
   },
   {
-    "word": "rättfärdiganden",
-    "count": 1
-  },
-  {
     "word": "tänds",
     "count": 1
   },
@@ -62929,10 +62913,6 @@
   },
   {
     "word": "fult",
-    "count": 1
-  },
-  {
-    "word": "granatäppelträd",
     "count": 1
   },
   {
@@ -63620,7 +63600,7 @@
     "count": 1
   },
   {
-    "word": "månskovarnas",
+    "word": "månvarvens",
     "count": 1
   },
   {
@@ -63840,10 +63820,6 @@
     "count": 1
   },
   {
-    "word": "bergstrakten",
-    "count": 1
-  },
-  {
     "word": "marscherat",
     "count": 1
   },
@@ -63996,6 +63972,14 @@
     "count": 1
   },
   {
+    "word": "spåmannen",
+    "count": 1
+  },
+  {
+    "word": "tillsamamns",
+    "count": 1
+  },
+  {
     "word": "ramathammispe",
     "count": 1
   },
@@ -64036,10 +64020,6 @@
     "count": 1
   },
   {
-    "word": "bergstrakt",
-    "count": 1
-  },
-  {
     "word": "jearims",
     "count": 1
   },
@@ -64065,6 +64045,10 @@
   },
   {
     "word": "tatiotkällorna",
+    "count": 1
+  },
+  {
+    "word": "stamområde",
     "count": 1
   },
   {
@@ -69641,14 +69625,6 @@
   },
   {
     "word": "rimmono",
-    "count": 1
-  },
-  {
-    "word": "kedemot",
-    "count": 1
-  },
-  {
-    "word": "mefaat",
     "count": 1
   },
   {
@@ -76289,6 +76265,10 @@
   },
   {
     "word": "klippdassarnas",
+    "count": 1
+  },
+  {
+    "word": "skapelser",
     "count": 1
   },
   {
@@ -85685,10 +85665,6 @@
   },
   {
     "word": "fästman",
-    "count": 1
-  },
-  {
-    "word": "granatäppelträden",
     "count": 1
   },
   {
