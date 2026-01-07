@@ -1,62 +1,139 @@
 [
+ 
   {
-    "text": "Då sa Herren till Kain: \"Var är din bror Abel?\" Han svarade: \"Jag vet inte. Ska jag vara ansvarig för min broder?\"",
-    "comment": "- Status: [OLIKA]\n- Avikelse: Syftningen har förändrats; i Text A frågas om Kain tar vara på Abel, medan Text B frågar om han är ansvarig för Abel."
+    "text": "Så gav Mose dem, Guds barn, Rubens barn och ena hälften av Manasses stam, Josefs son, Sihons rike, amoréernas kung, och Ogs rike, Basans kung: själva landet med dess städer och deras områden, landets städer runt omkring.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Josefs sons\" i Text A är \"Josefs son\" i Text B. \"Sihons, amoréernas konungs, rike\" i Text A är \"Sihons rike, amoréernas kung\" i Text B. \"konungens i Basan\" i Text A är \"Basans kung\" i Text B."
   },
   {
-    "text": "På samma sätt tog han med sju par fåglar från himlen, ett hane och ett hon, för att bevara deras släkt på hela jorden.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver fåglarnas agerande, medan Text B specificerar att \"han\" tar med fåglarna."
+    "text": "Men du ska stanna kvar här hos mig, så ska jag ropa ut för dig alla de bud och stadgar och rättfärdiganden som du ska lära dem, för att de ska göra efter dem i det land jag vill ge dem till besittning.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"du\" i Text A är \"du ska\" i Text B."
   },
   {
-    "text": "och han talade med dem och sa: \"Om ni tillåter att jag bär ut min döda och begraver henne, så lyssnar ni på mig och lovar mig att köpa marken av Efron, Sohars son.\"",
-    "comment": "- Status: [OLIKA]\n- Avikelse: \"Tillstädjen\" har ersatts med \"tillåter\", och \"läggen eder ut för mig hos Efron\" har ersatts med \"lovar mig att köpa marken av Efron\", vilket ändrar den exakta handlingen som begärs."
+    "text": "och hus, fulla med allt gott, vilka du inte har fyllt och uthuggna brunnar, som du inte har grävt, vingårdar och olivlundar, som du inte har planterat -- och när du då äter och blir mätt,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"B\" använder \"grävt\" istället för \"huggit ut\", och \"olivlundar\" istället för \"olivplanteringar\"."
   },
   {
-    "text": "Men de svarade: \"Skulle man då behandla vår syster som en otrogen?\"",
-    "comment": "- Status: OLIKA\n- Avikelse: Ändringen från \"sköka\" till \"otrogen\" förändrar den exakta innebörden av anklagelsen och därmed budskapet."
+    "text": "ett land med vete och korn, med vinträd, fikonträd och granatäppelträd, ett land med ädla olivträd och med honung,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"granatträd\" i Text A jämfört med \"granatäppelträd\" i Text B."
   },
   {
-    "text": "Men du, Judas förstfödde, misshagade Herren. Därför dödade han honom.",
-    "comment": "- Status: OLIKA\n- Avikelse: Subjektet som utför handlingen \"döda\" har ändrats från HERREN till Judas."
+    "text": "Om den plats som Herren, din Gud, väljer för att bygga sitt tempel ligger för långt bort, ska du, i enlighet med vad jag har befallt dig, slakta av de kor och den småboskap som Herren har gett dig och äta därav hemma i dina portar, så mycket du vill.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"HERREN\" i Text A är \"Herren\" i Text B. \"fästa sitt namn\" i Text A är \"bygga sitt tempel\" i Text B. \"fäkreatur\" i Text A är \"kor\" i Text B. \"bjudit dig\" i Text A är \"befallt dig\" i Text B. \"din lyster\" i Text A är \"du vill\" i Text B."
   },
   {
-    "text": "När Josef sedan kom hem, tog de skänkarna som de hade med sig in till honom i huset och föll ner på knä framför honom.",
-    "comment": "- Status: OLIKA\n- Avikelse: Handlingen \"föllo ned för honom till jorden\" i Text A har förändrats till \"föll ner på knä framför honom\" i Text B, vilket indikerar en förändring i syftning och handlingens natur."
+    "text": "Om en orättfärdig person går fram mot någon för att vittna mot honom i en brottsfall,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"vittne\" i Text A motsvarar inte \"person\" i Text B."
   },
   {
-    "text": "De som kom med Jakob till Egypten, de som hade utgått från hans land, utgjorde alla tillsammans sextiosex personer, förutom Jakobs döttrar.",
-    "comment": "- Status: [OLIKA]\n- Avikelse: \"Sonhustrur\" och \"döttrar\" är inte semantiskt ekvivalenta, vilket förändrar den exakta informationen om vilka som ingick i gruppen."
+    "text": "Om en man har två hustrur, en som han älskar och en som han inte älskar, och båda har fött honom söner, både den han älskar och den han inte älskar, och hans förstfödde son är dottern till den han inte älskar,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"son\" i Text A är \"dottern\" i Text B."
   },
   {
-    "text": "Josef dog, och alla hans bröder och hela hans släkt följde efter.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text B antyder en tidsmässig efterföljd (\"följde efter\") som inte uttrycks i Text A, vilket förändrar den logiska innebörden något."
+    "text": "Flickans far ska säga till de äldste: \"Jag gav min dotter till hustru åt honom, men han har fått motvilja mot henne.\"",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Fader\" i Text A är \"Far\" i Text B."
   },
   {
-    "text": "På denna dag i månaden Abib ska ni stanna kvar nu.",
-    "comment": "- Status: OLIKA\n- Avikelse: Meningarna har motsatt logisk innebörd; Text A antyder en utresa, medan Text B antyder att man ska stanna kvar."
+    "text": "Om en flicka är förlovad med en man och en annan man möter henne i staden och ligger med henne,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"jungfru\" i A motsvarar inte \"flicka\" i B."
   },
   {
-    "text": "Levis barn gjorde som Mose hade sagt. På den dagen dog ungefär tre tusen män.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en följd av händelser som ett resultat av Mose's instruktioner, medan Text B fokuserar på dödsfallet som en händelse som inträffade."
+    "text": "När du går in i din grannes vingård, får du äta druvor där, så mycket du vill, tills du blir mätt, men du får inte lägga något i din väska.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"grannes\" i Text B istället för \"nästas\" i Text A."
   },
   {
-    "text": "Gjutna gudar ska du inte förringa.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text A uttrycker ett förbud mot att skapa avgudagestalter, medan Text B handlar om att inte nedvärdera dem."
+    "text": "så att någon som hör detta edsförbunds ord välsignar sig i sitt hjärta och tänker att det ska gå honom väl, där han vandrar i sin envishet. För då ska hela landet, både vått och torrt, försvinna.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"hårdhet\" i Text A jämfört med \"envishet\" i Text B."
   },
   {
-    "text": "Men om någon vill offra ett lamm som syndoffer, ska han föra fram ett felfritt djur av hönkön.",
-    "comment": "- Status: OLIKA\n- Avikelse: Ordet \"hönkön\" i Text B är en felaktig transkribering av \"honkön\" och förändrar djurets kön, vilket påverkar den logiska innebörden av ritualen."
+    "text": "Deras vin är drakars efter, huggormarnas värsta gift.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"etter\" i Text A är \"efter\" i Text B. \"gruvligaste\" i Text A är \"värsta\" i Text B."
   },
   {
-    "text": "ugglen, dykfågeln, havsörnen,",
-    "comment": "- Status: OLIKA\n- Avikelse: Listan över fåglar har ändrats, vilket påverkar den specifika informationen som förmedlas."
+    "text": "De lär Jakob dina rättfärdigheter och Israel din lag, de bär fram rökelse för ditt ansikte och offer på ditt altare.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"rätter\" i Text A jämfört med \"rättfärdigheter\" i Text B. \"näsa\" i Text A jämfört med \"ansikte\" i Text B."
   },
   {
-    "text": "Prästen ska befara att man slaktar den ena fågeln över ett lerkärl med friskt vatten i.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en handling som prästen initierar, medan Text B uttrycker prästens rädsla för en handling."
+    "text": "med solens finaste skapelser och månskovarnas bästa frukter,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"alster\" i Text A motsvarar inte \"skapelser\" i Text B. \"månvarvens\" i Text A motsvarar inte \"månskovarnas\" i Text B."
   },
   {
-    "text": "Detta är lagen om den som har flytt och om den som har blivit renad, så att han genom det blir oren.",
-    "comment": "- Status: OLIKA\n- Avikelse: Text A beskriver en situation där handlingen (sädesutgjutning) leder till orenhet, medan Text B beskriver en situation där reningsprocessen (blivit renad) leder till orenhet."
-  }
+    "text": "Folk bjöd dem till sitt berg. Där offrade de rätta offer. För havens rikedom fick de suga och de skatter som sanden döljer.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"bjuda\" i Text A är ändrat till \"bjöd\" i Text B."
+  },
+  {
+    "text": "kungen i Horma, kungen i Arad,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"en\" i Horma och Arad i Text A saknas i Text B."
+  },
+  {
+    "text": "kungen i Afek, kungen i Lassaron,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Afek en\" i Text A är \"Afek\" i Text B. \"Lassaron en,\" i Text A är \"Lassaron,\" i Text B."
+  },
+  {
+    "text": "kungen i Madon, kungen i Hasor,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"en\" i Text A är borttagen i Text B."
+  },
+  {
+    "text": "kungen över Dor i Nafat-Dor och kungen över Goim vid Gilgal,",
+    "comment": "- Status: OLIKA\n- Avikelse: \"en\" i Text A har ändrats till \"och\" i Text B."
+  },
+  {
+    "text": "Ja, emot, med det.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Kedemot\" i Text A är inte samma som \"emot\" i Text B. \"Mefaat\" i Text A saknas i Text B."
+  },
+  {
+    "text": "Ännu i dag är jag liksom stark som jag var den dagen då Mose skickade mig iväg, ja, sådan min kraft var då, sådan är den ännu, och ska vara det gäller att kriga eller att vara ledare och anförare.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"sände\" i Text A är \"skickade\" i Text B."
+  },
+  {
+    "text": "När Otniel, son till Kenas och Kalebs bror, intog staden, gav han honom sin dotter Aksa till hustru.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Kenas, Kalebs broder\" i Text A jämfört med \"Kenas och Kalebs bror\" i Text B."
+  },
+  {
+    "text": "Gränsen fortsatte framåt och böjde sig på västra sidan söderut från berget som ligger mitt emot Bet-Horon, söder därom och gick sedan ut till Kirjat-Baal, som är staden Kirjat-Jearim i Judas barns område. Detta var västra sidan.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"gent emot\" i Text A är ändrat till \"mitt emot\" i Text B."
+  },
+  {
+    "text": "Remet, Engannim, Enhadda och Betpasses.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"En-Gannim\" i Text A är \"Engannim\" i Text B. \"En-Hadda\" i Text A är \"Enhadda\" i Text B. \"Bet-Passes\" i Text A är \"Betpasses\" i Text B."
+  },
+  {
+    "text": "För Naftalis barn lottades den sjätte platsen ut, för Naftalis barn, efter deras släkter.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Naftali\" i Text A är ersatt med \"Naftalis\" i Text B."
+  },
+  {
+    "text": "Detta var Naftali barns stamområde efter deras släkter, städerna med sina byar.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"stams arvedel\" i Text A är \"stamområde\" i Text B."
+  },
+  {
+    "text": "Man gav dem Arba, Anoks faders, stad, det är Hebron, i Judas bergstrakter, med dess kringliggande områden.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Juda bergsbygd\" i Text A jämfört med \"Judas bergstrakter\" i Text B."
+  },
+  {
+    "text": "Än med dess utmarker, Jutta med dess utmarker och Bet-Semes med dess utmarker - nio städer ur dessa två stammar.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Ain\" i Text A är ersatt med \"Än\" i Text B."
+  },
+  {
+    "text": "Så vände då Rubens barn och Guds barn, och en hälft av Manasses stam tillbaka och gick bort från de övriga israeliterna, bort från Silo i Kanaan, för att bege sig till Gileads land, det land de hade fått som egendom och där de skulle ha sina besittningar, efter Herrens befallning genom Mose.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Gads\" i Text A är \"Guds\" i Text B. \"Kanaans land\" i Text A är \"Kanaan\" i Text B. \"till besittning\" i Text A är \"som egendom\" i Text B. \"HERRENS\" i Text A är \"Herrens\" i Text B."
+  },
+  {
+    "text": "Så slöt Josua den dagen ett förbund med folket och förelade dem lagar och rätt i Sikem.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"lag\" i Text A är \"lagar\" i Text B."
+  },
+  {
+    "text": "Då sa Adoni-Besek: \"Sjuttio kungar med avhuggna tummar och stortår har hämtat upp smulorna under mitt bord. Efter mina gärningar har Gud nu gett mig igen.\" Sedan förde de honom till Jerusalem, där han dog.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"har\" istället för \"med\" i Text B."
+  },
+  {
+    "text": "När Otniel, son till Kenas och Kalebs yngre bror, intog staden, gav han honom sin dotter Aksa till hustru.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Kenas\" i Text A är \"Kenas och Kalebs yngre bror\" i Text B."
+  },
+  {
+    "text": "Kainéens, Moses svärfaders barn, hade dragit upp från Palmstaden med Judas barn till Judéen söder om Arad. De flyttade dit och bosatte sig bland folket där.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Juda\" i Text A är \"Judas\" i Text B. \"Juda öken\" i Text A är \"Judéen\" i Text B."
+  },
+  {
+    "text": "Fast de övergav Herren och tjänade Baal och Astarot.",
+    "comment": "- Status: OLIKA\n- Avikelse: \"Astarterna\" i Text A är olikt \"Astarot\" i Text B."
+  },
 ]
