@@ -7,12 +7,11 @@ async function main() {
   const client = new LMStudioClient();
   const model = await client.llm.model(); // Uses the default loaded model
 
-  const systemPrompt = `Du är en noggrann granskare. Din uppgift är att jämföra egennamn och personnamn (ovanliga namn) i två texter (A och B) och se till att de är identiska.
+  const systemPrompt = `Du är en noggrann granskare. Din uppgift är att jämföra två texter (A och B) och se till att innebörden är identisk.
   
 Regler:
-* Se om det finns några egennamn (personnamn och platsnamn) med stor bokstav. Jämför endast dessa.
-* Om namnen finns i båda texterna och är identiska, svara med "LIKA" och "INGEN" som avikelse.
-* Om det finns skillnader, svara med "OLIKA" och specificera vad som skiljer sig åt.
+* Om innebörden i båda texterna är identisk, svara med "LIKA" och "INGEN" som avikelse.
+* Om det finns skillnader i innebörd, svara med "OLIKA" och specificera vad som skiljer sig åt.
 
 ### Output-format:
 Svara strikt enligt följande struktur utan ytterligare förklaringar:
