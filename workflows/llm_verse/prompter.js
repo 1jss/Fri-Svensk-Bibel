@@ -10,8 +10,8 @@ async function main() {
 
 Regler:
 * Ersätt ålderdomliga ord (t.ex. "skall" -> "ska", "ehuru" -> "fastän").
-* Modernisera meningsbyggnad om den känns onaturlig, men bevara betydelsen exakt.
-* Ändra INTE namn, platser eller årtal.
+* Modernisera meningsbyggnad om den känns onaturlig, men bevara ALLTID betydelsen exakt.
+* Ändra INTE namn på personer eller platser.
 * Svara ENDAST med den moderniserade texten. Ingen inledning eller förklaring.
 
 Exempel:
@@ -48,7 +48,7 @@ Här kommer texten som ska moderniseras:`; // Hard-coded system prompt
             const result = await model.respond(chat);
             const newText = result.content.trim();
             if (oldText !== newText) {
-                replacements.push({ old: oldText, new: newText });
+                replacements.push({ old: oldText, new: newText, line: i + 1 });
                 fs.writeFileSync(replacementsPath, JSON.stringify(replacements, null, 2));
             }
             console.log(`Processed line ${i + 1}: "${oldText}" -> "${newText}"`);

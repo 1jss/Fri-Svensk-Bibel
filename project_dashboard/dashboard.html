@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edit Status Dashboard</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #fafafa;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .header {
+      background: white;
+      border-bottom: 1px solid #e5e7eb;
+      padding: 24px 32px;
+    }
+
+    h1 {
+      font-size: 24px;
+      font-weight: 600;
+      color: #1f2937;
+      margin-bottom: 16px;
+    }
+
+    .stats {
+      display: flex;
+      gap: 32px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .stat-value {
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .legend {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      padding: 0;
+      background: transparent;
+      border-radius: 0;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: #6b7280;
+    }
+
+    .legend-item.clickable {
+      cursor: pointer;
+      padding: 6px 12px;
+      border-radius: 4px;
+    }
+
+    .legend-item.clickable:hover {
+      background-color: #f3f4f6;
+    }
+
+    .legend-color {
+      width: 16px;
+      height: 16px;
+      border-radius: 2px;
+    }
+
+    .legend-item.hidden .legend-color {
+      opacity: 0.4;
+    }
+
+    .legend-item.hidden span {
+      opacity: 0.4;
+    }
+
+    .main-wrapper {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .content-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 24px 32px;
+      overflow: auto;
+    }
+
+    .canvas-container {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      flex: 1;
+      justify-content: center;
+    }
+
+    canvas {
+      border: 1px solid #e5e7eb;
+      cursor: crosshair;
+      display: block;
+      background: white;
+      image-rendering: pixelated;
+      border-radius: 4px;
+    }
+
+    .scale-info {
+      font-size: 12px;
+      color: #9ca3af;
+    }
+
+    .sidebar {
+      width: 280px;
+      background: white;
+      border-left: 1px solid #e5e7eb;
+      display: flex;
+      flex-direction: column;
+      padding: 24px;
+      gap: 24px;
+    }
+
+    .sidebar-section {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .info-label {
+      color: #9ca3af;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .info-value {
+      color: #1f2937;
+      font-weight: 600;
+      font-size: 16px;
+    }
+
+    .info-empty {
+      color: #d1d5db;
+      font-size: 13px;
+    }
+
+    .edit-item {
+      padding: 10px;
+      background: #f9fafb;
+      border-radius: 4px;
+      border-left: 4px solid #d1d5db;
+      font-size: 12px;
+    }
+
+    .edit-item-status {
+      font-weight: 600;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .edit-item-range {
+      color: #6b7280;
+      margin-bottom: 2px;
+    }
+
+    .edit-item-time {
+      color: #9ca3af;
+      font-size: 11px;
+    }
+
+    .divider {
+      height: 1px;
+      background: #e5e7eb;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>FSB Edit Status Dashboard</h1>
+
+    <div class="stats">
+      <div class="stat-item">
+        <span>Total Lines:</span>
+        <span class="stat-value" id="totalLines">33,682</span>
+      </div>
+      <div class="stat-item">
+        <span>Edited Lines:</span>
+        <span class="stat-value" id="editedLines">0</span>
+      </div>
+      <div class="stat-item">
+        <span>Total Edits:</span>
+        <span class="stat-value" id="totalEdits">0</span>
+      </div>
+    </div>
+
+    <div style="margin-top: 16px;">
+      <div class="legend">
+        <div class="legend-item">
+          <div class="legend-color" style="background-color: #e5e7eb;"></div>
+          <span>Unedited</span>
+        </div>
+        <div class="legend-item clickable" data-status="DIFF_EDITED">
+          <div class="legend-color" style="background-color: #8b5cf6;"></div>
+          <span>Diff edited</span>
+        </div>
+        <div class="legend-item clickable" data-status="AI_EDITED">
+          <div class="legend-color" style="background-color: #3b82f6;"></div>
+          <span>AI edited</span>
+        </div>
+        <div class="legend-item clickable" data-status="AI_CHECKED">
+          <div class="legend-color" style="background-color: #10b981;"></div>
+          <span>AI checked</span>
+        </div>
+        <div class="legend-item clickable" data-status="MANUAL_EDIT">
+          <div class="legend-color" style="background-color: #f97316;"></div>
+          <span>Manual edit</span>
+        </div>
+        <div class="legend-item clickable" data-status="NUMBERS_PARSED">
+          <div class="legend-color" style="background-color: #06b6d4;"></div>
+          <span>Numbers parsed</span>
+        </div>
+        <div class="legend-item clickable" data-status="NUMBERS_CHANGED">
+          <div class="legend-color" style="background-color: #ec4899;"></div>
+          <span>Numbers changed</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-wrapper">
+    <div class="content-area">
+      <div class="canvas-container">
+        <div>
+          <canvas id="canvas"></canvas>
+          <div class="scale-info">Canvas: 1000px × 845px • 200 lines/row × 169 rows • 5 lines per pixel</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <div class="sidebar-section">
+        <div class="info-label">Line Number</div>
+        <div class="info-value" id="hoverInfo">—</div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="sidebar-section">
+        <div class="info-label">Edit Details</div>
+        <div id="hoverDetails" class="info-empty">Hover over canvas to see details</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="edits.js"></script>
+  <script>
+    // Status Enum
+    const STATUS = {
+      DIFF_EDITED: 'DIFF_EDITED',
+      AI_EDITED: 'AI_EDITED',
+      AI_CHECKED: 'AI_CHECKED',
+      MANUAL_EDIT: 'MANUAL_EDIT',
+      NUMBERS_PARSED: 'NUMBERS_PARSED',
+      NUMBERS_CHANGED: 'NUMBERS_CHANGED',
+      UNEDITED: 'UNEDITED'
+    };
+
+    // Status Labels for display
+    const STATUS_LABELS = {
+      'DIFF_EDITED': 'Diff edited',
+      'AI_EDITED': 'AI edited',
+      'AI_CHECKED': 'AI checked',
+      'MANUAL_EDIT': 'Manual edit',
+      'NUMBERS_PARSED': 'Numbers parsed',
+      'NUMBERS_CHANGED': 'Numbers changed',
+      'UNEDITED': 'Unedited'
+    };
+
+    // Status Colors
+    const STATUS_COLORS = {
+      [STATUS.AI_EDITED]: '#3b82f6',        // Blue
+      [STATUS.AI_CHECKED]: '#10b981',       // Green
+      [STATUS.MANUAL_EDIT]: '#f97316',      // Orange
+      [STATUS.DIFF_EDITED]: '#8b5cf6',      // Purple
+      [STATUS.NUMBERS_PARSED]: '#06b6d4',   // Cyan
+      [STATUS.NUMBERS_CHANGED]: '#ec4899',  // Pink
+      [STATUS.UNEDITED]: '#e5e7eb'          // Gray
+    };
+
+
+    // Status visibility state
+    const visibleStatuses = {
+      [STATUS.AI_EDITED]: true,
+      [STATUS.AI_CHECKED]: true,
+      [STATUS.MANUAL_EDIT]: true,
+      [STATUS.DIFF_EDITED]: true,
+      [STATUS.NUMBERS_PARSED]: true,
+      [STATUS.NUMBERS_CHANGED]: true,
+      [STATUS.UNEDITED]: true
+    };
+
+    const TOTAL_LINES = 33682;
+    const PIXEL_SIZE = 5;
+    const LINES_PER_ROW = 200;
+    const ROWS = Math.ceil(TOTAL_LINES / LINES_PER_ROW);
+    const CANVAS_WIDTH = LINES_PER_ROW * PIXEL_SIZE;
+    const CANVAS_HEIGHT = ROWS * PIXEL_SIZE;
+    const LINES_PER_PIXEL = 1;
+
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+
+    canvas.width = CANVAS_WIDTH;
+    canvas.height = CANVAS_HEIGHT;
+
+    // Create a map of line to all edits affecting it, sorted by timestamp
+    function createLineEditMap() {
+      const lineEdits = new Array(TOTAL_LINES + 1).fill(null).map(() => []);
+
+      edits.forEach(edit => {
+        for (let line = edit.startLine; line <= edit.endLine; line++) {
+          lineEdits[line].push({
+            status: edit.status,
+            timestamp: edit.timestamp
+          });
+        }
+      });
+
+      // Sort each line's edits by timestamp (latest first)
+      lineEdits.forEach(lineArray => {
+        lineArray.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+      });
+
+      return lineEdits;
+    }
+
+    function createLineStatusMap() {
+      const lineStatus = new Array(TOTAL_LINES + 1).fill(STATUS.UNEDITED);
+
+      edits.forEach(edit => {
+        for (let line = edit.startLine; line <= edit.endLine; line++) {
+          lineStatus[line] = edit.status;
+        }
+      });
+
+      return lineStatus;
+    }
+
+    let cachedLineEdits = null;
+
+    // Get the visible status for a line (considering hidden statuses)
+    function getVisibleStatus(line) {
+      if (!cachedLineEdits) {
+        cachedLineEdits = createLineEditMap();
+      }
+
+      const editsForLine = cachedLineEdits[line];
+
+      // Find first visible status in order of timestamp
+      for (let entry of editsForLine) {
+        if (visibleStatuses[entry.status]) {
+          return entry.status;
+        }
+      }
+
+      return STATUS.UNEDITED;
+    }
+
+    // Render canvas
+    function renderCanvas() {
+      for (let line = 1; line <= TOTAL_LINES; line++) {
+        const status = getVisibleStatus(line);
+        const color = STATUS_COLORS[status];
+
+        // Calculate position: line 1-200 = row 0, line 201-400 = row 1, etc.
+        const lineIndex = line - 1;
+        const row = Math.floor(lineIndex / LINES_PER_ROW);
+        const col = lineIndex % LINES_PER_ROW;
+
+        const x = col * PIXEL_SIZE;
+        const y = row * PIXEL_SIZE;
+
+        ctx.fillStyle = color;
+        ctx.fillRect(x, y, PIXEL_SIZE, PIXEL_SIZE);
+      }
+    }
+
+    // Canvas hover handler
+    canvas.addEventListener('mousemove', (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const x = Math.floor((e.clientX - rect.left) * (CANVAS_WIDTH / rect.width));
+      const y = Math.floor((e.clientY - rect.top) * (CANVAS_HEIGHT / rect.height));
+
+      if (x >= 0 && x < CANVAS_WIDTH && y >= 0 && y < CANVAS_HEIGHT) {
+        const col = Math.floor(x / PIXEL_SIZE);
+        const row = Math.floor(y / PIXEL_SIZE);
+        const lineNumber = row * LINES_PER_ROW + col + 1;
+
+        if (lineNumber <= TOTAL_LINES) {
+          document.getElementById('hoverInfo').textContent = `${lineNumber.toLocaleString('sv-SE')}`;
+
+          // Find all edits affecting this line
+          const affectingEdits = edits.filter(edit =>
+            lineNumber >= edit.startLine && lineNumber <= edit.endLine
+          );
+
+          let detailsHtml = '';
+          if (affectingEdits.length > 0) {
+            detailsHtml = '<div style="display: flex; flex-direction: column; gap: 8px;">';
+            affectingEdits.forEach(edit => {
+              detailsHtml += `
+                <div class="edit-item" style="border-left-color: ${STATUS_COLORS[edit.status]};">
+                  <div class="edit-item-status" style="color: ${STATUS_COLORS[edit.status]};">● ${STATUS_LABELS[edit.status]}</div>
+                  <div class="edit-item-range">Lines ${edit.startLine.toLocaleString('sv-SE')}–${edit.endLine.toLocaleString('sv-SE')}</div>
+                  <div class="edit-item-time">${new Date(edit.timestamp).toLocaleString('sv-SE', { hour12: false })}</div>
+                </div>
+              `;
+            });
+            detailsHtml += '</div>';
+          } else {
+            detailsHtml = '<div class="info-empty">No edits</div>';
+          }
+
+          document.getElementById('hoverDetails').innerHTML = detailsHtml;
+        }
+      }
+    });
+
+    canvas.addEventListener('mouseleave', () => {
+      document.getElementById('hoverInfo').textContent = '\u2014';
+    });
+    // Toggle status visibility
+    document.querySelectorAll('.legend-item.clickable').forEach(item => {
+      item.addEventListener('click', (e) => {
+        const statusKey = e.currentTarget.dataset.status;
+        const status = STATUS[statusKey];
+        visibleStatuses[status] = !visibleStatuses[status];
+
+        // Update legend item appearance
+        e.currentTarget.classList.toggle('hidden', !visibleStatuses[status]);
+
+        // Re-render canvas
+        renderCanvas();
+      });
+    });
+
+    // Pre-cache the line edits on initialization
+    cachedLineEdits = createLineEditMap();
+    // Update statistics
+    function updateStats() {
+      const lineStatus = createLineStatusMap();
+      const editedLines = lineStatus.filter(s => s !== STATUS.UNEDITED).length;
+
+      document.getElementById('editedLines').textContent = editedLines.toLocaleString('sv-SE');
+      document.getElementById('totalEdits').textContent = edits.length.toLocaleString('sv-SE');
+    }
+
+    // Initialize
+    renderCanvas();
+    updateStats();
+  </script>
+</body>
+
+</html>
