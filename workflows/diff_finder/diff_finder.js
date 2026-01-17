@@ -1,8 +1,9 @@
 const fs = require('fs');
+const config = require('../../config.js');
 
-const preFile = 'FSB_pre.xml';
-const fsbFile = 'FSB.xml';
-const replacementsFile = 'replacements.json';
+const preFile = config.data.bibles.fsbPre;
+const fsbFile = config.data.bibles.fsbXml;
+const replacementsFile = config.data.changes.replacements;
 
 let preLines = fs.readFileSync(preFile, 'utf8').split('\n');
 let fsbLines = fs.readFileSync(fsbFile, 'utf8').split('\n');

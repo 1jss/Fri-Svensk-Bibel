@@ -1,7 +1,7 @@
 const fs = require('fs');
 const config = require('../../config.js');
 
-const replacements = JSON.parse(fs.readFileSync(config.data.changes.replacements, 'utf8'));
+const replacements = JSON.parse(fs.readFileSync(config.data.changes.numberReplacements, 'utf8'));
 
 let xmlContent = fs.readFileSync(config.data.bibles.fsbXml, 'utf8');
 

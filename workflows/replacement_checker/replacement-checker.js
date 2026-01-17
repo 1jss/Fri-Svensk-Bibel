@@ -1,6 +1,7 @@
 const { LMStudioClient, Chat } = require("@lmstudio/sdk");
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 
 async function main() {
   const client = new LMStudioClient();
@@ -18,8 +19,8 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 - Avikelse: [Vad som har ändrats, eller "INGEN" om inga skillnader finns]
 `; // Hard-coded system prompt
 
-  const replacementsPath = path.join(__dirname, '..', 'replacements.json');
-  const filePathPre = path.join(__dirname, '..', '1917.xml');
+  const replacementsPath = config.data.changes.replacements;
+  const filePathPre = config.data.bibles.xml1917;
   
   let replacements = [];
   try {

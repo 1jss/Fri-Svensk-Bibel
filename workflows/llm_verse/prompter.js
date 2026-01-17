@@ -1,6 +1,7 @@
 const { LMStudioClient, Chat } = require("@lmstudio/sdk");
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 
 async function main() {
     const client = new LMStudioClient();
@@ -23,8 +24,8 @@ Här kommer texten som ska moderniseras:`; // Hard-coded system prompt
     const startLine = parseInt(process.argv[2]) || 0;
     console.log(`Starting processing from line ${startLine}`);
 
-    const filePath = path.join(__dirname, '..', 'FSB.xml');
-    const replacementsPath = path.join(__dirname, '..', 'replacements.json');
+    const filePath = config.data.bibles.fsbXml;
+    const replacementsPath = config.data.changes.replacements;
     const content = fs.readFileSync(filePath, 'utf8');
     const lines = content.split('\n');
 

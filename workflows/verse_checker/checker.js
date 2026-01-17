@@ -1,6 +1,7 @@
 const { LMStudioClient, Chat } = require("@lmstudio/sdk");
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 const { text } = require("stream/consumers");
 
 async function main() {
@@ -22,15 +23,15 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
   const startLine = parseInt(process.argv[2]) || 0;
   console.log(`Starting processing from line ${startLine}`);
 
-  const filePathPre = path.join(__dirname, '..', '1917.xml');
+  const filePathPre = config.data.bibles.xml1917;
   const contentPre = fs.readFileSync(filePathPre, 'utf8');
   const linesPre = contentPre.split('\n');
 
-  const filePathPost = path.join(__dirname, '..', 'FSB.xml');
+  const filePathPost = config.data.bibles.fsbXml;
   const contentPost = fs.readFileSync(filePathPost, 'utf8');
   const linesPost = contentPost.split('\n');
 
-  const checksPath = path.join(__dirname, '..', 'checks.json');
+  const checksPath = config.data.changes.checks;
 
   let replacements = [];
   try {

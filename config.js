@@ -12,7 +12,7 @@ module.exports = {
     },
     changes: {
       checks: path.join(rootDir, 'data/changes/checks.json'),
-      replacements: path.join(rootDir, 'replacements.json'),
+      replacements: path.join(rootDir, 'data/changes/replacements.json'),
       numberReplacements: path.join(rootDir, 'data/changes/number_replacements.json'),
       newWords: path.join(rootDir, 'data/changes/new_words.md'),
     },
@@ -30,6 +30,7 @@ module.exports = {
     llmVerse: path.join(rootDir, 'workflows/llm_verse'),
     numbers: path.join(rootDir, 'workflows/numbers'),
     numbersChecker: path.join(rootDir, 'workflows/numbers_checker'),
+    numbersApply: path.join(rootDir, 'workflows/numbers_apply'),
     replacementApply: path.join(rootDir, 'workflows/replacement_apply'),
     replacementChecker: path.join(rootDir, 'workflows/replacement_checker'),
     verseChecker: path.join(rootDir, 'workflows/verse_checker'),

@@ -1,6 +1,7 @@
 const { LMStudioClient, Chat } = require("@lmstudio/sdk");
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 
 async function main() {
     const client = new LMStudioClient();
@@ -31,8 +32,8 @@ Här kommer texten som kan ha stora siffror i sig:`; // Hard-coded system prompt
     const startIndex = (parseInt(process.argv[2]) || 1) - 1;
     console.log(`Starting processing from line ${startIndex + 1}`);
 
-    const filePath = path.join(__dirname, '..', 'FSB.xml');
-    const replacementsPath = path.join(__dirname, '..', 'replacements.json');
+    const filePath = config.data.bibles.fsbXml;
+    const replacementsPath = config.data.changes.numberReplacements;
     const content = fs.readFileSync(filePath, 'utf8');
     const lines = content.split('\n');
 
