@@ -1,5 +1,13 @@
 const fs = require('fs');
+const path = require('path');
 const readline = require('readline');
+const config = require('../config.js');
+
+const analysisDir = config.folders.analysisDir;
+const fsbXmlPath = config.data.bibles.fsbXml;
+const wordStatsPath = path.join(analysisDir, 'word_stats.json');
+const wordStatsOldPath = path.join(analysisDir, 'word_stats_old.json');
+const reportPath = path.join(analysisDir, 'word_analysis_report.txt');
 
 const rl = readline.createInterface({
     input: process.stdin,
@@ -7,10 +15,10 @@ const rl = readline.createInterface({
 });
 
 function main() {
-    if (fs.existsSync('word_stats.json')) {
+    if (fs.existsSync(wordStatsPath)) {
         rl.question('Do you want to start a new comparison or continue comparing? (new/continue): ', (answer) => {
             if (answer.toLowerCase().startsWith('n')) {
-                fs.writeFileSync('word_stats_old.json', fs.readFileSync('word_stats.json'));
+                fs.writeFileSync(wordStatsOldPath, fs.readFileSync(wordStatsPath));
             }
             generateAndAnalyze();
             rl.close();
@@ -21,7 +29,7 @@ function main() {
 }
 
 function generateAndAnalyze() {
-    const xml = fs.readFileSync('FSB.xml', 'utf8');
+    const xml = fs.readFileSync(fsbXmlPath, 'utf8');
 
     const text = xml.replace(/<[^>]*>/g, ' ');
 
@@ -40,11 +48,11 @@ function generateAndAnalyze() {
 
     // Load old stats from word_stats_old.json if exists
     let oldStats = null;
-    if (fs.existsSync('word_stats_old.json')) {
-        oldStats = JSON.parse(fs.readFileSync('word_stats_old.json', 'utf8'));
+    if (fs.existsSync(wordStatsOldPath)) {
+        oldStats = JSON.parse(fs.readFileSync(wordStatsOldPath, 'utf8'));
     }
 
-    fs.writeFileSync('word_stats.json', JSON.stringify(sorted, null, 2));
+    fs.writeFileSync(wordStatsPath, JSON.stringify(sorted, null, 2));
 
     // Now perform analysis
     analyzeWordStatistics(sorted, oldStats);
@@ -171,7 +179,7 @@ function analyzeWordStatistics(wordStats, oldStats) {
 
 function saveReports(log) {
     // Save the log output to a text file
-    fs.writeFileSync('analysis/word_analysis_report.txt', log);
+    fs.writeFileSync(reportPath, log);
 }
 
 main();

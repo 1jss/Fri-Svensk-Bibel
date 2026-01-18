@@ -1,68 +1,38 @@
 === Word Statistics Analysis ===
 
-Total unique words: 24,027
-Total word occurrences: 701,864
-Average occurrences per word: 29.21
+Total unique words: 24,011
+Total word occurrences: 701,003
+Average occurrences per word: 29.20
 
-New unique words since last run: 14
-All new words:
-  1. "hororna" (2 times)
-  2. "trolova" (1 times)
-  3. "livnär" (1 times)
-  4. "spjärnar" (1 times)
-  5. "envis" (1 times)
-  6. "litenhet" (1 times)
-  7. "petuels" (1 times)
-  8. "bötfälldas" (1 times)
-  9. "betleafra" (1 times)
-  10. "elkositen" (1 times)
-  11. "spana" (1 times)
-  12. "smälla" (1 times)
-  13. "snavar" (1 times)
-  14. "dis" (1 times)
+New unique words since last run: 0
 
-Removed unique words since last run: 31
+Removed unique words since last run: 16
 All removed words:
-  1. "intimitet" (22 times)
-  2. "undkomma" (17 times)
-  3. "undkommer" (3 times)
-  4. "åttiotvå" (2 times)
-  5. "skökorna" (2 times)
-  6. "undkommit" (2 times)
-  7. "skökor" (2 times)
-  8. "gynna" (2 times)
-  9. "blåsen" (2 times)
-  10. "åttiosex" (1 times)
-  11. "sjömått" (1 times)
-  12. "fyrtios" (1 times)
-  13. "tjugos" (1 times)
-  14. "tios" (1 times)
-  15. "skänkas" (1 times)
-  16. "begåvning" (1 times)
-  17. "obändig" (1 times)
-  18. "gentemot" (1 times)
-  19. "fallnes" (1 times)
-  20. "bötfälld" (1 times)
-  21. "åskväder" (1 times)
-  22. "gath" (1 times)
-  23. "betleem" (1 times)
-  24. "lottad" (1 times)
-  25. "försvarsanläggningar" (1 times)
-  26. "span" (1 times)
-  27. "färgstarka" (1 times)
-  28. "smäller" (1 times)
-  29. "stupar" (1 times)
-  30. "brådmogen" (1 times)
-  31. "undkommo" (1 times)
+  1. "tvåhundrafemtio" (6 times)
+  2. "gram" (2 times)
+  3. "tiotusen" (2 times)
+  4. "sjuhundra" (2 times)
+  5. "hundratrettio" (2 times)
+  6. "nitton" (2 times)
+  7. "åttiotre" (1 times)
+  8. "fyrahundratrettio" (1 times)
+  9. "stenast" (1 times)
+  10. "fyrtionio" (1 times)
+  11. "femtiosju" (1 times)
+  12. "sjuttiosex" (1 times)
+  13. "sextiofyra" (1 times)
+  14. "sexhundrasjuttiofem" (1 times)
+  15. "sextioen" (1 times)
+  16. "tvåhundra" (1 times)
 
-Single-use words (hapax legomena): 9,580 (39.87% of unique words)
-Words used 2-5 times: 7,788 (32.41% of unique words)
+Single-use words (hapax legomena): 9,572 (39.87% of unique words)
+Words used 2-5 times: 7,786 (32.43% of unique words)
 
-Top 100 words cover: 390,818 occurrences
-That's 55.68% of all word occurrences
+Top 100 words cover: 390,785 occurrences
+That's 55.75% of all word occurrences
 
 Words used 100+ times: 656
-Words used 10+ times: 4,529
+Words used 10+ times: 4,525
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -70,26 +40,26 @@ Words used 10+ times: 4,529
 30% coverage: 21 most common words
 40% coverage: 37 most common words
 50% coverage: 69 most common words
-60% coverage: 133 most common words
-70% coverage: 293 most common words
-80% coverage: 791 most common words
-90% coverage: 2,794 most common words
-95% coverage: 6,213 most common words
-99% coverage: 17,009 most common words
+60% coverage: 132 most common words
+70% coverage: 292 most common words
+80% coverage: 790 most common words
+90% coverage: 2,793 most common words
+95% coverage: 6,211 most common words
+99% coverage: 17,001 most common words
 
 === Frequency Distribution ===
-1 time: 9,580 words (39.87%)
-2-5 times: 7,788 words (32.41%)
-6-10 times: 2,473 words (10.29%)
-11-50 times: 3,030 words (12.61%)
-51-100 times: 506 words (2.11%)
+1 time: 9,572 words (39.87%)
+2-5 times: 7,786 words (32.43%)
+6-10 times: 2,471 words (10.29%)
+11-50 times: 3,029 words (12.62%)
+51-100 times: 503 words (2.09%)
 101-500 times: 475 words (1.98%)
 501-1000 times: 66 words (0.27%)
 1000+ times: 109 words (0.45%)
 
 === Word Length Analysis ===
-1-3 letters: 573 words (2.38%), avg frequency: 583.79
-4-6 letters: 8,305 words (34.57%), avg frequency: 32.86
-7-9 letters: 9,488 words (39.49%), avg frequency: 7.63
-10-12 letters: 4,342 words (18.07%), avg frequency: 4.20
-13+ letters: 1,319 words (5.49%), avg frequency: 2.91
+1-3 letters: 573 words (2.39%), avg frequency: 583.47
+4-6 letters: 8,303 words (34.58%), avg frequency: 32.81
+7-9 letters: 9,480 words (39.48%), avg frequency: 7.62
+10-12 letters: 4,340 words (18.08%), avg frequency: 4.20
+13+ letters: 1,315 words (5.48%), avg frequency: 2.91
