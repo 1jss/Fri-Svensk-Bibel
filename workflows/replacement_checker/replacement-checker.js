@@ -20,6 +20,7 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 `; // Hard-coded system prompt
 
   const replacementsPath = config.data.changes.replacements;
+  const replacementsCheckedPath = config.data.changes.replacementsChecked;
   const filePathPre = config.data.bibles.xml1917;
   
   let replacements = [];
@@ -37,6 +38,7 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 
   let kept = 0;
   let discarded = 0;
+  let keptReplacements = [];
 
   for (let i = 0; i < replacements.length; i++) {
     const item = replacements[i];
@@ -79,17 +81,16 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
     console.log(`Response: ${response}`);
 
     if (response.includes('OLIKA')) {
-      kept++;
-      console.log(`✓ KEPT`);
-    } else {
-      replacements.splice(i, 1);
-      i--;
       discarded++;
       console.log(`✗ DISCARDED`);
+    } else {
+      kept++;
+      keptReplacements.push(item);
+      console.log(`✓ KEPT`);
     }
 
-    // Save after each iteration
-    fs.writeFileSync(replacementsPath, JSON.stringify(replacements, null, 2));
+    // Save checked replacements after each iteration
+    fs.writeFileSync(replacementsCheckedPath, JSON.stringify(keptReplacements, null, 2));
   }
 
   console.log(`\n\nProcessing complete. Kept: ${kept}, Discarded: ${discarded}`);

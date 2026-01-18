@@ -31,17 +31,22 @@ const filtered = replacements.filter((rep) => {
     // Reason for filtering (if applicable)
     let filterReason = null;
 
-    // Check condition 1: All numbers in new are below 10
-    if (newNumbers.length > 0 && newNumbers.every(num => num < 10)) {
-        filterReason = 'all numbers below 10';
+    // Check condition 1: old and new are identical
+    if (rep.old === rep.new) {
+        filterReason = 'old and new are identical';
     }
 
-    // Check condition 2: No numbers in new
+    // Check condition 2: All numbers in new are below 10
+    if (newNumbers.length > 0 && newNumbers.every(num => num < 11)) {
+        filterReason = filterReason || 'all numbers below 10';
+    }
+
+    // Check condition 3: No numbers in new
     if (newNumbers.length === 0) {
         filterReason = filterReason || 'no numbers in new';
     }
 
-    // Check condition 3: More words in new than old
+    // Check condition 4: More words in new than old
     if (newWordCount > oldWordCount) {
         filterReason = filterReason || 'more words in new than old';
     }

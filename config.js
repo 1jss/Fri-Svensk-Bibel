@@ -13,6 +13,8 @@ module.exports = {
     changes: {
       checks: path.join(rootDir, 'data/changes/checks.json'),
       replacements: path.join(rootDir, 'data/changes/replacements.json'),
+      replacementsChecked: path.join(rootDir, 'data/changes/replacements_checked.json'),
+      replacementsUnchecked: path.join(rootDir, 'data/changes/replacements_unchecked.json'),
       numberReplacements: path.join(rootDir, 'data/changes/number_replacements.json'),
       newWords: path.join(rootDir, 'data/changes/new_words.md'),
     },
