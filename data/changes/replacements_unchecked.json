@@ -366,7 +366,7 @@
   },
   {
     "old": "Men varför satt du kvar ibland dina fållor och lyssnade till flöjtspel vid hjordarna? Ja, av Rubens ätter fördes stora överläggningar.",
-    "new": "Men varför satt du kvar bland dina fällar och lyssnade på flöjtspel vid boskapen? Ja, av Rubens ätter fördes stora samtal.",
+    "new": "Men varför satt du kvar bland dina fållor och lyssnade på flöjtspel vid hjordarna? Ja, av Rubens ätter fördes stora samtal.",
     "line": 7091
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "old": "Välsignad ska vara Jael framför andra kvinnor, Hebers hustru, kainéens, välsignad framför alla kvinnor som bor i tält!",
-    "new": "Välsignad ska Jael vara framför andra kvinnor, Hebers hustru, kanaaneiskans, välsignad framför alla kvinnor som bor i tält!",
+    "new": "Välsignad ska Jael vara framför andra kvinnor,  kainéens Hebers hustru, välsignad framför alla kvinnor som bor i tält!",
     "line": 7099
   },
   {
@@ -536,7 +536,7 @@
   },
   {
     "old": "Då gick Gideon in och tillredde en killing, men också osyrat bröd av en efa mjöl. Efter det la han köttet i en korg och hällde spadet i en kruka. Sedan bar han ut det till honom under terebinten och satte fram det.",
-    "new": "Då gick Gideon in och tillagade en killing, men också osyrat bröd av en efa mjöl. Efter det la han köttet i en korg och hällde spadet i en kruka. Sedan bar han ut det till honom under tamarinden och satte fram det.",
+    "new": "Då gick Gideon in och tillagade en killing och osyrat bröd av en efa mjöl. Sedan la han köttet i en korg och hällde spadet i en kruka. Sedan bar han ut det till honom under terebinten och satte fram det.",
     "line": 7127
   },
   {
@@ -826,7 +826,7 @@
   },
   {
     "old": "Efter det lät han gripa de äldste i staden och tog ökentörnen och tistlar och lät männen i Suckot få känna dem.",
-    "new": "Efter det lät han gripa stadens äldste och tog ökenblommor och tistlar, och lät männen i Suckot känna smaken av dem.",
+    "new": "Efter det lät han gripa stadens äldste och tog ökentörnen och tistlar, och lät männen i Suckot känna av dem.",
     "line": 7193
   },
   {
@@ -976,7 +976,7 @@
   },
   {
     "old": "Då sa träden till vinstocken: 'Kom du och bli kung över oss.'",
-    "new": "Då sa träden till vinstocken: \"Kom och bli kung över oss.\"",
+    "new": "Då sa träden till vinstocken: 'Kom och bli kung över oss.'",
     "line": 7226
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "old": "Ack om jag hade detta folk under min vård! Då skulle jag driva bort Abimelek.\" ni fråga om Abimelek sa han: \"Föröka din armé och dra ut.\"",
-    "new": "Ack, om jag hade detta folk under min vård! Då skulle jag driva bort Abimelek. \"Ni frågar om Abimelek,\" sa han, \"föröka din armé och dra ut.\"",
+    "new": "Ack, om jag hade detta folk under min vård! Då skulle jag driva bort Abimelek.\" Angående Abimelek sa han: \"Föröka din armé och dra ut.\"",
     "line": 7243
   },
   {
@@ -1226,12 +1226,12 @@
   },
   {
     "old": "Men Israels barn gjorde igen vad ont var i Herrens ögon och tjänade Baalerna och Astarterna, men också Arams, Sidons, Moabs, Ammons barns och filistéernas gudar och övergav Herren och tjänade honom inte.",
-    "new": "Men Israels barn gjorde om igen vad som var ont i Herrens ögon och tjänade Baalerna och Astarterna, men också gudarna för Araméer, sidonier, moabiter, ammoniter och filistéer. De övergav Herren och tjänade honom inte.",
+    "new": "Men Israels barn gjorde om igen vad som var ont i Herrens ögon och tjänade Baalerna och Astarterna, men också Arams, Sidons, Moabs, Ammons barns och filistéernas gudar. De övergav Herren och tjänade honom inte.",
     "line": 7279
   },
   {
     "old": "Då upptändes Herrens ilska mot Israel och han sålde dem i filistéernas och Ammons barns hand.",
-    "new": "Då tändes Herrens vrede mot Israel och han sålde dem i filistéernas och ammoniternas händer.",
+    "new": "Då tändes Herrens vrede mot Israel och han gav dem i filistéernas och Ammons barns händer.",
     "line": 7280
   },
   {
@@ -1291,7 +1291,7 @@
   },
   {
     "old": "Gileaditen Jefta var en tapper stridsman, men han var son till en sköka. Jeftas far var Gilead.",
-    "new": "Gileaditen Jefta var en tapper stridsman, men han var son till en änka. Jeftas far hette Gilead.",
+    "new": "Gileaditen Jefta var en tapper stridsman, men han var son till en hora. Jeftas far hette Gilead.",
     "line": 7294
   },
   {
@@ -1431,7 +1431,7 @@
   },
   {
     "old": "Jefta gjorde ett löfte åt Herren och sa: \"Om du ger Ammons barn i min hand,",
-    "new": "Jefta gav ett löfte till Herren och sa: \"Om du ger ammoniterna i min hand,",
+    "new": "Jefta gav ett löfte till Herren och sa: \"Om du ger Ammons barn i min hand,",
     "line": 7323
   },
   {
@@ -1471,7 +1471,7 @@
   },
   {
     "old": "Han svarade: \"Du får gå iväg.\" Han tillät henne att vara borta i två månader. Då gick hon iväg med sina väninnor och grät över sin jungfrudom på bergen.",
-    "new": "Han svarade: \"Du får gå härifrån.\" Han tillät henne att vara borta i två månader. Då gick hon iväg med sina väninnor och grät över sin oskuld på bergen.",
+    "new": "Han svarade: \"Du får gå iväg.\" Han lät henne  vara borta i två månader. Då gick hon iväg med sina väninnor och grät över sin oskuld på bergen.",
     "line": 7331
   },
   {
@@ -1931,12 +1931,12 @@
   },
   {
     "old": "Då sa Delila till Simson: \"Hittills har du bedragit mig och ljugit för mig. Säg mig nu hur man skulle kunna binda dig.\" Han svarade henne: \"Jo, om du vävde in de sju flätorna på mitt huvud i ränningen till din väv.\"",
-    "new": "Då sa Delila till Simson: \"Hittills har du bedragit mig och ljugit för mig. Säg mig nu hur man skulle kunna binda dig.\" Han svarade henne: \"Ja, om du vävde in de sju flätorna på mitt huvud i ränningen till din väv.\"",
+    "new": "Då sa Delila till Simson: \"Hittills har du bedragit mig och ljugit för mig. Säg mig nu hur man skulle kunna binda dig.\" Han svarade henne: \"Ja, om du vävde in de sju flätorna på mitt huvud i varpen till din väv.\"",
     "line": 7436
   },
   {
     "old": "Hon slog alltså fast dem med pluggen och ropade sedan till honom: \"Filistéerna är över dig, Simson!\" När han då vaknade upp ur sömnen, ryckte han loss vävpluggen och ränningen till väven.",
-    "new": "Hon slog alltså fast dem med pluggen och ropade sedan till honom: \"Filistéerna är över dig, Simson!\" När han då vaknade ur sömnen, ryckte han loss vävpluggen och sprang till väven.",
+    "new": "Hon slog alltså fast dem med pluggen och ropade sedan till honom: \"Filistéerna är över dig, Simson!\" När han då vaknade ur sömnen, ryckte han loss vävpluggen och varpen till väven.",
     "line": 7437
   },
   {
@@ -2001,7 +2001,7 @@
   },
   {
     "old": "Huset var fullt med män och kvinnor och filistéernas alla hövdingar var där. På taket var ungefär tre tusen män och kvinnor, som såg på, hur Simson förlustade dem.",
-    "new": "Huset var fullt av män och kvinnor, och alla filistéernas hövdingar var där. På taket befann sig ungefär tre tusen män och kvinnor, som såg på när Simson förlöjligade dem.",
+    "new": "Huset var fullt av män och kvinnor, och alla filistéernas hövdingar var där. På taket befann sig ungefär tre tusen män och kvinnor, som såg på när Simson roade dem.",
     "line": 7450
   },
   {
@@ -2030,14 +2030,9 @@
     "line": 7458
   },
   {
-    "old": "Så gav han de ett tusen ett hundra silversiklarna tillbaka åt sin mor. Men hans mor sa: \"Härmed helgar jag dessa pengar åt Herren och lämnar dem åt min son, för att han ska låta göra en skuren och en gjuten gudabild. Här lämnar jag dem nu tillbaka åt dig.\"",
-    "new": "Så gav han dem ett tusen hundra silverskålar tillbaka till sin mor. Men hans mor sa: \"Här med helgar jag dessa pengar åt Herren och lämnar dem till min son, för att han ska låta göra en huggen och en gjuten gudastod. Här lämnar jag dem nu tillbaka till dig.\"",
+    "old": "Så gav han de 1100 silversiklarna tillbaka åt sin mor. Men hans mor sa: \"Härmed helgar jag dessa pengar åt Herren och lämnar dem åt min son, för att han ska låta göra en skuren och en gjuten gudabild. Här lämnar jag dem nu tillbaka åt dig.\"",
+    "new": "Så gav han de 1100 silversiklarna tillbaka till sin mor. Men hans mor sa: \"Nu helgar jag dessa pengar åt Herren och lämnar dem till min son, för att han ska låta göra en täljd och en gjuten gudabild. Här lämnar jag dem nu tillbaka till dig.\"",
     "line": 7459
-  },
-  {
-    "old": "Men han gav pengarna tillbaka åt sin mor. Då tog hans mor två hundra siklar silver och gav dem åt en guldsmed och han gjorde av det en skuren och en gjuten gudabild, vilka sedan ställdes in i Mikas hus.",
-    "new": "Men han gav pengarna tillbaka till sin mor. Då tog hans mor två hundra silvermynt och gav dem till en guldsmed, som gjorde en utskuren och en gjuten gudabild av dem. Dessa ställdes sedan in i Mikas hus.",
-    "line": 7460
   },
   {
     "old": "Mannen Mika hade så ett gudahus. Han lät också göra en efod och husgudar och insatte genom handfyllning en av sina söner till präst åt sig.",
@@ -2571,7 +2566,7 @@
   },
   {
     "old": "Då skyndade sig de som låg i bakhåll att falla in i Gibea. De som låg i bakhåll drog iväg och slog alla invånarna i staden med svärdsegg.",
-    "new": "Då skyndade sig de som låg i bakhåll att rusa in i Gibea. De som låg i bakhåll drog sig undan och slog alla invånarna i staden med svärd.",
+    "new": "Då skyndade sig de som låg i bakhåll att rusa in i Gibea. De som låg i bakhåll kom fram och slog alla invånarna i staden med svärd.",
     "line": 7573
   },
   {
@@ -2681,7 +2676,7 @@
   },
   {
     "old": "Ja, detta är vad ni ska göra: allt mankön och alla de kvinnor som har haft med mankön att skaffa ska ni ge till spillo.",
-    "new": "Ja, det här är vad ni ska göra: alla män och alla kvinnor som har haft sex med män ska ni döda.",
+    "new": "Ja, det här är vad ni ska göra: alla män och alla kvinnor som har haft kontakt med män ska ni döda.",
     "line": 7597
   },
   {
@@ -2856,7 +2851,7 @@
   },
   {
     "old": "Så kom då Noomi tillbaka med sin sonhustru, moabitiskan Rut, i det hon vände tillbaka från Moabs land. De kom till Bet-Lehem, när kornskörden begynte.",
-    "new": "Så kom då Noomi tillbaka med sin svärdotter, moabitiskan Rut, när hon återvände från Moabs land. De kom till Betlehem när kornskörden började.",
+    "new": "Så kom då Noomi tillbaka med sin svärdotter, moabitiskan Rut, när hon återvände från Moabs land. De kom till Bet-Lehem när kornskörden började.",
     "line": 7637
   },
   {
@@ -3151,17 +3146,17 @@
   },
   {
     "old": "Detta är Peres släktregister: Peres födde Hesron.",
-    "new": "Detta är Peres släktregister: Peres fick sonen Hesron.",
+    "new": "Detta är Peres släktregister: Peres fick Hesron.",
     "line": 7702
   },
   {
     "old": "Hesron födde Ram. Ram födde Amminadab.",
-    "new": "Hesron fick sonen Ram. Ram fick sonen Amminadab.",
+    "new": "Hesron fick Ram. Ram fick Amminadab.",
     "line": 7703
   },
   {
     "old": "Amminadab födde Naheson. Naheson födde Salma.",
-    "new": "Amminadab fick sonen Naheson. Naheson fick dottern Salma.",
+    "new": "Amminadab fick Naheson. Naheson fick Salma.",
     "line": 7704
   },
   {
@@ -3321,7 +3316,7 @@
   },
   {
     "old": "Hjältarnas bågar är sönderbrutna, men de stapplande omgjorda sig med kraft.",
-    "new": "Hjältarnas bågar är sönderbrutna, men de återhämtar sig med kraft.",
+    "new": "Hjältarnas bågar är sönderbrutna, men de stapplande klär sig med kraft.",
     "line": 7744
   },
   {
@@ -3505,11 +3500,6 @@
     "line": 7782
   },
   {
-    "old": "Efter det skyndade han till Eli och sa: \"Här är jag. Du ropade ju på mig.\" Men han svarade: \"Jag har inte ropat. Gå tillbaka och lägg dig.\" Han gick och la sig.",
-    "new": "Efter det skyndade han till Eli och sa: \"Här är jag. Du ropade ju på mig.\" Men hon svarade: \"Jag har inte ropat. Gå tillbaka och lägg dig.\" Han gick och la sig.",
-    "line": 7783
-  },
-  {
     "old": "Men Herren ropade ännu en gång på Samuel. Samuel stod upp och gick till Eli och sa: \"Här är jag. Du ropade ju på mig.\" Men han svarade: \"Jag har inte ropat, min son. Gå tillbaka och lägg dig.\"",
     "new": "Men Herren ropade ännu en gång på Samuel. Samuel ställde sig upp och gick till Eli och sa: \"Här är jag. Du ropade ju på mig.\" Men han svarade: \"Jag har inte ropat, min son. Gå tillbaka och lägg dig.\"",
     "line": 7784
@@ -3666,7 +3656,7 @@
   },
   {
     "old": "Men Eli var nittioåtta år gammal och hans ögon var starrblinda, så att han inte kunde se.",
-    "new": "Men Eli var nittioåtta år gammal och hans ögon var grumbla, så att han inte kunde se.",
+    "new": "Men Eli var nittioåtta år gammal och hans ögon var grumliga, så att han inte kunde se.",
     "line": 7817
   },
   {
@@ -3756,7 +3746,7 @@
   },
   {
     "old": "De av invånarna som inte dogo blev slagna med bölder och ropet från staden steg upp mot himlen.",
-    "new": "De invånare som inte dog blev misshandlade med stenar och ropet från staden steg upp mot himlen.",
+    "new": "De invånare som inte dog drabbades av bölder och ropet från staden steg upp mot himlen.",
     "line": 7838
   },
   {
@@ -4001,7 +3991,7 @@
   },
   {
     "old": "Era döttrar ska han ta till salvoberederskor, kokerskor och bagerskor.",
-    "new": "Era döttrar ska han ta som sjuksköterskor, kockar och bagare.",
+    "new": "Era döttrar ska han ta till att göra salvor, laga mat och baka.",
     "line": 7895
   },
   {
@@ -4096,7 +4086,7 @@
   },
   {
     "old": "Saul sa till sin tjänare: \"Ditt förslag är gott. Kom, låt oss gå.\" Så gick de till staden där gudsmannen fanns.",
-    "new": "Saul sa till sin tjänare: \"Ditt förslag är bra. Kom, låt oss gå.\" Så gick de till staden där prästen fanns.",
+    "new": "Saul sa till sin tjänare: \"Ditt förslag är bra. Kom, låt oss gå.\" Så gick de till staden där gudsmannen fanns.",
     "line": 7916
   },
   {
@@ -4286,7 +4276,7 @@
   },
   {
     "old": "Då frågade de Herren ännu en gång: \"Har någon mer kommit hit? Herren svarade: \"Han har gömt sig bland trossen.\"",
-    "new": "Då frågade de Herren igen: \"Har någon annan kommit hit? Herren svarade: \"Han har gömt sig bland folket.\"",
+    "new": "Då frågade de Herren igen: \"Har någon annan kommit hit? Herren svarade: \"Han har gömt sig bland repen.\"",
     "line": 7957
   },
   {
@@ -4376,7 +4366,7 @@
   },
   {
     "old": "Men Saul sa: \"På denna dag ska ingen dödas, för i dag har Herren gett seger åt Israel.\"",
-    "new": "Men Saul sa: \"Ingen ska dömas idag, för i dag har Herren gett Israel seger.\"",
+    "new": "Men Saul sa: \"Ingen ska dödas idag, för i dag har Herren gett Israel seger.\"",
     "line": 7977
   },
   {
@@ -4851,7 +4841,7 @@
   },
   {
     "old": "Sauls hustru hette Ahinoam, Ahimaas dotter. Hans härhövitsman hette Abiner, son till Ner, som var Sauls farbroder.",
-    "new": "Sauls hustru hette Ahinoam, som var dotter till Ahimaaz. Hans härhövitsman hette Abner, son till Ner, som var Sauls farbror.",
+    "new": "Sauls hustru hette Ahinoam, som var dotter till Ahimaas. Hans härhövitsman hette Abner, son till Ner, som var Sauls farbror.",
     "line": 8083
   },
   {
@@ -5066,12 +5056,12 @@
   },
   {
     "old": "När de nu kom dit och han fick se Eliab, tänkte han: \"Förvisso står Herrens smorde här inför honom.\"",
-    "new": "När de nu kom dit och han fick se Eliab, tänkte han: \"Fastän Herrens smorde står här inför honom.\"",
+    "new": "När de nu kom dit och han fick se Eliab, tänkte han: \"Visst är det Herrens smorde som står här inför honom.\"",
     "line": 8130
   },
   {
     "old": "Men Herren sa till Samuel \"Skåda inte på hans utseende och på hans högväxta gestalt, för jag har förkastat honom. För det är inte som en människa ser. En människa ser på det som är för ögonen men Herren ser till hjärtat.\"",
-    "new": "Men Herren sa till Samuel: \"Skåda inte på hans utseende och på hans höga gestalt, för jag har förkastat honom. Ty det är inte som en människa ser. En människa ser på det hon ser, men Herren ser till hjärtat.\"",
+    "new": "Men Herren sa till Samuel: \"Se inte på hans utseende och på att han är så lång, för jag har förkastat honom. För det är inte som en människa ser. En människa ser på det synliga, men Herren ser till hjärtat.\"",
     "line": 8131
   },
   {
@@ -5121,12 +5111,12 @@
   },
   {
     "old": "Då sa Saul till sina tjänare: \"Sen er för min räkning om efter en man som är skicklig i strängaspel och för honom till mig.\"",
-    "new": "Då sa Saul till sina tjänare: \"Se till att ni hittar en man som är skicklig på harpa och för honom till mig.\"",
+    "new": "Då sa Saul till sina tjänare: \"Leta efter en man åt mig som är skicklig i strängaspel och för honom till mig.\"",
     "line": 8141
   },
   {
     "old": "En av männen svarade då och sa: \"Betlehemiten Isai har en son som jag har hittat vara kunnig i strängaspel, en käck stridsman och en förståndig man, till det en fager man. Herren är med honom.\"",
-    "new": "En av männen svarade då och sa: \"Betlehemiten Isai har en son som jag har funnit vara kunnig i strängaspel, en skicklig krigare och en förståndig man, dessutom är han ett vackert väsen. Herren är med honom.\"",
+    "new": "En av männen svarade då och sa: \"Betlehemiten Isai har en son som jag har funnit vara kunnig i strängaspel, en skicklig krigare och en förståndig man, dessutom ser han bra ut. Herren är med honom.\"",
     "line": 8142
   },
   {
@@ -5183,11 +5173,6 @@
     "old": "Han hade benskenor av koppar och bar en lans av koppar på sin rygg.",
     "new": "Han hade benskenor av koppar och bar en lans av koppar på ryggen.",
     "line": 8155
-  },
-  {
-    "old": "Skaftet på hans spjut liknade en vävbom och spetsen på spjutet höll sex hundra siklar järn. Hans sköldbärare gick framför honom.",
-    "new": "Skaftet på hans spjut liknade en vävstol och spetsen på spjutet var värd sex hundra silvermynt. Hans sköldbärande man gick framför honom.",
-    "line": 8156
   },
   {
     "old": "Han kom nu fram och ropade till Israels här och sa till dem: \"Varför håll ni ut och ställ upp er till strid? Jag står här på filistéernas vägnar och ni är Sauls tjänare. Väljen nu ut åt er en man som ska komma hit till mig.",
@@ -5313,11 +5298,6 @@
     "old": "så följde jag efter vilddjuret och slog ner det och ryckte rovet ur munnen på det. Om det då reste sig upp mot mig, så fattade jag det i skägget och slog ner det och dödade det.",
     "new": "Jag följde efter vilddjuret och slog ner det, samt ryckte rovet ur munnen på det. Om det då reste sig upp mot mig, så tog jag tag i skägget och slog ner det och dödade det.",
     "line": 8184
-  },
-  {
-    "old": "Har nu din tjänare slagit ner både lejon och björn, så ska det gå denna oomskurne filisté som det gick vart och ett av dessa djur, för han har smädat den levande Gudens här.\"",
-    "new": "Har nu din tjänare besegrat både lejon och björn, ska det gå denna oomskurne filisté som det gick vart och ett av dessa djur, för han har smädat den levande Gudens här.",
-    "line": 8185
   },
   {
     "old": "David sa ytterligare: \"Herren, som räddade mig undan lejon och björn, han ska också rädda mig undan denna filisté.\" Då sa Saul till David: \"Gå då iväg. Herren ska vara med dig.\"",
@@ -5481,12 +5461,12 @@
   },
   {
     "old": "Saul svängde spjutet och tänkte: \"Jag ska spetsa David fast vid väggen.\" Men David böjde sig undan för honom, två gånger.",
-    "new": "Saul svingade spjutet och tänkte: \"Jag ska binda fast David vid väggen.\" Men David duckade för honom, två gånger.",
+    "new": "Saul kastade spjutet och tänkte: \"Jag ska spetsa fast David vid väggen.\" Men David duckade för honom, två gånger.",
     "line": 8220
   },
   {
     "old": "Saul fruktade för David, eftersom Herren var med honom, sedan han hade vikit från Saul.",
-    "new": "Saul var rädd för David, eftersom Herren var med honom efter att han hade flytt från Saul.",
+    "new": "Saul var rädd för David, eftersom Herren var med honom efter att han hade lämnat Saul.",
     "line": 8221
   },
   {
@@ -5633,11 +5613,6 @@
     "old": "Efter det släppte Mikal ner David genom fönstret. Han begav sig på flykten och kom så undan.",
     "new": "Efter det släppte Mikal ner David genom fönstret. Han flydde och kom undan.",
     "line": 8253
-  },
-  {
-    "old": "Sedan tog Mikal husguden och la honom i sängen och satte myggnätet av gethår över huvudgärden och svepte täcket över honom.",
-    "new": "Sedan tog Mikael husguden och lade honom i sängen och satte myggnätet av gethår över huvudgärden och svepte täcket över honom.",
-    "line": 8254
   },
   {
     "old": "Då skickade Saul dit männen med uppdrag att skaffa sig tillträde till David själv och sa: \"Bären honom i sängen hit till mig, så att jag får döda honom.\"",
@@ -5826,7 +5801,7 @@
   },
   {
     "old": "Jonatan svarade Saul: \"David utbad sig tillstånd av mig att få gå till Bet-Lehem.",
-    "new": "Jonatan svarade Saul: \"David frågade mig om lov att få gå till Betlehem.\"",
+    "new": "Jonatan svarade Saul: \"David frågade mig om lov att få gå till Bet-Lehem.\"",
     "line": 8295
   },
   {
@@ -5845,13 +5820,8 @@
     "line": 8298
   },
   {
-    "old": "Jonatan svarade sin far Saul och sa till honom: \"Varför ska han dödas? Vad har han gjort?\"",
-    "new": "Jonatan svarade sin far Saul och sa till honom: \"Varför ska han dömas? Vad har han gjort?\"",
-    "line": 8299
-  },
-  {
     "old": "Då svängde Saul spjutet mot honom för att genomborra honom. Nu märkte Jonatan att hans far hade bestämt att döda David.",
-    "new": "Då svingade Saul spjutet mot honom för att genomborra honom. Nu märkte Jonatan att hans far hade bestämt sig för att döda David.",
+    "new": "Då kastade Saul spjutet mot honom för att genomborra honom. Nu märkte Jonatan att hans far hade bestämt sig för att döda David.",
     "line": 8300
   },
   {
