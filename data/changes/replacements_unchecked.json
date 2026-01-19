@@ -1,15 +1,5 @@
 [
   {
-    "old": "Landet hade nu ro i 40 år. Så dog Otniel, Kenas son.",
-    "new": "Landet hade nu ro i 40 år. Sedan dog Otniel, Kenas son.",
-    "line": 7027
-  },
-  {
-    "old": "Då bådade Sisera upp alla sina stridsvagnar, 900 vagnar av järn, till det också allt folk han hade, att dra från Haroset-Haggoim till bäcken Kison.",
-    "new": "Då beordrade Sisera alla sina stridsvagnar, 900 vagnar av järn, och allt folk han hade, att dra från Haroset-Haggoim till bäcken Kison.",
-    "line": 7062
-  },
-  {
     "old": "Låt för det nu utropa för folket och säga: Om någon fruktar och är rädd, så ska han vända tillbaka hem och skynda bort från Gileads berg.\" Då vände tjugotvå tusen man av folket tillbaka, så att bara tio tusen man stannade kvar.",
     "new": "Låt mig nu utropa för folket och säga: Om någon fruktar och är rädd, ska han vända tillbaka hem och skynda bort från Gileads berg. Då vände tjugotvå tusen man av folket tillbaka, så att bara tio tusen man stannade kvar.",
     "line": 7153
@@ -61,7 +51,7 @@
   },
   {
     "old": "Guldringarna, som han hade begärt, befanns väga ett tusen sju hundra siklar i guld -- detta förutom de halsprydnader, de örhängen och de purpurröda kläder som de midjanitiska kungarna hade burit och förutom de kedjor som hade suttit på deras kamelers halsar.",
-    "new": "Guldringarna, som han hade begärt, vägde ett tusen sju hundra siklar i guld – detta förutom de halsprydnader, örhängen och purpurröda kläder som de midjanitiska kungarna hade burit, samt de kedjor som hade suttit på deras kamelers halsar.",
+    "new": "Guldringarna, som han hade begärt, vägde ett tusen sju hundra siklar i guld - detta förutom de halsprydnader, örhängen och purpurröda kläder som de midjanitiska kungarna hade burit, samt de kedjor som hade suttit på deras kamelers halsar.",
     "line": 7203
   },
   {
@@ -86,7 +76,7 @@
   },
   {
     "old": "Efter det gick han till sin fars hus i Ofra och dödade där sina bröder, Jerubbaals söner, sjuttio män och detta på en och samma sten. Dock blev Jotam, Jerubbaals yngste son, vid liv, för han hade gömt sig.",
-    "new": "Efter det gick han till sin fars hus i Ofra och dödade där sina bröder, Jerubbaals söner, sjuttio män – på en och samma sten. Men Jotam, Jerubbaals yngste son, överlevde, för han hade gömt sig.",
+    "new": "Efter det gick han till sin fars hus i Ofra och dödade där sina bröder, Jerubbaals söner, sjuttio män - på en och samma sten. Men Jotam, Jerubbaals yngste son, överlevde, för han hade gömt sig.",
     "line": 7219
   },
   {
@@ -160,168 +150,13 @@
     "line": 7390
   },
   {
-    "old": "Till dem sa Simson: \"Jag vill förelägga er en gåta. Om ni under de sju gästabudsdagarna säger mig lösningen på den och gissen rätt, så ska jag ge er trettio fina linneskjortor och trettio högtidsdräkter.",
-    "new": "Till dem sade Simson: \"Jag vill ställa en gåta till er. Om ni under de sju gästabudsdagarna säger mig lösningen på den och gissar rätt, ska jag ge er trettio fina linneskjortor och trettio högtidsdräkter.\"",
-    "line": 7391
-  },
-  {
-    "old": "Men om ni inte kan säga mig lösningen, så ska ni ge mig trettio fina linneskjortor och trettio högtidsdräkter.\" De sa till honom: \"Förelägg oss din gåta, låt oss höra den.\"",
-    "new": "Men om ni inte kan säga mig lösningen, så ska ni ge mig trettio fina linneskjortor och trettio högtidsdräkter. De sa till honom: \"Berätta din gåta för oss, låt oss höra den.\"",
-    "line": 7392
-  },
-  {
-    "old": "Herrens Ande kom över honom och han gick ner till Askelon och slog där ihjäl trettio män och tog deras kläder och gav högtidsdräkterna åt dem som hade sagt lösningen på gåtan. Hans ilska upptändes och han vände tillbaka upp till sin fars hus.",
-    "new": "Herrens Ande kom över honom och han gick ner till Askelon där han dödade trettio män, tog deras kläder och gav högtidsdräkterna åt dem som hade svarat på gåtan. Hans vrede tändes och han vände tillbaka upp till sitt fars hus.",
-    "line": 7398
-  },
-  {
-    "old": "Simson gick bort och fångade tre hundra rävar. Sedan tog han facklor, band så ihop två och två rävar med svansarna och satte in en fackla mitt emellan de två svansarna.",
-    "new": "Simson dog och fångade trehundra rävar. Sedan tog han facklor, knöt ihop två och två rävar vid svansarna och satte en fackla mitt emellan deras svansar.",
-    "line": 7405
-  },
-  {
-    "old": "Då drog tre tusen män från Juda ner till bergsklyftan vid Etam och sa till Simson: \"Du vet ju att filistéerna bestämma över oss. Hur har du då kunnat göra så mot oss?\" Han svarade dem: \"Som de har gjort mot mig, så har jag gjort mot dem.\"",
-    "new": "Då drog tre tusen män från Juda ner till bergsklyftan vid Etam och sa till Simson: \"Du vet ju att filistéerna härskar över oss. Hur har du då kunnat göra så mot oss?\" Han svarade dem: \"Som de har gjort mot mig, så har jag gjort mot dem.\"",
-    "line": 7412
-  },
-  {
-    "old": "Han fick fatt i en åsnekäke som ännu var frisk. Han räckte ut sin hand och tog den och med den slog han ihjäl tusen män.",
-    "new": "Han fick tag på en åsnekäke som fortfarande var frisk. Han räckte ut sin hand och tog den, och med den dödade han tusen män.",
-    "line": 7416
-  },
-  {
-    "old": "Då kom filistéernas hövdingar upp till henne och sa till henne: \"Locka honom till att berätta för dig varav det beror att han är så stark och hur vi ska bli honom övermäktiga, så att vi kan binda honom och kuva honom. Vi vilja då ge dig ett tusen ett hundra siklar silver var.\"",
-    "new": "Då kom filistéernas hövdingar fram till henne och sa: \"Locka honom att berätta varför han är så stark och hur vi kan besegra honom, så att vi kan binda honom och få honom under kontroll. Då ska vi ge dig ett tusen hundra silvermynt var.\"",
+    "old": "Då kom filistéernas hövdingar upp till henne och sa till henne: \"Locka honom till att berätta för dig varav det beror att han är så stark och hur vi ska bli honom övermäktiga, så att vi kan binda honom och kuva honom. Vi vilja då ge dig\"",
+    "new": "Då kom filistéernas hövdingar fram till henne och sa: \"Locka honom att berätta varför han är så stark och hur vi kan besegra honom, så att vi kan binda honom och få honom under kontroll. Då ska vi ge dig\"",
     "line": 7428
-  },
-  {
-    "old": "Huset var fullt med män och kvinnor och filistéernas alla hövdingar var där. På taket var ungefär tre tusen män och kvinnor, som såg på, hur Simson förlustade dem.",
-    "new": "Huset var fullt av män och kvinnor, och alla filistéernas hövdingar var där. På taket befann sig ungefär tre tusen män och kvinnor, som såg på när Simson roade dem.",
-    "line": 7450
-  },
-  {
-    "old": "Han sa till sin mor: \"De ett tusen ett hundra silversiklar som blev dig fråntagna och för vilkas skull du uttalade en förbannelse, som jag själv hörde, se, de pengarna finns hos mig. Det var jag som tog dem.\" Då sa hans mor: \"Välsignad ska vara du, min son, av Herren!\"",
-    "new": "Han sa till sin mor: \"Det är ett tusen etthundra silversiklar som blev du fråntagna och för vilkas skull du uttalade en förbannelse, som jag själv hörde, se, de pengarna finns hos mig. Det var jag som tog dem.\" Då sa hans mor: \"Välsignad ska du vara, min son, av Herren!\"",
-    "line": 7458
-  },
-  {
-    "old": "Så bröt sex hundra man av daniternas släkt, omgjordade med vapen, upp därifrån, nämligen från Sorga och Estaol.",
-    "new": "Så bröt sexhundra man av daniternas släkt, utrustade med vapen, upp därifrån, nämligen från Sorga och Estaol.",
-    "line": 7482
-  },
-  {
-    "old": "Men de sex hundra männen av Dans barn ställde sig vid ingången till porten, omgjordade med sina vapen som de voro.",
-    "new": "Men de sexhundra männen av Dans barn ställde sig vid ingången till porten, omgjorda med sina vapen som de var.",
-    "line": 7487
-  },
-  {
-    "old": "De fem män som hade varit iväg för att utforska landet gick upp och kom ditin och tog den skurna gudabilden och efoden, men också husgudarna och den gjutna gudabilden, medan prästen stod vid ingången till porten och de sex hundra vapenomgjordade männen.",
-    "new": "De fem män som hade varit iväg för att utforska landet kom upp dit och tog den skurna gudabilden, efoden, husgudarna och den gjutna gudabilden. Prästen stod vid ingången till porten, medan de sex hundra vapenomgjorda männen.",
-    "line": 7488
-  },
-  {
-    "old": "Men när han hade kommit hem, fattade han en kniv och tog sin bi- hustru och styckade henne, efter benen i hennes kropp, i tolv stycken och skickade styckena omkring över hela Israels land.",
-    "new": "Men när han kom hem tog han en kniv och dödade sin bihustru. Han styckade henne, delade hennes kropp i tolv bitar och skickade ut dem över hela Israel.",
-    "line": 7533
-  },
-  {
-    "old": "De förnämsta i hela folket alla Israels stammar, kom fram i Guds folks församling: fyra hundra tusen svärdbeväpnade ska till fots.",
-    "new": "De förnämsta ur hela Israels folk kom fram till Guds folks församling: fyra hundra tusen soldater till fots.",
-    "line": 7538
-  },
-  {
-    "old": "På den dagen mönstrades Benjamins barn, de utgjorde från dessa städer tjugosex tusen svärdbeväpnade män. Vid denna mönstring medräknades inte de som bodde i Gibea, vilka utgjorde sju hundra utvalda män.",
-    "new": "På den dagen mönstrades Benjamins barn, och de utgjorde från dessa städer tjugosex tusen svärdbeväpnade män. Vid denna mönstring räknades inte de som bodde i Gibea med, och de utgjorde sju hundra utvalda män.",
-    "line": 7551
-  },
-  {
-    "old": "Bland allt detta folk fanns sju hundra utvalda män som var vänsterhänta. Alla dessa kunde med slungstenen träffa på håret, utan att fela.",
-    "new": "Bland allt detta folk fanns sju hundra utvalda män som var vänsterhänta. Alla dessa kunde med slungstenen träffa på håret, utan att missa.",
-    "line": 7552
-  },
-  {
-    "old": "När Israels män -- Benjamin frånräknad -- mönstrades, utgjorde de fyra hundra tusen svärdbeväpnade män. Alla dessa var krigsmän.",
-    "new": "När Israels män – Benjamin undantaget – mönstrades, utgjorde de fyra hundra tusen man med svärd. Alla dessa var krigsmän.",
-    "line": 7553
-  },
-  {
-    "old": "Men Benjamins barn drog ut ur Gibea och nedgjorde på den dagen tjugotvå tusen man av Israel.",
-    "new": "Men Benjamins barn drog ut ur Gibea och dödade på den dagen tjugotvå tusen israeliter.",
-    "line": 7557
-  },
-  {
-    "old": "drog också Benjamin på andra dagen ut från Gibea mot Israels barn och nedgjorde av dem ytterligare arton tusen man, alla svärdbeväpnade män.",
-    "new": "Benjamin drog också ut från Gibea mot Israels barn på andra dagen och dödade ytterligare arton tusen man, alla beväpnade med svärd.",
-    "line": 7561
   },
   {
     "old": "Så kom då tio tusen man, utvalda ur hela Israel, fram gent emot Gibea och striden blev hård, utan att någon visste att olyckan var dem så nära.",
     "new": "Då kom tio tusen man, utvalda ur hela Israel, fram mot Gibea och striden blev hård, utan att någon visste hur nära olyckan var dem.",
     "line": 7570
-  },
-  {
-    "old": "Herren lät Benjamin bli slagen av Israel och Israels barn nedgjorde av Benjamin på den dagen 25100 man, alla svärdbeväpnade män.",
-    "new": "Herren lät Israel slå Benjamin, och Israels barn nedgjorde Benjamin på den dagen 25100 man, alla män med svärd.",
-    "line": 7571
-  },
-  {
-    "old": "Alltså utgjorde de som på den dagen föll av Benjamin tillsammans ",
-    "new": "Alltså utgjorde de som föll av Benjamin tillsammans den dagen ",
-    "line": 7582
-  },
-  {
-    "old": "tappraste männen och lät dessa och sa: \"Gå iväg och slån invånarna i Jabes i Gilead med svärdsegg, också kvinnor och barn.",
-    "new": "tappraste männen och befallde dem: \"Gå iväg och slå invånarna i Jabes i Gilead med svärd, även kvinnor och barn.\"",
-    "line": 7596
-  },
-  {
-    "old": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig och israeliterna blev slagna av filistéerna.",
-    "new": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig, men israeliterna besegrades av filistéerna.",
-    "line": 7804
-  },
-  {
-    "old": "Så krigade nu filistéerna och israeliterna blev slagna och flydde var och en till sin hydda och nederlaget blev mycket stort:",
-    "new": "Så krigade filistéerna, och israeliterna blev slagna och flydde var och en till sin hydda. Nederlaget blev mycket stort:",
-    "line": 7812
-  },
-  {
-    "old": "Men Samuel tog Saul och hans tjänare och tog dem upp i salen och gav dem plats överst bland de inbjudna, vilka var ungefär",
-    "new": "Men Samuel tog Saul och hans tjänare och förde dem upp i salen och gav dem en plats högst upp bland de inbjudna, som var ungefär",
-    "line": 7928
-  },
-  {
-    "old": "Under tiden hade filistéerna församlat sig för att kriga mot Israel:",
-    "new": "Under tiden hade filistéerna samlats för att kriga mot Israel:",
-    "line": 8013
-  },
-  {
-    "old": "I det första anfallet nedgjorde så Jonatan och hans vapendragare ungefär",
-    "new": "I det första anfallet lyckades Jonatan och hans vapendragare döda ungefär",
-    "line": 8047
-  },
-  {
-    "old": "Han hade en kopparhjälm på sitt huvud och var klädd i ett fjällpansar och hans pansar hade en vikt av",
-    "new": "Han hade en kopparhjälm på huvudet och var klädd i ett fjällpansar, som vägde",
-    "line": 8154
-  },
-  {
-    "old": "Kvinnorna sjöngo med fröjd sålunda:",
-    "new": "Kvinnorna sjöng med fröjd så här:",
-    "line": 8216
-  },
-  {
-    "old": " Nu fattas honom bara kungadömet.\"",
-    "new": " Nu saknar han bara kungadömet.\"",
-    "line": 8217
-  },
-  {
-    "old": "för att hämnd så ska tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David fälld genom filistéernas hand.",
-    "new": "så ska hämnden tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David dödad av filistéerna.",
-    "line": 8234
-  },
-  {
-    "old": "David tog deras förhudar med sig och fulla antalet blev överlämnat åt kungen, för att han skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
-    "new": "David tog deras förhudar med sig, och det fulla antalet överlämnades till kungen, för att David skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
-    "line": 8236
   }
 ]
