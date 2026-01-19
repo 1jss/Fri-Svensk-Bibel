@@ -229,8 +229,12 @@
           <div class="legend-color" style="background-color: #3b82f6;"></div>
           <span>AI edited</span>
         </div>
+        <div class="legend-item clickable" data-status="AI_PARSED">
+          <div class="legend-color" style="background-color: #93c5fd;"></div>
+          <span>AI parsed</span>
+        </div>
         <div class="legend-item clickable" data-status="AI_CHECKED">
-          <div class="legend-color" style="background-color: #10b981;"></div>
+          <div class="legend-color" style="background-color: #1e40af;"></div>
           <span>AI checked</span>
         </div>
         <div class="legend-item clickable" data-status="MANUAL_EDIT">
@@ -238,11 +242,11 @@
           <span>Manual edit</span>
         </div>
         <div class="legend-item clickable" data-status="NUMBERS_PARSED">
-          <div class="legend-color" style="background-color: #06b6d4;"></div>
+          <div class="legend-color" style="background-color: #fca5a5;"></div>
           <span>Numbers parsed</span>
         </div>
-        <div class="legend-item clickable" data-status="NUMBERS_CHANGED">
-          <div class="legend-color" style="background-color: #ec4899;"></div>
+        <div class="legend-item clickable" data-status="NUMBERS_EDITED">
+          <div class="legend-color" style="background-color: #ef4444;"></div>
           <span>Numbers changed</span>
         </div>
       </div>
@@ -280,10 +284,11 @@
     const STATUS = {
       DIFF_EDITED: 'DIFF_EDITED',
       AI_EDITED: 'AI_EDITED',
+      AI_PARSED: 'AI_PARSED',
       AI_CHECKED: 'AI_CHECKED',
       MANUAL_EDIT: 'MANUAL_EDIT',
       NUMBERS_PARSED: 'NUMBERS_PARSED',
-      NUMBERS_CHANGED: 'NUMBERS_CHANGED',
+      NUMBERS_EDITED: 'NUMBERS_EDITED',
       UNEDITED: 'UNEDITED'
     };
 
@@ -291,21 +296,28 @@
     const STATUS_LABELS = {
       'DIFF_EDITED': 'Diff edited',
       'AI_EDITED': 'AI edited',
+      'AI_PARSED': 'AI parsed',
       'AI_CHECKED': 'AI checked',
       'MANUAL_EDIT': 'Manual edit',
       'NUMBERS_PARSED': 'Numbers parsed',
-      'NUMBERS_CHANGED': 'Numbers changed',
+      'NUMBERS_EDITED': 'Numbers edited',
       'UNEDITED': 'Unedited'
     };
 
     // Status Colors
     const STATUS_COLORS = {
-      [STATUS.AI_EDITED]: '#3b82f6',        // Blue
-      [STATUS.AI_CHECKED]: '#10b981',       // Green
-      [STATUS.MANUAL_EDIT]: '#f97316',      // Orange
+      // AI edits - Blue shades
+      [STATUS.AI_PARSED]: '#93c5fd',        // Light blue
+      [STATUS.AI_EDITED]: '#3b82f6',        // Medium blue
+      [STATUS.AI_CHECKED]: '#1e40af',       // Dark blue
+      
+      // Numbers edits - Red/Pink shades
+      [STATUS.NUMBERS_PARSED]: '#fca5a5',   // Light red
+      [STATUS.NUMBERS_EDITED]: '#ef4444',   // Medium red
+
+      // Other edits
       [STATUS.DIFF_EDITED]: '#8b5cf6',      // Purple
-      [STATUS.NUMBERS_PARSED]: '#06b6d4',   // Cyan
-      [STATUS.NUMBERS_CHANGED]: '#ec4899',  // Pink
+      [STATUS.MANUAL_EDIT]: '#f97316',      // Orange
       [STATUS.UNEDITED]: '#e5e7eb'          // Gray
     };
 
@@ -313,11 +325,12 @@
     // Status visibility state
     const visibleStatuses = {
       [STATUS.AI_EDITED]: true,
+      [STATUS.AI_PARSED]: true,
       [STATUS.AI_CHECKED]: true,
       [STATUS.MANUAL_EDIT]: true,
       [STATUS.DIFF_EDITED]: true,
       [STATUS.NUMBERS_PARSED]: true,
-      [STATUS.NUMBERS_CHANGED]: true,
+      [STATUS.NUMBERS_EDITED]: true,
       [STATUS.UNEDITED]: true
     };
 

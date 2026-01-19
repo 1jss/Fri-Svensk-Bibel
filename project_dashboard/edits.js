@@ -1,14 +1,20 @@
 const edits = [
   {
+    "startLine": 7009,
+    "endLine": 8317,
+    "status": "AI_EDITED",
+    "timestamp": "2026-01-19T08:00:00"
+  },
+  {
     "startLine": 851,
     "endLine": 9116,
-    "status": "NUMBERS_CHANGED",
+    "status": "NUMBERS_EDITED",
     "timestamp": "2026-01-18T09:00:00"
   },
   {
     "startLine": 7009,
     "endLine": 12635,
-    "status": "AI_EDITED",
+    "status": "AI_PARSED",
     "timestamp": "2026-01-17T09:00:00"
   },
   {
@@ -20,7 +26,7 @@ const edits = [
   {
     "startLine": 1,
     "endLine": 850,
-    "status": "NUMBERS_CHANGED",
+    "status": "NUMBERS_EDITED",
     "timestamp": "2026-01-16T08:00:00"
   },
   {
