@@ -1,63 +1,13 @@
 [
   {
-    "old": "Landet hade nu ro i fyrtio år. Så dog Otniel, Kenas son.",
-    "new": "Landet hade nu ro i fyrtio år. Sedan dog Otniel, Kenas son.",
+    "old": "Landet hade nu ro i 40 år. Så dog Otniel, Kenas son.",
+    "new": "Landet hade nu ro i 40 år. Sedan dog Otniel, Kenas son.",
     "line": 7027
   },
   {
-    "old": "Israels barn måste nu tjäna: Eglon, kungen i Moab, i arton år.",
-    "new": "Israels barn måste nu tjäna Eglon, kungen i Moab, i arton år.",
-    "line": 7030
-  },
-  {
-    "old": "Där slog de då moabiterna, ungefär tio tusen man, alla ansenligt och tappert folk. Inte en enda kom undan.",
-    "new": "Där slog moabiterna, ungefär tio tusen man, alla ansenligt och tappert folk. Inte någon slapp undan.",
-    "line": 7045
-  },
-  {
-    "old": "Så blev Moab då kuvat under Israels hand. Landet hade nu ro i åttio år.",
-    "new": "Så blev Moab kuvat under Israels hand. Landet fick nu ro i åttio år.",
-    "line": 7046
-  },
-  {
-    "old": "Efter honom kom Samgar, Anats son. Han slog filistéerna, sex hundra man, med en oxpik. Också han räddade Israel.",
-    "new": "Efter honom kom Samgar, Anats son. Han besegrade filistéerna, sex hundra man, med en oxpåk. Han räddade också Israel.",
-    "line": 7047
-  },
-  {
-    "old": "Israels barn ropade till Herren. För han hade nio hundra stridsvagnar av järn och han förtryckte Israels barn våldsamt i 20 år.",
-    "new": "Israels folk ropade till Herren, för han hade niohundra stridsvagnar av järn och förtryckte Israels folk våldsamt i tjugo år.",
-    "line": 7052
-  },
-  {
-    "old": "Hon skickade nu och lät kalla till sig Barak, Abinoams son, från Kedes i Naftali och sa till honom: \"Se, Herren, Israels Gud, befaller: Dra iväg upp på berget Tabor och ta med dig tio tusen man av Naftali barn och Sebulons barn.",
-    "new": "Hon skickade nu och lät kalla till sig Barak, Abinoams son, från Kedes i Naftali. Hon sa till honom: \"Se, Herren, Israels Gud, befaller: Dra iväg upp på berget Tabor och ta med dig tio tusen man av Naftali och Sebulons barn.\"",
-    "line": 7055
-  },
-  {
-    "old": "Då bådade Barak upp Sebulon och Naftali till Kedes och tio tusen man följde honom dit. Debora gick också dit med honom.",
-    "new": "Då kallade Barak på Sebulon och Naftali till Kedes, och tio tusen man följde honom dit. Debora gick också dit med honom.",
-    "line": 7059
-  },
-  {
-    "old": "Då bådade Sisera upp alla sina stridsvagnar, nio hundra vagnar av järn, till det också allt folk han hade, att dra från Haroset-Haggoim till bäcken Kison.",
-    "new": "Då beordrade Sisera alla sina stridsvagnar, nio hundra vagnar av järn, och lät också allt folk han hade dra från Haroset-Haggoim till bäcken Kison.",
+    "old": "Då bådade Sisera upp alla sina stridsvagnar, 900 vagnar av järn, till det också allt folk han hade, att dra från Haroset-Haggoim till bäcken Kison.",
+    "new": "Då beordrade Sisera alla sina stridsvagnar, 900 vagnar av järn, och allt folk han hade, att dra från Haroset-Haggoim till bäcken Kison.",
     "line": 7062
-  },
-  {
-    "old": "Men Debora sa till Barak: \"Stå upp, för detta är den dag på vilken Herren har gett Sisera i din hand. Se, Herren har dragit ut framför dig.\" Så drog då Barak ner från berget Tabor och tio tusen man följde honom.",
-    "new": "Men Debora sa till Barak: \"Stå upp, för detta är den dag på vilken Herren har gett Sisera i din hand. Se, Herren har dragit framför dig.\" Så gick Barak ner från berget Tabor och tio tusen man följde honom.",
-    "line": 7063
-  },
-  {
-    "old": "Man valde sig nya gudar. Då nådde striden fram till portarna. Men ingen sköld, inget spjut var att se hos de fyrtio tusen i Israel.",
-    "new": "Man valde nya gudar. Då nådde striden fram till portarna. Men ingen sköld, inget spjut fanns att se hos de fyrtio tusen i Israel.",
-    "line": 7083
-  },
-  {
-    "old": "Så ska alla dina fiender förgås, o Herre. Men de som älskar honom ska likna solen, när den går upp i hjältekraft. Landet hade nu ro i fyrtio år.",
-    "new": "Så ska alla dina fiender förgås, o Herre. Men de som älskar honom ska likna solen när den går upp i hjältekraft. Landet hade nu ro i fyrtio år.",
-    "line": 7106
   },
   {
     "old": "Låt för det nu utropa för folket och säga: Om någon fruktar och är rädd, så ska han vända tillbaka hem och skynda bort från Gileads berg.\" Då vände tjugotvå tusen man av folket tillbaka, så att bara tio tusen man stannade kvar.",
@@ -310,138 +260,68 @@
     "line": 7570
   },
   {
-    "old": "Herren lät Benjamin bli slagen av Israel och Israels barn nedgjorde av Benjamin på den dagen tjugofem tusen ett hundra man, alla svärdbeväpnade män.",
-    "new": "Herren lät Israel slå Benjamin, och Israels barn nedgjorde Benjamin på den dagen tjugofemtusen hundra man, alla män med svärd.",
+    "old": "Herren lät Benjamin bli slagen av Israel och Israels barn nedgjorde av Benjamin på den dagen 25100 man, alla svärdbeväpnade män.",
+    "new": "Herren lät Israel slå Benjamin, och Israels barn nedgjorde Benjamin på den dagen 25100 man, alla män med svärd.",
     "line": 7571
   },
   {
-    "old": "Så föll av Benjamin arton tusen man, alla tappert folk.",
-    "new": "Så föll av Benjamin arton tusen man, alla tappra människor.",
-    "line": 7580
-  },
-  {
-    "old": "Då vände de övriga sig mot öknen och flydde dit, till Rimmons klippa. Men de andra gjorde en efterskörd bland dem på vägarna, fem tusen man och satte så efter dem ända till Gideom och slog av dem två tusen man.",
-    "new": "Då vände de andra sig mot öknen och flydde dit, till Rimmons klippa. Men de andra gjorde en efterskörd bland dem på vägarna, fem tusen man, och satte så efter dem ända till Gideom och slog av dem två tusen man.",
-    "line": 7581
-  },
-  {
-    "old": "Alltså utgjorde de som på den dagen föll av Benjamin tillsammans tjugofem tusen svärdbeväpnade män. Alla dessa var tappert folk.",
-    "new": "Alltså utgjorde de som föll av Benjamin tillsammans den dagen tjugofemtusen svärdbeväpnade män. Alla dessa var tappra människor.",
+    "old": "Alltså utgjorde de som på den dagen föll av Benjamin tillsammans ",
+    "new": "Alltså utgjorde de som föll av Benjamin tillsammans den dagen ",
     "line": 7582
   },
   {
-    "old": "Men av dem som vände sig mot öknen och flydde dit, till Rimmons klippa, hann sex hundra man ditfram. Dessa stannade på Rimmons klippa i fyra månader.",
-    "new": "Men av dem som vände sig mot öknen och flydde dit, till Rimmons klippa, kom sexhundra man fram. De stannade på Rimmons klippa i fyra månader.",
-    "line": 7583
-  },
-  {
-    "old": "Då skickade folket dit tolv tusen av de tappraste männen och lät dessa och sa: \"Gå iväg och slån invånarna i Jabes i Gilead med svärdsegg, också kvinnor och barn.",
-    "new": "Då skickade folket dit tolv tusen av de tappraste männen och sade: \"Gå iväg och slå invånarna i Jabes i Gilead med svärd, även kvinnor och barn.\"",
+    "old": "tappraste männen och lät dessa och sa: \"Gå iväg och slån invånarna i Jabes i Gilead med svärdsegg, också kvinnor och barn.",
+    "new": "tappraste männen och befallde dem: \"Gå iväg och slå invånarna i Jabes i Gilead med svärd, även kvinnor och barn.\"",
     "line": 7596
   },
   {
-    "old": "Men bland invånarna i Jabes i Gilead fann de fyra hundra unga kvinnor som var jungfrur och inte hade haft med män, med mankön, att skaffa. Dessa tog de då till lägret i Silo i Kanaans land.",
-    "new": "Men bland invånarna i Jabes i Gilead fann de fyra hundra unga kvinnor som var jungfrur och inte hade haft någon kontakt med män. Dessa togs till lägret i Silo i Kanaans land.",
-    "line": 7598
-  },
-  {
-    "old": "På den tiden fanns ingen kung i Israel. Var och en gjorde vad honom behagade.",
-    "new": "Då fanns ingen kung i Israel. Var och en gjorde som de ville.",
-    "line": 7611
-  },
-  {
-    "old": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig och israeliterna blev slagna av filistéerna. Dessa nedgjorde på slagfältet ungefär fyra tusen man.",
-    "new": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig, men israeliterna besegrades av filistéerna. På slagfältet dog ungefär fyra tusen man.",
+    "old": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig och israeliterna blev slagna av filistéerna.",
+    "new": "Filistéerna ställde då upp sig i slagordning mot Israel och striden utbredde sig, men israeliterna besegrades av filistéerna.",
     "line": 7804
   },
   {
-    "old": "Så krigade nu filistéerna och israeliterna blev slagna och flydde var och en till sin hydda och nederlaget blev mycket stort: av Israel föll trettio tusen man fotfolk.",
-    "new": "Så krigade filistéerna, och israeliterna blev slagna och flydde var och en till sin hydda. Nederlaget blev mycket stort: av Israel föll trettio tusen man fotfolk.",
+    "old": "Så krigade nu filistéerna och israeliterna blev slagna och flydde var och en till sin hydda och nederlaget blev mycket stort:",
+    "new": "Så krigade filistéerna, och israeliterna blev slagna och flydde var och en till sin hydda. Nederlaget blev mycket stort:",
     "line": 7812
   },
   {
-    "old": "Men Eli var nittioåtta år gammal och hans ögon var starrblinda, så att han inte kunde se.",
-    "new": "Men Eli var nittioåtta år gammal och hans ögon var grumliga, så att han inte kunde se.",
-    "line": 7817
-  },
-  {
-    "old": "När han nämnde om Guds ark, föll Eli baklänges av stolen vid sidan av porten och bröt nacken av sig och dog. För mannen var gammal och tung. Han hade då varit domare i Israel i fyrtio år.",
-    "new": "När han nämnde Guds ark föll Eli bakåt från stolen vid sidan av porten och bröt nacken. Han dog. Mannen var gammal och trött. Han hade varit domare i Israel i fyrtio år.",
-    "line": 7820
-  },
-  {
-    "old": "Av invånarna i Bet-Semes blev också många slagna, för att de hade sett på Herrens ark. Han slog sjuttio man bland folket, femtio tusen man. Folket sörjde över det att Herren hade slagit så många bland folket.",
-    "new": "Av invånarna i Bet-Semes blev också många misshandlade, för att de hade tittat på Herrens ark. Han slog sjuttio man av folket, femtio tusen. Folket sörjde över att Herren hade slagit så många av dem.",
-    "line": 7859
-  },
-  {
-    "old": "Men Samuel tog Saul och hans tjänare och tog dem upp i salen och gav dem plats överst bland de inbjudna, vilka var ungefär trettio män.",
-    "new": "Men Samuel tog Saul och hans tjänare och förde dem upp i salen och gav dem en plats högst upp bland de inbjudna, som var ungefär trettio män.",
+    "old": "Men Samuel tog Saul och hans tjänare och tog dem upp i salen och gav dem plats överst bland de inbjudna, vilka var ungefär",
+    "new": "Men Samuel tog Saul och hans tjänare och förde dem upp i salen och gav dem en plats högst upp bland de inbjudna, som var ungefär",
     "line": 7928
   },
   {
-    "old": "Han mönstrade dem i Besek och Israels barn utgjorde då tre hundra tusen och Juda män trettio tusen.",
-    "new": "Han räknade dem i Besek, och Israels barn var då trehundratusen och Juda män trettiotusentals.",
-    "line": 7972
-  },
-  {
-    "old": "utvalde han åt sig tre tusen män ur Israel. Av dessa hade Saul själv hos sig två tusen i Mikmas och i Betels bergsbygd och ett tusen hade Jonatan hos sig i Gibea i Benjamin. Men det övriga folket hade han låtit gå hem, var och en till sin hydda.",
-    "new": "Han utvalde tre tusen män ur Israel. Av dessa hade Saul själv med sig två tusen i Mikmas och i Betels bergsbygd, medan Jonatan hade ett tusen med sig i Gibea i Benjamin. Men det övriga folket lät han gå hem till sina respektive hem.",
-    "line": 8010
-  },
-  {
-    "old": "Under tiden hade filistéerna församlat sig för att kriga mot Israel: trettio tusen vagnar och sex tusen ryttare och fotfolk så talrikt som sanden på havets strand. De drog upp och slog läger vid Mikmas, öster om Bet-Aven.",
-    "new": "Under tiden hade filistéerna samlats för att kriga mot Israel: trettio tusen vagnar, sex tusen ryttare och fotfolk så många som sanden på stranden. De drog upp och slog läger vid Mikmas, öster om Bet-Aven.",
+    "old": "Under tiden hade filistéerna församlat sig för att kriga mot Israel:",
+    "new": "Under tiden hade filistéerna samlats för att kriga mot Israel:",
     "line": 8013
   },
   {
-    "old": "Efter det stod Samuel upp och gick från Gilgal till Gibea i Benjamin. Men Saul mönstrade det folk som fanns hos honom: ungefär sex hundra man.",
-    "new": "Efter det stod Samuel upp och gick från Gilgal till Gibea i Benjamin. Men Saul mönstrade de människor som fanns hos honom: ungefär sexhundra man.",
-    "line": 8023
-  },
-  {
-    "old": "Saul vistades då vid Gibeas gräns, under granatträdet i Migron och folket som han hade hos sig utgjorde ungefär sex hundra man.",
-    "new": "Saul vistades då vid Gibeas gräns, under ett grannträd och hade med sig ungefär sexhundra man.",
-    "line": 8035
-  },
-  {
-    "old": "I det första anfallet nedgjorde så Jonatan och hans vapendragare ungefär tjugo män, på en sträcka av ungefär ett halvt plogland.",
-    "new": "I det första anfallet lyckades Jonatan och hans vapendragare döda ungefär tjugo män på en sträcka av ungefär ett halvt plogland.",
+    "old": "I det första anfallet nedgjorde så Jonatan och hans vapendragare ungefär",
+    "new": "I det första anfallet lyckades Jonatan och hans vapendragare döda ungefär",
     "line": 8047
   },
   {
-    "old": "Då bådade Saul upp folket och mönstrade dem i Telaim: två hundra tusen man fotfolk och dessutom tio tusen man från Juda.",
-    "new": "Då kallade Saul samman folket och räknade dem i Telaim: tvåhundratusen man fotfolk, samt tjugo tusen man från Juda.",
-    "line": 8091
-  },
-  {
-    "old": "Han hade en kopparhjälm på sitt huvud och var klädd i ett fjällpansar och hans pansar hade en vikt av fem tusen siklar koppar.",
-    "new": "Han hade en kopparhjälm på huvudet och var klädd i ett fjällpansar, som vägde fem tusen siklar koppar.",
+    "old": "Han hade en kopparhjälm på sitt huvud och var klädd i ett fjällpansar och hans pansar hade en vikt av",
+    "new": "Han hade en kopparhjälm på huvudet och var klädd i ett fjällpansar, som vägde",
     "line": 8154
   },
   {
-    "old": "Filistéen kom fram både tidigt och sent. I fyrtio dagar kom han och ställde sig där.",
-    "new": "Filistéen kom fram både tidigt och sent. I fyrtio dagar kom han dit och ställde sig där.",
-    "line": 8165
-  },
-  {
-    "old": "Kvinnorna sjöngo med fröjd sålunda: \"Saul har slagit sina tusen, men David sina tio tusen.\"",
-    "new": "Kvinnorna sjöng med fröjd så här: \"Saul har slagit tusen man, men David tjugo tusen.\"",
+    "old": "Kvinnorna sjöngo med fröjd sålunda:",
+    "new": "Kvinnorna sjöng med fröjd så här:",
     "line": 8216
   },
   {
-    "old": "Då blev Saul mycket vred, för det talet misshagade honom och han sa: \"Åt David har de gett tio tusen och åt mig har de gett tusen. Nu fattas honom bara kungadömet.\"",
-    "new": "Då blev Saul mycket vred, för det talet misshagade honom och han sa: \"David har fått tio tusen, men jag bara tusen. Nu saknar han bara kungadömet.\"",
+    "old": " Nu fattas honom bara kungadömet.\"",
+    "new": " Nu saknar han bara kungadömet.\"",
     "line": 8217
   },
   {
-    "old": "Då sa till Saul dem att de skulle säga så till David: \"Kungen begär ingen annan brudgåva än förhudarna av ett hundra filistéer, för att hämnd så ska tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David fälld genom filistéernas hand.",
-    "new": "Då sa de till Saul att de skulle säga så till David: \"Kungen vill inte ha någon annan brudgåva än förhudarna från hundra filistéer, så ska hämnden tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David dödad av filistéerna.",
+    "old": "för att hämnd så ska tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David fälld genom filistéernas hand.",
+    "new": "så ska hämnden tas på kungens fiender.\" Saul hoppades nämligen att han skulle få David dödad av filistéerna.",
     "line": 8234
   },
   {
-    "old": "stod David upp och drog iväg med sina män och slog av filistéerna två hundra man. David tog deras förhudar med sig och fulla antalet blev överlämnat åt kungen, för att han skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
-    "new": "David stod upp och drog iväg med sina män och slog av filistéerna tvåhundra man. David tog deras förhudar med sig, och det fulla antalet överlämnades till kungen, för att David skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
+    "old": "David tog deras förhudar med sig och fulla antalet blev överlämnat åt kungen, för att han skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
+    "new": "David tog deras förhudar med sig, och det fulla antalet överlämnades till kungen, för att David skulle bli kungens måg. Saul gav honom så sin dotter Mikal till hustru.",
     "line": 8236
   }
 ]
