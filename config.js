@@ -24,6 +24,11 @@ module.exports = {
     fsbXmlDir: path.join(rootDir, 'web/utils/FSB_xml'),
     fsbHtmlDir: path.join(rootDir, 'web/prod/FSB'),
     analysisDir: path.join(rootDir, 'analysis'),
+    webNextDir: path.join(rootDir, 'web/next'),
+  },
+  // Database
+  database: {
+    fsb: path.join(rootDir, 'web/next/fsb_approval.db'),
   },
   // Workflow paths
   workflows: {
