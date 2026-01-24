@@ -11,7 +11,7 @@ module.exports = {
       fsbPre: path.join(rootDir, 'data/bibles/FSB_pre.xml'),
     },
     changes: {
-      checks: path.join(rootDir, 'data/changes/checks.json'),
+      checks: path.join(rootDir, 'data/checks/checks.json'),
       replacements: path.join(rootDir, 'data/changes/replacements.json'),
       replacementsChecked: path.join(rootDir, 'data/changes/replacements_checked.json'),
       replacementsUnchecked: path.join(rootDir, 'data/changes/replacements_unchecked.json'),
@@ -25,6 +25,7 @@ module.exports = {
     fsbHtmlDir: path.join(rootDir, 'web/prod/FSB'),
     analysisDir: path.join(rootDir, 'analysis'),
     webNextDir: path.join(rootDir, 'web/next'),
+    checksDir: path.join(rootDir, 'data/checks'),
   },
   // Project dashboard
   dashboard: {

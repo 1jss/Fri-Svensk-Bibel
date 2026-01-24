@@ -19,15 +19,15 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 - Avikelse: [Vad som har ändrats, eller "INGEN" om inga skillnader finns]
 `; // Hard-coded system prompt
 
-  const replacementsPath = config.data.changes.replacements;
+  const replacementsUncheckedPath = config.data.changes.replacementsUnchecked;
   const replacementsCheckedPath = config.data.changes.replacementsChecked;
   const filePathPre = config.data.bibles.xml1917;
   
   let replacements = [];
   try {
-    replacements = JSON.parse(fs.readFileSync(replacementsPath, 'utf8'));
+    replacements = JSON.parse(fs.readFileSync(replacementsUncheckedPath, 'utf8'));
   } catch (e) {
-    console.log('replacements.json not found or invalid, starting empty');
+    console.log('replacements_unchecked.json not found or invalid, starting empty');
     return;
   }
 
@@ -36,9 +36,10 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 
   const regex = /<VERS[^>]*>(.*?)<\/VERS>/;
 
-  let kept = 0;
-  let discarded = 0;
-  let keptReplacements = [];
+  let approved = 0;
+  let rejected = 0;
+  let likaReplacements = [];
+  let rejectedReplacements = [];
 
   for (let i = 0; i < replacements.length; i++) {
     const item = replacements[i];
@@ -81,19 +82,29 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
     console.log(`Response: ${response}`);
 
     if (response.includes('OLIKA')) {
-      discarded++;
-      console.log(`✗ DISCARDED`);
+      rejected++;
+      // Extract the deviation comment from the response
+      const deviationMatch = response.match(/Avikelse:\s*(.+?)(?:\n|$)/);
+      const deviation = deviationMatch ? deviationMatch[1].trim() : 'Unknown deviation';
+      
+      // Add the item with the LLM comment to rejected replacements
+      const rejectedItem = { ...item, llmComment: deviation };
+      rejectedReplacements.push(rejectedItem);
+      console.log(`✗ REJECTED`);
     } else {
-      kept++;
-      keptReplacements.push(item);
-      console.log(`✓ KEPT`);
+      approved++;
+      likaReplacements.push(item);
+      console.log(`✓ APPROVED`);
     }
-
-    // Save checked replacements after each iteration
-    fs.writeFileSync(replacementsCheckedPath, JSON.stringify(keptReplacements, null, 2));
   }
 
-  console.log(`\n\nProcessing complete. Kept: ${kept}, Discarded: ${discarded}`);
+  // Save approved (LIKA) replacements back to unchecked
+  fs.writeFileSync(replacementsUncheckedPath, JSON.stringify(likaReplacements, null, 2));
+  
+  // Save rejected (OLIKA) replacements with LLM comments to checked
+  fs.writeFileSync(replacementsCheckedPath, JSON.stringify(rejectedReplacements, null, 2));
+
+  console.log(`\n\nProcessing complete. Approved: ${approved}, Rejected: ${rejected}`);
 }
 
 main().catch(console.error);

@@ -16,7 +16,7 @@
   },
   {
     "old": "Prästen svarade: \"Jo, det svärd som har tillhört filistéen Goljat, honom som du slog ner i Terebintdalen. Det finns, inhöljt i ett kläde, där bakom efoden. Vill du ta det med dig, så ta det. För något annat än det har jag inte.\" David sa: \"Dess like finns inte. Ge mig det.\"",
-    "new": "Prästen svarade: \"Ja, det svärd som har tillhört filistéen Goljat, han som du slog ner i Terebintdalen. Det finns, inhöljt i ett kläde, där bakom efoden. Vill du ta det med dig, så gör det. För något annat än det har jag inte.\" David sa: \"Dess like finns inte. Ge mig det.\"",
+    "new": "Prästen svarade: \"Ja, det svärd som har tillhört filistéen Goljat, han som du slog ner i Terebintdalen. Det finns, inlindat i ett kläde, där bakom efoden. Vill du ta det med dig, så gör det. För något annat än det har jag inte.\" David sa: \"Dess like finns inte. Ge mig det.\"",
     "line": 8321
   },
   {
@@ -26,22 +26,22 @@
   },
   {
     "old": "Men Akis tjänare sa till honom: \"Detta är ju David, landets kung! Det är ju till dennes ära man sjunger så under dansen: 'Saul har slagit sina tusen, men David sina tio tusen.'",
-    "new": "Men Akis tjänare sa till honom: \"Detta är ju David, landets kung! Det är ju för hans skull man sjunger så under dansen: 'Saul har slagit tusen, men David tjugotusen.'\"",
+    "new": "Men Akis tjänare sa till honom: \"Detta är ju David, landets kung! Det är ju för hans skull man sjunger så under dansen: 'Saul har slagit sina 1000, men David sina 10000.'\"",
     "line": 8323
   },
   {
     "old": "David la märke till dessa ord och han började storligen frukta för Akis, kungen i Gat.",
-    "new": "David märkte dessa ord och han började mycket att frukta för Akis, kungen i Gat.",
+    "new": "David märkte dessa ord och han började frukta mycket för Akis, kungen i Gat.",
     "line": 8324
   },
   {
     "old": "Därför ställde han sig vansinnig inför deras ögon och betedde sig som en ursinnig, när de ville fasthålla honom och ritade på dörrarna i porten och lät spotten rinna ner i sitt skägg.",
-    "new": "Därför blev han vansinnig inför deras ögon och betedde sig som en ursinnlig när de ville hålla fast vid honom och ritade på dörrarna i porten och lät spotten rinna ner i sitt skägg.",
+    "new": "Därför spelade han vansinnig inför deras ögon och betedde sig som en ursinnlig. När de ville hålla fast honom och ritade på dörrarna i porten och lät spottet rinna ner i sitt skägg.",
     "line": 8325
   },
   {
     "old": "Då sa Akis till sina tjänare: \"Ni ser ju hur vanvettigt mannen beter sig. Varför fören ni honom till mig?",
-    "new": "Då sa Akis till sina tjänare: \"Ni ser ju hur galen mannen är. Varför förde ni honom inte till mig?\"",
+    "new": "Då sa Akis till sina tjänare: \"Ni ser ju hur galen mannen är. Varför för ni honom till mig?\"",
     "line": 8326
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "old": "Till honom samlades alla slags män som var i något trångmål, alla som ansattes av fordringsägare och alla missnöjda och han blev deras hövding. Omkring fyra hundra man slöto sig så till honom.",
-    "new": "Till honom samlades alla möjliga människor som befann sig i svårigheter, alla som hotades av fordringsägare och alla missnöjda. Han blev deras ledare. Cirka fyra hundra man anslöt sig till honom.",
+    "new": "Till honom samlades alla möjliga människor som befann sig i svårigheter, alla som hotades av fordringsägare och alla missnöjda. Han blev deras ledare. Cirka 400 man anslöt sig till honom.",
     "line": 8331
   },
   {
     "old": "Därifrån begav sig David till Mispe i Moab. Han sa till kungen i Moab: \"Låt min far och min mor få komma hitöver och vara hos er till dess jag får vet vad Gud vill göra med mig.\"",
-    "new": "Därifrån begav sig David till Mispe i Moab. Han sa till kungen i Moab: \"Låt min far och min mor få komma hitöver och stanna hos er tills jag får veta vad Gud vill göra med mig.\"",
+    "new": "Därifrån begav sig David till Mispe i Moab. Han sa till kungen i Moab: \"Låt min far och min mor få komma hit och stanna hos er tills jag får veta vad Gud vill göra med mig.\"",
     "line": 8332
   },
   {
     "old": "Han tog dem fram inför kungen i Moab. De fick stanna hos denne, så länge David var på borgen.",
-    "new": "Han tog dem fram inför kungen i Moab. De fick stanna hos honom så länge David var på fästningen.",
+    "new": "Han tog dem fram inför kungen i Moab. De fick stanna hos honom så länge David var i borgen.",
     "line": 8333
   },
   {
@@ -76,12 +76,12 @@
   },
   {
     "old": "Saul fick höra att man hade fått spaning på David och de män som var med honom. Då nu Saul en dag satt i Gibea under tamarisken på kullen, med sitt spjut i handen, medan alla hans tjänare stod omkring honom,",
-    "new": "Saul fick höra att man hade fått spaning på David och de män som var med honom. Saul satt en dag i Gibea under tamarisken på kullen, med sitt spjut i handen, medan alla hans tjänare stod omkring honom.",
+    "new": "Saul fick höra att man hade fått spaning på David och de män som var med honom. När Saul satt en dag i Gibea under tamarisken på kullen, med sitt spjut i handen, medan alla hans tjänare stod omkring honom,",
     "line": 8335
   },
   {
     "old": "sa han till sina tjänare, där de stod omkring honom: \"Hör, ni benjaminiter. Skall då också Isais son åt er alla ge åkrar och vingårdar och göra er alla till över- och underhövitsmän?",
-    "new": "sa han till sina tjänare, där de stod omkring honom: \"Hör här, ni benjaminiter. Ska då Isais son ge er alla åkrar och vingårdar och göra er alla till över- och underhuvudsmän?\"",
+    "new": "sa han till sina tjänare, där de stod omkring honom: \"Hör här, ni benjaminiter. Ska då Isais son ge alla er åkrar och vingårdar och göra alla er till över- och underhövitsmän?\"",
     "line": 8336
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "old": "Han frågade då Herren för honom och gav honom reskost. Han gav honom också filistéen Goljats svärd.\"",
-    "new": "Han frågade då Herren om honom och gav honom reskost. Han gav honom också filistéen Goljats svärd.",
+    "new": "Han frågade då Herren för honom och gav honom reskost. Han gav honom också filistéen Goljats svärd.",
     "line": 8339
   },
   {
@@ -111,17 +111,17 @@
   },
   {
     "old": "Saul sa till honom: \"Varför har ni svurit er samman mot mig, du och Isais son, i det att du har gett honom bröd och svärd och frågat Gud för honom, så att han skulle kunna sätta sig upp mot mig och stämpla mot mig, som nu sker?\"",
-    "new": "Saul sa till honom: \"Varför har ni förbundit er mot mig, du och Isais son, nu när du gett honom bröd och svärd och frågat Gud för honom, så att han skulle kunna resa sig upp mot mig och slåss mot mig, som nu händer?\"",
+    "new": "Saul sa till honom: \"Varför har ni förbundit er mot mig, du och Isais son, nu när du gett honom bröd och svärd och frågat Gud för honom, så att han skulle kunna resa sig upp mot mig och slåss mot mig, som nu sker?\"",
     "line": 8342
   },
   {
     "old": "Ahimelek svarade kungen och sa: \"Vem bland alla dina tjänare är väl så betrodd som David, han som till det är kungens måg och hövding för din livvakt och högt ärad i ditt hus?",
-    "new": "Ahimelek svarade kungen och sa: \"Vem av alla dina tjänare är så betrodd som David, han som är din måg och hövding för din livvakt och mycket högt ansedd i ditt hus?\"",
+    "new": "Ahimelek svarade kungen och sa: \"Vem av alla dina tjänare är så betrodd som David, han som är din svärson och hövding för din livvakt och mycket högt ansedd i ditt hus?\"",
     "line": 8343
   },
   {
     "old": "Är det då nu för första gången som jag har frågat Gud för honom? Bort med det! Inte ska kungen lägga mig, sin tjänare och hela min fars hus något till last, för din tjänare visste alls inget om allt detta.\"",
-    "new": "Är det nu första gången jag ber Gud för honom? Bort med tanken! Kungen ska inte lägga någon börda på mig, sin tjänare, eller hela mitt faders hus, för jag visste ju ingenting om detta.\"",
+    "new": "Är det nu första gången jag frågat Gud för honom? Bort med tanken! Kungen ska inte lägga någon börda på mig, sin tjänare, eller hela mitt faders hus, för jag visste ju ingenting om detta.\"",
     "line": 8344
   },
   {
@@ -131,12 +131,12 @@
   },
   {
     "old": "Kungen sa till drabanterna som stod där omkring honom: \"Träden fram och döden Herrens präster. För också de hålla med David. Fastän de visste att han flydde, berättade de det inte för mig.\" Men kungens tjänare ville inte sträcka ut sina händer till att stöta ner Herrens präster.",
-    "new": "Kungen sa till drabanterna som stod där omkring honom: \"Fördriv träden och döda Herrens präster. De håller också med David. Fastän de visste att han flydde, berättade de det inte för mig.\" Men kungens tjänare ville inte sträcka ut sina händer för att stöta ner Herrens präster.",
+    "new": "Kungen sa till drabanterna som stod där omkring honom: \"Kom fram och döda Herrens präster. De håller också med David. Fastän de visste att han flydde, berättade de det inte för mig.\" Men kungens tjänare ville inte sträcka ut sina händer för att stöta ner Herrens präster.",
     "line": 8346
   },
   {
     "old": "Då sa kungen till Doeg: \"Träd du fram och stöt ner prästerna.\" Edoméen Doeg kom då fram och stötte ner prästerna och dödade på den dagen åttiofem män som bar linne-efod.",
-    "new": "Då sa kungen till Doeg: \"Kom fram och döda prästerna.\" Edoméen Doeg kom då fram och dödade prästerna, åttiofem män som bar linne-efod, på den dagen.",
+    "new": "Då sa kungen till Doeg: \"Kom fram och döda prästerna.\" Edoméen Doeg kom då fram och dödade på den dagen prästerna, 85 män som bar linne-efod.",
     "line": 8347
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "old": "Men Davids män sa till honom: \"Vi leva ju i rädsla redan här i Juda. Nu skulla vi till det dra iväg till Kegila, mot filistéernas här!\"",
-    "new": "Men Davids män sa till honom: \"Vi är ju rädda redan här i Juda. Nu skulle vi väl bege oss till Kegila, mot filistéernas armé!\"",
+    "new": "Men Davids män sa till honom: \"Vi är ju rädda redan här i Juda. Nu skulle vi dessutom bege oss till Kegila, mot filistéernas armé!\"",
     "line": 8357
   },
   {
@@ -196,12 +196,12 @@
   },
   {
     "old": "Efter det bådade Saul upp allt folket till strid, för att dra ner till Kegila och där innesluta David och hans man.",
-    "new": "Efter det beordrade Saul allt folket till strid för att dra ner till Kegila och där innesluta David och hans män.",
+    "new": "Efter det beordrade Saul allt folket till strid för att dra ner till Kegila och stänga in David och hans män där.",
     "line": 8362
   },
   {
     "old": "Men när David fick veta att Saul stämplade ont mot honom, sa han till prästen Ebjatar: \"Bär hit efoden.\"",
-    "new": "Men när David fick veta att Saul gjorde honom illa, sa han till prästen Ebjatar: \"Ta med efoden.\"",
+    "new": "Men när David fick veta att Saul planerade att skada honom, sa han till prästen Ebjatar: \"Ta hit efoden.\"",
     "line": 8363
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "old": "Ska Kegilas borgare då utlämna mig åt honom? Skall Saul komma hit, som din tjänare har hört? Herre, Israels Gud, ropa ut det för din tjänare.\" Herren svarade: \"Han ska komma hit.\"",
-    "new": "Ska Kegilas borgare då utlämna mig åt honom? Ska Saul komma hit, som din tjänare har hört? Herre, Israels Gud, ropa ut det för din tjänare.\" Herren svarade: \"Han ska komma hit.\"",
+    "new": "Ska Kegilas borgare då utlämna mig åt honom? Ska Saul komma hit, som din tjänare har hört? Herre, Israels Gud, berätta det för din tjänare.\" Herren svarade: \"Han ska komma hit.\"",
     "line": 8365
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "old": "Då bröt David upp med sitt folk, som utgjorde ungefär sex hundra man och de drog ut från Kegila och vandrade vart de kunde. När det då blev berättat för Saul att David hade flytt undan från Kegila avstod han från att dra ut.",
-    "new": "Då bröt David upp med sitt folk, som bestod av ungefär sex hundra man, och de drog ut från Kegila och vandrade vart de kunde. När det då berättades för Saul att David hade flytt undan från Kegila avstod han från att följa efter.",
+    "new": "Då bröt David upp med sitt folk, som bestod av ungefär 600 man, och de drog ut från Kegila och vandrade vart de kunde. När det då berättades för Saul att David hade flytt undan från Kegila avstod han från att gå dit.",
     "line": 8367
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "old": "Men Jonatan, Sauls son, stod upp och gick till David i Hores och styrkte hans mod i Gud.",
-    "new": "Men Jonatan, Sauls son, ställde sig upp och gick till David i Hores och uppmuntrade hans mod i Gud.",
+    "new": "Men Jonatan, Sauls son, ställde sig upp och gick till David i Hores och styrkte honom i Gud.",
     "line": 8370
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "old": "Men några sifiter drog upp till Saul i Gibea och sa: \"David håller sig nu gömd hos oss på bergfästena i Hores, på Hakilahöjden, som ligger söder om ödemarken.",
-    "new": "Men några män gick upp till Saul i Gibea och sa: \"David håller sig nu gömd hos oss på bergfästena i Hores, på Hakilahöjden, som ligger söder om ödemarken.\"",
+    "new": "Men några sifiter gick upp till Saul i Gibea och sa: \"David håller sig nu gömd hos oss på bergfästena i Hores, på Hakilahöjden, som ligger söder om ödemarken.\"",
     "line": 8373
   },
   {
@@ -260,18 +260,13 @@
     "line": 8374
   },
   {
-    "old": "Då sa Saul: \"Var välsignade av Herren, för att ni har velat spara mig bekymmer.",
-    "new": "Då sa Saul: \"Må Herren välsigna er, för att ni har sparat mig från bekymmer.\"",
-    "line": 8375
-  },
-  {
     "old": "Men går nu och skaffa er ytterligare visshet och tagen reda på och se efter, på vilket ställe han nu vistas och vem som har sett honom där. För man har sagt mig att han är mycket listig.",
-    "new": "Men gå nu och skaffa er ytterligare visshet och ta reda på och se efter var han befinner sig nu och vem som har sett honom där. För man har sagt mig att han är mycket listig.",
+    "new": "Men gå nu och skaffa er ytterligare kunskap och ta reda på och se efter var han befinner sig nu och vem som har sett honom där. För man har sagt mig att han är mycket listig.",
     "line": 8376
   },
   {
     "old": "Sen efter och tagen reda på alla gömställen där han kan gömma sig. Kom så igen till mig, när ni har fått visshet, så vill jag sedan gå med er. För finns han i landet, ska jag veta att söka upp honom, om jag än måste söka bland alla Juda ätter.\"",
-    "new": "Sen tog han reda på alla gömställen där han kunde gömma sig. Kom då igen till mig, när ni har fått visshet, så vill jag sedan gå med er. För om han finns i landet ska jag veta hur man söker upp honom, även om jag måste söka bland alla Judas ätter.",
+    "new": "Se efter och ta reda på alla gömställen där han kan gömma sig. Kom sedan tillbaka till mig, när ni har fått kunskap, så vill jag sedan gå med er. För om han finns i landet ska jag veta hur man söker upp honom, även om jag måste söka bland alla Judas ätter.",
     "line": 8377
   },
   {
@@ -286,12 +281,12 @@
   },
   {
     "old": "Saul gick på ena sidan om berget och David med sina män på andra sidan. Men just som David var stadd på flykt för att komma undan Saul, medan Saul och hans män sökte kringränna David och hans män för att ta dem till fånga",
-    "new": "Saul gick på ena sidan av berget och David med sina män på andra sidan. Men just som David var på flykt för att komma undan Saul, sökte Saul och hans män att fånga David och hans män.",
+    "new": "Saul gick på ena sidan av berget och David med sina män på andra sidan. Men just som David var på flykt för att komma undan Saul, och Saul och hans män sökte att fånga David och hans män,",
     "line": 8380
   },
   {
     "old": "kom en budbärare till Saul och sa: \"Skynda dig och kom, för filistéerna har fallit in i landet.\"",
-    "new": "En budbärare kom till Saul och sa: \"Skynda dig, för filistéerna har fallit in i landet.\"",
+    "new": "kom en budbärare till Saul och sa: \"Skynda dig, för filistéerna har fallit in i landet.\"",
     "line": 8381
   },
   {
@@ -306,7 +301,7 @@
   },
   {
     "old": "När Saul kom tillbaka från tåget mot filistéerna, berättade man för honom att David var i En-Gedis öken.",
-    "new": "När Saul kom tillbaka från resan mot filistéerna, berättade man för honom att David var i En-Gedis öken.",
+    "new": "När Saul kom tillbaka från slaget mot filistéerna, berättade man för honom att David var i En-Gedis öken.",
     "line": 8386
   },
   {
@@ -321,12 +316,12 @@
   },
   {
     "old": "Då sa Davids män till honom: \"Se, detta är den dag om vilken Herren har sagt till dig: Jag vill nu ge din fiende i din hand, så att du far göra med honom vad du finner för gott.\" Då stod David upp och skar oförmärkt av en flik på Sauls mantel.",
-    "new": "Då sa Davids män till honom: \"Se, detta är den dag som Herren har sagt till dig: Jag vill nu ge din fiende i din hand, så att du kan göra med honom vad du tycker är rätt.\" Då reste sig David och klippte av en flik på Sauls mantel.",
+    "new": "Då sa Davids män till honom: \"Se, detta är den dag som Herren har talat med dig om: Jag vill nu ge din fiende i din hand, så att du kan göra med honom vad du tycker är rätt.\" Då reste sig David och skar av en flik på Sauls mantel utan att han märkte det.",
     "line": 8389
   },
   {
     "old": "Men efter det slog Davids samvete honom, för att han hade skurit av fliken på Sauls mantel.",
-    "new": "Men efter det slog Davids samvete honom, för att han hade klippt av en bit på Sauls mantel.",
+    "new": "Men efter det slog Davids samvete honom, för att han hade skurit av en bit på Sauls mantel.",
     "line": 8390
   },
   {
@@ -341,7 +336,7 @@
   },
   {
     "old": "då stod också David upp och gick ut ur grottan och ropade efter Saul: \"Min herre kung!\" När då Saul såg sig tillbaka, böjde David sig ned, med ansiktet mot jorden och bugade sig.",
-    "new": "Då stod David också upp och gick ut ur grottan och ropade efter Saul: \"Min herre, kung!\" När Saul då vände sig om, böjde David sig ned med ansiktet mot jorden och bugade sig.",
+    "new": "då stod David också upp och gick ut ur grottan och ropade efter Saul: \"Min herre, kung!\" När Saul då vände sig om, böjde David sig ned med ansiktet mot jorden och bugade sig.",
     "line": 8393
   },
   {
@@ -351,12 +346,12 @@
   },
   {
     "old": "Du har ju i dag med egna ögon sett hurusom jag skonade dig, när Herren i dag hade gett dig i min hand i grottan Man uppmanade mig att döda dig. Jag tänkte: 'Jag vill inte sträcka ut min hand mot min herre. Han är ju Herrens Smorde.",
-    "new": "Du har väl i dag med egna ögon sett hur jag skonade dig, när Herren i dag hade gett dig i min hand i grottan. Man uppmanade mig att döda dig. Jag tänkte: \"Jag vill inte sträcka ut min hand mot min herre. Han är ju Herrens smorde.\"",
+    "new": "Du har väl i dag med egna ögon sett hur jag skonade dig, när Herren i dag hade gett dig i min hand i grottan. Man uppmanade mig att döda dig. Jag tänkte: 'Jag vill inte sträcka ut min hand mot min herre. Han är ju Herrens smorde.",
     "line": 8395
   },
   {
     "old": "Se själv, min far, ja, se här fliken av din mantel i min hand. För eftersom jag skar av fliken på din mantel, men inte dödade dig, ska du märka och se att jag inte har velat göra något ont eller begå någon förbrytelse och att jag inte har försyndat mig mot dig, fastän du traktar efter att ta mitt liv.",
-    "new": "Se själv, min far, ja, se här fliken från din mantel i min hand. För eftersom jag skar av fliken på din mantel, men inte dödade dig, ska du märka och se att jag inte har velat göra något ont eller begå någon förbrytelse, utan att jag inte har försyndat mig mot dig, fastän du försöker ta mitt liv.",
+    "new": "Se själv, min far, ja, se här fliken från din mantel i min hand. För eftersom jag skar av fliken på din mantel, men inte dödade dig, ska du märka och se att jag inte har velat göra något ont eller begå något brott, utan att jag inte har gjort fel mot dig, fastän du försöker ta mitt liv.",
     "line": 8396
   },
   {
@@ -366,7 +361,7 @@
   },
   {
     "old": "Det är som det gamla ordspråket säger: 'Från de ogudaktiga kommer vad ogudaktigt är'. Därför ska hand inte röra dig.\"",
-    "new": "Det är som det gamla ordspråket säger: \"Från de ogudaktiga kommer vad ogudaktigt är\". Därför ska du inte röra dig.",
+    "new": "Det är som det gamla ordspråket säger: 'Från de ogudaktiga kommer vad ogudaktigt är'. Därför ska du inte röra dig.",
     "line": 8398
   },
   {
@@ -376,7 +371,7 @@
   },
   {
     "old": "Så ska vara då Herren domare och döme mellan mig och dig. Låt han se hit och utföra min sak, ja, ska han döma mig fri från din hand.\"",
-    "new": "Så ska Herren vara domare och dömare mellan mig och dig. Låt honom se hit och utföra min sak, ja, ska han döma mig fri från din hand.",
+    "new": "Så ska Herren vara domare och döma mellan mig och dig. Låt honom se hit och utföra min sak, ja, han ska döma mig fri från din hand.\"",
     "line": 8400
   },
   {
@@ -386,7 +381,7 @@
   },
   {
     "old": "Han sa till David: \"Du är rättfärdigare än jag, för du har bevisat mig gott, under det jag har bevisat dig ont.",
-    "new": "Han sa till David: \"Du är rättvisare än jag, för du har visat mig vänlighet, medan jag har visat dig motvillighet.\"",
+    "new": "Han sa till David: \"Du är rättvisare än jag, för du har visat mig godhet, när jag visade dig ondska.",
     "line": 8402
   },
   {
@@ -396,7 +391,7 @@
   },
   {
     "old": "För när någon träffar på sin fiende, brukar han då låta honom gå sin väg i ro? Herren vedergälle dig med sitt goda för vad du denna dag har gjort mig.",
-    "new": "För när någon möter sin fiende, brukar han då låta honom gå vidare i fred? Herren belöna dig för det du har gjort mig idag.",
+    "new": "För när någon möter sin fiende, brukar han då låta honom gå vidare i fred? Herren ska belöna dig för det du har gjort mig idag.",
     "line": 8404
   },
   {
@@ -406,7 +401,7 @@
   },
   {
     "old": "Men lova mig nu med ed vid Herren att du inte utrotar mina avkomlingar efter mig och inte utplånar mitt namn ur min fars hus.\"",
-    "new": "Men lova mig nu med ed till Herren att du inte utrotar mina barn efter mig och inte tar bort mitt namn ur min fars hus.",
+    "new": "Men lova mig nu med ed vid Herren att du inte utrotar mina barn efter mig och inte tar bort mitt namn ur min fars hus.",
     "line": 8406
   },
   {
@@ -421,7 +416,7 @@
   },
   {
     "old": "I Maon fanns då en man som hade sin boskapsskötsel i Karmel och den mannen var mycket rik. Han ägde tre tusen får och ett tusen getter. Han höll just då på att klippa sina får i Karmel.",
-    "new": "I Maon fanns en man som hade sin boskapsskötsel i Karmel, och han var mycket rik. Han ägde tre tusen får och ett tusen getter. Han höll just då på att klippa sina får i Karmel.",
+    "new": "I Maon fanns en man som hade sin boskapsskötsel i Karmel, och han var mycket rik. Han ägde 3000 får och 1000 getter. Han höll just då på att klippa sina får i Karmel.",
     "line": 8411
   },
   {
@@ -436,12 +431,12 @@
   },
   {
     "old": "sände han dit tio unga män. David sa till männen: \"Gå upp till Karmel och bege er till Nabal och hälsen honom från mig.",
-    "new": "Han sände dit tio unga män. David sa till männen: \"Gå upp till Karmel och hälsa Nabal från mig.\"",
+    "new": "sände han dit tio unga män. David sa till männen: \"Gå upp till Karmel och hälsa Nabal från mig.\"",
     "line": 8414
   },
   {
     "old": "Ni ska säga till mina bröder där: \"Frid ska vara med dig själv frid ska vara med ditt hus och frid ska vara med allt vad du har.",
-    "new": "Ni ska säga till mina bröder där: \"Fred med er, fred med ert hus och fred med allt ni har.\"",
+    "new": "Ni ska säga till mina bröder där: \"Fred med dig, fred med ditt hus och fred med allt du har.\"",
     "line": 8415
   },
   {
@@ -451,7 +446,7 @@
   },
   {
     "old": "Fråga dina tjänare därom, så ska de själva säga dig det. Låt nu våra män finna nåd för dina ögon. Vi har ju kommit hit på en glad dag. Ge för det åt dina tjänare och åt din son David vad du kan har till hands.\"",
-    "new": "Fråga dina tjänare därom, så ska de själva säga det till dig. Låt nu våra män finna nåd i dina ögon. Vi har ju kommit hit på en glad dag. Ge för det åt dina tjänare och åt din son David vad du har till hands.",
+    "new": "Fråga dina tjänare därom, så ska de själva säga det till dig. Låt nu våra män finna nåd i dina ögon. Vi har ju kommit hit på en glad dag. Ge därför vad du har till hands åt dina tjänare och åt din son David.",
     "line": 8417
   },
   {
@@ -466,7 +461,7 @@
   },
   {
     "old": "Skulle jag ta min mat och min dryck och slaktdjuren, som jag har slaktat åt mina fårklippare och ge detta åt män om vilka jag inte ens vet varifrån de är?\"",
-    "new": "Skulle jag ta min mat och dryck, och slaktdjuren som jag har slaktat åt mina fårklippare, och ge detta till människor om vilka jag inte ens vet var de kommer ifrån?",
+    "new": "Skulle jag ta min mat och dryck, och slaktdjuren som jag har slaktat åt mina fårklippare, och ge detta till män som jag inte ens vet var de kommer ifrån?",
     "line": 8420
   },
   {
@@ -476,7 +471,7 @@
   },
   {
     "old": "Då sa David till sina män: \"Var och en omgjorde sig med sitt svärd.\" Var och en omgjordade sig med sitt svärd. Jämväl David själv omgjordade sig med sitt svärd. Omkring fyra hundra man följde med David dit, men två hundra stannade vid trossen.",
-    "new": "Då sa David till sina män: \"Var och en ska ta på sig sitt svärd.\" Var och en tog på sig sitt svärd. Själv gjorde också David det. Omkring fyra hundra man följde med David dit, men två hundra stannade kvar vid trossen.",
+    "new": "Då sa David till sina män: \"Var och en ska ta på sig sitt svärd.\" Var och en tog på sig sitt svärd. Själv gjorde också David det. Omkring fyra hundra man följde med David dit, men 200 stannade kvar i lägret.",
     "line": 8422
   },
   {
@@ -486,7 +481,7 @@
   },
   {
     "old": "Dessa män har ändå varit oss mycket nyttiga. Vi har aldrig lidit något förfång och aldrig har något kommit bort för oss under hela den tid vi drog omkring i deras närhet, medan vi var därute på marken.",
-    "new": "Dessa män har ändå varit oss mycket till nytta. Vi har aldrig gått på något förlust och ingenting har någonsin kommit bort för oss under hela den tid vi var i deras närhet, medan vi var ute på landsbygden.",
+    "new": "Dessa män har varit oss till stor nytta. Vi har aldrig gått någon förlust och ingenting har någonsin kommit bort för oss under hela den tid vi var i deras närhet, medan vi var ute på landsbygden.",
     "line": 8424
   },
   {
@@ -501,27 +496,27 @@
   },
   {
     "old": "Då gick Abigail direkt och tog två hundra bröd, två vinläglar, fem tillredda får, fem sea-mått rostade ax, ett hundra russinkakor och två hundra fikonkakor och lastade detta på åsnor.",
-    "new": "Då gick Abigail direkt och tog två hundra bröd, två vinläglar, fem tillagade får, fem sämmar rostade ax, ett hundra russinkakor och två hundra fikonkakor och lastade detta på åsnorna.",
+    "new": "Då gick Abigail direkt och tog två hundra bröd, två vinläglar, fem tillagade får, fem sea-mått rostade ax, ett hundra russinkakor och två hundra fikonkakor och lastade detta på åsnor.",
     "line": 8427
   },
   {
     "old": "Hon sa till sina tjänare: \"Gå framför mig, jag vill komma efter er.\" Men för sin man Nabal sa hon inget härom.",
-    "new": "Hon sa till sina tjänare: \"Gå framför mig, jag kommer efter er.\" Men för sin man Nabal sa hon inget därom.",
+    "new": "Hon sa till sina tjänare: \"Gå framför mig, jag kommer efter er.\" Men hon sa inget om detta till sin man Nabal.",
     "line": 8428
   },
   {
     "old": "När hon nu red på sin åsna och kom ner i en hålväg i berget, fick hon se David och hans män komma ner från motsatta sidan, så att hon måste möta dem.",
-    "new": "När hon nu red på åsnan och kom ner i en hålig väg i berget, fick hon se David och hans män komma ner från andra sidan, så att hon var tvungen att möta dem.",
+    "new": "När hon nu red på sin åsna och kom ner i en hålig väg i berget, fick hon se David och hans män komma ner från andra sidan, så att hon var tvungen att möta dem.",
     "line": 8429
   },
   {
     "old": "Men David hade sagt: \"Förgäves har jag skyddat allt vad den mannen hade i öknen, så att inget av allt vad han ägde har kommit bort. Men har har vedergällt mig med ont för gott.",
-    "new": "Men David hade sagt: \"Förgäves har jag skyddat allt som mannen ägde i öknen, så att inget av hans egendom har gått förlorat. Men han har betalat mig med ont för gott.\"",
+    "new": "Men David hade sagt: \"Förgäves har jag skyddat allt som den mannen ägde i öknen, så att inget av hans egendom har gått förlorat. Men han har betalat mig med ont för gott.\"",
     "line": 8430
   },
   {
     "old": "Så sant Gud ska straffa Davids fiender nu och framgent, jag ska av allt som tillhör honom inte låta någon av mankön leva kvar till i morgon.\"",
-    "new": "Så sant Gud ska straffa Davids fiender nu och i framtiden, ska jag se till att ingen av mankön som tillhör honom överlever till i morgon.",
+    "new": "Så sant som Gud ska straffa Davids fiender nu och i framtiden, ska jag se till att ingen av mankön som tillhör honom överlever till i morgon.",
     "line": 8431
   },
   {
@@ -531,17 +526,17 @@
   },
   {
     "old": "Hon föll till hans fötter och sa: \"På mig vilar denna missgärning, herre. Men låt din tjänarinna få tala inför dig och hör på din tjänarinnas ord.",
-    "new": "Hon föll ner vid hans fötter och sa: \"Jag bär ansvaret för denna missgärning, herre. Men låt mig få tala inför dig och lyssna på mina ord.\"",
+    "new": "Hon föll ner vid hans fötter och sa: \"Jag bär ansvaret för denna missgärning, herre. Men låt mig få tala inför dig och lyssna på din tjänarinnas ord.\"",
     "line": 8433
   },
   {
     "old": "Inte ska min herre fästa något avseende vid Nabal, den onde mannen, för vad hans namn betyder, det är han. Nabal heter han och dårskap bor i honom. Men jag, din tjänarinna, har inte sett de män som du, min herre, sände.",
-    "new": "Inte ska min herre fästa någon vikt vid Nabal, den onde mannen, för det är precis vad hans namn betyder. Nabal heter han och dårskap bor i honom. Men jag, din tjänarinna, har inte sett de män som du, min herre, sände.",
+    "new": "Min herre ska inte fästa någon vikt vid Nabal, den onde mannen, för det är precis vad hans namn betyder. Nabal heter han och dårskap bor i honom. Men jag, din tjänarinna, har inte sett de män som du, min herre, sände.",
     "line": 8434
   },
   {
     "old": "Nu, min herre, så sant Herren lever och så sant du själv lever, du som av Herren har avhållits från att dra på dig blodskuld och skaffa dig rätt med egen hand: ska det nu gå dina fiender och dem som försöker förbereda min herre ofärd som det ska gå Nabal.",
-    "new": "Nu, min herre, så sant Herren lever och så sant du själv lever – du som av Herren har hållits borta från att dra på dig blodskuld och skaffa dig rätt med egen hand: ska det nu gå dina fiender och dem som försöker förbereda min herre ofärd som det gick Nabal.",
+    "new": "Nu, min herre, så sant Herren lever och så sant du själv lever, du som av Herren har hållits borta från att dra på dig blodskuld och skaffa dig rätt med egen hand: Det ska nu gå dina fiender och dem som försöker förbereda min herre ofärd som det ska gå Nabal.",
     "line": 8435
   },
   {
@@ -556,7 +551,7 @@
   },
   {
     "old": "Om någon står upp för att förfölja dig och söka döda dig, så ska min herres liv vara inknutet i de levandes pung hos Herren, din Gud. Men dina fienders liv ska han lägga i sin slunga och slunga det bort.",
-    "new": "Om någon står upp för att förfölja dig och söka döda dig, ska min herres liv vara inknutet i de levandes pung hos Herren, din Gud. Men dina fienders liv ska han lägga i sin slunga och skjuta bort dem.",
+    "new": "Om någon står upp för att förfölja dig och vill döda dig, ska min herres liv vara inknutet i de levandes väska hos Herren, din Gud. Men dina fienders liv ska han lägga i sin slunga och skjuta bort dem.",
     "line": 8438
   },
   {
@@ -566,32 +561,32 @@
   },
   {
     "old": "skall alltså detta inte bli dig en stötesten eller vara till hjärteångest för min herre, att du har hällt ut blod utan sak och att min herre själv har skaffat sig rätt. Men när Herren gör min herre gott, så tänk på din tjänarinna.\"",
-    "new": "Ska alltså detta inte bli dig ett hinder eller vara till hjärtesorg för min herre, att du har hällt ut blod utan anledning och att min herre själv har skaffat sig rätt? Men när Herren gör min herre gott, tänk på din tjänarinna.",
+    "new": "ska alltså detta inte bli dig ett hinder eller vara till hjärtesorg för min herre, att du har hällt ut blod utan anledning och att min herre själv har skaffat sig rätt? Men när Herren gör min herre gott, tänk på din tjänarinna.\"",
     "line": 8440
   },
   {
     "old": "Då sa David till Abigal: \"Välsignad ska vara Herren, Israels Gud som i dag har sänt dig mig till mötes!",
-    "new": "Då sa David till Abigal: \"Välsignad ska Herren, Israels Gud, vara som i dag har sänt dig till mig!\"",
+    "new": "Då sa David till Abigal: \"Välsignad ska Herren, Israels Gud, vara som i dag har sänt dig till mig!",
     "line": 8441
   },
   {
     "old": "Välsignat ska vara ditt förstånd och välsignad ska vara du själv, som i dag har hindrat mig från att dra på mig blodskuld och skaffa mig rätt med egen hand!",
-    "new": "Välsignat ska vara ditt förstånd och välsignad ska du själv vara, som i dag har hindrat mig från att dra på mig blodskuld och ta rättmätigt straff med min egen hand!",
+    "new": "Välsignat ska ditt förstånd vara och välsignad ska du själv vara, som i dag har hindrat mig från att dra på mig blodskuld och skaffa mig rätt med min egen hand!",
     "line": 8442
   },
   {
     "old": "Men så sant Herren, Israels Gud, lever, han som har avhållit mig från att göra dig något ont: om du inte direkt hade kommit mig till mötes, så skulle i morgon, när det hade blivit dager, ingen av mankön har funnits kvar av Nabals hus.\"",
-    "new": "Men så sant Herren, Israels Gud, lever, han som har hindrat mig från att göra dig något ont: om du inte hade kommit till mig direkt, så skulle i morgon, när dagen grydde, ingen av männen från Nabal ha funnits kvar.",
+    "new": "Men så sant Herren, Israels Gud, lever, han som har hindrat mig från att göra dig något ont: om du inte hade kommit för att möta mig, så skulle i morgon, när dagen grydde, ingen av männen i Nabals hus ha funnits kvar.",
     "line": 8443
   },
   {
     "old": "Efter det tog David emot av henne vad hon hade medfört åt honom. Han sa till henne: \"Far i frid hem igen. Se, jag har lyssnat till dina ord och gjort dig till viljes.\"",
-    "new": "Efter det tog David emot av henne vad hon hade medfört åt honom. Han sa till henne: \"Far i frid hem igen. Se, jag har lyssnat på dina ord och gjort som du ville.\"",
+    "new": "Efter det tog David emot av henne vad hon hade tagit med åt honom. Han sa till henne: \"Far i frid hem igen. Se, jag har lyssnat på dina ord och gjort som du ville.\"",
     "line": 8444
   },
   {
     "old": "När sedan Abigail kom hem till Nabal, höll han just i sitt hus en fest, som var som en kungs fester. Nabals hjärta var glatt i honom och han var mycket drucken. Därför berättade hon alls inget för honom innan om morgonen, när det blev dager.",
-    "new": "När Abigail sedan kom hem till Nabal höll han just en fest i sitt hus, som var som kungafester. Nabals hjärta var glatt och han hade druckit mycket. Därför berättade hon ingenting för honom innan, inte ens på morgonen när det började ljusa.",
+    "new": "När Abigail sedan kom hem till Nabal höll han just en fest i sitt hus, som var som kungs fest. Nabals hjärta var glatt och han var mycket berusad. Därför berättade hon ingenting för honom förrän på morgonen när det ljusade.",
     "line": 8445
   },
   {
@@ -601,12 +596,12 @@
   },
   {
     "old": "Omkring tio dagar efter det slog Herren Nabal, så att han dog.",
-    "new": "Omkring tio dagar senare dog Nabal.",
+    "new": "Omkring tio dagar senare slog Herren Nabal, så att han dog.",
     "line": 8447
   },
   {
     "old": "När David hörde att Nabal var död, sa han: \"Lovad ska vara Herren, som på Nabal har hämnats den förödmjukelse han tillfogade mig och som har bevarat sin tjänare från att göra vad ont var, medan Herren lät Nabals ondska komma tillbaka över hans eget huvud!\" David skickade iväg och lät säga Abigail att han önskade få henne till sin hustru.",
-    "new": "När David fick höra att Nabal var död, sa han: \"Lövd ska vara Herren, som på Nabal har hämnats för den förnedring han tillfogade mig och som har skyddat sin tjänare från att göra något ont, medan Herren lät Nabals ondska komma tillbaka över hans eget huvud!\" David skickade iväg bud och lät säga till Abigail att han ville ha henne som sin hustru.",
+    "new": "När David fick höra att Nabal var död, sa han: \"Lovad ska Herren vara, som hämnats på Nabal för den förnedring han tillfogade mig och som har skyddat sin tjänare från att göra något ont, medan Herren lät Nabals ondska komma tillbaka över hans eget huvud!\" David skickade iväg bud och lät säga till Abigail att han ville ha henne som sin hustru.",
     "line": 8448
   },
   {
@@ -621,22 +616,22 @@
   },
   {
     "old": "Efter det stod Abigail upp med hast och satte sig på sin åsna, på samma sätt de fem tärnor som utgjorde hennes följe. Hon följde med dem som David hade sänt till henne och blev hans hustru.",
-    "new": "Efter det stod Abigail upp snabbt och satte sig på åsnan, precis som de fem tärnorna som utgjorde hennes följe. Hon följde med dem som David hade sänt till henne och blev hans hustru.",
+    "new": "Efter det stod Abigail upp snabbt och satte sig på sin åsna. Det gjorde också de fem tärnorna som var hennes följe. Hon följde med dem som David hade sänt till henne och blev hans hustru.",
     "line": 8451
   },
   {
     "old": "David hade också tagit till hustru Ahinoam från Jisreel, så att dessa båda blev hans hustrur.",
-    "new": "David hade också gift sig med Ahinoam från Jisreel, så att hon och Mikal blev hans hustrur.",
+    "new": "David hade också gift sig med Ahinoam från Jisreel, så att dessa båda blev hans hustrur.",
     "line": 8452
   },
   {
     "old": "Men Saul hade gett sin dotter Mikal, Davids hustru, åt Palti, Lais son, från Gallim.",
-    "new": "Men Saul hade gett sin dotter Mikael, Davids hustru, till Paltis son från Gallim.",
+    "new": "Men Saul hade gett sin dotter Mikal, Davids hustru, till Palti, Lais son, från Gallim.",
     "line": 8453
   },
   {
     "old": "Sifiterna kom till Saul i Gibea och sa: \"David håller sig nu gömd på Hakilahöjden, gent emot ödemarken.\"",
-    "new": "Sifiterna kom till Saul i Gibea och sa: \"David håller sig nu gömd på Hakilahöjden, mot ödemarken.\"",
+    "new": "Sifiterna kom till Saul i Gibea och sa: \"David håller sig nu gömd på Hakilahöjden, mitt emot ödemarken.\"",
     "line": 8456
   },
   {
@@ -646,12 +641,12 @@
   },
   {
     "old": "sände han ut spejare och fick så full visshet om att Saul hade kommit.",
-    "new": "Han skickade ut spejare och fick då full visshet om att Saul hade kommit.",
+    "new": "skickade han ut spejare och fick då full insikt om att Saul hade kommit.",
     "line": 8459
   },
   {
     "old": "Då bröt David upp och begav sig till det ställe där Saul hade lägrat sig. David såg platsen där Saul låg med sin härhövitsman Abner, Ners son. Saul låg nämligen i vagnborgen och folket var lägrat runt",
-    "new": "Då bröt David upp och begav sig till det ställe där Saul hade lagt sig. David såg platsen där Saul låg med sin härhövitsman Abner, Ners son. Saul låg nämligen i vagnborgen och folket var lägrat runt omkring.",
+    "new": "Då bröt David upp och begav sig till det ställe där Saul hade slagit läger. David såg platsen där Saul låg med sin härhövitsman Abner, Ners son. Saul låg nämligen i vagnborgen och folket slog läger runt omkring.",
     "line": 8460
   },
   {
@@ -661,12 +656,12 @@
   },
   {
     "old": "Men David svarade Abisai: \"Du får inte förgöra honom. För vem har uträckt sin hand mot Herrens smorde och stannt kvar ostraffad?\"",
-    "new": "Men David svarade Abisai: \"Du får inte förgöra honom. Vem har utsträckt sin hand mot Herrens smorde och klarat sig undan straff?\"",
+    "new": "Men David svarade Abisai: \"Du får inte förgöra honom. Vem har sträckt ut sin hand mot Herrens smorde och klarat sig undan straff?\"",
     "line": 8464
   },
   {
     "old": "David sa ytterligare: \"Så sant Herren lever, Herren ska själv slå honom, eller också ska hans dödsdag komma i vanlig ordning, eller ska han dra ut i strid och så få sin bane.",
-    "new": "David sa vidare: \"Så länge Herren lever, ska Herren själv slå honom, eller också ska hans dödsdag komma som den ska, eller ska han dra ut i strid och få sitt slut.\"",
+    "new": "David sa vidare: \"Så länge Herren lever, ska Herren själv slå honom, eller också ska hans dödsdag komma som den brukar, eller ska han dra ut i strid och få sitt slut.",
     "line": 8465
   },
   {
