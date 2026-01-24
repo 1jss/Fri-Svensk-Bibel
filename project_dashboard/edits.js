@@ -1,302 +1,50 @@
 const edits = [
   {
-    "startLine": 43,
-    "endLine": 43,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 43,
-    "endLine": 43,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 42,
-    "endLine": 42,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 42,
-    "endLine": 42,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 41,
-    "endLine": 41,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 41,
-    "endLine": 41,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 38,
+    "startLine": 8,
     "endLine": 38,
     "status": "MANUAL_APPROVED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 37,
-    "endLine": 37,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 37,
-    "endLine": 37,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 36,
-    "endLine": 36,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 36,
-    "endLine": 36,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 35,
-    "endLine": 35,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 35,
-    "endLine": 35,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 34,
-    "endLine": 34,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 33,
-    "endLine": 33,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 33,
-    "endLine": 33,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 32,
-    "endLine": 32,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 32,
-    "endLine": 32,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 31,
-    "endLine": 31,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 31,
-    "endLine": 31,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 30,
-    "endLine": 30,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 29,
-    "endLine": 29,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 29,
-    "endLine": 29,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 28,
-    "endLine": 28,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 28,
-    "endLine": 28,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 27,
-    "endLine": 27,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 27,
-    "endLine": 27,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 26,
-    "endLine": 26,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 25,
-    "endLine": 25,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 24,
-    "endLine": 24,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 23,
-    "endLine": 23,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 22,
-    "endLine": 22,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 22,
-    "endLine": 22,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 21,
-    "endLine": 21,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 21,
-    "endLine": 21,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 20,
-    "endLine": 20,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 19,
-    "endLine": 19,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 19,
-    "endLine": 19,
-    "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 18,
-    "endLine": 18,
+    "startLine": 41,
+    "endLine": 43,
     "status": "MANUAL_APPROVED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
     "startLine": 18,
-    "endLine": 18,
+    "endLine": 19,
     "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 17,
-    "endLine": 17,
-    "status": "MANUAL_APPROVED",
+    "startLine": 21,
+    "endLine": 22,
+    "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 16,
-    "endLine": 16,
-    "status": "MANUAL_APPROVED",
+    "startLine": 27,
+    "endLine": 29,
+    "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 15,
-    "endLine": 15,
-    "status": "MANUAL_APPROVED",
+    "startLine": 31,
+    "endLine": 33,
+    "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 14,
-    "endLine": 14,
-    "status": "MANUAL_APPROVED",
+    "startLine": 35,
+    "endLine": 37,
+    "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
-    "startLine": 13,
-    "endLine": 13,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 12,
-    "endLine": 12,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 11,
-    "endLine": 11,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 10,
-    "endLine": 10,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 9,
-    "endLine": 9,
-    "status": "MANUAL_APPROVED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 8,
-    "endLine": 8,
-    "status": "MANUAL_APPROVED",
+    "startLine": 41,
+    "endLine": 43,
+    "status": "MANUAL_EDITED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
@@ -318,7 +66,7 @@ const edits = [
     "timestamp": "2026-01-17T09:00:00"
   },
   {
-    "startLine": 851,
+    "startLine": 1,
     "endLine": 9116,
     "status": "NUMBERS_PARSED",
     "timestamp": "2026-01-16T07:00:00"
@@ -328,12 +76,6 @@ const edits = [
     "endLine": 850,
     "status": "NUMBERS_EDITED",
     "timestamp": "2026-01-16T08:00:00"
-  },
-  {
-    "startLine": 1,
-    "endLine": 850,
-    "status": "NUMBERS_PARSED",
-    "timestamp": "2026-01-16T07:00:00"
   },
   {
     "startLine": 1,
