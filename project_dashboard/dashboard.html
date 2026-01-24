@@ -283,6 +283,7 @@
   </div>
 
   <script src="edits.js"></script>
+  <script src="xml_content.js"></script>
   <script>
     // Status Enum
     const STATUS = {
@@ -412,6 +413,11 @@
     // Render canvas
     function renderCanvas() {
       for (let line = 1; line <= TOTAL_LINES; line++) {
+        // Skip lines with no text content (only XML markup)
+        if (isEmptyXmlLine(line)) {
+          continue;
+        }
+
         const status = getVisibleStatus(line);
         const color = STATUS_COLORS[status];
 
@@ -440,6 +446,13 @@
         const lineNumber = row * LINES_PER_ROW + col + 1;
 
         if (lineNumber <= TOTAL_LINES) {
+          // Skip empty XML lines
+          if (isEmptyXmlLine(lineNumber)) {
+            document.getElementById('hoverInfo').textContent = `${lineNumber.toLocaleString('sv-SE')} (no text content)`;
+            document.getElementById('hoverDetails').innerHTML = '<div class="info-empty">Empty XML line - no edits displayed</div>';
+            return;
+          }
+
           document.getElementById('hoverInfo').textContent = `${lineNumber.toLocaleString('sv-SE')}`;
 
           // Find all edits affecting this line

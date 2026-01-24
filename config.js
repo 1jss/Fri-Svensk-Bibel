@@ -29,6 +29,7 @@ module.exports = {
   // Project dashboard
   dashboard: {
     edits: path.join(rootDir, 'project_dashboard/edits.js'),
+    xmlContent: path.join(rootDir, 'project_dashboard/xml_content.js'),
   },
   // Database
   database: {
