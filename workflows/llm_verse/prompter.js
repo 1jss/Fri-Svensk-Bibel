@@ -12,7 +12,8 @@ async function main() {
 Regler:
 * Ersätt ålderdomliga ord (t.ex. "skall" -> "ska", "ehuru" -> "fastän").
 * Modernisera meningsbyggnad om den känns onaturlig, men bevara ALLTID betydelsen exakt.
-* Ändra INTE namn på personer eller platser.
+* Undvik sammansatta ord.
+* Ändra INTE namn eller stavning på personer eller platser.
 * Svara ENDAST med den moderniserade texten. Ingen inledning eller förklaring.
 
 Exempel:
