@@ -111,12 +111,12 @@ function getBooksWithPending($db) {
   return $stmt->fetchAll(PDO::FETCH_COLUMN);
 }
 
-// Get chapters in book with pending verses
+// Get chapters in book
 function getChaptersInBook($db, $bnumber) {
   $stmt = $db->prepare('
     SELECT DISTINCT cnumber 
     FROM verses 
-    WHERE bnumber = ? AND approved = 0 
+    WHERE bnumber = ? 
     ORDER BY cnumber
   ');
   $stmt->execute([$bnumber]);
@@ -239,20 +239,8 @@ $pendingBooks = getBooksWithPending($db);
           </div>
         </div>
         
-        <div class="nav-info">
-          <?php if ($previousVerse): ?>
-            ← <?php echo getBookName($previousVerse['bnumber']) . ' ' . $previousVerse['cnumber'] . ':' . $previousVerse['vnumber']; ?>
-          <?php endif; ?>
-          <?php if ($previousVerse && $nextVerse): ?>
-            &nbsp;&nbsp;|&nbsp;&nbsp;
-          <?php endif; ?>
-          <?php if ($nextVerse): ?>
-            <?php echo getBookName($nextVerse['bnumber']) . ' ' . $nextVerse['cnumber'] . ':' . $nextVerse['vnumber']; ?> →
-          <?php endif; ?>
-        </div>
-        
-        <div style="margin-top: 8px;">
-          <a href="<?php echo $baseUrl; ?>" style="font-size: 11px; color: #0066cc; text-decoration: none;">← Back</a>
+        <div class="back-section">
+          <a href="<?php echo $baseUrl . '?read=' . $currentVerse['bnumber'] . '&chapter=' . $currentVerse['cnumber']; ?>" class="back-link">← Back</a>
         </div>
       </div>
 
@@ -299,7 +287,7 @@ $pendingBooks = getBooksWithPending($db);
           ?>
             <div class="verse-item <?php echo 'approved-' . $v['approved']; ?>" onclick="window.location='<?php echo $baseUrl . '?action=view&verse_id=' . $v['id']; ?>'">
               <div class="verse-num"><?php echo $v['vnumber']; ?></div>
-              <div class="verse-text"><?php echo htmlspecialchars(substr($v['text_fsb'], 0, 80)); ?></div>
+              <div class="verse-text"><?php echo htmlspecialchars($v['text_fsb']); ?></div>
             </div>
           <?php 
               endforeach;
@@ -307,7 +295,7 @@ $pendingBooks = getBooksWithPending($db);
           ?>
         </div>
       <?php elseif (!$bnumber && !$cnumber): ?>
-        <div class="stats" style="text-align: center; padding: 15px 0; color: #999; font-size: 13px;">
+        <div class="stats">
           <p>Total: <strong><?php echo $stats['total']; ?></strong></p>
           <p>Pending: <strong><?php echo $stats['pending']; ?></strong></p>
         </div>
