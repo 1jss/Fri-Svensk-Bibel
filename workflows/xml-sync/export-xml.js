@@ -48,31 +48,7 @@ function updateXMLWithVerses(filePath, approvedVerses) {
   return { updatedContent: lines.join('\n'), updatedCount: updated };
 }
 
-// Backup existing XML file
-function backupXML(filePath) {
-  const timestamp = new Date().toISOString().slice(0, 10);
-  const backupPath = `${filePath}.backup.${timestamp}`;
-  
-  if (fs.existsSync(filePath)) {
-    fs.copyFileSync(filePath, backupPath);
-    return backupPath;
-  }
-  
-  return null;
-}
 
-// Backup existing XML file
-function backupXML(filePath) {
-  const timestamp = new Date().toISOString().slice(0, 10);
-  const backupPath = `${filePath}.backup.${timestamp}`;
-  
-  if (fs.existsSync(filePath)) {
-    fs.copyFileSync(filePath, backupPath);
-    return backupPath;
-  }
-  
-  return null;
-}
 
 // Main execution
 async function main() {
@@ -110,13 +86,6 @@ async function main() {
     console.log('Updating verses in XML...');
     const { updatedContent, updatedCount } = updateXMLWithVerses(XML_FSB_PATH, approvedVerses);
     console.log(`✓ Updated ${updatedCount} verses in XML\n`);
-    
-    // Backup original XML
-    console.log('Creating backup...');
-    const backupPath = backupXML(XML_FSB_PATH);
-    if (backupPath) {
-      console.log(`✓ Backup created: ${backupPath}\n`);
-    }
     
     // Write updated XML to file
     console.log('Writing updated XML to file...');
