@@ -26,6 +26,10 @@ module.exports = {
     analysisDir: path.join(rootDir, 'analysis'),
     webNextDir: path.join(rootDir, 'web/next'),
   },
+  // Project dashboard
+  dashboard: {
+    edits: path.join(rootDir, 'project_dashboard/edits.js'),
+  },
   // Database
   database: {
     fsb: path.join(rootDir, 'web/next/fsb_approval.db'),

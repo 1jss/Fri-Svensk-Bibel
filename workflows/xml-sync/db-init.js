@@ -34,6 +34,10 @@ function initDatabase(dbPath) {
           if (err) {
             reject(err);
           } else {
+            // Add comment about approved status values
+            // approved = 0: Not approved
+            // approved = 1: Newly approved (ready to export)
+            // approved = 2: Already exported (skip on next run)
             resolve(db);
           }
         });

@@ -237,9 +237,13 @@
           <div class="legend-color" style="background-color: #1e40af;"></div>
           <span>AI checked</span>
         </div>
-        <div class="legend-item clickable" data-status="MANUAL_EDIT">
+        <div class="legend-item clickable" data-status="MANUAL_EDITED">
           <div class="legend-color" style="background-color: #f97316;"></div>
           <span>Manual edit</span>
+        </div>
+        <div class="legend-item clickable" data-status="MANUAL_APPROVED">
+          <div class="legend-color" style="background-color: #10b981;"></div>
+          <span>Manual approved</span>
         </div>
         <div class="legend-item clickable" data-status="NUMBERS_PARSED">
           <div class="legend-color" style="background-color: #fca5a5;"></div>
@@ -286,7 +290,8 @@
       AI_EDITED: 'AI_EDITED',
       AI_PARSED: 'AI_PARSED',
       AI_CHECKED: 'AI_CHECKED',
-      MANUAL_EDIT: 'MANUAL_EDIT',
+      MANUAL_EDITED: 'MANUAL_EDITED',
+      MANUAL_APPROVED: 'MANUAL_APPROVED',
       NUMBERS_PARSED: 'NUMBERS_PARSED',
       NUMBERS_EDITED: 'NUMBERS_EDITED',
       UNEDITED: 'UNEDITED'
@@ -298,7 +303,8 @@
       'AI_EDITED': 'AI edited',
       'AI_PARSED': 'AI parsed',
       'AI_CHECKED': 'AI checked',
-      'MANUAL_EDIT': 'Manual edit',
+      'MANUAL_EDITED': 'Manual edit',
+      'MANUAL_APPROVED': 'Manual approved',
       'NUMBERS_PARSED': 'Numbers parsed',
       'NUMBERS_EDITED': 'Numbers edited',
       'UNEDITED': 'Unedited'
@@ -317,7 +323,8 @@
 
       // Other edits
       [STATUS.DIFF_EDITED]: '#8b5cf6',      // Purple
-      [STATUS.MANUAL_EDIT]: '#f97316',      // Orange
+      [STATUS.MANUAL_EDITED]: '#f97316',      // Orange
+      [STATUS.MANUAL_APPROVED]: '#10b981',  // Teal/Green
       [STATUS.UNEDITED]: '#e5e7eb'          // Gray
     };
 
@@ -327,7 +334,8 @@
       [STATUS.AI_EDITED]: true,
       [STATUS.AI_PARSED]: true,
       [STATUS.AI_CHECKED]: true,
-      [STATUS.MANUAL_EDIT]: true,
+      [STATUS.MANUAL_EDITED]: true,
+      [STATUS.MANUAL_APPROVED]: true,
       [STATUS.DIFF_EDITED]: true,
       [STATUS.NUMBERS_PARSED]: true,
       [STATUS.NUMBERS_EDITED]: true,
