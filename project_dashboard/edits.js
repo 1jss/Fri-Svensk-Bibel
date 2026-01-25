@@ -1,14 +1,56 @@
 const edits = [
   {
-    "startLine": 25668,
-    "endLine": 33678,
-    "status": "AI_EDITED",
-    "timestamp": "2026-01-25T09:00:01.945Z"
+    "startLine": 21312,
+    "endLine": 21313,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 31646,
+    "endLine": 31653,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 31656,
+    "endLine": 31665,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 21312,
+    "endLine": 21313,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 31646,
+    "endLine": 31650,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 31652,
+    "endLine": 31653,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
+  },
+  {
+    "startLine": 31656,
+    "endLine": 31665,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T16:36:37.302Z"
   },
   {
     "startLine": 25668,
     "endLine": 33678,
     "status": "AI_PARSED",
+    "timestamp": "2026-01-25T09:00:01.945Z"
+  },
+  {
+    "startLine": 25668,
+    "endLine": 33678,
+    "status": "AI_EDITED",
     "timestamp": "2026-01-25T09:00:01.945Z"
   },
   {
