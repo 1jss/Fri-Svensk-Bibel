@@ -1,1 +1,1932 @@
-[]
+[
+  {
+    "old": "Du ska ta fem siklar för varje person. Du ska väga upp dessa efter helgedomssikelns vikt, sikeln räknad till tjugo gera.",
+    "new": "Du ska ta 5 siklar för varje person. Du ska väga upp dessa efter helgedomssikelns vikt, sikeln räknad till 20 gera.",
+    "line": 3991
+  },
+  {
+    "old": "Sjuttio personer var dina fäder, som drog ner till Egypten, men nu har Herren, din Gud, gjort dig lika många som himlens stjärnor.",
+    "new": "70 personer var dina fäder, som drog ner till Egypten, men nu har Herren, din Gud, gjort dig lika många som himlens stjärnor.",
+    "line": 5548
+  },
+  {
+    "old": "Från den dagen då arken fick sin plats i Kirjat-Jearim förflöt en lång tid. Tjugo år gick. Hela Israels hus suckade nu efter Herren.",
+    "new": "Från den dagen då arken fick sin plats i Kirjat-Jearim förflöt en lång tid. 20 år gick. Hela Israels hus suckade nu efter Herren.",
+    "line": 7865
+  },
+  {
+    "old": "Med honom följde tusen man från Benjamin, liksom Siba, som hade varit tjänare i Sauls hus och hans femton söner och tjugo tjänare. Dessa hade nu skyndat ner till Jordan före kungen.",
+    "new": "Med honom följde 1000 man från Benjamin, liksom Siba, som hade varit tjänare i Sauls hus och hans 15 söner och 20 tjänare. Dessa hade nu skyndat ner till Jordan före kungen.",
+    "line": 9128
+  },
+  {
+    "old": "Barsillai var då mycket gammal, åttio år. Han hade skött kungens behov medan han uppehållit sig i Mahanaim, eftersom han var en mycket rik man.",
+    "new": "Barsillai var då mycket gammal, 80 år. Han hade skött kungens behov medan han uppehållit sig i Mahanaim, eftersom han var en mycket rik man.",
+    "line": 9143
+  },
+  {
+    "old": "Jag är nu åttio år gammal. Kan jag då känna skillnad mellan bättre och sämre, eller har väl din tjänare någon smak för vad jag äter eller dricker? Eller kan jag fortfarande njuta av att höra sångare och sångerskor sjunga? Varför skulle din tjänare då ytterligare bli besvär för min herre kungen?",
+    "new": "Jag är nu 80 år gammal. Kan jag då känna skillnad mellan bättre och sämre, eller har väl din tjänare någon smak för vad jag äter eller dricker? Eller kan jag fortfarande njuta av att höra sångare och sångerskor sjunga? Varför skulle din tjänare då ytterligare bli besvär för min herre kungen?",
+    "line": 9146
+  },
+  {
+    "old": "En gång gick tre av de trettio främsta männen ner och kom vid skördetiden till David vid Adullams grotta, medan en skara filistéer var lägda i Refaimsdalen.",
+    "new": "En gång gick tre av de 30 främsta männen ner och kom vid skördetiden till David vid Adullams grotta, medan en skara filistéer var lägda i Refaimsdalen.",
+    "line": 9274
+  },
+  {
+    "old": "Till de trettio hörde: Asael, Joabs bror. Elhanan, Dodos son, från Betlehem.",
+    "new": "Till de 30 hörde: Asael, Joabs bror. Elhanan, Dodos son, från Betlehem.",
+    "line": 9285
+  },
+  {
+    "old": "Efter att de hade färdats genom hela landet, kom de efter nio månader och tjugo dagar hem till Jerusalem.",
+    "new": "Efter att de hade färdats genom hela landet, kom de efter 9 månader och 20 dagar hem till Jerusalem.",
+    "line": 9310
+  },
+  {
+    "old": "Joab rapporterade till kungen den slutliga summan från folkräkningen: i Israel fanns åtta hundra tusen stridbara män beväpnade med svärd, och Juda män var fem hundra tusen.",
+    "new": "Joab rapporterade till kungen den slutliga summan från folkräkningen: i Israel fanns 800000 stridbara män beväpnade med svärd, och Juda män var 500000.",
+    "line": 9311
+  },
+  {
+    "old": "Så lät Herren pest komma över Israel, från morgon till kväll. Under tiden dog sjuttio tusen män i folket, från Dan till Beer-Seba.",
+    "new": "Så lät Herren pest komma över Israel, från morgon till kväll. Under tiden dog 70000 män i folket, från Dan till Beer-Seba.",
+    "line": 9317
+  },
+  {
+    "old": "Men kungen svarade Araun: \"Nej, jag vill köpa det av dig för ett fast pris. Jag vill inte offra åt Herren, min Gud, brännoffer som jag har fått för intet.\" David köpte tröskplatsen och fäkreaturen för femtio silver.",
+    "new": "Men kungen svarade Araun: \"Nej, jag vill köpa det av dig för ett fast pris. Jag vill inte offra åt Herren, min Gud, brännoffer som jag har fått för intet.\" David köpte tröskplatsen och fäkreaturen för 50 silver.",
+    "line": 9326
+  },
+  {
+    "old": "Men Adonia, Haggits son, reste sig upp och sa: \"Jag ska bli kung.\" Han skaffade sig vagnar och ryttare, samt femtio man som sprang framför honom.",
+    "new": "Men Adonia, Haggits son, reste sig upp och sa: \"Jag ska bli kung.\" Han skaffade sig vagnar och ryttare, samt 50 man som sprang framför honom.",
+    "line": 9336
+  },
+  {
+    "old": "Den tid David regerade över Israel var fyrtio år. Han regerade i Hebron i sju år och i Jerusalem i trettiotre år.",
+    "new": "Den tid David regerade över Israel var 40 år. Han regerade i Hebron i sju år och i Jerusalem i 33 år.",
+    "line": 9397
+  },
+  {
+    "old": "Kungen begav sig till Gibeon för att offra där, eftersom det var den viktigaste offerplatsen. Salomo offrade tusen brännoffer på altaret där.",
+    "new": "Kungen begav sig till Gibeon för att offra där, eftersom det var den viktigaste offerplatsen. Salomo offrade 1000 brännoffer på altaret där.",
+    "line": 9438
+  },
+  {
+    "old": "Ben-Geber i Ramot i Gilead. Han hade Manasses son Jairs byar, som ligger i Gilead. Han hade också landsträckan Argob, som låg i Basan, sextio stora städer med murar och kopparbommar.",
+    "new": "Ben-Geber i Ramot i Gilead. Han hade Manasses son Jairs byar, som ligger i Gilead. Han hade också landsträckan Argob, som låg i Basan, 60 stora städer med murar och kopparbommar.",
+    "line": 9477
+  },
+  {
+    "old": "Vad Salomo behövde av livsmedel varje dag var: trettio kor fint mjöl och sextio kor vanligt mjöl.",
+    "new": "Vad Salomo behövde av livsmedel varje dag var: 30 kor fint mjöl och 60 kor vanligt mjöl.",
+    "line": 9486
+  },
+  {
+    "old": "tio välmående oxar, tjugo ungoxar och hundra får, förutom hjortar, gaseller, dovhjortar och välmående fåglar.",
+    "new": "10 välmående oxar, 20 ungoxar och 100 får, förutom hjortar, gaseller, dovhjortar och välmående fåglar.",
+    "line": 9487
+  },
+  {
+    "old": "Salomo hade fyrtiotvå tusen vagnshästar och tolv tusen ridhästar.",
+    "new": "Salomo hade 42000 vagnshästar och 12000 ridhästar.",
+    "line": 9490
+  },
+  {
+    "old": "Han diktade tre tusen ordspråk och hans sånger var ett tusen fem.",
+    "new": "Han diktade 3000 ordspråk och hans sånger var 1005.",
+    "line": 9496
+  },
+  {
+    "old": "Men Salomo gav åt Hiram tjugo tusen kor vete, till föda för hans hus och tjugo kor olja från pressade oliver. Detta gav Salomo åt Hiram varje år.",
+    "new": "Men Salomo gav åt Hiram 20000 kor vete, till föda för hans hus och 20 kor olja från pressade oliver. Detta gav Salomo åt Hiram varje år.",
+    "line": 9511
+  },
+  {
+    "old": "Kung Salomo kallade samman arbetsfolk från hela Israel, och arbetsfolket bestod av trettio tusen man.",
+    "new": "Kung Salomo kallade samman arbetsfolk från hela Israel, och arbetsfolket bestod av 30000 man.",
+    "line": 9513
+  },
+  {
+    "old": "Han skickade dessa till Libanon, tio tusen i vår månad, växelvis, så att de var en månad på Libanon och två månader hemma. Adoniram hade ansvaret för de allmänna arbetena.",
+    "new": "Han skickade dessa till Libanon, 10000 i vår månad, växelvis, så att de var en månad på Libanon och 2 månader hemma. Adoniram hade ansvaret för de allmänna arbetena.",
+    "line": 9514
+  },
+  {
+    "old": "Salomo hade sjuttiotusen män som bar bördor och åttiotusen som högg sten i bergen.",
+    "new": "Salomo hade 70000 män som bar bördor och 80000 som högg sten i bergen.",
+    "line": 9515
+  },
+  {
+    "old": "Förutom de överfogdar som Salomo anställde för arbetet, tre tusen tre hundra, hade de befälet över folket som utförde arbetet.",
+    "new": "Förutom de överfogdar som Salomo anställde för arbetet, 3300, hade de befälet över folket som utförde arbetet.",
+    "line": 9516
+  },
+  {
+    "old": "Huset som kung Salomo byggde åt Herren var sextio alnar långt, tjugo alnar brett och trettio alnar högt.",
+    "new": "Huset som kung Salomo byggde åt Herren var 60 alnar långt, 20 alnar brett och 30 alnar högt.",
+    "line": 9522
+  },
+  {
+    "old": "Förhuset framför tempelsalen var tjugo alnar långt, framför husets kortsida och tio alnar brett, där det låg framför huset.",
+    "new": "Förhuset framför tempelsalen var 20 alnar långt, framför husets kortsida och 10 alnar brett, där det låg framför huset.",
+    "line": 9523
+  },
+  {
+    "old": "Han täckte de tjugo alnarna i husets innersta del med cederträbrädor, från golvet ända upp till bjälkarna. Sedan inredde han rummet som ett kor: det allraheligaste.",
+    "new": "Han täckte de 20 alnarna i husets innersta del med cederträbrädor, från golvet ända upp till bjälkarna. Sedan inredde han rummet som ett kor: det allraheligaste.",
+    "line": 9536
+  },
+  {
+    "old": "Fyrtio alnar mätte den del av huset som utgjorde tempelsalen.",
+    "new": "40 alnar mätte den del av huset som utgjorde tempelsalen.",
+    "line": 9537
+  },
+  {
+    "old": "Framför koret, som var tjugo alnar långt, tjugo alnar brett och tjugo alnar högt och som han klädde med fint guld, satte han ett altare, överklätt med cederträ.",
+    "new": "Framför koret, som var 20 alnar långt, 20 alnar brett och 20 alnar högt och som han klädde med fint guld, satte han ett altare, överklätt med cederträ.",
+    "line": 9540
+  },
+  {
+    "old": "Han byggde Libanonskogshuset, hundra alnar långt, femtio alnar brett och trettio alnar högt, med fyra rader pelare av cederträ och med huggna bjälkar av cederträ ovanpå pelarna.",
+    "new": "Han byggde Libanonskogshuset, 100 alnar långt, 50 alnar brett och 30 alnar högt, med fyra rader pelare av cederträ och med huggna bjälkar av cederträ ovanpå pelarna.",
+    "line": 9562
+  },
+  {
+    "old": "Han byggde vidare med pelarförhuset, femtio alnar långt och trettio alnar brett, och framför detta också ett förhus med pelare samt ett trapphus framför dessa.",
+    "new": "Han byggde vidare med pelarförhuset, 50 alnar långt och 30 alnar brett, och framför detta också ett förhus med pelare samt ett trapphus framför dessa.",
+    "line": 9566
+  },
+  {
+    "old": "Han gjorde också havet, i ett stycke. Det var tio alnar från ena kanten till den andra, runt allt och fem alnar högt. Ett trettio alnar långt snöre mätte dess omkrets.",
+    "new": "Han gjorde också havet, i ett stycke. Det var 10 alnar från ena kanten till den andra, runt allt och 5 alnar högt. Ett 30 alnar långt snöre mätte dess omkrets.",
+    "line": 9583
+  },
+  {
+    "old": "Dess tjocklek var en handsbredd. Dess kant var formad som kanten på en bägare, i form av en utslagen lilja. Det rymde två tusen bat.",
+    "new": "Dess tjocklek var en handsbredd. Dess kant var formad som kanten på en bägare, i form av en utslagen lilja. Det rymde 2000 bat.",
+    "line": 9586
+  },
+  {
+    "old": "Han gjorde också tio kranar av koppar. Fyrtio badkar rymdes i varje kran och varje kran mätte fyra alnar. Till vart och ett av de tio kranställena gjordes en kran.",
+    "new": "Han gjorde också 10 kranar av koppar. 40 badkar rymdes i varje kran och varje kran mätte fyra alnar. Till vart och ett av de 10 kranställena gjordes en kran.",
+    "line": 9598
+  },
+  {
+    "old": "Till det offer som Salomo offrade åt Herren tog han tjugotvå tusen tjurar och ett hundratjugo tusen får. Därefter invigdes Herrens hus av kungen och alla Israels barn.",
+    "new": "Till det offer som Salomo offrade åt Herren tog han 22000 tjurar och 110000 får. Därefter invigdes Herrens hus av kungen och alla Israels barn.",
+    "line": 9676
+  },
+  {
+    "old": "När de tjugo år som Salomo byggde på de två husen, Herrens hus och kungshuset, hade gått.",
+    "new": "När de 20 år som Salomo byggde på de två husen, Herrens hus och kungshuset, hade gått.",
+    "line": 9691
+  },
+  {
+    "old": "Kung Salomo gav tjugo städer i Galileen till Hiram, kungen av Tyrus, som hade försett honom med cederträ, cypressträ och guld, så mycket han önskade.",
+    "new": "Kung Salomo gav 20 städer i Galileen till Hiram, kungen av Tyrus, som hade försett honom med cederträ, cypressträ och guld, så mycket han önskade.",
+    "line": 9692
+  },
+  {
+    "old": "Men Hiram skickade till kungen etthundra tjugo talenter guld.",
+    "new": "Men Hiram skickade till kungen 120 talenter guld.",
+    "line": 9695
+  },
+  {
+    "old": "De reste till Ofir och hämtade därifrån guld, fyra hundra tjugo talenter, som de förde till kung Salomo.",
+    "new": "De reste till Ofir och hämtade därifrån guld, 420 talenter, som de förde till kung Salomo.",
+    "line": 9709
+  },
+  {
+    "old": "Hon gav kungen hundratjugo talenter guld, men också stora mängder välluktande kryddor till ädelstenar. En så stor mängd välluktande kryddor som drottningen av Saba gav åt kung Salomo har aldrig mer förts in.",
+    "new": "Hon gav kungen 120 talenter guld, men också stora mängder välluktande kryddor till ädelstenar. En så stor mängd välluktande kryddor som drottningen av Saba gav åt kung Salomo har aldrig mer förts in.",
+    "line": 9721
+  },
+  {
+    "old": "Salomo samlade också vagnar och ridhästar, så att han hade tusen fyra hundra vagnar och tolv tusen ridhästar. Han placerade dem dels i vagnsstäderna, dels i Jerusalem, hos kungen själv.",
+    "new": "Salomo samlade också vagnar och ridhästar, så att han hade 1400 vagnar och 12000 ridhästar. Han placerade dem dels i vagnsstäderna, dels i Jerusalem, hos kungen själv.",
+    "line": 9737
+  },
+  {
+    "old": "Den tid Salomo regerade i Jerusalem över hela Israel var fyrtio år.",
+    "new": "Den tid Salomo regerade i Jerusalem över hela Israel var 40 år.",
+    "line": 9784
+  },
+  {
+    "old": "När Isebel utrotade Herrens profeter, hade Obadja gömt ett hundra profeter. Han dolde femtio man åt gången i en grotta och försåg dem med mat och dryck.",
+    "new": "När Isebel utrotade Herrens profeter, hade Obadja gömt 100 profeter. Han dolde 50 man åt gången i en grotta och försåg dem med mat och dryck.",
+    "line": 9993
+  },
+  {
+    "old": "Har det inte berättats för min herre vad jag gjorde, när Isebel dödade Herrens profeter, hur jag gömde hundra av Herrens profeter, femtio man och sedan femtio, i en grotta och försåg dem med mat och dryck?",
+    "new": "Har det inte berättats för min herre vad jag gjorde, när Isebel dödade Herrens profeter, hur jag gömde 100 av Herrens profeter, 50 man och sedan 50, i en grotta och försåg dem med mat och dryck?",
+    "line": 10002
+  },
+  {
+    "old": "Men sänd nu bort och samla hela Israel till mig på berget Karmel, samt Baals fyra hundra femtio profeter och Aseras fyra hundra profeter, som äter vid Isebels bord.",
+    "new": "Men sänd nu bort och samla hela Israel till mig på berget Karmel, samt 450 profeter från Baal och 400 profeter från Asera, som äter vid Isebels bord.",
+    "line": 10008
+  },
+  {
+    "old": "Då reste han sig och åt och drack, och gick sedan, stärkt av maten, i fyrtio dagar och fyrtio nätter ända till Guds berg Horeb.",
+    "new": "Då reste han sig och åt och drack, och gick sedan, stärkt av maten, i 40 dagar och 40 nätter ända till Guds berg Horeb.",
+    "line": 10045
+  },
+  {
+    "old": "Men jag ska låta sju tusen män stanna kvar i Israel, alla de knän som inte har böjt sig för Baal och varje mun som inte har gett honom en hyllningskyss.",
+    "new": "Men jag ska låta 7000 män stanna kvar i Israel, alla de knän som inte har böjt sig för Baal och varje mun som inte har gett honom en hyllningskyss.",
+    "line": 10055
+  },
+  {
+    "old": "Han mönstrade då landshövdingarnas män, och de var två hundra trettiotvå. Efter det mönstrade han allt folket, alla Israels barn, sju tusen man.",
+    "new": "Han mönstrade då landshövdingarnas män, och de var 232. Efter det mönstrade han allt folket, alla Israels barn, 7000 man.",
+    "line": 10075
+  },
+  {
+    "old": "De var lägrade mitt emot varandra i sju dagar. På sjunde dagen började striden, och Israels folk besegrade arameerna med hundra tusen soldater på en enda dag.",
+    "new": "De var lägrade mitt emot varandra i sju dagar. På sjunde dagen började striden, och Israels folk besegrade arameerna med 100000 soldater på en enda dag.",
+    "line": 10089
+  },
+  {
+    "old": "De återstående flydde in i staden Afek. Men stadsmuren föll ner över tjugo-sju tusen människor, de som var kvar. Ben-Hadad flydde också och kom in i staden och sprang från rum till rum.",
+    "new": "De återstående flydde in i staden Afek. Men stadsmuren föll ner över 27000 människor, de som var kvar. Ben-Hadad flydde också och kom in i staden och sprang från rum till rum.",
+    "line": 10090
+  },
+  {
+    "old": "Han skickade till honom en underlöjtnant med femtio man. När han kom upp till honom, där han satt på toppen av berget, sa han till honom: \"Du gode man, kungen befaller dig att komma ner.\"",
+    "new": "Han skickade till honom en underlöjtnant med 50 man. När han kom upp till honom, där han satt på toppen av berget, sa han till honom: \"Du gode man, kungen befaller dig att komma ner.\"",
+    "line": 10203
+  },
+  {
+    "old": "Han skickade igen till honom en annan underbefälhavare med femtio man. Han började tala och sa till honom: \"Du gode man, så säger kungen: Kom ner direkt.\"",
+    "new": "Han skickade igen till honom en annan underbefälhavare med 50 man. Han började tala och sa till honom: \"Du gode man, så säger kungen: Kom ner direkt.\"",
+    "line": 10205
+  },
+  {
+    "old": "Han skickade åter en tredje underlöjtnant med femtio man. Denne tredje underlöjtnant reste dit och när han kom fram föll han ner på knä för Elia och bad honom, och sade till honom: \"Du gode man, låt mitt liv och dessa femtio tjänare vara något ansedda i dina ögon.",
+    "new": "Han skickade åter en tredje underlöjtnant med 50 man. Denne tredje underlöjtnant reste dit och när han kom fram föll han ner på knä för Elia och bad honom, och sade till honom: \"Du gode man, låt mitt liv och dessa 50 tjänare vara något ansedda i dina ögon.",
+    "line": 10207
+  },
+  {
+    "old": "Se, eld har kommit ner från himlen och förbränt de första två underhövitsmännen med deras femtio man. Men låt nu mitt liv vara något ansedd i dina ögon.",
+    "new": "Se, eld har kommit ner från himlen och förbränt de första två underhövitsmännen med deras 50 man. Men låt nu mitt liv vara något ansedd i dina ögon.",
+    "line": 10208
+  },
+  {
+    "old": "Men femtio män av profetlärjungarna gick också iväg och ställde sig på något avstånd, längre bort, medan de två stod vid Jordan.",
+    "new": "Men 50 män av profetlärjungarna gick också iväg och ställde sig på något avstånd, längre bort, medan de 2 stod vid Jordan.",
+    "line": 10221
+  },
+  {
+    "old": "De sa till honom: \"Se, bland dina tjänare finns femtio snabba män. Låt dessa gå och söka efter din herre. Kanske har Herrens Ande lyft upp honom och kastat honom på något berg eller i någon dal.\" Men han svarade: \"Skicka ingen iväg.",
+    "new": "De sa till honom: \"Se, bland dina tjänare finns 50 snabba män. Låt dessa gå och söka efter din herre. Kanske har Herrens Ande lyft upp honom och kastat honom på något berg eller i någon dal.\" Men han svarade: \"Skicka ingen iväg.",
+    "line": 10230
+  },
+  {
+    "old": "Men när de länge och väl enträget hade bett honom därom, sa han: \"Så sänd då iväg.\" Då skickade de iväg femtio män. Dessa sökte efter honom i tre dagar, men fann honom inte.",
+    "new": "Men när de länge och väl enträget hade bett honom därom, sa han: \"Så sänd då iväg.\" Då skickade de iväg 50 män. Dessa sökte efter honom i 3 dagar, men fann honom inte.",
+    "line": 10231
+  },
+  {
+    "old": "Mesa, kungen i Moab, som ägde mycket boskap, hade betalat hundra tusen lamm och ull från hundra tusen får som skatt till kungen i Israel.",
+    "new": "Mesa, kungen i Moab, som ägde mycket boskap, hade betalat 100000 lamm och ull från 100000 får som skatt till kungen i Israel.",
+    "line": 10245
+  },
+  {
+    "old": "En man kom från Baal-Salisa och tog med sig förstlingsbröd till gudsmannen. Tjugo kornbröd och ax av grönskuren säd i sin påse. Då sa han: \"Ge det åt folket att äta.\"",
+    "new": "En man kom från Baal-Salisa och tog med sig förstlingsbröd till gudsmannen. 20 kornbröd och ax av grönskuren säd i sin påse. Då sa han: \"Ge det åt folket att äta.\"",
+    "line": 10312
+  },
+  {
+    "old": "Kungen i Aram svarade: \"Far dit, så ska jag sända brev till kungen i Israel.\" Så for han och tog med sig tio talenter silver och sex tusen siklar guld, men också tio högtidsdräkter.",
+    "new": "Kungen i Aram svarade: \"Far dit, så ska jag sända brev till kungen i Israel.\" Så for han och tog med sig 10 talenter silver och 6000 siklar guld, men också 10 högtidsdräkter.",
+    "line": 10321
+  },
+  {
+    "old": "Medan de belägrade Samaria uppstod en så stor hungersnöd att man betalade åttio silverstycken för ett åsnehuvud och fem silverstycken för en fjärdedel av en kab duvoträck.",
+    "new": "Medan de belägrade Samaria uppstod en så stor hungersnöd att man betalade 80 silverstycken för ett åsnehuvud och 5 silverstycken för en fjärdedel av en kab duvoträck.",
+    "line": 10370
+  },
+  {
+    "old": "Så gick Hasael honom till mötes och tog med sig gåvor, allt det bästa som fanns i Damaskus, så mycket som fyrtio kameler kunde bära. Han kom fram till honom och sa: \"Din son Ben-Hadad, kung i Aram, har sänt mig till dig och frågar: 'Ska jag bli frisk från denna sjukdom?'\"",
+    "new": "Så gick Hasael honom till mötes och tog med sig gåvor, allt det bästa som fanns i Damaskus, så mycket som 40 kameler kunde bära. Han kom fram till honom och sa: \"Din son Ben-Hadad, kung i Aram, har sänt mig till dig och frågar: 'Ska jag bli frisk från denna sjukdom?'\"",
+    "line": 10411
+  },
+  {
+    "old": "Men Ahab hade sjuttio söner i Samaria. Jehu skrev brev och skickade dem till Samaria, till de överste i Jisreel, de äldsta och till de fostrare som Ahab hade utsett.",
+    "new": "Men Ahab hade 70 söner i Samaria. Jehu skrev brev och skickade dem till Samaria, till de överste i Jisreel, de äldsta och till de fostrare som Ahab hade utsett.",
+    "line": 10473
+  },
+  {
+    "old": "Då skrev han ett annat brev till dem, i vilket det stod: \"Om ni håller med mig och vill lyssna på mina ord, så ta huvudena av era herrars söner och kom i morgon vid denna tid till mig i Jisreel.\" De sjuttio kungasönerna bodde nämligen hos de stora i staden, som fostrade dem.",
+    "new": "Då skrev han ett annat brev till dem, i vilket det stod: \"Om ni håller med mig och vill lyssna på mina ord, så ta huvudena av era herrars söner och kom i morgon vid denna tid till mig i Jisreel.\" De 70 kungasönerna bodde nämligen hos de stora i staden, som fostrade dem.",
+    "line": 10478
+  },
+  {
+    "old": "De gick alltså in för att offra slaktoffer och brännoffer. Men Jehu hade dessutom ställt upp åttio man och sagt: \"Om någon slipper undan av de män som jag nu överlämnar i era händer, ska han straffas med döden.\"",
+    "new": "De gick alltså in för att offra slaktoffer och brännoffer. Men Jehu hade dessutom ställt upp 80 man och sagt: \"Om någon slipper undan av de män som jag nu överlämnar i era händer, ska han straffas med döden.\"",
+    "line": 10496
+  },
+  {
+    "old": "I Jehus sjunde regeringsår blev Joas kung, och han regerade i fyrtio år i Jerusalem. Hans mor hette Sibja, från Beer-Seba.",
+    "new": "I Jehus sjunde regeringsår blev Joas kung, och han regerade i 40 år i Jerusalem. Hans mor hette Sibja, från Beer-Seba.",
+    "line": 10534
+  },
+  {
+    "old": "Han hade inte låtit Joahas behålla mer än femtio ryttare, tio vagnar och tjugo tusen soldater. Så illa besegrade kungen honom i Aram. Han slog dem, så att de blev som stoft när man tröskar säd.",
+    "new": "Han hade inte låtit Joahas behålla mer än 50 ryttare, 10 vagnar och 20000 soldater. Så illa besegrade kungen honom i Aram. Han slog dem, så att de blev som stoft när man tröskar säd.",
+    "line": 10563
+  },
+  {
+    "old": "Han besegrade edoméerna i Saltdalen, tio tusen man, och intog Sela med strid. Han gav staden namnet Jokteel, som det heter än i dag.",
+    "new": "Han besegrade edoméerna i Saltdalen, 10000 man, och intog Sela med strid. Han gav staden namnet Jokteel, som det heter än i dag.",
+    "line": 10590
+  },
+  {
+    "old": "Pul, kungen av Assyrien, invaderade landet. Då gav Menahem Pul tusen talenter silver, för att han skulle stödja honom och befästa kungadömet i hans hand.",
+    "new": "Pul, kungen av Assyrien, invaderade landet. Då gav Menahem Pul 1000 talenter silver, för att han skulle stödja honom och befästa kungadömet i hans hand.",
+    "line": 10633
+  },
+  {
+    "old": "De pengar Menahem skulle ge till kungen i Assyrien tog han ut genom att lägga skatt på alla rika män i Israel, en skatt av femtio siklar silver per man. Då vände sig kungen i Assyrien om och stannade inte kvar i landet.",
+    "new": "De pengar Menahem skulle ge till kungen i Assyrien tog han ut genom att lägga skatt på alla rika män i Israel, en skatt av 50 siklar silver per man. Då vände sig kungen i Assyrien om och stannade inte kvar i landet.",
+    "line": 10634
+  },
+  {
+    "old": "Peka, Remaljas son, hans livvakt, anstiftade en komplott mot honom och dödade honom i Samaria, i kungahusets palats. Han gjorde det tillsammans med Argob och Arje. Han hade femtio gileaditer med sig. Så dödade han honom och blev kung i hans ställe.",
+    "new": "Peka, Remaljas son, hans livvakt, anstiftade en komplott mot honom och dödade honom i Samaria, i kungahusets palats. Han gjorde det tillsammans med Argob och Arje. Han hade 50 gileaditer med sig. Så dödade han honom och blev kung i hans ställe.",
+    "line": 10639
+  },
+  {
+    "old": "Tjugo år gammal var Ahas när han blev kung, och han regerade sexton år i Jerusalem. Han gjorde inte vad som var rätt i Herrens, sin Guds, ögon, precis som hans far David.",
+    "new": "20 år gammal var Ahas när han blev kung, och han regerade 16 år i Jerusalem. Han gjorde inte vad som var rätt i Herrens, sin Guds, ögon, precis som hans far David.",
+    "line": 10656
+  },
+  {
+    "old": "Då skickade Hiskia, Juda kung, till Assyriens kung i Lakis och lät säga: \"Jag har syndat. Vänd om och lämna mig i fred. Vad du kräver ska jag betala.\" Då krävde kungen i Assyrien att Hiskia, Juda kung, skulle betala tre hundra talenter silver och trettio talenter guld.",
+    "new": "Då skickade Hiskia, Juda kung, till Assyriens kung i Lakis och lät säga: \"Jag har syndat. Vänd om och lämna mig i fred. Vad du kräver ska jag betala.\" Då krävde kungen i Assyrien att Hiskia, Juda kung, skulle betala 300 talenter silver och 30 talenter guld.",
+    "line": 10733
+  },
+  {
+    "old": "Men ingå nu ett vad med min herre, kungen i Assyrien: jag vill ge dig två tusen hästar, om du kan skaffa ryttare till dem.",
+    "new": "Men ingå nu ett vad med min herre, kungen i Assyrien: jag vill ge dig 2000 hästar, om du kan skaffa ryttare till dem.",
+    "line": 10742
+  },
+  {
+    "old": "Samma natt gick Herrens ängel ut och slog i assyriernas läger hundra åttiofem tusen man. När man tidigt följande morgon kom ut, fick man se döda kroppar ligga där överallt.",
+    "new": "Samma natt gick Herrens ängel ut och slog i assyriernas läger 185000 man. När man tidigt följande morgon kom ut, fick man se döda kroppar ligga där överallt.",
+    "line": 10793
+  },
+  {
+    "old": "Han erövrade hela Jerusalem, alla hövitsmän och alla tappra stridsmän. Tio tusen togs bort, liksom alla timmermän och smeder. Inga andra lämnades kvar än de fattigaste av folket i landet.",
+    "new": "Han erövrade hela Jerusalem, alla hövitsmän och alla tappra stridsmän. 10000 togs bort, liksom alla timmermän och smeder. Inga andra lämnades kvar än de fattigaste av folket i landet.",
+    "line": 10922
+  },
+  {
+    "old": "och från staden tog han en hovman, den som var ledare för krigsfolket och fem av kungens närmaste män, som påträffades i staden, men också sekreteraren, den häradshövding som brukade utskriva folket i landet till krigstjänst och sextio andra män av landets folk, som påträffades i staden.",
+    "new": "och från staden tog han en hovman, den som var ledare för krigsfolket och 5 av kungens närmaste män, som påträffades i staden, men också sekreteraren, den häradshövding som brukade utskriva folket i landet till krigstjänst och 60 andra män av landets folk, som påträffades i staden.",
+    "line": 10949
+  },
+  {
+    "old": "Efter det gick Hesron in till Makirs, Gileads faders, dotter. Han tog henne till hustru när han var sextio år gammal. Hon födde honom Segub.",
+    "new": "Efter det gick Hesron in till Makirs, Gileads faders, dotter. Han tog henne till hustru när han var 60 år gammal. Hon födde honom Segub.",
+    "line": 11041
+  },
+  {
+    "old": "Men arameerna och syrarna tog Jairs byar från dem, samt Kenat med dess tillhörande orter, sextio städer. Allt detta var söner till Makir, Gileads far.",
+    "new": "Men arameerna och syrarna tog Jairs byar från dem, samt Kenat med dess tillhörande orter, 60 städer. Allt detta var söner till Makir, Gileads far.",
+    "line": 11043
+  },
+  {
+    "old": "Rubens barn och gaditerna samt en halv Manasses stam, de av dem som var krigsdugliga och bar sköld och svärd samt spände båge och var stridskunniga, utgjorde fyrtiofyra tusen sju hundra sextio stridbara män.",
+    "new": "Rubens barn och gaditerna samt en halv Manasses stam, de av dem som var krigsdugliga och bar sköld och svärd samt spände båge och var stridskunniga, utgjorde 44760 stridbara män.",
+    "line": 11166
+  },
+  {
+    "old": "Som byte tog de deras boskapshjordar, femtio tusen kameler, tvåhundrafemtio tusen får och två tusen åsnor, men också hundra tusen människor.",
+    "new": "Som byte tog de deras boskapshjordar, 50000 kameler, 225000 får och 2000 åsnor, men också 100000 människor.",
+    "line": 11169
+  },
+  {
+    "old": "Tolas söner var Ussi, Refaja, Jeriel, Jamai, Jibsam och Samuel. De var huvudmän för sina familjer, ättlingar av Tola, tappra stridsmän som upptecknades efter sin ätt. I Davids tid var deras antal tjugotvå tusen sex hundra.",
+    "new": "Tolas söner var Ussi, Refaja, Jeriel, Jamai, Jibsam och Samuel. De var huvudmän för sina familjer, ättlingar av Tola, tappra stridsmän som upptecknades efter sin ätt. I Davids tid var deras antal 22600.",
+    "line": 11261
+  },
+  {
+    "old": "Med dem följde stridbara härar, trettiosex tusen man, med sina familjer och ättlingar. De hade nämligen många hustrur och barn.",
+    "new": "Med dem följde stridbara härar, 36000 man, med sina familjer och ättlingar. De hade nämligen många hustrur och barn.",
+    "line": 11263
+  },
+  {
+    "old": "Deras bröder i alla Isaskars släkter var tappra stridsmän. Åttiosju tusen utgjorde tillsammans de som var uppskrivna i deras släktregister.",
+    "new": "Deras bröder i alla Isaskars släkter var tappra stridsmän. 87000 utgjorde tillsammans de som var uppskrivna i deras släktregister.",
+    "line": 11264
+  },
+  {
+    "old": "Belas söner var Esbon, Ussi, Ussiel, Jerimot och Iri, totalt fem huvudmän för sina familjer, tappra stridsmän. De som var uppräknade i deras släktregister utgjorde tjugotvå tusen trettiofyra.",
+    "new": "Belas söner var Esbon, Ussi, Ussiel, Jerimot och Iri, totalt 5 huvudmän för sina familjer, tappra stridsmän. De som var uppräknade i deras släktregister utgjorde 22304.",
+    "line": 11266
+  },
+  {
+    "old": "De som var upptecknade i deras släktregister, efter sin ättföljd och efter huvudmannen för sina familjer, utgjorde tjugo tusen två hundra tappra stridsmän.",
+    "new": "De som var upptecknade i deras släktregister, efter sin ättföljd och efter huvudmannen för sina familjer, utgjorde 20020 tappra stridsmän.",
+    "line": 11268
+  },
+  {
+    "old": "Alla dessa var Jediaels söner, upptecknade efter huvudmännen för sina familjer. De var sjutton tusen två hundra stridbara krigsmän.",
+    "new": "Alla dessa var Jediaels söner, upptecknade efter huvudmännen för sina familjer. De var 17200 stridbara krigsmän.",
+    "line": 11270
+  },
+  {
+    "old": "Alla dessa var Asers söner, ledare för sina familjer, utvalda och tappra stridsmän, ledande bland hövdingarna. De som var upptecknade i deras släktregister som lämpliga för krigstjänst utgjorde ett antal av tjugosex tusen man.",
+    "new": "Alla dessa var Asers söner, ledare för sina familjer, utvalda och tappra stridsmän, ledande bland hövdingarna. De som var upptecknade i deras släktregister som lämpliga för krigstjänst utgjorde ett antal av 26000 man.",
+    "line": 11299
+  },
+  {
+    "old": "Och deras bröder var också huvudmän för sina familjer, ett tusen sju hundra sextio, dugliga män i de sysslor som hörde till tjänstgöringen i Guds hus.",
+    "new": "Och deras bröder var också huvudmän för sina familjer, 1760, dugliga män i de sysslor som hörde till tjänstgöringen i Guds hus.",
+    "line": 11356
+  },
+  {
+    "old": "En gång drog tre av de trettio främsta männen ner över klippan till David vid Adullams grotta, medan en avdelning filistéer var lägda i Refaimsdalen.",
+    "new": "En gång drog tre av de 30 främsta männen ner över klippan till David vid Adullams grotta, medan en avdelning filistéer var lägda i Refaimsdalen.",
+    "line": 11420
+  },
+  {
+    "old": "Rubeniten Adina, Sisas son, var en ledare bland rubeniterna och med honom följde trettio andra.",
+    "new": "Rubeniten Adina, Sisas son, var en ledare bland rubeniterna och med honom följde 30 andra.",
+    "line": 11447
+  },
+  {
+    "old": "Gibeoniten Jismaja, en av de trettio hjältarna, ledare för de trettio. Jeremia. Jahasiel. Johanan. Gederatiten Josabad.",
+    "new": "Gibeoniten Jismaja, en av de 30 hjältarna, ledare för de 30. Jeremia. Jahasiel. Johanan. Gederatiten Josabad.",
+    "line": 11458
+  },
+  {
+    "old": "Judas barn, som bar sköld och spjut, sex tusen åtta hundra, förberedda för strid.",
+    "new": "Judas barn, som bar sköld och spjut, 6800, förberedda för strid.",
+    "line": 11478
+  },
+  {
+    "old": "Av Simeons barn, tappra krigsmän, sju tusen ett hundra,",
+    "new": "Av Simeons barn, tappra krigsmän, 7100,",
+    "line": 11479
+  },
+  {
+    "old": "Därtill Jojada, fursten i Arons släkt, och med honom tre tusen sju hundra.",
+    "new": "Därtill Jojada, fursten i Arons släkt, och med honom 3700.",
+    "line": 11481
+  },
+  {
+    "old": "av Benjamins barn, Sauls stamfränder, tre tusen (för ännu vid den tiden höll de flesta av dem troget med Sauls hus).",
+    "new": "av Benjamins barn, Sauls stamfränder, 3000 (för ännu vid den tiden höll de flesta av dem troget med Sauls hus).",
+    "line": 11483
+  },
+  {
+    "old": "Av Efraims barn, tjugo tusen åtta hundra tappra stridsmän, kända män i sina familjer.",
+    "new": "Av Efraims barn, 20800 tappra stridsmän, kända män i sina familjer.",
+    "line": 11484
+  },
+  {
+    "old": "Av ena hälften av Manasses stam kom arton tusen namngivna män för att göra David till kung.",
+    "new": "Av ena hälften av Manasses stam kom 18000 namngivna män för att göra David till kung.",
+    "line": 11485
+  },
+  {
+    "old": "Av Sebulons krigsmän, rustade till strid med alla slags vapen, femtio tusen, som samlades enigt.",
+    "new": "Av Sebulons krigsmän, rustade till strid med alla slags vapen, 50000, som samlades enigt.",
+    "line": 11487
+  },
+  {
+    "old": "Av Naftali kom ett tusen hövitsmän och med dem trettiosju tusen, beväpnade med sköld och spjut.",
+    "new": "Av Naftali kom 1000 hövitsmän och med dem 37000, beväpnade med sköld och spjut.",
+    "line": 11488
+  },
+  {
+    "old": "av daniterna krigsrustade män, tjugoåtta tusen sex hundra.",
+    "new": "av daniterna krigsrustade män, 28600.",
+    "line": 11489
+  },
+  {
+    "old": "Av asernas stridbara män, rustade till krig, fyrtio tusen.",
+    "new": "Av asernas stridbara män, rustade till krig, 40000.",
+    "line": 11490
+  },
+  {
+    "old": "och från andra sidan om Jordan, av rubeniterna, gaditerna och den andra halvan av Manasses stam, ett hundra tjugo tusen, beväpnade med alla slags vapen för krigföring.",
+    "new": "och från andra sidan om Jordan, av rubeniterna, gaditerna och den andra halvan av Manasses stam, 120000, beväpnade med alla slags vapen för krigföring.",
+    "line": 11491
+  },
+  {
+    "old": "Tänk i evighet på hans förbund, fram till tusen generationer på vad han har bestämt.",
+    "new": "Tänk i evighet på hans förbund, fram till 1000 generationer på vad han har bestämt.",
+    "line": 11577
+  },
+  {
+    "old": "David tog från honom ett tusen vagnar och fångade sju tusen ryttare samt tjugo tusen soldater. David lät avskära fotsenorna på alla vagnshästarna, utom på ett hundra hästar som han skonade.",
+    "new": "David tog från honom 1000 vagnar och fångade 7000 ryttare samt 20000 soldater. David lät avskära fotsenorna på alla vagnshästarna, utom på 100 hästar som han skonade.",
+    "line": 11640
+  },
+  {
+    "old": "När sedan araméerna från Damaskus kom för att hjälpa Hadareser, kungen i Soba, besegrade David tjugotvå tusen av dem.",
+    "new": "När sedan araméerna från Damaskus kom för att hjälpa Hadareser, kungen i Soba, besegrade David 22000 av dem.",
+    "line": 11641
+  },
+  {
+    "old": "Sedan Absai, Serujas son, hade besegrat edoméerna i Saltdalen, arton tusen man,",
+    "new": "Sedan Absai, Serujas son, hade besegrat edoméerna i Saltdalen, 18000 man,",
+    "line": 11648
+  },
+  {
+    "old": "Då Ammons barn insåg att de hade blivit impopulära hos David, skickade Hanun och Ammons barn ett tusen talenter silver för att hyra vagnar och ryttare från Aram-Naharaim, från Aram-Maaka och från Soba.",
+    "new": "Då Ammons barn insåg att de hade blivit impopulära hos David, skickade Hanun och Ammons barn 1000 talenter silver för att hyra vagnar och ryttare från Aram-Naharaim, från Aram-Maaka och från Soba.",
+    "line": 11661
+  },
+  {
+    "old": "De hyrde trettiotvå tusen vagnar och fick hjälp av kungen i Maaka med hans folk. Dessa kom och slog läger framför Medeba. Ammons barn samlades också från sina städer för att kriga.",
+    "new": "De hyrde 32000 vagnar och fick hjälp av kungen i Maaka med hans folk. Dessa kom och slog läger framför Medeba. Ammons barn samlades också från sina städer för att kriga.",
+    "line": 11662
+  },
+  {
+    "old": "Men arameerna flydde undan Israel, och David dödade av arameerna sju tusen vagnmän och fyrtio tusen fotfolk. Han dödade också deras befälhavare, Sofak.",
+    "new": "Men arameerna flydde undan Israel, och David dödade av arameerna 7000 vagnmän och 40000 fotfolk. Han dödade också deras befälhavare, Sofak.",
+    "line": 11673
+  },
+  {
+    "old": "Joab berättade för David vilken total summa folkräkningen visade: i Israel fanns tillsammans elva hundra tusen man beväpnade med svärd och i Juda fanns fyra hundra sjuttio tusen man beväpnade med svärd.",
+    "new": "Joab berättade för David vilken total summa folkräkningen visade: i Israel fanns tillsammans 1100000 man beväpnade med svärd och i Juda fanns 470000 man beväpnade med svärd.",
+    "line": 11691
+  },
+  {
+    "old": "Så lät Herren pest komma över Israel, så att sjuttio tusen män i Israel dog.",
+    "new": "Så lät Herren pest komma över Israel, så att 70000 män i Israel dog.",
+    "line": 11700
+  },
+  {
+    "old": "Se, trots mitt betryck har jag nu skaffat till Herrens hus hundra tusen talenter guld och tusen gånger tusen talenter silver, samt koppar och järn i så stora mängder att det inte kan vägas. Jag har också skaffat trävirke och sten, och mer ska du själv anskaffa.",
+    "new": "Se, trots mitt betryck har jag nu skaffat till Herrens hus 100000 talenter guld och 1000000 talenter silver, samt koppar och järn i så stora mängder att det inte kan vägas. Jag har också skaffat trävirke och sten, och mer ska du själv anskaffa.",
+    "line": 11732
+  },
+  {
+    "old": "Leviterna räknades, nämligen de som var trettio år eller äldre. Deras antal, antalet av alla män, uppgick till trettioåtta tusen.",
+    "new": "Leviterna räknades, nämligen de som var 30 år eller äldre. Deras antal, antalet av alla män, uppgick till 38000.",
+    "line": 11742
+  },
+  {
+    "old": "\"Av dessa\", sa han, \"ska tjugofyra tusen sköta sysslorna vid Herrens hus och sex tusen vara tillsynsfolk och domare.",
+    "new": "\"Av dessa\", sa han, \"ska 24000 sköta sysslorna vid Herrens hus och 6000 vara tillsynsfolk och domare.\"",
+    "line": 11743
+  },
+  {
+    "old": "Fyra tusen ska vara dörrvakter och fyra tusen ska sjunga lovsånger till Herren med de instrument jag har låtit göra för lovsången.",
+    "new": "4000 ska vara dörrvakter och 4000 ska sjunga lovsånger till Herren med de instrument jag har låtit göra för lovsången.",
+    "line": 11744
+  },
+  {
+    "old": "Av hebroniterna togs Hasabja och hans bröder, skickliga män, ett tusen sju hundra till förvaltningen i Israel på andra sidan Jordan, på västra sidan, för alla möjliga sysslor åt Herren och till kungens tjänst.",
+    "new": "Av hebroniterna togs Hasabja och hans bröder, skickliga män, 1700 till förvaltningen i Israel på andra sidan Jordan, på västra sidan, för alla möjliga sysslor åt Herren och till kungens tjänst.",
+    "line": 11869
+  },
+  {
+    "old": "Hans bröder, duktiga män, var två tusen sju hundra och huvudmän för familjer. Han satte kung David över rubeniterna, gaditerna och ena hälften av Manasses stam för att ombesörja alla Guds och kungens angelägenheter.",
+    "new": "Hans bröder, duktiga män, var 2700 huvudmän för familjer. Han satte kung David över rubeniterna, gaditerna och ena hälften av Manasses stam för att ombesörja alla Guds och kungens angelägenheter.",
+    "line": 11871
+  },
+  {
+    "old": "Detta är förteckningen över Israels barn, efter deras antal med huvudmännen för deras familjer och med de högre och lägre befälen samt deras tillsynsfolk, vilka tjänstgjorde kungen i allt som rörde krigsmakten. Dessa avdelningar roterade skiftartat under alla årets månader, och varje avdelning bestod av tjugofyra tusen man.",
+    "new": "Detta är förteckningen över Israels barn, efter deras antal med huvudmännen för deras familjer och med de högre och lägre befälen samt deras tillsynsfolk, vilka tjänstgjorde kungen i allt som rörde krigsmakten. Dessa avdelningar roterade skiftartat under alla årets månader, och varje avdelning bestod av 24000 man.",
+    "line": 11874
+  },
+  {
+    "old": "Över den första avdelningen, som tjänstgjorde under första månaden, hade Jasobeam, Sabdiels son, befälet. I hans avdelning var det tjugofyra tusen soldater.",
+    "new": "Över den första avdelningen, som tjänstgjorde under första månaden, hade Jasobeam, Sabdiels son, befälet. I hans avdelning var det 24000 soldater.",
+    "line": 11875
+  },
+  {
+    "old": "Över den andra månadens avdelning hade ahoaiten Dodai befälet, för det var hans avdelning. Där fanns också fursten Miklot. I hans avdelning var tjugofyra tusen soldater.",
+    "new": "Över den andra månadens avdelning hade ahoaiten Dodai befälet, för det var hans avdelning. Där fanns också fursten Miklot. I hans avdelning var 24000 soldater.",
+    "line": 11877
+  },
+  {
+    "old": "Den tredje härhövitsmannen, den som tjänstgjorde under tredje månaden, var Benaja, prästen Jojadas son, som huvudansvarig. I hans avdelning ingick tjugofyra tusen soldater.",
+    "new": "Den tredje härhövitsmannen, den som tjänstgjorde under tredje månaden, var Benaja, prästen Jojadas son, som huvudansvarig. I hans avdelning ingick 24000 soldater.",
+    "line": 11878
+  },
+  {
+    "old": "Han Benaja var en hjälte bland de trettio och hade befälet över dem. Vid hans avdelning var hans son Ammisabad.",
+    "new": "Han Benaja var en hjälte bland de 30 och hade befälet över dem. Vid hans avdelning var hans son Ammisabad.",
+    "line": 11879
+  },
+  {
+    "old": "Den femte, den som tjänstgjorde under femte månaden, var hövitsmannen Samhut, juden. I hans avdelning fanns tjugofyra tusen soldater.",
+    "new": "Den femte, den som tjänstgjorde under femte månaden, var hövitsmannen Samhut, juden. I hans avdelning fanns 24000 soldater.",
+    "line": 11881
+  },
+  {
+    "old": "Den sjätte, den som tjänstgjorde under sjätte månaden, var tekoaiten Ira, Ickes son. Han tillhörde en avdelning med tjugofyra tusen soldater.",
+    "new": "Den sjätte, den som tjänstgjorde under sjätte månaden, var tekoaiten Ira, Ickes son. Han tillhörde en avdelning med 24000 soldater.",
+    "line": 11882
+  },
+  {
+    "old": "Den sjunde, den som tjänstgjorde under sjunde månaden, var peloniten Heles, från Efraims folk. I hans avdelning fanns tjugofyra tusen soldater.",
+    "new": "Den sjunde, den som tjänstgjorde under sjunde månaden, var peloniten Heles, från Efraims folk. I hans avdelning fanns 24000 soldater.",
+    "line": 11883
+  },
+  {
+    "old": "Den åttonde, den som tjänstgjorde under augusti månad, var husariten Sibbekai, som hörde till seraitarna. I hans avdelning fanns tjugofyra tusen man.",
+    "new": "Den åttonde, den som tjänstgjorde under augusti månad, var husariten Sibbekai, som hörde till seraitarna. I hans avdelning fanns 24000 man.",
+    "line": 11884
+  },
+  {
+    "old": "Den nionde, den som tjänstgjorde under nionde månaden, var anatotiten Abieser, som tillhörde benjaminiterna. I hans avdelning fanns tjugofyra tusen soldater.",
+    "new": "Den nionde, den som tjänstgjorde under nionde månaden, var anatotiten Abieser, som tillhörde benjaminiterna. I hans avdelning fanns 24000 soldater.",
+    "line": 11885
+  },
+  {
+    "old": "Den tionde, den som tjänstgjorde under tionde månaden, var netofatiten Maherai, som hörde till seraiterna. I hans avdelning fanns tjugofyra tusen soldater.",
+    "new": "Den tionde, den som tjänstgjorde under tionde månaden, var netofatiten Maherai, som hörde till seraiterna. I hans avdelning fanns 24000 soldater.",
+    "line": 11886
+  },
+  {
+    "old": "Den elfte, den som tjänstgjorde under november månad, var pirgatoniten Benaja, av Efraims barn. I hans avdelning ingick tjugofyra tusen soldater.",
+    "new": "Den elfte, den som tjänstgjorde under november månad, var pirgatoniten Benaja, av Efraims barn. I hans avdelning ingick 24000 soldater.",
+    "line": 11887
+  },
+  {
+    "old": "Den tolfte, den som tjänstgjorde under tolfte månaden, var netofatiten Heldai, som hörde till Otniels släkt. I hans avdelning fanns tjugofyra tusen personer.",
+    "new": "Den tolfte, den som tjänstgjorde under tolfte månaden, var netofatiten Heldai, som hörde till Otniels släkt. I hans avdelning fanns 24000 personer.",
+    "line": 11888
+  },
+  {
+    "old": "tre tusen talenter guld, guld från Ofir och sju tusen talenter renat silver för att täcka byggnadernas väggar.",
+    "new": "3000 talenter guld, guld från Ofir och 7000 talenter renat silver för att täcka byggnadernas väggar.",
+    "line": 11936
+  },
+  {
+    "old": "och de gav till arbetet på Guds hus fem tusen talenter guld, tio tusen dariker, tio tusen talenter silver, arton tusen talenter koppar och ett hundra tusen talenter järn.",
+    "new": "och de gav till arbetet på Guds hus 5000 talenter guld, 10000 dariker, 10000 talenter silver, 18000 talenter koppar och 100000 talenter järn.",
+    "line": 11939
+  },
+  {
+    "old": "Dagen efter detta slaktade de offer till Herren och offrade brännoffret till Herren: tusen tjurar, tusen får och tusen lamm med tillhörande dryckesoffer, som ett stort slaktoffer för hela Israel.",
+    "new": "Dagen efter detta slaktade de offer till Herren och offrade brännoffret till Herren: 1000 tjurar, 1000 får och 1000 lamm med tillhörande dryckesoffer, som ett stort slaktoffer för hela Israel.",
+    "line": 11953
+  },
+  {
+    "old": "Den tid han regerade över Israel var fyrtio år. I Hebron regerade han i sju år och i Jerusalem regerade han i trettiotre år.",
+    "new": "Den tid han regerade över Israel var 40 år. I Hebron regerade han i 7 år och i Jerusalem regerade han i 33 år.",
+    "line": 11959
+  },
+  {
+    "old": "Där offrade Salomo nu inför Herrens ansikte på kopparaltaret, som stod vid uppenbarelsetältet. Han offrade tusen brännoffer.",
+    "new": "Där offrade Salomo nu inför Herrens ansikte på kopparaltaret, som stod vid uppenbarelsetältet. Han offrade 1000 brännoffer.",
+    "line": 11972
+  },
+  {
+    "old": "Salomo samlade vagnar och ridhästar, så att han hade ett tusen fyra hundra vagnar och tolv tusen ridhästar. Han placerade dem dels i vagnsstäderna, dels i Jerusalem, hos kungen själv.",
+    "new": "Salomo samlade vagnar och ridhästar, så att han hade 1400 vagnar och 12000 ridhästar. Han placerade dem dels i vagnsstäderna, dels i Jerusalem, hos kungen själv.",
+    "line": 11980
+  },
+  {
+    "old": "Därför räknade Salomo ut sjuttio tusen män till att vara bärande, åttio tusen man till att hugga sten i bergen och tre tusen sex hundra för att ha uppsikt över de andra.",
+    "new": "Därför räknade Salomo ut 70000 män till att vara bärande, 80000 man till att hugga sten i bergen och 3600 för att ha uppsikt över de andra.",
+    "line": 11987
+  },
+  {
+    "old": "Jag är villig att ge timmermännen som hugger virket, för mina tjänare, tjugo tusen kor tröskat vete, tjugo tusen kor korn, tjugo tusen fat vin och tjugo tusen fat olja.",
+    "new": "Jag är villig att ge timmermännen som hugger virket, för mina tjänare, 20000 kor tröskat vete, 20000 kor korn, 20000 fat vin och 20000 fat olja.",
+    "line": 11995
+  },
+  {
+    "old": "Salomo lät räkna alla främmande män i Israels land, som hans far David tidigare hade låtit räkna. De visade sig vara ett hundra femtiotre tusen sex hundra.",
+    "new": "Salomo lät räkna alla främmande män i Israels land, som hans far David tidigare hade låtit räkna. De visade sig vara 103600.",
+    "line": 12002
+  },
+  {
+    "old": "Av dem utsåg han sjuttiotusen att vara bärare, åttiotusen att hugga sten i bergen och tre tusen sexhundra att ha uppsikt över folket och se till att det arbetade.",
+    "new": "Av dem utsåg han 70000 att vara bärare, 80000 att hugga sten i bergen och 3600 att ha uppsikt över folket och se till att det arbetade.",
+    "line": 12003
+  },
+  {
+    "old": "När Salomo skulle bygga Guds hus lade han grunden så här: den blev sextio alnar lång och tjugo alnar bred, enligt det gamla alnmåttet.",
+    "new": "När Salomo skulle bygga Guds hus lade han grunden så här: den blev 60 alnar lång och 20 alnar bred, enligt det gamla alnmåttet.",
+    "line": 12008
+  },
+  {
+    "old": "Förhuset, som låg framför långhuset och husets kortsida, mätte tjugo alnar och var hundra tjugo högt. Han beklädde insidan med rent guld.",
+    "new": "Förhuset, som låg framför långhuset och husets kortsida, mätte 20 alnar och var 120 högt. Han beklädde insidan med rent guld.",
+    "line": 12009
+  },
+  {
+    "old": "Han förberedde sedan det rum som skulle vara det allra heligaste. Det låg längs husets kortsida och var tjugo alnar långt och tjugo alnar brett. Han beklädde det med bästa guld, sex hundra talenter i vikt.",
+    "new": "Han förberedde sedan det rum som skulle vara det allra heligaste. Det låg längs husets kortsida och var 20 alnar långt och 20 alnar brett. Han beklädde det med bästa guld, 600 talenter i vikt.",
+    "line": 12013
+  },
+  {
+    "old": "Spikarna vägde femtio silvermynt i guld. Han beklädde även de övre salarna med guld.",
+    "new": "Spikarna vägde 50 silvermynt i guld. Han beklädde även de övre salarna med guld.",
+    "line": 12014
+  },
+  {
+    "old": "Längden på kerubernas vingar tillsammans var tjugo alnar. Den ena kerubens ena vinge, fem alnar lång, rörde vid husets vägg och hans andra vinge, fem alnar lång, rörde vid den andra kerubens vinge.",
+    "new": "Längden på kerubernas vingar tillsammans var 20 alnar. Den ena kerubens ena vinge, 5 alnar lång, rörde vid husets vägg och hans andra vinge, 5 alnar lång, rörde vid den andra kerubens vinge.",
+    "line": 12016
+  },
+  {
+    "old": "Alltså bredde dessa keruber ut sina vingar tjugo alnar brett, medan de stod på fötterna med ansiktena vända mot varandra.",
+    "new": "Alltså bredde dessa keruber ut sina vingar 20 alnar brett, medan de stod på fötterna med ansiktena vända mot varandra.",
+    "line": 12018
+  },
+  {
+    "old": "Han byggde ett altare av koppar, tjugo alnar långt, tjugo alnar brett och tio alnar högt.",
+    "new": "Han byggde ett altare av koppar, 20 alnar långt, 20 alnar brett och 10 alnar högt.",
+    "line": 12025
+  },
+  {
+    "old": "Han gjorde också havet, i ett stycke. Det var tio alnar från ena kanten till den andra, runt allt och fem alnar högt. Ett trettio alnar långt snöre mätte dess omkrets.",
+    "new": "Han gjorde också havet, i ett stycke. Det var 10 alnar från ena kanten till den andra, runt allt och 5 alnar högt. Ett 30 alnar långt snöre mätte dess omkrets.",
+    "line": 12026
+  },
+  {
+    "old": "Dess tjocklek var en handsbredd. Dess kant var formad som kanten på en bägare, i form av en utslagen lilja. Det rymde och höll tre tusen fat.",
+    "new": "Dess tjocklek var en handsbredd. Dess kant var formad som kanten på en bägare, i form av en utslagen lilja. Det rymde och höll 3000 fat.",
+    "line": 12029
+  },
+  {
+    "old": "och leviterna, alla sångarna Asaf, Heman och Jedutun med sina söner och bröder, stod klädda i vitt linne, med cymbaler, psaltare och harpor öster om altaret. Och dem ackompanjerade ett hundra tjugo präster som blåste i trumpeter.",
+    "new": "och leviterna, alla sångarna Asaf, Heman och Jedutun med sina söner och bröder, stod klädda i vitt linne, med cymbaler, psaltare och harpor öster om altaret. Och dem ackompanjerade 120 präster som blåste i trumpeter.",
+    "line": 12060
+  },
+  {
+    "old": "Kung Salomo offrade tjugotvå tusen tjurar och ett hundra tjugo tusen får som slaktoffer. Därefter invigdes Guds hus av kungen och hela folket.",
+    "new": "Kung Salomo offrade 22000 tjurar och 120000 får som slaktoffer. Därefter invigdes Guds hus av kungen och hela folket.",
+    "line": 12113
+  },
+  {
+    "old": "Huram skickade skepp till honom genom sina tjänare och även sjökunnig manskap. De seglade med Salomos folk till Ofir och hämtade därifrån fyra hundra femtio talenter guld, som de förde till kung Salomo.",
+    "new": "Huram skickade skepp till honom genom sina tjänare och även sjökunnig manskap. De seglade med Salomos folk till Ofir och hämtade därifrån 450 talenter guld, som de förde till kung Salomo.",
+    "line": 12150
+  },
+  {
+    "old": "Hon gav kungen hundratjugo talenter guld och stora mängder väldoftande kryddor, tillsammans med ädelstenar. Sådana väldoftande kryddor har annars inte funnits, inte ens de som drottningen av Saba gav till kung Salomo.",
+    "new": "Hon gav kungen 120 talenter guld och stora mängder väldoftande kryddor, tillsammans med ädelstenar. Sådana väldoftande kryddor har annars inte funnits, inte ens de som drottningen av Saba gav till kung Salomo.",
+    "line": 12161
+  },
+  {
+    "old": "Salomo hade fyra tusen spannhästar med vagnar och tolv tusen ridhästar. Han placerade dem delvis i vagnsstäderna och delvis i Jerusalem, hos kungen själv.",
+    "new": "Salomo hade 4000 spannhästar med vagnar och 12000 ridhästar. Han placerade dem delvis i vagnsstäderna och delvis i Jerusalem, hos kungen själv.",
+    "line": 12177
+  },
+  {
+    "old": "Salomo regerade i Jerusalem över hela Israel i fyrtio år.",
+    "new": "Salomo regerade i Jerusalem över hela Israel i 40 år.",
+    "line": 12182
+  },
+  {
+    "old": "Rehabeam älskade Maaka, Absaloms dotter, mer än alla sina andra hustrur och bihustrur. Han hade ju tagit arton hustrur och sextio bihustrur, och han fick tjugoåtta söner och sextio döttrar.",
+    "new": "Rehabeam älskade Maaka, Absaloms dotter, mer än alla sina andra hustrur och bihustrur. Han hade ju tagit 18 hustrur och 60 bihustrur, och han fick 28 söner och 60 döttrar.",
+    "line": 12227
+  },
+  {
+    "old": "Han kom med ett tusen två hundra vagnar och sextio tusen ryttare, och ingen kunde räkna det folk som följde honom från Egypten: libyer, sukréer och etiopier.",
+    "new": "Han kom med 1200 vagnar och 60000 ryttare, och ingen kunde räkna det folk som följde honom från Egypten: libyer, sukréer och etiopier.",
+    "line": 12234
+  },
+  {
+    "old": "Abia började kriget med en här av tappra krigsmän, fyra hundra tusen utvalda män. Men Jerobeam ställde sig till strid mot honom med åtta hundra tusen utvalda, tappra stridsmän.",
+    "new": "Abia började kriget med en här av tappra krigsmän, 400000 utvalda män. Men Jerobeam ställde sig till strid mot honom med 800000 utvalda, tappra stridsmän.",
+    "line": 12252
+  },
+  {
+    "old": "Abia och hans folk åsamkade dem ett stort nederlag, så att femhundratusen unga män från Israel föll i strid.",
+    "new": "Abia och hans folk åsamkade dem ett stort nederlag, så att 500000 unga män från Israel föll i strid.",
+    "line": 12266
+  },
+  {
+    "old": "Asa hade en här som var utrustad med stora sköldar och spjut, bestående av trehundratusen man från Juda. Dessutom kom tvåhundraåttiotusen man från Benjamin, som var utrustade med små sköldar och spände båge. Alla dessa var tappra stridsmän.",
+    "new": "Asa hade en här som var utrustad med stora sköldar och spjut, bestående av 300000 man från Juda. Dessutom kom 208000 man från Benjamin, som var utrustade med små sköldar och spände båge. Alla dessa var tappra stridsmän.",
+    "line": 12281
+  },
+  {
+    "old": "Men Sera från Etiopien drog ut mot dem med en här av tusen gånger tusen man och trehundra vagnar. Han kom till Maresa.",
+    "new": "Men Sera från Etiopien drog ut mot dem med en här av 1000 gånger 1000 man och 300 vagnar. Han kom till Maresa.",
+    "line": 12282
+  },
+  {
+    "old": "och offrade på den dagen åt Herren sju hundra tjurar och sju tusen djur av boskapen, uttagna ur det byte de hade fört med sig.",
+    "new": "och offrade på den dagen åt Herren 700 7000 djur av boskapen, uttagna ur det byte de hade fört med sig.",
+    "line": 12301
+  },
+  {
+    "old": "En del av filistéerna gav gåvor till Josafat och betalade silver i skatt. Dessutom tog även araberna med sig småboskap till honom, sju tusen vädurar och sju tusen bockar.",
+    "new": "En del av filistéerna gav gåvor till Josafat och betalade silver i skatt. Dessutom tog även araberna med sig småboskap till honom, 7000 vädurar och 7000 bockar.",
+    "line": 12338
+  },
+  {
+    "old": "Det var deras ordning, efter familjerna. Till Juda hörde följande överhuvudsmän: hövitsmannen Adna, och med honom trehundratusen tappra stridsmän.",
+    "new": "Det var deras ordning, efter familjerna. Till Juda hörde följande överhuvudsmän: hövitsmannen Adna, och med honom 300000 tappra stridsmän.",
+    "line": 12341
+  },
+  {
+    "old": "därnäst Amasja, Sikris son, som frivilligt hade ställt sig i Herrens tjänst och med honom två hundra tusen tappra stridsmän.",
+    "new": "därnäst Amasja, Sikris son, som frivilligt hade ställt sig i Herrens tjänst och med honom 200000 tappra stridsmän.",
+    "line": 12343
+  },
+  {
+    "old": "Men från Benjamin kom: Eljada, en tapper stridsman, och med honom tvåhundratusen man, beväpnade med båge och sköld.",
+    "new": "Men från Benjamin kom: Eljada, en tapper stridsman, och med honom 200000 man, beväpnade med båge och sköld.",
+    "line": 12344
+  },
+  {
+    "old": "Joas var sju år gammal när han blev kung, och han regerade i fyrtio år i Jerusalem. Hans mor hette Sibja, från Beer-Seba.",
+    "new": "Joas var sju år gammal när han blev kung, och han regerade i 40 år i Jerusalem. Hans mor hette Sibja, från Beer-Seba.",
+    "line": 12496
+  },
+  {
+    "old": "Men Jojada blev gammal och trött på att leva, och så dog han. Han var hundra trettio år gammal när han dog.",
+    "new": "Men Jojada blev gammal och trött på att leva, och så dog han. Han var 130 år gammal när han dog.",
+    "line": 12510
+  },
+  {
+    "old": "Amasja samlade Judas barn och lät dem ställa upp sig efter sina familjer, efter sina över- och underhövitsmän, alla från Juda och Benjamin. Sedan mönstrade han dem som var 20 år gamla eller äldre och fann att de utgjorde trehundratusen utvalda stridbara män, som kunde föra spjut och sköld.",
+    "new": "Amasja samlade Judas barn och lät dem ställa upp sig efter sina familjer, efter sina över- och underhövitsmän, alla från Juda och Benjamin. Sedan mönstrade han dem som var 20 år gamla eller äldre och fann att de utgjorde 300000 utvalda stridbara män, som kunde föra spjut och sköld.",
+    "line": 12529
+  },
+  {
+    "old": "Han hyrde dessutom för hundra talenter silver ett hundra tusen tappra stridsmän från Israel.",
+    "new": "Han hyrde dessutom för 100 talenter silver 100000 tappra stridsmän från Israel.",
+    "line": 12530
+  },
+  {
+    "old": "Men Amasja tog mod till sig och tågade ut med sitt folk och gick till Saltdalen, där han dödade tio tusen av Seirs barn.",
+    "new": "Men Amasja tog mod till sig och tågade ut med sitt folk och gick till Saltdalen, där han dödade 10000 av Seirs barn.",
+    "line": 12535
+  },
+  {
+    "old": "Judarna tog andra tio tusen fångar levande. De förde upp dem på toppen av en klippa och stötte ner dem från klippan, så att alla krossades.",
+    "new": "Judarna tog andra 10 000 fångar levande. De förde upp dem på toppen av en klippa och stötte ner dem från klippan, så att alla krossades.",
+    "line": 12536
+  },
+  {
+    "old": "Men de som tillhörde den skara som Amasja hade sänt tillbaka och som inte hade fått följa med honom ut i striden, företog sig plundringståg i Judas städer, från Samaria ända till Bet-Horon. De dödade tre tusen av invånarna och tog stort byte.",
+    "new": "Men de som tillhörde den skara som Amasja hade sänt tillbaka och som inte hade fått följa med honom ut i striden, företog sig plundringståg i Judas städer, från Samaria ända till Bet-Horon. De dödade 3000 av invånarna och tog stort byte.",
+    "line": 12537
+  },
+  {
+    "old": "Hela antalet tappra stridsmän som var huvudansvariga för familjerna var två tusen sex hundra.",
+    "new": "Hela antalet tappra stridsmän som var huvudansvariga för familjerna var 2600.",
+    "line": 12566
+  },
+  {
+    "old": "Under deras befäl stod en krigshär på trehundrasjutusen femhundra män, som kämpade med kraft och mod och var kungens hjälp mot fienden.",
+    "new": "Under deras befäl stod en krigshär på 300500 män, som kämpade med kraft och mod och var kungens hjälp mot fienden.",
+    "line": 12567
+  },
+  {
+    "old": "Då gick prästen Asarja dit efter honom, åtföljd av åttio Herrens präster, oförskräckta män.",
+    "new": "Då gick prästen Asarja dit efter honom, åtföljd av 80 Herrens präster, oförskräckta män.",
+    "line": 12571
+  },
+  {
+    "old": "När han så kom i strid med Ammons barns kung, blev han dem övermäktig, så att Ammons barn det året måste ge honom hundra talenter silver, tio tusen kor vete och tio tusen kor korn. Lika mycket måste Ammons barn betala åt honom också nästa år och året därpå.",
+    "new": "När han så kom i strid med Ammons barns kung, blev han dem övermäktig, så att Ammons barn det året måste ge honom 100 talenter silver, 10000 kor vete och 10000 kor korn. Lika mycket måste Ammons barn betala åt honom också nästa år och året därpå.",
+    "line": 12584
+  },
+  {
+    "old": "Ahas var tjugo år gammal när han blev kung och regerade sexton år i Jerusalem. Han gjorde inte vad som var rätt i Herrens ögon, precis som hans far David.",
+    "new": "Ahas var 20 år gammal när han blev kung och regerade 16 år i Jerusalem. Han gjorde inte vad som var rätt i Herrens ögon, precis som hans far David.",
+    "line": 12591
+  },
+  {
+    "old": "För Peka, Remaljas son, dödade Juda hundratjugo tusen man på en enda dag, alla stridsdugliga män. Detta var för att de hade övergett Herren, sina fäders Gud.",
+    "new": "För Peka, Remaljas son, dödade Juda 120000 man på en enda dag, alla stridsdugliga män. Detta var för att de hade övergett Herren, sina fäders Gud.",
+    "line": 12596
+  },
+  {
+    "old": "Israels barn förde bort tvåhundratusen fångar från sina bröder, nämligen deras hustrur, söner och döttrar. De tog också mycket byte från dem och förde bytet till Samaria.",
+    "new": "Israels barn förde bort 200000 fångar från sina bröder, nämligen deras hustrur, söner och döttrar. De tog också mycket byte från dem och förde bytet till Samaria.",
+    "line": 12598
+  },
+  {
+    "old": "Antalet djur som församlingen tog fram var sjuttio tjurar, ett hundra vädurar och tvåhundra lamm. Alla dessa var till brännoffer åt Herren.",
+    "new": "Antalet djur som församlingen tog fram var 70 tjurar, 100 vädurar och 200 lamm. Alla dessa var till brännoffer åt Herren.",
+    "line": 12651
+  },
+  {
+    "old": "Tackoffren bestod av sex hundra tjurar och tre tusen djur från småboskapen.",
+    "new": "Tackoffren bestod av 600 tjurar och 3000 djur från småboskapen.",
+    "line": 12652
+  },
+  {
+    "old": "För Hiskia, Juda kung, hade gett församlingen som offergåva ett tusen tjurar och sju tusen djur av småboskap. De överste hade gett församlingen ett tusen tjurar och tio tusen djur av småboskap. Ett stort antal präster helgade sig.",
+    "new": "För Hiskia, Juda kung, hade gett församlingen som offergåva 1000 tjurar och 7000 djur av småboskap. De överste hade gett församlingen 1000 tjurar och 10000 djur av småboskap. Ett stort antal präster helgade sig.",
+    "line": 12681
+  },
+  {
+    "old": "Josia gav det vanliga folket som offergåva småboskap, både lamm och kalvar, i ett antal av trettio tusen. Allt detta var påskoffer till alla som var närvarande, samt tre tusen kor, allt från kungens privata egendom.",
+    "new": "Josia gav det vanliga folket som offergåva småboskap, både lamm och kalvar, i ett antal av 30000. Allt detta var påskoffer till alla som var närvarande, samt 3000 kor, allt från kungens privata egendom.",
+    "line": 12813
+  },
+  {
+    "old": "Hans främsta män gav efter eget val gåvor till folket, prästerna och leviterna. Hilkia, Sakarja och Jehiel, furstarna vid Guds hus, gav till prästerna två tusen sex hundra lamm och killingar för påskoffret, men också trehundra kor.",
+    "new": "Hans främsta män gav efter eget val gåvor till folket, prästerna och leviterna. Hilkia, Sakarja och Jehiel, furstarna vid Guds hus, gav till prästerna 2600 lamm och killingar för påskoffret, men också 300 kor.",
+    "line": 12814
+  },
+  {
+    "old": "Men Konanja och hans bröder Semaja, Netanel, Hasabja, Jegiel och Josabad, de främsta bland leviterna, gav åt leviterna som offergåvor fem tusen lamm och killingar till påskoffret, men också fem hundra kor.",
+    "new": "Men Konanja och hans bröder Semaja, Netanel, Hasabja, Jegiel och Josabad, de främsta bland leviterna, gav åt leviterna som offergåvor 5000 lamm och killingar till påskoffret, men också 500 kor.",
+    "line": 12815
+  },
+  {
+    "old": "För att Herrens ord genom Jeremias mun skulle uppfyllas – alltså till dess att landet hade fått gottgörelse för sina sabbatsår. För medan det låg öde, fick landet vila – till dess att sjuttio år hade gått färdigt.",
+    "new": "För att Herrens ord genom Jeremias mun skulle uppfyllas – alltså till dess att landet hade fått gottgörelse för sina sabbatsår. För medan det låg öde, fick landet vila – till dess att 70 år hade gått färdigt.",
+    "line": 12856
+  },
+  {
+    "old": "Pahat-Moabs barn, av Jesuas och Joabs ättlingar: två tusen åtta hundra tolv.",
+    "new": "Pahat-Moabs barn, av Jesuas och Joabs ättlingar: 2812.",
+    "line": 12881
+  },
+  {
+    "old": "Asgads barn: ett tusen två hundra tjugotvå.",
+    "new": "Asgads barn: 1222.",
+    "line": 12887
+  },
+  {
+    "old": "Myggans ungar: ett hundra sextio sex.",
+    "new": "Myggans ungar: 166.",
+    "line": 12905
+  },
+  {
+    "old": "Senaste räkningen: tre tusen sex hundra trettio.",
+    "new": "Senaste räkningen: 3630.",
+    "line": 12910
+  },
+  {
+    "old": "Barnens år: ettusen femtiotvå.",
+    "new": "Barnens år: 1502.",
+    "line": 12912
+  },
+  {
+    "old": "Pashurs barn: ett tusen två hundra fyrtiosju.",
+    "new": "Pashurs barn: 1247.",
+    "line": 12913
+  },
+  {
+    "old": "Hela församlingen bestod av sammanlagt fyrtiotvå tusen tre hundra sextio.",
+    "new": "Hela församlingen bestod av sammanlagt 42360.",
+    "line": 12939
+  },
+  {
+    "old": "Förutom deras tjänare och tjänarinnor, som var sju tusen tre hundra trettiosju. Bland dem fanns två hundra sångare och sångerskor.",
+    "new": "Förutom deras tjänare och tjänarinnor, som var 7337. Bland dem fanns 200 sångare och sångerskor.",
+    "line": 12940
+  },
+  {
+    "old": "fyrahundrafemtiotrem kameler och sex tusen sjuhundratjugo åsnor.",
+    "new": "453 kameler och 6720 åsnor.",
+    "line": 12942
+  },
+  {
+    "old": "De gav, så mycket var och en kunde, till arbetskassan sextioett tusen gulddariker och fem tusen silvermynt, samt också hundra prästklädnader.",
+    "new": "De gav, så mycket var och en kunde, till arbetskassan 61000 gulddariker och 5000 silvermynt, samt också 100 prästklädnader.",
+    "line": 12944
+  },
+  {
+    "old": "I kung Kores första regeringsår gav kung Kores denna befallning: \"Guds hus i Jerusalem, det huset ska byggas upp så att det blir en plats där man frambär offer. Dess grundvalar ska göras stadiga. Det ska byggas sextio alnar högt och sextio alnar brett.",
+    "new": "I kung Kores första regeringsår gav kung Kores denna befallning: \"Guds hus i Jerusalem, det huset ska byggas upp så att det blir en plats där man frambär offer. Dess grundvalar ska göras stadiga. Det ska byggas 60 alnar högt och 60 alnar brett.\"",
+    "line": 13010
+  },
+  {
+    "old": "Vidare Hasabja och med honom Jesaja, av Meraris barn, med hans bröder och deras söner, tjugo män.",
+    "new": "Vidare Hasabja och med honom Jesaja, av Meraris barn, med hans bröder och deras söner, 20 män.",
+    "line": 13081
+  },
+  {
+    "old": "Så även två hundra tjugo tempelslavar, alla namngivna, av de tempelslavar som David och hans främsta män hade gett till leviternas tjänst.",
+    "new": "Så även 220 tempelslavar, alla namngivna, av de tempelslavar som David och hans främsta män hade gett till leviternas tjänst.",
+    "line": 13082
+  },
+  {
+    "old": "Därtill tjugo bägare av guld, till ett värde av tusen dariker, samt två kärl av fin, glänsande koppar, värdefulla som guld.",
+    "new": "Därtill 20 bägare av guld, till ett värde av 1000 dariker, samt 2 kärl av fin, glänsande koppar, värdefulla som guld.",
+    "line": 13089
+  },
+  {
+    "old": "Dalporten rustades upp av Hanuns och Sanoas invånare. De byggde upp den och installerade dörrar, lås och bommar. De byggde också en tusen alnar på muren, ända fram till Dyngporten.",
+    "new": "Dalporten rustades upp av Hanuns och Sanoas invånare. De byggde upp den och installerade dörrar, lås och bommar. De byggde också 1000 alnar på muren, ända fram till Dyngporten.",
+    "line": 13213
+  },
+  {
+    "old": "De tidigare ståthållarna hade tyngt folket och tagit deras mat och vin för mer än fyrtio silvermark. Även deras tjänare hade behandlat folket hårt. Men jag gjorde inte så, för jag fruktade Gud.",
+    "new": "De tidigare ståthållarna hade tyngt folket och tagit deras mat och vin för mer än 40 silvermark. Även deras tjänare hade behandlat folket hårt. Men jag gjorde inte så, för jag fruktade Gud.",
+    "line": 13274
+  },
+  {
+    "old": "Av judarna och deras ledare åt ett hundra femtio personer vid mitt bord, förutom dem som kom till oss från de omkringliggande folken.",
+    "new": "Av judarna och deras ledare åt 150 personer vid mitt bord, förutom dem som kom till oss från de omkringliggande folken.",
+    "line": 13276
+  },
+  {
+    "old": "Pahat-Moabs barn, av Jesuas och Joabs ättlingar: två tusen åtta hundra arton.",
+    "new": "Pahat-Moabs barn, av Jesuas och Joabs ättlingar: 2818.",
+    "line": 13312
+  },
+  {
+    "old": "Senaste barn: tre tusen niohundratrettio.",
+    "new": "Senaste barn: 3930.",
+    "line": 13339
+  },
+  {
+    "old": "Barnens år: ettusen femtiotvå.",
+    "new": "Barnens år: 1502.",
+    "line": 13341
+  },
+  {
+    "old": "Pashurs barn: ett tusen två hundra fyrtiosju.",
+    "new": "Pashurs barn: 1247.",
+    "line": 13342
+  },
+  {
+    "old": "Hela församlingen bestod av sammanlagt fyrtiotvå tusen tre hundra sextio.",
+    "new": "Hela församlingen bestod av sammanlagt 42360.",
+    "line": 13367
+  },
+  {
+    "old": "Förutom deras tjänare och tjänarinnor, som var sju tusen tre hundra trettiosju. Bland dem fanns tvåhundrafemtio sångare och sångerskor.",
+    "new": "Förutom deras tjänare och tjänarinnor, som var 7337. Bland dem fanns 250 sångare och sångerskor.",
+    "line": 13368
+  },
+  {
+    "old": "De hade fyrahundrafemtiotrem kameler och sex tusen sjuhundratjugo åsnor.",
+    "new": "De hade 453 kameler och 6720 åsnor.",
+    "line": 13371
+  },
+  {
+    "old": "Vissa bland familjernas ledare gav gåvor till arbetet. Ståthållaren gav till kassan tusen gulddariker, femtio skålar och femhundratrettio prästklädnader.",
+    "new": "Vissa bland familjernas ledare gav gåvor till arbetet. Ståthållaren gav till kassan 1000 gulddariker, 50 skålar och 530 prästklädnader.",
+    "line": 13372
+  },
+  {
+    "old": "Vissa av familjernas ledare gav till arbetskassan tjugo tusen dariker i guld och två tusen två hundra minor i silver.",
+    "new": "Vissa av familjernas ledare gav till arbetskassan 20000 dariker i guld och 2200 minor i silver.",
+    "line": 13373
+  },
+  {
+    "old": "Det övriga folket gav tjugo tusen dariker i guld och två tusen minor i silver, samt sextiosju prästklädnader.",
+    "new": "Det övriga folket gav 20000 dariker i guld och 2000 minor i silver, samt 67 prästklädnader.",
+    "line": 13374
+  },
+  {
+    "old": "I fyrtio år försörjde du dem i öknen, så att de inte saknade något. Deras kläder blev inte slitna och deras fötter svullnade inte.",
+    "new": "I 40 år försörjde du dem i öknen, så att de inte saknade något. Deras kläder blev inte slitna och deras fötter svullnade inte.",
+    "line": 13418
+  },
+  {
+    "old": "I Ahasveros tid – den Ahasveros som regerade från Indien ända till Etiopien, över ett hundra tjugo sju hövdingdömen –",
+    "new": "I Ahasveros tid – den Ahasveros som regerade från Indien ända till Etiopien, över 127 hövdingdömen –",
+    "line": 13601
+  },
+  {
+    "old": "Han lät dem under många dagar se sin kungliga prakt och rikedom, sin storhets glans – under ett hundra åttio dagar.",
+    "new": "Han lät dem under många dagar se sin kungliga prakt och rikedom, sin storhets glans – under 180 dagar.",
+    "line": 13604
+  },
+  {
+    "old": "Om det så sker med kungen, ska därför en skrivelse utfärdas, att man ska förgöra dem. Tio tusen talenter silver ska jag då kunna väga upp åt tjänstemännen för att läggas in i kungens skattkamrar.",
+    "new": "Om det så sker med kungen, ska därför en skrivelse utfärdas, att man ska förgöra dem. 10000 talenter silver ska jag då kunna väga upp åt tjänstemännen för att läggas in i kungens skattkamrar.",
+    "line": 13658
+  },
+  {
+    "old": "Alla kungens tjänare och folket i kungens hövdingdömen vet att om någon, vare sig det är en man eller kvinna, går in till kungen på den inre gården utan att vara kallad, så gäller samma lag för alla: att han ska dödas, om inte kungen räcker ut mot honom med den gyllene spiran, som tecken på att han får leva. Men jag har inte varit kallad att komma till kungen under de senaste trettio dagarna.",
+    "new": "Alla kungens tjänare och folket i kungens hövdingdömen vet att om någon, vare sig det är en man eller kvinna, går in till kungen på den inre gården utan att vara kallad, så gäller samma lag för alla: att han ska dödas, om inte kungen räcker ut mot honom med den gyllene spiran, som tecken på att han får leva. Men jag har inte varit kallad att komma till kungen under de senaste 30 dagarna.",
+    "line": 13677
+  },
+  {
+    "old": "Då sa hans hustru Seres och alla hans vänner till honom: \"Låt oss resa en påle, femtio alnar hög och be kungen i morgon att Mordokai ska hängas på den. Då kan du glatt komma med kungen till gästabudet.\" Detta behagade Haman och han lät resa pålen.",
+    "new": "Då sa hans hustru Seres och alla hans vänner till honom: \"Låt oss resa en påle, 50 alnar hög och be kungen i morgon att Mordokai ska hängas på den. Då kan du glatt komma med kungen till gästabudet.\" Detta behagade Haman och han lät resa pålen.",
+    "line": 13699
+  },
+  {
+    "old": "Harebona, en av hovmännen hos kungen, sa: \"Vid Hamans hus står redan en påle, femtio alnar hög, som Haman har låtit resa upp för Mordokai, vars ord en gång var kungen till så stor nytta.\" Då sa kungen: \"Häng upp honom på den.\"",
+    "new": "Harebona, en av hovmännen hos kungen, sa: \"Vid Hamans hus står redan en påle, 50 alnar hög, som Haman har låtit resa upp för Mordokai, vars ord en gång var kungen till så stor nytta.\" Då sa kungen: \"Häng upp honom på den.\"",
+    "line": 13726
+  },
+  {
+    "old": "Så kallades nu direkt kungens sekreterare till, på tjugotredje dagen i tredje månaden, det är Sivan. En skrivelse, precis som Mordokai ville ha den, utfärdades till judarna och till satraperna, ståthållarna och furstarna i alla områden, från Indien ända till Etiopien – hundra tjugo sju områden. Till varje område med dess skrift och till varje folk på deras språk, också till judarna med deras skrift och på deras språk.",
+    "new": "Så kallades nu direkt kungens sekreterare till, på 23 dagen i 3 månaden, det är Sivan. En skrivelse, precis som Mordokai ville ha den, utfärdades till judarna och till satraperna, ståthållarna och furstarna i alla områden, från Indien ända till Etiopien – 127 områden. Till varje område med dess skrift och till varje folk på deras språk, också till judarna med deras skrift och på deras språk.",
+    "line": 13738
+  },
+  {
+    "old": "De andra judarna, de som fanns i kungens län, samlades för att försvara sig och fick ro från sina fiender. De dödade femtiosjutusen av sina motståndare. Men de sträckte inte ut handen för att plundra.",
+    "new": "De andra judarna, de som fanns i kungens län, samlades för att försvara sig och fick ro från sina fiender. De dödade 5073 av sina motståndare. Men de sträckte inte ut handen för att plundra.",
+    "line": 13764
+  },
+  {
+    "old": "Skrivelser, vänligt och välvilligt formulerade, skickades till alla judar i de hundra tjugo sju hövdingdömena i Ahasveros rike.",
+    "new": "Skrivelser, vänligt och välvilligt formulerade, skickades till alla judar i de 127 hövdingdömena i Ahasveros rike.",
+    "line": 13778
+  },
+  {
+    "old": "och han ägde sju tusen får, tre tusen kameler, fem hundra par oxar och fem hundra åsninnor, samt hade många tjänare. Så var denna man mäktigare än någon annan i Österlandet.",
+    "new": "och han ägde 7000 får, 3000 kameler, 500 par oxar och 500 åsninnor, samt hade många tjänare. Så var denna man mäktigare än någon annan i Österlandet.",
+    "line": 13792
+  },
+  {
+    "old": "Herren välsignade slutet av Jobs liv ännu mer än början, så att han fick fjorton tusen får, sex tusen kameler, ett tusen par oxar och ett tusen åsnor.",
+    "new": "Herren välsignade slutet av Jobs liv ännu mer än början, så att han fick 14000 får, 6000 kameler, 1000 par oxar och 1000 åsnor.",
+    "line": 14936
+  },
+  {
+    "old": "för alla djur i skogen är mina, och boskapen på de tusen bergen också.",
+    "new": "för alla djur i skogen är mina, och boskapen på de 1000 bergen också.",
+    "line": 15809
+  },
+  {
+    "old": "när han var i fejd med Aram-Naharaim och Aram-Soba och Joab kom tillbaka och slog edoméerna i Saltdalen, tolv tusen man.",
+    "new": "när han var i fejd med Aram-Naharaim och Aram-Soba och Joab kom tillbaka och slog edoméerna i Saltdalen, 12000 man.",
+    "line": 15972
+  },
+  {
+    "old": "Guds vagnar är tiotusentals, tusen och åter tusen. Herren drog fram med dem, Sinai är nu i helgedomen.",
+    "new": "Guds vagnar är 10 000, 1000 och åter 1000. Herren drog fram med dem, Sinai är nu i helgedomen.",
+    "line": 16105
+  },
+  {
+    "old": "För en dag i dina gårdar är bättre än tusen andra. Jag vill hellre vakta dörren i min Guds hus än leva i de ogudaktigas hyddor.",
+    "new": "För en dag i dina gårdar är bättre än 1000 andra. Jag vill hellre vakta dörren i min Guds hus än leva i de ogudaktigas hyddor.",
+    "line": 16498
+  },
+  {
+    "old": "För tusen år är i dina ögon som dagen som gick i går; ja, de är som en nattväkt.",
+    "new": "För 1000 år är i dina ögon som dagen som gick i går; ja, de är som en nattväkt.",
+    "line": 16626
+  },
+  {
+    "old": "Vårt liv räcker sjuttio år eller åttio år, om det blir långt; och när det är som bäst, är det arbete och tomhet, för det går snart förbi, som om vi flög bort.",
+    "new": "Vårt liv räcker 70 år eller 80 år, om det blir långt; och när det är som bäst, är det arbete och tomhet, för det går snart förbi, som om vi flög bort.",
+    "line": 16632
+  },
+  {
+    "old": "Även om tusen skulle falla vid din sida, ja, tio tusen vid din högra sida, så ska det ändå inte slå dig.",
+    "new": "Även om 1000 skulle falla vid din sida, ja, 10000 vid din högra sida, så ska det ändå inte slå dig.",
+    "line": 16648
+  },
+  {
+    "old": "I fyrtio år var släktet mig till leda och jag sa: \"De är ett folk som går vilse med sitt hjärta och de vill inte veta av mina vägar.\"",
+    "new": "I 40 år var släktet mig till leda och jag sa: \"De är ett folk som går vilse med sitt hjärta och de vill inte veta av mina vägar.\"",
+    "line": 16719
+  },
+  {
+    "old": "Han tänker i evighet på sitt förbund, på vad han har stadgat fram till tusen släktled,",
+    "new": "Han tänker i evighet på sitt förbund, på vad han har stadgat fram till 1000 släktled.",
+    "line": 16890
+  },
+  {
+    "old": "Ja, om han levde i tvåtusen år utan att få njuta något gott – går inte alla ändå till samma mål?",
+    "new": "Ja, om han levde i 2000 år utan att få njuta något gott – går inte alla ändå till samma mål?",
+    "line": 18871
+  },
+  {
+    "old": "Se, det är Salomos bärstol! Sextio hjältar omger den, utvalda bland Israels hjältar.",
+    "new": "Se, det är Salomos bärstol! 60 hjältar omger den, utvalda bland Israels hjältar.",
+    "line": 19046
+  },
+  {
+    "old": "Din hals är lik Davids torn, väl befäst. Tusen sköldar hänger på den, alla hjältarnas sköldar.",
+    "new": "Din hals är lik Davids torn, väl befäst. 1000 sköldar hänger på den, alla hjältarnas sköldar.",
+    "line": 19056
+  },
+  {
+    "old": "Sextio är drottningarna och åttio bihustrurna, samt tärnorna i ett stort antal.",
+    "new": "60 är drottningarna och 80 bihustrurna, samt tärnorna i ett stort antal.",
+    "line": 19096
+  },
+  {
+    "old": "Salomo ägde en vingård i Baal-Hamon, och han lämnade över den till väktare. De kunde hämta tusen silverstycken ur dess frukt.",
+    "new": "Salomo ägde en vingård i Baal-Hamon, och han lämnade över den till väktare. De kunde hämta 1000 silverstycken ur dess frukt.",
+    "line": 19129
+  },
+  {
+    "old": "Men min vingård tar jag hand om själv. Du, Salomo, ska ta emot tusen och två hundra personer som vaktar dess frukt.",
+    "new": "Men min vingård tar jag hand om själv. Du, Salomo, ska ta emot 1200 personer som vaktar dess frukt.",
+    "line": 19130
+  },
+  {
+    "old": "Det kommer att ske vid den tidpunkten, när tusen vinträd står där nu, värda tusen silvermynt, där ska det växa tistel och törne överallt.",
+    "new": "Det kommer att ske vid den tidpunkten, när 1000 vinträd står där nu, värda 1000 silvermynt, där ska det växa tistel och törne överallt.",
+    "line": 19299
+  },
+  {
+    "old": "På den tiden ska Tyrus ligga glömt i sjuttio år, medan samma kung fortsätter att regera. Men efter sjuttio år ska det hända Tyrus, som det står i visan om skökan.",
+    "new": "På den tiden ska Tyrus ligga glömt i 70 år, medan samma kung fortsätter att regera. Men efter 70 år ska det hända Tyrus, som det står i visan om skökan.",
+    "line": 19618
+  },
+  {
+    "old": "För efter sjuttio år ska Herren se till Tyrus, och den ska åter börja ta emot skökolön och utöva otukt med jordens alla kungariken i den vida världen.",
+    "new": "För efter 70 år ska Herren se till Tyrus, och den ska åter börja ta emot skökolön och utöva otukt med jordens alla kungariken i den vida världen.",
+    "line": 19620
+  },
+  {
+    "old": "Tusen av er ska fly för hotet från en man eller fem män, till dess att det som är kvar av er blir som en ensam stång på bergets topp, som ett baner på höjden.",
+    "new": "Tusen av er ska fly för hotet från en man eller 5 män, till dess att det som är kvar av er blir som en ensam stång på bergets topp, som ett baner på höjden.",
+    "line": 19774
+  },
+  {
+    "old": "Men ingå nu ett vad med min herre, kungen i Assyrien: jag vill ge dig två tusen hästar, om du kan skaffa ryttare till dem.",
+    "new": "Men ingå nu ett vad med min herre, kungen i Assyrien: jag vill ge dig 2000 hästar, om du kan skaffa ryttare till dem.",
+    "line": 19890
+  },
+  {
+    "old": "Herrens ängel gick ut och slog i assyriernas läger hundra åttiofem tusen man. När man tidigt följande morgon kom ut, fick man se döda kroppar ligga där överallt.",
+    "new": "Herrens ängel gick ut och slog i assyriernas läger 185000 man. När man tidigt följande morgon kom ut, fick man se döda kroppar ligga där överallt.",
+    "line": 19942
+  },
+  {
+    "old": "Av den minste ska komma tusen och av den ringaste ett stort folk. Jag är Herren. När tiden är inne, ska jag snabbt göra detta färdigt.",
+    "new": "Av den minste ska komma 1000 och av den ringaste ett stort folk. Jag är Herren. När tiden är inne, ska jag snabbt göra detta färdigt.",
+    "line": 20443
+  },
+  {
+    "old": "Ja, hela detta land ska bli ödelagt och förött, och dessa folk ska vara Babels kung underdåniga i sjuttio år.",
+    "new": "Ja, hela detta land ska bli ödelagt och förött, och dessa folk ska vara Babels kung underdåniga i 70 år.",
+    "line": 21209
+  },
+  {
+    "old": "Men när sjuttio år är slut ska jag hemsöka kungen i Babel och folket där för deras missgärningar, säger Herren, och hemsöka kaldéernas land och göra det till en ödemark för evig tid.",
+    "new": "Men när 70 år är slut ska jag hemsöka kungen i Babel och folket där för deras missgärningar, säger Herren, och hemsöka kaldéernas land och göra det till en ödemark för evig tid.",
+    "line": 21210
+  },
+  {
+    "old": "För så säger Herren: Först när sjuttio år har gått till ända i Babel, ska jag se till er och uppfylla mitt löfte att föra er tillbaka till denna plats.",
+    "new": "För så säger Herren: Först när 70 år har gått till ända i Babel, ska jag se till er och uppfylla mitt löfte att föra er tillbaka till denna plats.",
+    "line": 21317
+  },
+  {
+    "old": "Då lät kungen etiopiern Ebed-Melek och sa: \"Ta med dig trettio män härifrån och dra upp profeten Jeremia ur brunnen innan han dör.\"",
+    "new": "Då lät kungen etiopiern Ebed-Melek och sa: \"Ta med dig 30 män härifrån och dra upp profeten Jeremia ur brunnen innan han dör.\"",
+    "line": 21595
+  },
+  {
+    "old": "En grupp på åttio män kom från Sikem, Silo och Samaria. De hade rakat bort skäggen och slitit sönder kläderna, ristat märken på sig själva och hade med sig matgåvor och rökelse för att offra i Herrens hus.",
+    "new": "En grupp på 80 män kom från Sikem, Silo och Samaria. De hade rakat bort skäggen och slitit sönder kläderna, ristat märken på sig själva och hade med sig matgåvor och rökelse för att offra i Herrens hus.",
+    "line": 21658
+  },
+  {
+    "old": "och från staden tog han en hovman, den som var ledare för krigsfolket och sju av kungens närmaste män, som påträffades i staden, men också härhövitsmannens sekreterare, som brukade skriva ut folket i landet till krigstjänst och sextio andra män från landets folk, som påträffades i staden.",
+    "new": "och från staden tog han en hovman, den som var ledare för krigsfolket och sju av kungens närmaste män, som påträffades i staden, men också härhövitsmannens sekreterare, som brukade skriva ut folket i landet till krigstjänst och 60 andra män från landets folk, som påträffades i staden.",
+    "line": 22019
+  },
+  {
+    "old": "Detta är antalet personer Nebukadnessar förde bort: i det sjunde året, tre tusen tjugotre judar.",
+    "new": "Detta är antalet personer Nebukadnessar förde bort: i det sjunde året, 3023 judar.",
+    "line": 22022
+  },
+  {
+    "old": "Men i Nebukadnessars tjugotredje regeringsår förde Nebusaradan, översten för drabanterna, bort sju hundra fyrtiofem judar. Hela antalet var fyra tusen sex hundra personer.",
+    "new": "Men i Nebukadnessars 23 regeringsår förde Nebusaradan, översten för drabanterna, bort 745 judar. Hela antalet var 4600 personer.",
+    "line": 22024
+  },
+  {
+    "old": "Framför dem stod sjuttio äldste från Israels hus och Jaasanja, Safans son, stod mitt ibland dem. Var och en av dem hade ett rökelsekar i handen och en god doft steg upp från rökelsemolnet.",
+    "new": "Framför dem stod 70 äldste från Israels hus och Jaasanja, Safans son, stod mitt ibland dem. Var och en av dem hade ett rökelsekar i handen och en god doft steg upp från rökelsemolnet.",
+    "line": 22362
+  },
+  {
+    "old": "Ingen människa ska gå där, och inget boskapsdjur heller. Det ska ligga obebott i fyrtio år.",
+    "new": "Ingen människa ska gå där, och inget boskapsdjur heller. Det ska ligga obebott i 40 år.",
+    "line": 22983
+  },
+  {
+    "old": "Jag ska göra Egyptens land till en ödemark bland andra förstörda länder. Dess städer ska ligga öde bland andra förstörda städer i fyrtio år. Jag ska skingra egyptierna bland folken och sprida ut dem i länderna.",
+    "new": "Jag ska göra Egyptens land till en ödemark bland andra förstörda länder. Dess städer ska ligga öde bland andra förstörda städer i 40 år. Jag ska skingra egyptierna bland folken och sprida ut dem i länderna.",
+    "line": 22984
+  },
+  {
+    "old": "För så säger Herren, Herren: När fyrtio år har gått, ska jag samla ihop egyptierna från de folk de är skingrade bland.",
+    "new": "För så säger Herren, Herren: När 40 år har gått, ska jag samla ihop egyptierna från de folk de är skingrade bland.",
+    "line": 22985
+  },
+  {
+    "old": "Han mätte pelarna till sextio alnar. Porten sträckte sig runt omkring intill förgårdens pelare.",
+    "new": "Han mätte pelarna till 60 alnar. Porten sträckte sig runt omkring intill förgårdens pelare.",
+    "line": 23302
+  },
+  {
+    "old": "Avståndet från ingångsportens framsida till förhusets framsida vid den inre portöppningen var femtio alnar.",
+    "new": "Avståndet från ingångsportens framsida till förhusets framsida vid den inre portöppningen var 50 alnar.",
+    "line": 23303
+  },
+  {
+    "old": "Han tog mig till den yttre förgården, och jag såg att det fanns tempelkamrar och ett stengolv som gick runt omkring förgården. Trettio tempelkamrar var byggda på stengolvet.",
+    "new": "Han tog mig till den yttre förgården, och jag såg att det fanns tempelkamrar och ett stengolv som gick runt omkring förgården. 30 tempelkamrar var byggda på stengolvet.",
+    "line": 23305
+  },
+  {
+    "old": "Den hade också tre vaktkamrar på varje sida, och likadant pelare och förhus, lika stora som den förra porten. Den var femtio alnar lång och tjugofem alnar bred.",
+    "new": "Den hade också tre vaktkamrar på varje sida, och likadant pelare och förhus, lika stora som den förra porten. Den var 50 alnar lång och 25 alnar bred.",
+    "line": 23309
+  },
+  {
+    "old": "Det fanns fönster runt omkring på den och dess förhus, likadana som de andra. Den var femtio alnar lång och tjugofem alnar bred.",
+    "new": "Det fanns fönster runt omkring på den och dess förhus, likadana som de andra. Den var 50 alnar lång och 25 alnar bred.",
+    "line": 23313
+  },
+  {
+    "old": "Dess vaktkamrar, pelare och förhus var lika stora som de andra, och det fanns fönster runt omkring på den och dess förhus. Den var femtio alnar lång och tjugofem alnar bred.",
+    "new": "Dess vaktkamrar, pelare och förhus var lika stora som de andra, och det fanns fönster runt omkring på den och dess förhus. Den var 50 alnar lång och 25 alnar bred.",
+    "line": 23317
+  },
+  {
+    "old": "Dess vaktkamrar, pelare och förhus var lika stora som de andra, och det fanns fönster runt omkring på den och dess förhus. Den var femtio alnar lång och tjugofem alnar bred.",
+    "new": "Dess vaktkamrar, pelare och förhus var lika stora som de andra, och det fanns fönster runt omkring på den och dess förhus. Den var 50 alnar lång och 25 alnar bred.",
+    "line": 23321
+  },
+  {
+    "old": "Så också dess vaktkamrar, pelare och förhus och fönster fanns på den runt omkring. Den var femtio alnar lång och tjugofem alnar bred.",
+    "new": "Så också dess vaktkamrar, pelare och förhus och fönster fanns på den runt omkring. Den var 50 alnar lång och 25 alnar bred.",
+    "line": 23324
+  },
+  {
+    "old": "Förhallen var tjugo alnar lång och elva alnar bred, nämligen vid trappstegen som man gick upp på. Vid pelarna stod pelare, en på varje sida.",
+    "new": "Förhallen var 20 alnar lång och 11 alnar bred, nämligen vid trappstegen som man gick upp på. Vid pelarna stod pelare, en på varje sida.",
+    "line": 23337
+  },
+  {
+    "old": "Ingången var tio alnar bred och sidoväggarna vid ingången var fem alnar på varje sida. Sedan mätte han salens längd: fyrtio alnar och bredden: tjugo alnar.",
+    "new": "Ingången var 10 alnar bred och sidoväggarna vid ingången var 5 alnar på varje sida. Sedan mätte han salens längd: 40 alnar och bredden: 20 alnar.",
+    "line": 23341
+  },
+  {
+    "old": "Han mätte dess längd: tjugo alnar och bredden: tjugo alnar, framför tempelsalen. Han sa till mig: \"Det här är det allra heligaste.\"",
+    "new": "Han mätte dess längd: 20 alnar och bredden: 20 alnar, framför tempelsalen. Han sa till mig: \"Det här är det allra heligaste.\"",
+    "line": 23343
+  },
+  {
+    "old": "Mellanrummet till tempelkamrarna var tjugo alnar brett runt omkring hela huset.",
+    "new": "Mellanrummet till tempelkamrarna var 20 alnar brett runt omkring hela huset.",
+    "line": 23349
+  },
+  {
+    "old": "Den byggnad som låg invid den avskilda platsen på västra sidan var sjuttio alnar bred och byggnadens mur var fem alnar tjock runt omkring och nittio alnar lång.",
+    "new": "Den byggnad som låg invid den avskilda platsen på västra sidan var 70 alnar bred och byggnadens mur var 5 alnar tjock runt omkring och 90 alnar lång.",
+    "line": 23351
+  },
+  {
+    "old": "till långsidan, som mätte hundra alnar, med sin ingång i norr. Men bredden var femtio alnar.",
+    "new": "till långsidan, som mätte 100 alnar, med sin ingång i norr. Men bredden var 50 alnar.",
+    "line": 23369
+  },
+  {
+    "old": "Mot den tjugo alnar breda platsen på den inre förgården och mot stengolvet på den yttre förgården låg avsatserna på det ena husets framsida mitt emot avsatserna på det andra husets framsida, i tre våningar.",
+    "new": "Mot den 20 alnar breda platsen på den inre förgården och mot stengolvet på den yttre förgården låg avsatserna på det ena husets framsida mitt emot avsatserna på det andra husets framsida, i 3 våningar.",
+    "line": 23370
+  },
+  {
+    "old": "En yttre skiljemur gick längs tempelkamrarna mot den yttre förgården, framför tempelkamrarna och den var femtio alnar lång.",
+    "new": "En yttre skiljemur gick längs tempelkamrarna mot den yttre förgården, framför tempelkamrarna och den var 50 alnar lång.",
+    "line": 23374
+  },
+  {
+    "old": "Längden på tempelkammarbyggnaden ut mot den yttre förgården var femtio alnar, men mot templet hundra alnar.",
+    "new": "Längden på tempelkammarbyggnaden ut mot den yttre förgården var 50 alnar, men mot templet 100 alnar.",
+    "line": 23375
+  },
+  {
+    "old": "När ni genom lottkastning delar upp landet till arvslotter, ska ni ge Herren en offergärd, en helig del av landet, tjugofem tusen alnar lång och tio tusen bred. Detta område ska vara heligt runt hela sin omkrets.",
+    "new": "När ni genom lottkastning delar upp landet till arvslotter, ska ni ge Herren en offergärd, en helig del av landet, 25000 alnar lång och 10000 bred. Detta område ska vara heligt runt hela sin omkrets.",
+    "line": 23452
+  },
+  {
+    "old": "Härifrån ska tas till helgedomen en kvadrat, fem hundra alnar lång och fem hundra bred, runt omkring, och femtio alnar runt omkring som utmark.",
+    "new": "Härifrån ska tas till helgedomen en kvadrat, 500 alnar lång och 500 bred, runt omkring, och 50 alnar runt omkring som utmark.",
+    "line": 23453
+  },
+  {
+    "old": "Från det uppmätta området ska du mäta ut ett stycke, tjugofem tusen alnar långt och tio tusen brett. Där ska helgedomen, det allra heligaste, ligga.",
+    "new": "Från det uppmätta området ska du mäta ut ett stycke, 25000 alnar långt och 10000 brett. Där ska helgedomen, det allra heligaste, ligga.",
+    "line": 23454
+  },
+  {
+    "old": "Ett område, tjugofem tusen alnar långt och tio tusen brett, ska tillhöra leviterna som tjänar i huset, som deras egendom, med tjugo kamrar.",
+    "new": "Ett område, 25000 alnar långt och 10000 brett, ska tillhöra leviterna som tjänar i huset, som deras egendom, med 20 kamrar.",
+    "line": 23456
+  },
+  {
+    "old": "Till staden ska ni ge ett område som egendom, fem tusen alnar brett och tjugofem tusen långt, lika stort som det heliga offerområdet. Det ska tillhöra hela Israels folk.",
+    "new": "Till staden ska ni ge ett område som egendom, 5000 alnar brett och 25000 långt, lika stort som det heliga offerområdet. Det ska tillhöra hela Israels folk.",
+    "line": 23457
+  },
+  {
+    "old": "Sikeln ska innehålla tjugo gera. Minan ska innehålla tjugo siklar, tjugofem siklar eller femton siklar hos er.",
+    "new": "Sikeln ska innehålla 20 gera. Minan ska innehålla 20 siklar, 25 siklar eller 15 siklar hos er.",
+    "line": 23463
+  },
+  {
+    "old": "I förgårdens fyra hörn fanns omgärdade gårdar, fyrtio alnar långa och trettio alnar breda. Dessa fyra hörngårdar var stora.",
+    "new": "I förgårdens fyra hörn fanns omgärdade gårdar, 40 alnar långa och 30 alnar breda. Dessa fyra hörngårdar var stora.",
+    "line": 23500
+  },
+  {
+    "old": "Sedan gick mannen, med ett måttband i handen, ett stycke mot öster och mätte upp tusen alnar och lät mig gå över vattnet och vattnet räckte mig till fotknölarna.",
+    "new": "Sedan gick mannen, med ett måttband i handen, ett stycke mot öster och mätte upp 1000 alnar och lät mig gå över vattnet och vattnet räckte mig till fotknölarna.",
+    "line": 23507
+  },
+  {
+    "old": "Åter mätte han upp tusen alnar och lät mig gå över vattnet och vattnet räckte mig till knäna. Åter mätte han upp tusen alnar och lät mig gå över vattnet, som räckte mig upp till länderna.",
+    "new": "Åter mätte han upp 1000 alnar och lät mig gå över vattnet och vattnet räckte mig till knäna. Åter mätte han upp 1000 alnar och lät mig gå över vattnet, som räckte mig upp till länderna.",
+    "line": 23508
+  },
+  {
+    "old": "Ännu en gång mätte han upp tusen alnar och nu var det en ström som jag inte kunde vada över. För vattnet stod så högt att man måste simma. Det var en ström som man inte kunde vada över.",
+    "new": "Ännu en gång mätte han upp 1000 alnar och nu var det en ström som jag inte kunde vada över. För vattnet stod så högt att man måste simma. Det var en ström som man inte kunde vada över.",
+    "line": 23509
+  },
+  {
+    "old": "Närmast Judas område ska det heliga offerområde som ni ska ge som gåva sträcka sig från östra sidan till västra, tjugofem tusen alnar i bredd och i längd som en stamlotts längd från östra sidan till västra. Helgedomen ska ligga där i mitten.",
+    "new": "Närmast Judas område ska det heliga offerområde som ni ska ge som gåva sträcka sig från östra sidan till västra, 25000 alnar i bredd och i längd som en stamlotts längd från östra sidan till västra. Helgedomen ska ligga där i mitten.",
+    "line": 23537
+  },
+  {
+    "old": "Det heliga offerområde som ni ska ge som gåva åt Herren ska vara tjugofem tusen alnar långt och tio tusen brett.",
+    "new": "Det heliga offerområde som ni ska ge som gåva åt Herren ska vara 25000 alnar långt och 10000 brett.",
+    "line": 23538
+  },
+  {
+    "old": "Av detta heliga offerområde ska en del tillhöra prästerna: i norr tjugofem tusen alnar, i väster tio tusen brett, i öster lika tio tusen brett och i söder tjugofem tusen långt. Herrens helgedom ska ligga där i mitten.",
+    "new": "Av detta heliga offerområde ska en del tillhöra prästerna: i norr 25000 alnar, i väster 10000 brett, i öster lika 10000 brett och i söder 25000 långt. Herrens helgedom ska ligga där i mitten.",
+    "line": 23539
+  },
+  {
+    "old": "Men leviterna ska få ett område som motsvarar prästernas, tjugofem tusen alnar långt och tio tusen brett - längden är överallt tjugofem tusen och bredden tio tusen.",
+    "new": "Men leviterna ska få ett område som motsvarar prästernas, 25000 alnar långt och 10000 brett - längden är överallt 25000 och bredden 10000.",
+    "line": 23542
+  },
+  {
+    "old": "Men de fem tusen alnar som blir över på bredden bredvid de tjugofem tusen ska vara ett vanligt område för staden, dels för boende, dels som utmark. Staden ska ligga där i mitten.",
+    "new": "Men de 5000 alnar som blir över på bredden bredvid de 25000 ska vara ett vanligt område för staden, dels för boende, dels som utmark. Staden ska ligga där i mitten.",
+    "line": 23544
+  },
+  {
+    "old": "Detta är måtten på den: norra sidan fyra tusen fem hundra alnar, södra sidan fyra tusen fem hundra, östra sidan fyra tusen fem hundra och västra sidan fyra tusen fem hundra.",
+    "new": "Detta är måtten på den: norra sidan 4500 alnar, södra sidan 4500, östra sidan 4500 och västra sidan 4500.",
+    "line": 23545
+  },
+  {
+    "old": "Staden ska ha en utmark som är två hundra femtio alnar norrut, två hundra femtio söderut, två hundra femtio österut och två hundra femtio västerut.",
+    "new": "Staden ska ha en utmark som är 250 alnar norrut, 250 söderut, 250 österut och 250 västerut.",
+    "line": 23546
+  },
+  {
+    "old": "Vad som blir över på långsidan längs det heliga offerområdet, tio tusen alnar österut och tio tusen västerut - för det ska sträcka sig längs det heliga offerområdet - från detta ska avkastningen användas till mat åt stadens invånare.",
+    "new": "Vad som blir över på långsidan längs det heliga offerområdet, 10000 alnar österut och 10000 västerut - för det ska sträcka sig längs det heliga offerområdet - från detta ska avkastningen användas till mat åt stadens invånare.",
+    "line": 23547
+  },
+  {
+    "old": "Hela offergärdsområdet ska alltså vara tjugofem tusen alnar i längd och tjugofem tusen i bredd. Det heliga offergärdsområde som ni ger som gärd ska bilda en fyrkant, stadens besittning inberäknad.",
+    "new": "Hela offergärdsområdet ska alltså vara 25000 alnar i längd och 25000 i bredd. Det heliga offergärdsområde som ni ger som gärd ska bilda en fyrkant, stadens besittning inberäknad.",
+    "line": 23549
+  },
+  {
+    "old": "Fursten ska få vad som blir över på båda sidor om det heliga offergärdsområdet och stadens egendom, nämligen landet invid det tjugofem tusen alnar breda offergärdsområdet, ända till östra gränsen och på samma sätt västerut landet utefter det tjugofem tusen alnar breda området, ända till västra gränsen. Dessa områden, motsvarande stamlotterna, ska tillhöra fursten. Det heliga offergärdsområdet med det heliga huset ska ligga mitt emellan dem.",
+    "new": "Fursten ska få vad som blir över på båda sidor om det heliga offergärdsområdet och stadens egendom, nämligen landet invid det 25000 alnar breda offergärdsområdet, ända till östra gränsen och på samma sätt västerut landet utefter det 25000 alnar breda området, ända till västra gränsen. Dessa områden, motsvarande stamlotterna, ska tillhöra fursten. Det heliga offergärdsområdet med det heliga huset ska ligga mitt emellan dem.",
+    "line": 23550
+  },
+  {
+    "old": "Följande utgångar ska staden ha: På norra sidan ska den vara fyra tusen fem hundra alnar lång,",
+    "new": "Följande utgångar ska staden ha: På norra sidan ska den vara 4500 alnar lång,",
+    "line": 23559
+  },
+  {
+    "old": "På östra sidan ska den också vara fyra tusen fem hundra alnar lång och ha tre portar: först Josefs port, sedan Benjamins port, sist Dans port.",
+    "new": "På östra sidan ska den också vara 4500 alnar lång och ha tre portar: först Josefs port, sedan Benjamins port, sist Dans port.",
+    "line": 23561
+  },
+  {
+    "old": "På samma sätt ska också södra sidan vara fyra tusen fem hundra alnar lång och ha tre portar: först Simeons port, sedan Isaskars port, sist Sebulons port.",
+    "new": "På samma sätt ska också södra sidan vara 4500 alnar lång och ha tre portar: först Simeons port, sedan Isaskars port, sist Sebulons port.",
+    "line": 23562
+  },
+  {
+    "old": "Västra sidan ska vara fyra tusen fem hundra alnar lång och ha tre portar: först Gads port, sedan Asers port, sist Naftali port.",
+    "new": "Västra sidan ska vara 4500 alnar lång och ha tre portar: först Gads port, sedan Asers port, sist Naftali port.",
+    "line": 23563
+  },
+  {
+    "old": "Runt omkring ska den vara arton tusen alnar lång. Stadens namn ska från och med detta vara: Här är Herren.",
+    "new": "Runt omkring ska den vara 18000 alnar lång. Stadens namn ska från och med detta vara: Här är Herren.",
+    "line": 23564
+  },
+  {
+    "old": "Kung Nebukadnessar lät göra en gyllene staty, sextio alnar hög och sex alnar bred. Den lät han ställa upp på Duraslätten i Babels hövdingdöme.",
+    "new": "Kung Nebukadnessar lät göra en gyllene staty, 60 alnar hög och 6 alnar bred. Den lät han ställa upp på Duraslätten i Babels hövdingdöme.",
+    "line": 23643
+  },
+  {
+    "old": "Kung Belsassar anordnade en stor fest för sina tusen stormän och hade dryckeslag med dem.",
+    "new": "Kung Belsassar anordnade en stor fest för sina 1000 stormän och hade dryckeslag med dem.",
+    "line": 23714
+  },
+  {
+    "old": "Darejaves ansåg det vara lämpligt att utse ett hundra tjugo satraper för att säkerställa närvaro överallt i riket.",
+    "new": "Darejaves ansåg det vara lämpligt att utse 120 satraper för att säkerställa närvaro överallt i riket.",
+    "line": 23747
+  },
+  {
+    "old": "Alla rikets furstar, landshövdingar och satraper, rådsherrar och ståthållare har diskuterat att en kunglig förordning borde utfärdas och ett förbud stadfästas, som säger att den som under trettio dagar vänder sig med bön till någon annan än dig, o kung, vare sig det är gud eller människa, ska kastas i lejongropen.",
+    "new": "Alla rikets furstar, landshövdingar och satraper, rådsherrar och ståthållare har diskuterat att en kunglig förordning borde utfärdas och ett förbud stadfästas, som säger att den som under 30 dagar vänder sig med bön till någon annan än dig, o kung, vare sig det är gud eller människa, ska kastas i lejongropen.",
+    "line": 23753
+  },
+  {
+    "old": "Efter det gick de till kungen och frågade honom om det kungliga förbudet: \"Har du inte gett order om att ett förbud ska sättas upp, som säger att vem som helst som under trettio dagar vänder sig med bön till någon annan, vare sig det är en gud eller människa, än till dig, o kung, ska kastas i lejongropen?\" Kungen svarade och sa: \"Ja, och det påbudet gäller fortfarande enligt Mediens och Persiens oföränderliga lag.\"",
+    "new": "Efter det gick de till kungen och frågade honom om det kungliga förbudet: \"Har du inte gett order om att ett förbud ska sättas upp, som säger att vem som helst som under 30 dagar vänder sig med bön till någon annan, vare sig det är en gud eller människa, än till dig, o kung, ska kastas i lejongropen?\" Kungen svarade och sa: \"Ja, och det påbudet gäller fortfarande enligt Mediens och Persiens oföränderliga lag.\"",
+    "line": 23758
+  },
+  {
+    "old": "En flod av eld strömmade ut från honom, tusen gånger tusen var hans tjänare och tio tusen gånger tio tusen stod där för att tjäna honom. Sedan satte man sig ner för att döma, och böcker lades fram.",
+    "new": "En flod av eld strömmade ut från honom, 1000000 var hans tjänare och 100000 stod där för att tjäna honom. Sedan satte man sig ner för att döma, och böcker lades fram.",
+    "line": 23786
+  },
+  {
+    "old": "Då svarade han mig: \"Två tusen tre hundra aftnar och morgnar. Efter det ska helgedomen komma på plats igen.\"",
+    "new": "Då svarade han mig: \"2300 aftnar och morgnar. Efter det ska helgedomen komma på plats igen.\"",
+    "line": 23820
+  },
+  {
+    "old": "Under hans första regeringsår märkte jag, Daniel, i skrifterna antalet år som Herren hade angett för profeten Jeremia, när han sa att han ville låta sjuttio år gå till ända medan Jerusalem låg öde.",
+    "new": "Under hans första regeringsår märkte jag, Daniel, i skrifterna antalet år som Herren hade angett för profeten Jeremia, när han sa att han ville låta 70 år gå till ända medan Jerusalem låg öde.",
+    "line": 23837
+  },
+  {
+    "old": "Sjuttio veckor är bestämda för ditt folk och din heliga stad, innan en gräns sätts för brotten och synderna får ett slut. Synderna ska bli försonade, en oändlig rättfärdighet ska uppenbaras och synerna och profetiorna ska beseglas. En helig helgedom ska smörjas.",
+    "new": "70 veckor är bestämda för ditt folk och din heliga stad, innan en gräns sätts för brotten och synderna får ett slut. Synderna ska bli försonade, en oändlig rättfärdighet ska uppenbaras och synerna och profetiorna ska beseglas. En helig helgedom ska smörjas.",
+    "line": 23859
+  },
+  {
+    "old": "Från den tiden då det dagliga offret avskaffas och förödelsens styggelse uppställs ska tusen två hundra nittio dagar gå.",
+    "new": "Från den tiden då det dagliga offret avskaffas och förödelsens styggelse uppställs ska 1290 dagar gå.",
+    "line": 23945
+  },
+  {
+    "old": "Det var jag som tog er ur Egypten och ledde er i öknen i fyrtio år, så att ni kunde inta amoréernas land.",
+    "new": "Det var jag som tog er ur Egypten och ledde er i öknen i 40 år, så att ni kunde inta amoréernas land.",
+    "line": 24286
+  },
+  {
+    "old": "För så säger Herren, Herren: Den stad där tusen brukade flytta ut ska få behålla hundra kvar, och den stad där hundra brukade flytta ut ska få behålla tio kvar, i Israels hus.",
+    "new": "För så säger Herren, Herren: Den stad där 1000 brukade flytta ut ska få behålla 100 kvar, och den stad där 100 brukade flytta ut ska få behålla 10 kvar, i Israels hus.",
+    "line": 24329
+  },
+  {
+    "old": "Frambar ni väl åt mig slaktoffer och matoffer under de fyrtio åren i öknen, ni av Israels hus?",
+    "new": "Frambar ni väl åt mig slaktoffer och matoffer under de 40 åren i öknen, ni av Israels hus?",
+    "line": 24351
+  },
+  {
+    "old": "Jona begav sig på väg in i staden, en dagsresa, och predikade och sa: \"Det dröjer fortfarande fyrtio dagar, så ska Nineve förstöras.\"",
+    "new": "Jona begav sig på väg in i staden, en dagsresa, och predikade och sa: \"Det dröjer fortfarande 40 dagar, så ska Nineve förstöras.\"",
+    "line": 24485
+  },
+  {
+    "old": "Hur härförinnan, om någon kom till en sädeskvarn som skulle ge tjugo mått, den gav bara tio och hur, om någon kom till vinpressen för att ösa upp femtio kärl, den gav bara tjugo.",
+    "new": "Hur härförinnan, om någon kom till en sädeskvarn som skulle ge 20 mått, den gav bara 10 och hur, om någon kom till vinpressen för att ösa upp 50 kärl, den gav bara 20.",
+    "line": 24842
+  },
+  {
+    "old": "Då tog Herrens ängel återigen till orda och sa: \"HERRE Sebaot, hur länge ska det dröja innan du förbarmar dig över Jerusalem och Juda städer? Du har ju nu varit vred på dem i sjuttio år.\"",
+    "new": "Då tog Herrens ängel återigen till orda och sa: \"HERRE Sebaot, hur länge ska det dröja innan du förbarmar dig över Jerusalem och Juda städer? Du har ju nu varit vred på dem i 70 år.\"",
+    "line": 24865
+  },
+  {
+    "old": "Han sa till mig: \"Vad ser du?\" Jag svarade: \"Jag ser en bokrulle flyga fram. Den är tjugo alnar lång och tio alnar bred.\"",
+    "new": "Han sa till mig: \"Vad ser du?\" Jag svarade: \"Jag ser en bokrulle flyga fram. Den är 20 alnar lång och 10 alnar bred.\"",
+    "line": 24921
+  },
+  {
+    "old": "Säg till allt folket i landet och till prästerna: När ni nu under sjuttio år har hållit faste- och klagodagar i femte och sjunde månaden, har det då varit för mig ni har fastat?",
+    "new": "Säg till allt folket i landet och till prästerna: När ni nu under 70 år har hållit faste- och klagodagar i femte och sjunde månaden, har det då varit för mig ni har fastat?",
+    "line": 24954
+  },
+  {
+    "old": "Efter det sa jag till dem: \"Om ni tycker om det, så ge mig min lön. Om inte, ska det vara som det är.\" De vägde ut trettio silvermynt som lön åt mig.",
+    "new": "Efter det sa jag till dem: \"Om ni tycker om det, så ge mig min lön. Om inte, ska det vara som det är.\" De vägde ut 30 silvermynt som lön åt mig.",
+    "line": 25035
+  },
+  {
+    "old": "Då sa Herren till mig: \"Kasta det åt krukmakaren\" - det fina priset jag hade fått av dem! Jag tog de trettio silversiklarna och kastade dem i Herrens hus åt krukmakaren.",
+    "new": "Då sa Herren till mig: \"Kasta det åt krukmakaren\" - det fina priset jag hade fått av dem! Jag tog de 30 silversiklarna och kastade dem i Herrens hus åt krukmakaren.",
+    "line": 25036
+  },
+  {
+    "old": "När han hade fastat i fyrtio dagar och fyrtio nätter blev han äntligen hungrig.",
+    "new": "När han hade fastat i 40 dagar och 40 nätter blev han äntligen hungrig.",
+    "line": 25232
+  },
+  {
+    "old": "Men de som hade ätit var ungefär fem tusen män, förutom kvinnor och barn.",
+    "new": "Men de som hade ätit var ungefär 5000 män, förutom kvinnor och barn.",
+    "line": 25659
+  },
+  {
+    "old": "Men de som hade ätit var fyra tusen män, förutom kvinnor och barn.",
+    "new": "Men de som hade ätit var 4000 män, förutom kvinnor och barn.",
+    "line": 25714
+  },
+  {
+    "old": "Förstår ni fortfarande ingenting? Kommer ni inte ihåg de fem bröden till de fem tusen och hur många korgar ni då tog upp?",
+    "new": "Förstår ni fortfarande ingenting? Kommer ni inte ihåg de 5 bröden till de 5000 och hur många korgar ni då tog upp?",
+    "line": 25726
+  },
+  {
+    "old": "Jesus svarade honom: \"Jag säger dig: Inte sju gånger, utan sjuttio gånger sju.",
+    "new": "Jesus svarade honom: \"Jag säger dig: Inte sju gånger, utan 490 gånger.\"",
+    "line": 25800
+  },
+  {
+    "old": "När han började göra upp räkenskaperna, tog man fram en person som var skyldig honom tio tusen pund.",
+    "new": "När han började göra upp räkenskaperna, tog man fram en person som var skyldig honom 10000 pund.",
+    "line": 25802
+  },
+  {
+    "old": "och sa: \"Vad vill ni ge mig för att jag ska överlämna honom till er?\" Då betalade de honom trettio silverpengar.",
+    "new": "och sa: \"Vad vill ni ge mig för att jag ska överlämna honom till er?\" Då betalade de honom 30 silverpengar.",
+    "line": 26137
+  },
+  {
+    "old": "När Judas, som hade förrått honom, såg att han var dömd ångrade han sig och lämnade tillbaka de trettio silverpengarna till översteprästerna och de äldste.",
+    "new": "När Judas, som hade förrått honom, såg att han var dömd ångrade han sig och lämnade tillbaka de 30 silverpengarna till översteprästerna och de äldste.",
+    "line": 26202
+  },
+  {
+    "old": "Så gick det i uppfyllelse, som profeten Jeremia hade sagt. Han sa: \"Jag fick trettio silverpengar – priset för den man som hade värderats, den som israeliterna hade värderat.",
+    "new": "Så gick det i uppfyllelse, som profeten Jeremia hade sagt. Han sa: \"Jag fick 30 silverpengar – priset för den man som hade värderats, den som israeliterna hade värderat.\"",
+    "line": 26208
+  },
+  {
+    "old": "Han var ute i öknen fyrtio dagar, frestades av Satan och levde bland djuren. Änglarna tog hand om honom.",
+    "new": "Han var ute i öknen 40 dagar, frestades av Satan och levde bland djuren. Änglarna tog hand om honom.",
+    "line": 26304
+  },
+  {
+    "old": "Han tillät dem. Då lämnade de orena andarna honom och for in i svinen. Hjorden, som bestod av ungefär två tusen svin, störtade sig utför branten ner i sjön och drunknade.",
+    "new": "Han tillät dem. Då lämnade de orena andarna honom och for in i svinen. Hjorden, som bestod av ungefär 2000 svin, störtade sig utför branten ner i sjön och drunknade.",
+    "line": 26461
+  },
+  {
+    "old": "De satte sig ner där i grupper, hundra eller femtio personer i varje grupp.",
+    "new": "De satte sig ner där i grupper, 100 eller 50 personer i varje grupp.",
+    "line": 26533
+  },
+  {
+    "old": "Det var femtusen människor som hade ätit.",
+    "new": "Det var 5000 människor som hade ätit.",
+    "line": 26537
+  },
+  {
+    "old": "Jesus var ungefär trettio år gammal när han började sitt arbete. Man ansåg att han var son till Josef, som var son till Eli.",
+    "new": "Jesus var ungefär 30 år gammal när han började sitt arbete. Man ansåg att han var son till Josef, som var son till Eli.",
+    "line": 27167
+  },
+  {
+    "old": "och frestades av djävulen under fyrtio dagar. Under de dagarna åt han ingenting. Men när de var slut, blev han hungrig.",
+    "new": "och frestades av djävulen under 40 dagar. Under de dagarna åt han ingenting. Men när de var slut, blev han hungrig.",
+    "line": 27186
+  },
+  {
+    "old": "Där var ungefär fem tusen människor. Då sa han till sina lärjungar: \"Låt dem lägga sig ner i gräset, femtio eller så runt omkring.\"",
+    "new": "Där var ungefär 5000 människor. Då sa han till sina lärjungar: \"Låt dem lägga sig ner i gräset, 50 eller så runt omkring.\"",
+    "line": 27446
+  },
+  {
+    "old": "Eller om en kung vill ut i krig för att slå sig samman med en annan kung, sätter han då inte först ner sig och tänker efter om han kan möta någon som kommer emot honom med tjugo tusen, när han bara har tio tusen?",
+    "new": "Eller om en kung vill ut i krig för att slå sig samman med en annan kung, sätter han då inte först ner sig och tänker efter om han kan möta någon som kommer emot honom med 20000, när han bara har 10000?",
+    "line": 27725
+  },
+  {
+    "old": "Men två av dem var samma dag på vandring till en by som hette Emmaus, och den låg sextio stadiers väg från Jerusalem.",
+    "new": "Men två av dem var samma dag på vandring till en by som hette Emmaus, och den låg 60 stadiers väg från Jerusalem.",
+    "line": 28163
+  },
+  {
+    "old": "Jesus sa: \"Låt folket lägga sig här.\" Där fanns mycket gräs. Männen lade upp sina läger där, och de var ungefär fem tusen till antalet.",
+    "new": "Jesus sa: \"Låt folket lägga sig här.\" Där fanns mycket gräs. Männen lade upp sina läger där, och de var ungefär 5000 till antalet.",
+    "line": 28441
+  },
+  {
+    "old": "När de hade rott ungefär tjugofem eller trettio sjömil, fick de se Jesus komma gående på sjön och närma sig båten. Då blev de rädda.",
+    "new": "När de hade rott ungefär 25 eller 30 sjömil, fick de se Jesus komma gående på sjön och närma sig båten. Då blev de rädda.",
+    "line": 28450
+  },
+  {
+    "old": "Då sa judarna till honom: \"Är du inte ännu femtio år gammal? Abraham har du väl sett!\"",
+    "new": "Då sa judarna till honom: \"Är du inte ännu 50 år gammal? Abraham har du väl sett!\"",
+    "line": 28616
+  },
+  {
+    "old": "För dem hade han också genom många säkra bevis visat sig vara levande, efter avslutat lidande. Under fyrtio dagar lät han sig ses av dem och talade med dem om Guds rike.",
+    "new": "För dem hade han också genom många säkra bevis visat sig vara levande, efter avslutat lidande. Under 40 dagar lät han sig ses av dem och talade med dem om Guds rike.",
+    "line": 29134
+  },
+  {
+    "old": "En av dagarna reste Petrus sig och talade bland bröderna, som då var samlade, omkring hundratjugo personer. Han sa:",
+    "new": "En av dagarna reste Petrus sig och talade bland bröderna, som då var samlade, omkring 120 personer. Han sa:",
+    "line": 29146
+  },
+  {
+    "old": "De som då tog emot hans lära lät sig döpas. Så ökades församlingen på den dagen med ungefär tre tusen personer.",
+    "new": "De som då tog emot hans lära lät sig döpas. Så ökades församlingen på den dagen med ungefär 3000 personer.",
+    "line": 29200
+  },
+  {
+    "old": "Mannen som genom detta tecken hade blivit botad var nämligen över fyrtio år gammal.",
+    "new": "Mannen som genom detta tecken hade blivit botad var nämligen över 40 år gammal.",
+    "line": 29258
+  },
+  {
+    "old": "Men när han fyllde fyrtio år fick han tanken att besöka sina bröder, Israels barn.",
+    "new": "Men när han fyllde 40 år fick han tanken att besöka sina bröder, Israels barn.",
+    "line": 29359
+  },
+  {
+    "old": "När fyrtio år hade gått, visade sig en ängel för honom i öknen vid berget Sinai, i en brinnande törnbuske.",
+    "new": "När 40 år hade gått, visade sig en ängel för honom i öknen vid berget Sinai, i en brinnande törnbuske.",
+    "line": 29366
+  },
+  {
+    "old": "Det var han som tog ut dem och som gjorde underverk och tecken i Egyptens land och i Röda havet och i öknen, under fyrtio år.",
+    "new": "Det var han som tog ut dem och som gjorde underverk och tecken i Egyptens land och i Röda havet och i öknen, under 40 år.",
+    "line": 29372
+  },
+  {
+    "old": "Då vände Gud sig bort och lämnade dem åt att dyrka himlens härskare, som det står i Profeternas bok: 'Offrade ni väl åt mig slaktoffer och matoffer under de fyrtio åren i öknen, ni av Israels hus?",
+    "new": "Då vände Gud sig bort och lämnade dem åt att dyrka himlens härskare, som det står i Profeternas bok: 'Offrade ni väl åt mig slaktoffer och matoffer under de 40 åren i öknen, ni av Israels hus?",
+    "line": 29378
+  },
+  {
+    "old": "Under en tid av ungefär fyrtio år hade han ett avtal med dem i öknen.",
+    "new": "Under en tid av ungefär 40 år hade han ett avtal med dem i öknen.",
+    "line": 29613
+  },
+  {
+    "old": "Under den tiden förgick ungefär fyra hundra femtio år. Sedan gav han dem domare, ända fram till profeten Samuels tid.",
+    "new": "Under den tiden förgick ungefär 450 år. Sedan gav han dem domare, ända fram till profeten Samuels tid.",
+    "line": 29615
+  },
+  {
+    "old": "Efter det bad de om en kung. Gud gav dem Saul, Is son, från Benjamins stam, för en tid på fyrtio år.",
+    "new": "Efter det bad de om en kung. Gud gav dem Saul, Is son, från Benjamins stam, för en tid på 40 år.",
+    "line": 29616
+  },
+  {
+    "old": "Ganska många av dem som hade övat vidskepliga konster samlade ihop sina böcker och brände upp dem inför alla. När man räknade ut vad böckerna var värda, fann man att värdet uppgick till femtio tusen silverpengar.",
+    "new": "Ganska många av dem som hade övat vidskepliga konster samlade ihop sina böcker och brände upp dem inför alla. När man räknade ut vad böckerna var värda, fann man att värdet uppgick till 50000 silverpengar.",
+    "line": 29850
+  },
+  {
+    "old": "Det var mer än fyrtio män som hade svurit sig samman.",
+    "new": "Det var mer än 40 män som hade svurit sig samman.",
+    "line": 30000
+  },
+  {
+    "old": "Gör inte nu detta till viljes. Mer än fyrtio av dem ligger i bakhåll för honom och har med dyr ed förpliktat sig att varken äta eller dricka, innan de har röjt honom ur vägen. Nu är de redo och väntar bara på att du ska bevilja deras önskan.",
+    "new": "Gör inte nu detta till viljes. Mer än 40 av dem ligger i bakhåll för honom och har med dyr ed förpliktat sig att varken äta eller dricka, innan de har röjt honom ur vägen. Nu är de redo och väntar bara på att du ska bevilja deras önskan.",
+    "line": 30008
+  },
+  {
+    "old": "De mätte då och fann tjugo famnars djup. När de hade kommit lite längre fram mätte de igen och fann femton famnars djup.",
+    "new": "De mätte då och fann 20 famnars djup. När de hade kommit lite längre fram mätte de igen och fann 15 famnars djup.",
+    "line": 30145
+  },
+  {
+    "old": "Vad får han då för svar från Gud? \"Jag har sparat sju tusen män åt mig, som inte har böjt sig för Baal.\"",
+    "new": "Vad får han då för svar från Gud? \"Jag har sparat 7000 män åt mig, som inte har böjt sig för Baal.\"",
+    "line": 30500
+  },
+  {
+    "old": "För om ni hade tio tusen lärare i Kristus, så har ni ändå inte många fäder. Det var ju jag som i Kristus Jesus genom evangeliet födde er till liv.",
+    "new": "För om ni hade 10000 lärare i Kristus, så har ni ändå inte många fäder. Det var ju jag som i Kristus Jesus genom evangeliet födde er till liv.",
+    "line": 30756
+  },
+  {
+    "old": "Låt oss inte heller ägna oss åt otukt, som några av dem gjorde, varför tjugotre tusen föll på en enda dag.",
+    "new": "Låt oss inte heller ägna oss åt otukt, som några av dem gjorde, varför 23000 föll på en enda dag.",
+    "line": 30895
+  },
+  {
+    "old": "men jag vill ändå hellre tala fem ord med mitt förstånd i församlingen, till undervisning också för andra, än tio tusen ord på tungomål.",
+    "new": "men jag vill ändå hellre tala fem ord med mitt förstånd i församlingen, till undervisning också för andra, än 10000 ord på tungomål.",
+    "line": 31025
+  },
+  {
+    "old": "Av judarna har jag fem gånger fått fyrtio slag vid ett tillfälle.",
+    "new": "Av judarna har jag 5 gånger fått 40 slag vid ett tillfälle.",
+    "line": 31369
+  },
+  {
+    "old": "Vad jag alltså vill säga är detta: Ett förordnande som Gud redan hade gett har en giltig kraft, och kan inte genom en lag, som utgavs fyra hundra trettio år senare, bli ogiltigt. Därmed har inte löftet gjorts om intet.",
+    "new": "Vad jag alltså vill säga är detta: Ett förordnande som Gud redan hade gett har en giltig kraft, och kan inte genom en lag, som utgavs 430 år senare, bli ogiltigt. Därmed har inte löftet gjorts om intet.",
+    "line": 31486
+  },
+  {
+    "old": "Som församlingsänka ska ingen annan uppföras än den som är minst sextio år gammal och som bara har varit en mans hustru.",
+    "new": "Som församlingsänka ska ingen annan uppföras än den som är minst 60 år gammal och som bara har varit en mans hustru.",
+    "line": 32193
+  },
+  {
+    "old": "där era fäder prövade mig och satte mig på prov, fastän de hade sett mina verk i fyrtio år.",
+    "new": "där era fäder prövade mig och satte mig på prov, fastän de hade sett mina verk i 40 år.",
+    "line": 32457
+  },
+  {
+    "old": "Vilka var de han var arg på i fyrtio år? Var det inte de som hade syndat, de \"som dog i öknen\"?",
+    "new": "Vilka var de han var arg på i 40 år? Var det inte de som hade syndat, de \"som dog i öknen\"?",
+    "line": 32465
+  },
+  {
+    "old": "Men ett ska ni inte förvänta er att jag döljer för er, mina älskade, utan detta: \"En dag är för Herren som tusen år och tusen år som en dag\".",
+    "new": "Men ett ska ni inte förvänta er att jag döljer för er, mina älskade, utan detta: \"En dag är för Herren som 1000 år och 1000 år som en dag\".",
+    "line": 33035
+  },
+  {
+    "old": "I min syn hörde jag röster från många änglar runt omkring tronen och runt omkring väsendena och de äldste. Deras antal var tiotusen gånger tiotusen och tusen gånger tusen.",
+    "new": "I min syn hörde jag röster från många änglar runt omkring tronen och runt omkring väsendena och de äldste. Deras antal var 10000 gånger 10000 och 1000 gånger 1000.",
+    "line": 33332
+  },
+  {
+    "old": "Jag fick höra att det fanns hundraförtiofyratusen personer som var registrerade med ett sigill, från alla Israels barns stammar.",
+    "new": "Jag fick höra att det fanns 144000 personer som var registrerade med ett sigill, från alla Israels barns stammar.",
+    "line": 33360
+  },
+  {
+    "old": "av Juda stam tolv tusen män, av Rubens stam tolv tusen, av Gads stam tolv tusen.",
+    "new": "av Juda stam 12000 män, av Rubens stam 12000, av Gads stam 12000.",
+    "line": 33361
+  },
+  {
+    "old": "Av Sabulons stam tolv tusen, av Josefs stam tolv tusen, av Benjamins stam tolv tusen skrevs på.",
+    "new": "Av Sabulons stam 12000, av Josefs stam 12000, av Benjamins stam 12000 skrevs på.",
+    "line": 33364
+  },
+  {
+    "old": "Antalet ryttare i de ridande skarorna var två gånger tio tusen gånger tio tusen. Jag fick veta att det var så många.",
+    "new": "Antalet ryttare i de ridande skarorna var 20000 gånger 10000. Jag fick veta att det var så många.",
+    "line": 33406
+  },
+  {
+    "old": "I samma stund kom en stor jordbävning och tiondedelen av staden föll samman. Genom jordbävningen dog sju tusen människor. De andra blev förskräckta och tillbad Gud i himlen.",
+    "new": "I samma stund kom en stor jordbävning och 0.1 av staden föll samman. Genom jordbävningen dog 7000 människor. De andra blev förskräckta och tillbad Gud i himlen.",
+    "line": 33439
+  },
+  {
+    "old": "Jag fick se Lammet stå på Sions berg och det fanns hundrafemtiofyratusen som hade dess namn och dess Faders namn skrivna på sina pannor.",
+    "new": "Jag fick se Lammet stå på Sions berg och det fanns 154000 som hade dess namn och dess Faders namn skrivna på sina pannor.",
+    "line": 33488
+  },
+  {
+    "old": "De sjöng inför tronen och inför de fyra väsendena och de äldste, vad som verkade vara en ny sång. Ingen kunde lära sig den här sången, utom de ett hundraförtiofyra tusen som var friköpta från jorden.",
+    "new": "De sjöng inför tronen och inför de fyra väsendena och de äldste, vad som verkade vara en ny sång. Ingen kunde lära sig den här sången, utom 114000 som var friköpta från jorden.",
+    "line": 33490
+  },
+  {
+    "old": "Vinpressen stod utanför staden, och blod flöt ut från pressen och steg ända upp till betsen på hästarna, över en sträcka av ett tusen sex hundra stadier.",
+    "new": "Vinpressen stod utanför staden, och blod flöt ut från pressen och steg ända upp till betsen på hästarna, över en sträcka av 1600 stadier.",
+    "line": 33507
+  },
+  {
+    "old": "Han grep draken, den gamle ormen. Det är djävulen och Satan, och han fängslade honom för tusen år.",
+    "new": "Han grep draken, den gamle ormen. Det är djävulen och Satan, och han fängslade honom för 1000 år.",
+    "line": 33613
+  },
+  {
+    "old": "och kastade honom i avgrunden och stängde igen och satte dit ett tätningsstämplar över honom för att han inte mer skulle bedra folken, innan de tusen åren hade gått till slut. Efter det ska han igen komma lös för en liten tid.",
+    "new": "och kastade honom i avgrunden och stängde igen och satte dit ett tätningsstämplar över honom för att han inte mer skulle bedra folken, innan de 1000 åren hade gått till slut. Efter det ska han igen komma lös för en liten tid.",
+    "line": 33614
+  },
+  {
+    "old": "Jag såg troner stå där och de satte sig på dem, de som fick makten att styra. Jag såg de människors själar som hade blivit avrättade för att de vittnade om Jesus och Guds ord, och som inte hade tillbett vilddjuret eller dess bild, och inte heller tagit dess märke på sina pännor och händer. Dessa blev nu åter levande och fick regera med Kristus i tusen år.",
+    "new": "Jag såg troner stå där och de satte sig på dem, de som fick makten att styra. Jag såg de människors själar som hade blivit avrättade för att de vittnade om Jesus och Guds ord, och som inte hade tillbett vilddjuret eller dess bild, och inte heller tagit dess märke på sina pännor och händer. Dessa blev nu åter levande och fick regera med Kristus i 1000 år.",
+    "line": 33615
+  },
+  {
+    "old": "De andra döda blev inte levande förrän de tusen åren hade gått ut. Detta är den första uppståndelsen.",
+    "new": "De andra döda blev inte levande förrän de 1000 åren hade gått ut. Detta är den första uppståndelsen.",
+    "line": 33616
+  },
+  {
+    "old": "Lycklig och helig är den som har del i den första uppståndelsen. Över dem har den andra döden ingen makt, utan de ska vara Guds och Kristus präster och ska få regera med honom i tusen år.",
+    "new": "Lycklig och helig är den som har del i den första uppståndelsen. Över dem har den andra döden ingen makt, utan de ska vara Guds och Kristus präster och ska få regera med honom i 1000 år.",
+    "line": 33617
+  },
+  {
+    "old": "Men när de tusen åren har gått till ända, ska Satan komma lös från sitt fängelse.",
+    "new": "Men när 1000 åren har gått till ända, ska Satan komma lös från sitt fängelse.",
+    "line": 33618
+  },
+  {
+    "old": "Staden var fyrkantig och dess längd var lika stor som dess bredd. Han mätte staden med stången: den var tolv tusen stadier, och längden, bredden och höjden var likadana.",
+    "new": "Staden var fyrkantig och dess längd var lika stor som dess bredd. Han mätte staden med stången: den var 12000 stadier, och längden, bredden och höjden var likadana.",
+    "line": 33644
+  }
+]

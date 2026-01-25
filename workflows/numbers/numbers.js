@@ -42,7 +42,7 @@ Här kommer texten som kan ha stora siffror i sig:`; // Hard-coded system prompt
         console.log('replacements.json not found or invalid, starting empty');
     }
 
-    const numberWords = ['hudra', 'tusen', 'tjugo', 'trettio', 'fyrtio', 'femtio', 'sextio', 'sjuttio', 'åttio', 'nittio'];
+    const numberWords = ['hudra ', 'tusen ', 'tjugo ', 'trettio ', 'fyrtio ', 'femtio ', 'sextio ', 'sjuttio ', 'åttio ', 'nittio '];
     
     for (let i = startIndex; i < lines.length; i++) {
         const line = lines[i];
