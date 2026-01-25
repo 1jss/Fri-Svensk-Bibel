@@ -104,47 +104,69 @@ function initDatabase(db) {
 // Insert or update verses in database
 function insertVerses(db, verses) {
   return new Promise((resolve, reject) => {
-    const stmt = db.prepare(`
-      INSERT INTO verses (bnumber, cnumber, vnumber, xml_line_number, text_1917, text_fsb, approved)
-      VALUES (?, ?, ?, ?, ?, ?, 0)
-      ON CONFLICT(bnumber, cnumber, vnumber) DO UPDATE SET
-        text_1917 = excluded.text_1917,
-        text_fsb = CASE 
-          WHEN excluded.text_fsb != text_fsb THEN excluded.text_fsb
-          ELSE text_fsb
-        END,
-        approved = CASE 
-          WHEN excluded.text_fsb != text_fsb THEN 0
-          ELSE approved
-        END,
-        xml_line_number = excluded.xml_line_number,
-        updated_at = CURRENT_TIMESTAMP
-    `);
-    
-    let processed = 0;
-    
-    verses.forEach(v => {
-      stmt.run(
-        v.bookNumber,
-        v.chapter,
-        v.verseNumber,
-        v.xmlLineNumber,
-        v.text1917,
-        v.textFsb,
-        (err) => {
-          if (err) {
-            console.error(`Error inserting verse ${v.chapter}:${v.verseNumber}:`, err);
+    // First, get all approved verses (approved = 1 or 2) to skip them
+    db.all('SELECT bnumber, cnumber, vnumber FROM verses WHERE approved IN (1, 2)', (err, approvedVerses) => {
+      if (err) {
+        reject(err);
+        return;
+      }
+      
+      // Create a set for quick lookup of approved verses to skip
+      const skipVerses = new Set(approvedVerses.map(v => `${v.bnumber}:${v.cnumber}:${v.vnumber}`));
+      
+      // Filter out verses that are already approved (1 or 2)
+      const versesToImport = verses.filter(v => {
+        const key = `${v.bookNumber}:${v.chapter}:${v.verseNumber}`;
+        return !skipVerses.has(key);
+      });
+      
+      const stmt = db.prepare(`
+        INSERT INTO verses (bnumber, cnumber, vnumber, xml_line_number, text_1917, text_fsb, approved)
+        VALUES (?, ?, ?, ?, ?, ?, 0)
+        ON CONFLICT(bnumber, cnumber, vnumber) DO UPDATE SET
+          text_1917 = excluded.text_1917,
+          text_fsb = CASE 
+            WHEN excluded.text_fsb != text_fsb THEN excluded.text_fsb
+            ELSE text_fsb
+          END,
+          approved = CASE 
+            WHEN excluded.text_fsb != text_fsb THEN 0
+            ELSE approved
+          END,
+          xml_line_number = excluded.xml_line_number,
+          updated_at = CURRENT_TIMESTAMP
+      `);
+      
+      let processed = 0;
+      
+      versesToImport.forEach(v => {
+        stmt.run(
+          v.bookNumber,
+          v.chapter,
+          v.verseNumber,
+          v.xmlLineNumber,
+          v.text1917,
+          v.textFsb,
+          (err) => {
+            if (err) {
+              console.error(`Error inserting verse ${v.chapter}:${v.verseNumber}:`, err);
+            }
+            processed++;
+            
+            if (processed === versesToImport.length) {
+              stmt.finalize((err) => {
+                if (err) reject(err);
+                else resolve();
+              });
+            }
           }
-          processed++;
-          
-          if (processed === verses.length) {
-            stmt.finalize((err) => {
-              if (err) reject(err);
-              else resolve();
-            });
-          }
-        }
-      );
+        );
+      });
+      
+      // Handle case where there are no verses to import
+      if (versesToImport.length === 0) {
+        resolve();
+      }
     });
   });
 }
@@ -182,8 +204,8 @@ async function main() {
     
     // Insert verses
     console.log('Inserting verses into database...');
-    await insertVerses(db, verses);
-    console.log(`✓ ${verses.length} verses imported\n`);
+    const importedCount = await insertVerses(db, verses);
+    console.log(`✓ Verses processed (approved 1 or 2 skipped)\n`);
     
     // Verify counts
     db.get('SELECT COUNT(*) as count FROM verses', (err, row) => {
