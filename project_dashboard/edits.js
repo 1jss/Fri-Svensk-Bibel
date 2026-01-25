@@ -1,9 +1,165 @@
 const edits = [
   {
-    "startLine": 17510,
-    "endLine": 20225,
+    "startLine": 32582,
+    "endLine": 32965,
     "status": "AI_PARSED",
-    "timestamp": "2026-01-24T15:20:01.945Z"
+    "timestamp": "2026-01-25T08:00:01.945Z"
+  },
+  {
+    "startLine": 44,
+    "endLine": 65,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 68,
+    "endLine": 91,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 94,
+    "endLine": 119,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 122,
+    "endLine": 153,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 156,
+    "endLine": 163,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 44,
+    "endLine": 45,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 48,
+    "endLine": 50,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 52,
+    "endLine": 52,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 55,
+    "endLine": 64,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 68,
+    "endLine": 75,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 78,
+    "endLine": 86,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 88,
+    "endLine": 89,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 91,
+    "endLine": 91,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 94,
+    "endLine": 95,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 99,
+    "endLine": 101,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 103,
+    "endLine": 108,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 110,
+    "endLine": 111,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 113,
+    "endLine": 113,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 116,
+    "endLine": 118,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 122,
+    "endLine": 128,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 130,
+    "endLine": 131,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 133,
+    "endLine": 134,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 136,
+    "endLine": 153,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 156,
+    "endLine": 162,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-01-25T06:28:05.938Z"
+  },
+  {
+    "startLine": 17510,
+    "endLine": 22908,
+    "status": "AI_PARSED",
+    "timestamp": "2026-01-24T21:20:01.945Z"
+  },
+  {
+    "startLine": 25668,
+    "endLine": 32582,
+    "status": "AI_PARSED",
+    "timestamp": "2026-01-24T21:20:01.945Z"
   },
   {
     "startLine": 12535,
@@ -14,6 +170,12 @@ const edits = [
   {
     "startLine": 8,
     "endLine": 38,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-01-24T07:15:01.945Z"
+  },
+  {
+    "startLine": 41,
+    "endLine": 43,
     "status": "MANUAL_APPROVED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
@@ -45,12 +207,6 @@ const edits = [
     "startLine": 35,
     "endLine": 37,
     "status": "MANUAL_EDITED",
-    "timestamp": "2026-01-24T07:15:01.945Z"
-  },
-  {
-    "startLine": 41,
-    "endLine": 43,
-    "status": "MANUAL_APPROVED",
     "timestamp": "2026-01-24T07:15:01.945Z"
   },
   {
