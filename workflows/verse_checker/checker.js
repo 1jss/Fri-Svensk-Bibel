@@ -33,11 +33,12 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 
   const checksPath = config.data.changes.checks;
 
-  let replacements = [];
+  let results = [];
   try {
-    replacements = JSON.parse(fs.readFileSync(checksPath, 'utf8'));
+    results = JSON.parse(fs.readFileSync(checksPath, 'utf8'));
   } catch (e) {
-    console.log('replacements.json not found or invalid, starting empty');
+    console.log('checks.json not found or invalid, starting empty');
+    results = [];
   }
 
   for (let i = startLine; i < linesPre.length; i++) {
@@ -62,8 +63,9 @@ Svara strikt enligt följande struktur utan ytterligare förklaringar:
 
       console.log(`Line ${i + 1}:\n"${textPre}"\n"${textPost}"\n${newText}\n`);
       if (newText.includes('OLIKA')) {
-        replacements.push({ text: textPost, comment: newText });
-        fs.writeFileSync(checksPath, JSON.stringify(replacements, null, 2));
+        results.push(i + 1); // Store XML line number (1-indexed)
+        fs.writeFileSync(checksPath, JSON.stringify(results, null, 2));
+        console.log(`✓ Saved to ${checksPath}`);
       }
     }
   }
