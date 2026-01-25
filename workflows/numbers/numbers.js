@@ -10,12 +10,10 @@ async function main() {
     const systemPrompt = `Du är en expert på svensk språkvård. Din uppgift är att byta ut siffror över tio i ordform mot deras numeriska motsvarigheter i en given text.
 
 Regler:
-* Ersätt siffror större än tio skrivna med bokstäver  med deras numeriska motsvarigheter.
-* Ersätt INTE mindre siffror (en, två, fyra, sju).
+* Ersätt siffror större än tio skrivna med bokstäver med deras numeriska motsvarigheter.
 * Ersätt INTE ordnings uttryck som "första", "andra", "tredje" osv.
 * Bevara meningsstrukturen och övrig text oförändrad.
 * Svara ENDAST med den modifierade texten. Ingen inledning eller förklaring.
-* Om inga siffror behöver bytas ut, svara med texten oförändrad.
 
 Exempel:
 Inpiut: "ett hundra", "tjugo", "två hundra tusen trettio"
@@ -24,8 +22,8 @@ Input: "Jag har tjugo äpplen och trettio bananer."
 Output: "Jag har 20 äpplen och 30 bananer."
 Input: "Hon vann första priset i tävlingen."
 Output: "Hon vann första priset i tävlingen."
-Input: "Hon kunde räkna en, två, tre, fyra och fem."
-Output: "Hon kunde räkna en, två, tre, fyra och fem."
+Input: "Hon hade en banan och ett äpple."
+Output: "Hon hade en banan och ett äpple."
 
 Här kommer texten som kan ha stora siffror i sig:`; // Hard-coded system prompt
 
@@ -44,12 +42,25 @@ Här kommer texten som kan ha stora siffror i sig:`; // Hard-coded system prompt
         console.log('replacements.json not found or invalid, starting empty');
     }
 
+    const numberWords = ['hudra', 'tusen', 'tjugo', 'trettio', 'fyrtio', 'femtio', 'sextio', 'sjuttio', 'åttio', 'nittio'];
+    
     for (let i = startIndex; i < lines.length; i++) {
         const line = lines[i];
         const regex = /<VERS[^>]*>(.*?)<\/VERS>/;
         const match = line.match(regex);
         if (match) {
             const oldText = match[1];
+            
+            // Check if the text contains any of the target number words
+            const containsNumberWord = numberWords.some(word => 
+                oldText.toLowerCase().includes(word)
+            );
+            
+            if (!containsNumberWord) {
+                console.log(`Skipped line ${i + 1}: no target number words found`);
+                continue;
+            }
+            
             const chat = Chat.from([
                 { role: "system", content: systemPrompt },
                 { role: "user", content: oldText }
