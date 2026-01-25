@@ -26,53 +26,53 @@ async function resolveSpellingAndFacts(line1917, lineFSB, checkResult, lineNumbe
         };
     }
 
-    // Parse XML structure to preserve it
-    const openingTagMatch = lineFSB.match(/^\s*(<[^>]+>)/);
-    const closingTagMatch = lineFSB.match(/(<\/[^>]+>)\s*$/);
-    const openingTag = openingTagMatch ? openingTagMatch[1] : '';
-    const closingTag = closingTagMatch ? closingTagMatch[1] : '';
-    
     const clean1917 = stripXML(line1917);
     const cleanFSB = stripXML(lineFSB);
 
-    const SKIP_TOKEN = "RESOLVED_CORRECTLY";
-    const instruction = `Du är en bibelöversättningsexpert. En rad behöver korrigeras för att behålla fakta från 1917-versionen medan modern svenska används.
+    // Use the same modernization prompt as prompter.js, but add feedback about what changed
+    const instruction = `Du är en expert på svensk språkvård. Din uppgift är att modernisera gammal svensk text till modern, naturlig svenska.
 
-1917-version (original fakta): "${clean1917}"
-FSB-version (nuvarande): "${cleanFSB}"
+Regler:
+* Ersätt ålderdomliga ord (t.ex. "skall" -> "ska", "ehuru" -> "fastän").
+* Modernisera meningsbyggnad om den känns onaturlig, men bevara ALLTID betydelsen exakt.
+* Undvik sammansatta ord.
+* Ändra INTE namn eller stavning på personer eller platser.
+* Svara ENDAST med den moderniserade texten. Ingen inledning eller förklaring.
 
-Skriv en version som:
-1. Behåller alla namn, platser, och siffror från 1917-versionen
-2. Använder modernt svenska från FSB-versionen
-3. Flödar naturligt
+Feedback från föregående försök:
+${checkResult.analysis}
 
-Om du kan skapa en bättre version, skriv bara den nya texten, ingenting annat.
-Om du inte kan förbättra den, svara med: ${SKIP_TOKEN}`;
+Förra försöket gav:
+"${cleanFSB}"
+
+Modernisera texten på ett ANNORLUNDA sätt, och åtgärda problemet som angavs i feedbacken:`;
 
     try {
-        const result = await runLLMCheck(cleanFSB, instruction, { skipToken: SKIP_TOKEN, debug: false });
+        const result = await runLLMCheck(cleanFSB, instruction, { debug: false });
         
-        // If null, it means LLM output the skip token - can't resolve further
-        if (result === null) {
+        // If we got a response (not null), use it as the proposed text
+        if (result) {
+            // Use find and replace to preserve indentation and XML structure
+            // Replace the current FSB text with the modernized 1917 text within the original line
+            const proposedLine = lineFSB.replace(cleanFSB, result);
+
             return {
                 lineNumber,
                 resolver: 'spelling_facts',
-                resolved: false,
-                proposedLine: lineFSB,
-                explanation: 'Could not generate better version',
+                resolved: true,
+                proposedLine: proposedLine,
+                explanation: `Modernized 1917 text using Swedish language rules`,
                 error: null
             };
         }
-
-        // Rebuild with XML structure
-        const proposedLine = openingTag ? `${openingTag}${result}${closingTag}` : result;
-
+        
+        // If result is null, couldn't resolve
         return {
             lineNumber,
             resolver: 'spelling_facts',
-            resolved: true,
-            proposedLine: proposedLine,
-            explanation: `Generated improved version preserving 1917 facts`,
+            resolved: false,
+            proposedLine: lineFSB,
+            explanation: 'Could not generate better version',
             error: null
         };
     } catch (error) {

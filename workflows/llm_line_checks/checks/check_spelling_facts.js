@@ -47,22 +47,10 @@ async function validateProposedText(text1917, proposedText) {
     const clean1917 = stripXML(text1917);
     const cleanProposed = stripXML(proposedText);
     const SKIP_TOKEN = "OK_FACTS_PRESERVED";
-    const instruction = `Du är en bibelöversättningsexpert. Verifiera att en föreslagen översättning behåller alla faktiska detaljer från originalversionen.
-
-Originaltext (1917): "${clean1917}"
-Föreslagen text: "${cleanProposed}"
-
-Bedöm:
-1. Behålls alla namn, platser och siffror från originalversionen?
-2. Finns det några faktiska skillnader?
-
-Om texten är korrekt och bevarar alla fakta, svara med: ${SKIP_TOKEN}
-
-Om det finns problem, svara med JSON:
-{
-  "issues": ["lista över problem"],
-  "confidence": 0.0-1.0
-}`;
+    const instruction = `Check if proposed text preserves CRITICAL facts: names, places, numbers, meaning. Ignore synonyms/rewording.
+1917: "${clean1917}"
+Proposed: "${cleanProposed}"
+Reply ${SKIP_TOKEN} if OK, else {"issues":["list"],"confidence":0.0-1.0}`;
 
     try {
         const result = await runLLMCheck(cleanProposed, instruction, { skipToken: SKIP_TOKEN, debug: false });
@@ -128,24 +116,20 @@ async function checkSpellingAndFacts(line1917, lineFSB, lineNumber) {
     }
 
     const SKIP_TOKEN = "NO_FACT_CHANGES";
-    const instruction = `Du är en bibelöversättningsexpert. Jämför två versioner av samma bibeltext och bestäm:
+    const instruction = `Compare 1917 vs FSB for FACT CHANGES ONLY.
+IGNORE: word choice synonyms, archaic→modern language updates, grammar updates, spelling modernization.
+FLAG ONLY: Names changed, numbers changed, places changed, theological meaning altered, events described differently.
 
-1. Om namn, platser, eller faktiska uppgifter (som tal, datum) har förändrats mellan dem.
-2. Om de har förändrats, föreslå en version som:
-   - Behåller exakt stavning och faktiska detaljer från 1917-versionen
-   - Men använder modernare svenska språk från FSB-versionen
+Examples of ACCEPTABLE changes (reply ${SKIP_TOKEN}):
+- "därav" → "av det" (both mean "of it")
+- "ty" → "för" (both mean "therefore/because")
+- "skall du icke" → "ska du inte" (archaic→modern)
 
-Om inga faktiska ändringar behövs eller om 1917 och FSB redan har samma fakta, svara med: ${SKIP_TOKEN}
+1917: "${parsed1917.textContent}"
+FSB: "${parsedFSB.textContent}"
 
-Om ändringar behövs, svara med JSON:
-{
-  "changed": true,
-  "details": "Kort beskrivning av vad som ändrats",
-  "proposed": "Den föreslagna texten"
-}
-
-1917-version: "${parsed1917.textContent}"
-FSB-version: "${parsedFSB.textContent}"`;
+If no fact changes, reply: ${SKIP_TOKEN}
+If fact changes detected, explain briefly what changed.`;
 
     try {
         const result = await runLLMCheck(parsedFSB.textContent, instruction, { skipToken: SKIP_TOKEN, debug: false });
@@ -163,43 +147,14 @@ FSB-version: "${parsedFSB.textContent}"`;
             };
         }
 
-        let parsed = null;
-        try {
-            parsed = JSON.parse(result);
-        } catch (e) {
-            // Try to extract JSON from the response
-            const jsonMatch = result.match(/\{[\s\S]*\}/);
-            if (jsonMatch) {
-                parsed = JSON.parse(jsonMatch[0]);
-            }
-        }
-
-        // If a change is proposed, validate it
-        let validated = null;
-        if (parsed?.proposed && parsed?.changed) {
-            validated = await validateProposedText(parsed1917.textContent, parsed.proposed);
-            
-            // If validation fails, don't use the proposed text
-            if (!validated.isValid) {
-                parsed.proposed = null;
-            }
-        }
-
-        // If we have a valid proposal, rebuild it with original XML structure
-        let finalProposed = null;
-        if (parsed?.proposed && parsedFSB.hasXML) {
-            finalProposed = `${parsedFSB.openingTag}${parsed.proposed}${parsedFSB.closingTag}`;
-        } else if (parsed?.proposed) {
-            finalProposed = parsed.proposed;
-        }
-
+        // LLM returned an explanation of fact changes
         return {
             lineNumber,
             check: 'spelling_facts',
-            changed: parsed?.changed || false,
-            analysis: parsed?.details || null,
-            proposed: finalProposed,
-            validated: validated,
+            changed: true,
+            analysis: result.substring(0, 200),
+            proposed: null,
+            validated: null,
             error: null
         };
     } catch (error) {

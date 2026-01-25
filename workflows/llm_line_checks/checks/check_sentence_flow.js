@@ -15,36 +15,18 @@ const { runLLMCheck, stripXML } = require('../../../utils/llm-runner.js');
  * @returns {Promise<Object>} Result with flow analysis and suggestions
  */
 async function checkSentenceFlow(currentLine, previousLines, lineNumber) {
-    const SKIP_TOKEN = "FLOW_OK";
-    const instruction = `Du är en svensk språkexpert specialiserad på bibeltexter. Analysera flöde och konsistens i följande text:
+    const SKIP_TOKEN = "PUNCTUATION_OK";
+    const instruction = `Check punctuation between lines:
+Previous: "${stripXML(previousLines)}"
+Current: "${stripXML(currentLine)}"
 
-Föregående kontext:
-"${stripXML(previousLines)}"
-
-Nuvarande rad:
-"${stripXML(currentLine)}"
-
-Bedöm:
-1. Flödar texten naturligt från föregående kontext?
-2. Används samma terminologi och ordval som i kontexten?
-3. Finns det några ordval som bryter mot konsistensen?
-
-Om texten flödar bra och är konsistent, svara med: ${SKIP_TOKEN}
-
-Om det finns problem, svara med JSON:
-{
-  "flowIssues": ["lista över flödesproblem"],
-  "consistencyIssues": ["lista över konsistensasproblem"],
-  "suggestions": "Förslag till förbättringar",
-  "severity": "low|medium|high"
-}
-
-Svara ENDAST med ${SKIP_TOKEN} eller JSON.`;
+What should prev line end with? What case should current start with?
+Reply ${SKIP_TOKEN} if OK, else {"previousLineShouldEndWith":"punctuation","currentLineShouldStartWith":"case","explanation":"..."}`;
 
     try {
         const result = await runLLMCheck(currentLine, instruction, { skipToken: SKIP_TOKEN, debug: false });
         
-        // If result is null, it means LLM output the skip token - flow is OK
+        // If result is null, it means LLM output the skip token - punctuation is OK
         if (result === null) {
             return {
                 lineNumber,
@@ -70,17 +52,19 @@ Svara ENDAST med ${SKIP_TOKEN} eller JSON.`;
         }
 
         const hasIssues = parsed && (
-            (parsed.flowIssues && parsed.flowIssues.length > 0) ||
-            (parsed.consistencyIssues && parsed.consistencyIssues.length > 0)
+            parsed.previousLineShouldEndWith !== undefined ||
+            parsed.currentLineShouldStartWith !== undefined
         );
 
         return {
             lineNumber,
             check: 'sentence_flow',
             hasIssues: hasIssues || false,
-            flowIssues: parsed?.flowIssues || [],
-            consistencyIssues: parsed?.consistencyIssues || [],
-            suggestions: parsed?.suggestions || null,
+            flowIssues: parsed?.explanation ? [parsed.explanation] : [],
+            consistencyIssues: [],
+            previousLineShouldEndWith: parsed?.previousLineShouldEndWith || null,
+            currentLineShouldStartWith: parsed?.currentLineShouldStartWith || null,
+            suggestions: parsed?.explanation || null,
             severity: parsed?.severity || 'low',
             error: null
         };
@@ -91,6 +75,8 @@ Svara ENDAST med ${SKIP_TOKEN} eller JSON.`;
             hasIssues: false,
             flowIssues: [],
             consistencyIssues: [],
+            previousLineShouldEndWith: null,
+            currentLineShouldStartWith: null,
             suggestions: null,
             severity: 'low',
             error: error.message

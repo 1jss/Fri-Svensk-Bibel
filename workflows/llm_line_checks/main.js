@@ -17,10 +17,13 @@ async function main() {
     const startLine = (parseInt(process.argv[2]) || 1) - 1;
     const contextLines = parseInt(process.argv[3]) || 1; // Number of previous lines for context
     const maxFailedAttempts = 3; // Max failed iterations before giving up
+    const debugMode = process.argv[4] === '--debug'; // Enable verbose logging
     
     console.log(`Starting line checks from line ${startLine + 1}`);
     console.log(`Using ${contextLines} previous line(s) for context`);
     console.log(`Max failed attempts: ${maxFailedAttempts}`);
+    if (debugMode) console.log(`Debug mode: ON - Showing detailed check outputs`);
+    console.log('---');
 
     // Read both files
     const file1917 = fs.readFileSync(config.data.bibles.xml1917, 'utf-8');
@@ -53,6 +56,11 @@ async function main() {
         if (!lineFSBContent.trim()) {
             console.log(`Skipped: No text content`);
             continue;
+        }
+
+        if (debugMode) {
+            console.log(`  1917 content: "${stripXML(line1917).substring(0, 80)}${stripXML(line1917).length > 80 ? '...' : ''}"`);
+            console.log(`  FSB content:  "${lineFSBContent.substring(0, 80)}${lineFSBContent.length > 80 ? '...' : ''}"`);
         }
 
         // Get context (previous lines)
@@ -111,6 +119,40 @@ async function main() {
                 break;
             }
 
+            // Log why checks failed
+            if (!check1Passed) {
+                if (check1.error) {
+                    console.log(`    ✗ Check1 error: ${check1.error}`);
+                } else if (check1.changed) {
+                    console.log(`    ✗ Check1 found fact changes: ${check1.analysis}`);
+                    if (debugMode && check1.validated) {
+                        console.log(`      Validation: isValid=${check1.validated.isValid}, confidence=${(check1.validated.confidence * 100).toFixed(0)}%`);
+                        if (check1.validated.issues.length > 0) {
+                            console.log(`      Issues: ${check1.validated.issues.join(', ')}`);
+                        }
+                    }
+                }
+            }
+
+            if (!check2Passed) {
+                if (check2.error) {
+                    console.log(`    ✗ Check2 error: ${check2.error}`);
+                } else if (check2.hasIssues) {
+                    console.log(`    ✗ Check2 found flow issues (severity: ${check2.severity})`);
+                    if (debugMode) {
+                        if (check2.flowIssues.length > 0) {
+                            console.log(`      Flow: ${check2.flowIssues.join(', ')}`);
+                        }
+                        if (check2.consistencyIssues.length > 0) {
+                            console.log(`      Consistency: ${check2.consistencyIssues.join(', ')}`);
+                        }
+                        if (check2.suggestions) {
+                            console.log(`      Suggestions: ${check2.suggestions}`);
+                        }
+                    }
+                }
+            }
+
             // Try to resolve issues
             console.log(`    - Attempting resolution...`);
             let resolved1 = null;
@@ -121,6 +163,10 @@ async function main() {
                 resolved1 = await resolveSpellingAndFacts(line1917, currentLine, check1, i + 1);
                 if (resolved1.resolved) {
                     console.log(`      ✓ Proposed spelling/facts fix`);
+                    if (debugMode) {
+                        console.log(`        Original: "${stripXML(currentLine).substring(0, 60)}..."`);
+                        console.log(`        Proposed: "${stripXML(resolved1.proposedLine).substring(0, 60)}..."`);
+                    }
                     currentLine = resolved1.proposedLine;
                     somethingResolved = true;
                 } else {
