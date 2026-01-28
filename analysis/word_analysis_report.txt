@@ -4,86 +4,6 @@ Total unique words: 23,015
 Total word occurrences: 688,724
 Average occurrences per word: 29.93
 
-New unique words since last run: 14
-All new words:
-  1. "kidnappade" (1 times)
-  2. "märktes" (1 times)
-  3. "stångat" (1 times)
-  4. "pansarskjorta" (1 times)
-  5. "konstarbeten" (1 times)
-  6. "texten" (1 times)
-  7. "hamrat" (1 times)
-  8. "axelstycke" (1 times)
-  9. "spillningen" (1 times)
-  10. "inburet" (1 times)
-  11. "fyllningen" (1 times)
-  12. "prostituerad" (1 times)
-  13. "stamsledare" (1 times)
-  14. "noterades" (1 times)
-
-Removed unique words since last run: 60
-All removed words:
-  1. "fyrtio" (41 times)
-  2. "sextio" (24 times)
-  3. "ättföljd" (6 times)
-  4. "trehundratusen" (3 times)
-  5. "grodor" (2 times)
-  6. "fänikor" (2 times)
-  7. "sjuttiotusen" (2 times)
-  8. "åttiotusen" (2 times)
-  9. "åttiofem" (2 times)
-  10. "tvåhundratusen" (2 times)
-  11. "ettusen" (2 times)
-  12. "fyrtiosju" (2 times)
-  13. "fyrahundrafemtiotrem" (2 times)
-  14. "sjuhundratjugo" (2 times)
-  15. "nittio" (2 times)
-  16. "tiotusen" (2 times)
-  17. "gångbart" (1 times)
-  18. "blottlade" (1 times)
-  19. "genomsökt" (1 times)
-  20. "samtycka" (1 times)
-  21. "brickoffer" (1 times)
-  22. "svalnat" (1 times)
-  23. "gäddor" (1 times)
-  24. "grodorna" (1 times)
-  25. "böldernas" (1 times)
-  26. "kvara" (1 times)
-  27. "förfarande" (1 times)
-  28. "stulne" (1 times)
-  29. "påsprungna" (1 times)
-  30. "förhäng" (1 times)
-  31. "omgivas" (1 times)
-  32. "pansarkavaj" (1 times)
-  33. "axelband" (1 times)
-  34. "frånskilja" (1 times)
-  35. "inbäddat" (1 times)
-  36. "målats" (1 times)
-  37. "klädesplagg" (1 times)
-  38. "utslitet" (1 times)
-  39. "stympa" (1 times)
-  40. "vanärad" (1 times)
-  41. "etthundra" (1 times)
-  42. "aseras" (1 times)
-  43. "tjugosju" (1 times)
-  44. "fyrtiofyra" (1 times)
-  45. "åttiosju" (1 times)
-  46. "trettiofyra" (1 times)
-  47. "tjugosex" (1 times)
-  48. "femhundratusen" (1 times)
-  49. "tvåhundraåttiotusen" (1 times)
-  50. "trehundrasjutusen" (1 times)
-  51. "sextioett" (1 times)
-  52. "niohundratrettio" (1 times)
-  53. "femhundratrettio" (1 times)
-  54. "sextiosju" (1 times)
-  55. "femtiosjutusen" (1 times)
-  56. "tiotusentals" (1 times)
-  57. "tvåtusen" (1 times)
-  58. "femtusen" (1 times)
-  59. "hundraförtiofyratusen" (1 times)
-  60. "hundrafemtiofyratusen" (1 times)
-
 Single-use words (hapax legomena): 9,409 (40.88% of unique words)
 Words used 2-5 times: 7,271 (31.59% of unique words)
 
@@ -122,3 +42,7 @@ Words used 10+ times: 4,387
 7-9 letters: 8,898 words (38.66%), avg frequency: 7.99
 10-12 letters: 4,259 words (18.51%), avg frequency: 4.04
 13+ letters: 1,332 words (5.79%), avg frequency: 2.70
+
+New unique words since last run: 0
+
+Removed unique words since last run: 0

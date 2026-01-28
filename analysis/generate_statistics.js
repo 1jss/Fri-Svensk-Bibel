@@ -69,28 +69,6 @@ function analyzeWordStatistics(wordStats, oldStats) {
     log += `Total word occurrences: ${totalOccurrences.toLocaleString()}\n`;
     log += `Average occurrences per word: ${(totalOccurrences / totalWords).toFixed(2)}\n`;
     
-    // Diff with old stats
-    if (oldStats) {
-        const oldWordsSet = new Set(oldStats.map(item => item.word));
-        const newWordsSet = new Set(wordStats.map(item => item.word));
-        const newWords = wordStats.filter(item => !oldWordsSet.has(item.word));
-        const removedWords = oldStats.filter(item => !newWordsSet.has(item.word));
-        log += `\nNew unique words since last run: ${newWords.length.toLocaleString()}\n`;
-        if (newWords.length > 0) {
-            log += 'All new words:\n';
-            newWords.forEach((item, index) => {
-                log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
-            });
-        }
-        log += `\nRemoved unique words since last run: ${removedWords.length.toLocaleString()}\n`;
-        if (removedWords.length > 0) {
-            log += 'All removed words:\n';
-            removedWords.forEach((item, index) => {
-                log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
-            });
-        }
-    }
-    
     // Find single-use words (hapax legomena)
     const singleUseWords = wordStats.filter(item => item.count === 1);
     log += `\nSingle-use words (hapax legomena): ${singleUseWords.length.toLocaleString()} (${((singleUseWords.length / totalWords) * 100).toFixed(2)}% of unique words)\n`;
@@ -170,6 +148,28 @@ function analyzeWordStatistics(wordStats, oldStats) {
         const avgFrequency = wordsInBucket.length > 0 ? (wordsInBucket.reduce((sum, item) => sum + item.count, 0) / wordsInBucket.length).toFixed(2) : '0';
         log += `${bucket.range}: ${count.toLocaleString()} words (${percentage}%), avg frequency: ${avgFrequency}\n`;
     });
+
+    // Diff with old stats
+    if (oldStats) {
+        const oldWordsSet = new Set(oldStats.map(item => item.word));
+        const newWordsSet = new Set(wordStats.map(item => item.word));
+        const newWords = wordStats.filter(item => !oldWordsSet.has(item.word));
+        const removedWords = oldStats.filter(item => !newWordsSet.has(item.word));
+        log += `\nNew unique words since last run: ${newWords.length.toLocaleString()}\n`;
+        if (newWords.length > 0) {
+            log += 'All new words:\n';
+            newWords.forEach((item, index) => {
+                log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
+            });
+        }
+        log += `\nRemoved unique words since last run: ${removedWords.length.toLocaleString()}\n`;
+        if (removedWords.length > 0) {
+            log += 'All removed words:\n';
+            removedWords.forEach((item, index) => {
+                log += `  ${index + 1}. "${item.word}" (${item.count} times)\n`;
+            });
+        }
+    }
 
     console.log(log);
     
