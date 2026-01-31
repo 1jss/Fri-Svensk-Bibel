@@ -1,0 +1,131 @@
+{
+  "line_4062": {
+    "lineNumber": 4062,
+    "line1917": "      <VERS vnumber=\"14\">men misstankens ande likväl kommer över honom, så att han får misstanke mot sin hustru, och det verkligen är så, att hon har låtit skända sig; eller om misstankens ande kommer över honom, så att han får misstanke mot sin hustru, och detta fastän hon icke har låtit skända sig:</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"14\">Men misstankens ande ändå kommer över honom, så att han får misstanke mot sin hustru och det visar sig vara sant, att hon har låtit skända sig. Eller om misstankens ande kommer över honom, så att han får misstanke mot sin hustru, fastän hon inte har låtit skända sig:</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"14\">Men misstankens ande ändå kommer över honom, så att han får misstanke mot sin hustru och det verkligen är så, att hon har låtit skända sig. Eller om misstankens ande kommer över honom, så att han får misstanke mot sin hustru, fastän hon inte har låtit skända sig:</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "\"'visar sig vara sant' should be changed to 'verkligen är så'\"",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Men misstankens ande ändå kommer över honom, så att han får misstanke mot sin hustru och det verkligen är så, att hon har låtit skända sig. Eller om misstankens ande kommer över honom, så att han får misstanke mot sin hustru, fastän hon inte har låtit skända sig:",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4063": {
+    "lineNumber": 4063,
+    "line1917": "      <VERS vnumber=\"15\">så skall mannen föra sin hustru till prästen och såsom offer för henne bära fram en tiondedels efa kornmjöl, men ingen olja skall han gjuta därpå och ingen rökelse lägga därpå, ty det är ett misstankeoffer, ett åminnelseoffer, som bringar en missgärning i åminnelse.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"15\">Så ska mannen föra sin hustru till prästen och som offer för henne bära fram en tiondedels efa kornmjöl, men ingen olja ska han hälla på det och ingen rökelse lägga därpå, för det är ett misstänkningsoffer, ett åminnelseoffer som bringar en missgärning i minnet.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"15\">Så ska mannen föra sin hustru till prästen och som offer för henne bära fram en tiondedels efa kornmjöl, men ingen olja ska han hälla på det och ingen rökelse lägga därpå, för det är ett misstankeoffer, ett åminnelseoffer som bringar en missgärning i minnet.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "'misstankeoffer' should be changed to 'misstankeoffer'",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Så ska mannen föra sin hustru till prästen och som offer för henne bära fram en tiondedels efa kornmjöl, men ingen olja ska han hälla på det och ingen rökelse lägga därpå, för det är ett misstankeoffer, ett åminnelseoffer som bringar en missgärning i minnet.",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4064": {
+    "lineNumber": 4064,
+    "line1917": "      <VERS vnumber=\"16\">Och prästen skall föra henne fram och ställa henne inför HERRENS ansikte.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"16\">Prästen ska föra fram henne och ställa henne inför Herrens ansikte.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"16\">Prästen ska föra fram henne och ställa henne inför Herrens ansikte.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4065": {
+    "lineNumber": 4065,
+    "line1917": "      <VERS vnumber=\"17\">Och prästen skall taga heligt vatten i ett lerkärl, och sedan skall prästen taga något av stoftet på tabernaklets golv och lägga i vattnet.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"17\">Prästen ska ta heligt vatten i ett lerkärl och sedan ska prästen ta lite av stoftet från tabernaklets golv och lägga i vattnet.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"17\">Prästen ska ta heligt vatten i ett lerkärl och sedan ska prästen ta lite av stoftet från tabernaklets golv och lägga i vattnet.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4066": {
+    "lineNumber": 4066,
+    "line1917": "      <VERS vnumber=\"18\">Och prästen skall ställa kvinnan fram inför HERRENS ansikte och lösa upp kvinnans hår och lägga på hennes händer åminnelseoffret, det är misstankeoffret; men prästen själv skall hålla i sin hand det förbannelsebringande olycksvattnet.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"18\">Prästen ska ställa kvinnan fram inför Herrens ansikte och lösa upp hennes hår samt lägga på hennes händer åminnelseoffret, det vill säga misstankeoffret. Men prästen själv ska hålla i sin hand det förbannelsebringande olycksvattnet.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"18\">Prästen ska ställa kvinnan fram inför Herrens ansikte och lösa upp hennes hår samt lägga på hennes händer åminnelseoffret, det vill säga misstankeoffret. Men prästen själv ska hålla i sin hand det förbannelsebringande olycksvattnet.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  }
+}
