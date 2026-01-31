@@ -1,14 +1,14 @@
 === Word Statistics Analysis ===
 
-Total unique words: 22,988
-Total word occurrences: 688,749
-Average occurrences per word: 29.96
+Total unique words: 22,973
+Total word occurrences: 688,758
+Average occurrences per word: 29.98
 
-Single-use words (hapax legomena): 9,382 (40.81% of unique words)
-Words used 2-5 times: 7,271 (31.63% of unique words)
+Single-use words (hapax legomena): 9,371 (40.79% of unique words)
+Words used 2-5 times: 7,267 (31.63% of unique words)
 
-Top 100 words cover: 381,734 occurrences
-That's 55.42% of all word occurrences
+Top 100 words cover: 381,745 occurrences
+That's 55.43% of all word occurrences
 
 Words used 100+ times: 651
 Words used 10+ times: 4,390
@@ -23,69 +23,57 @@ Words used 10+ times: 4,390
 70% coverage: 294 most common words
 80% coverage: 773 most common words
 90% coverage: 2,606 most common words
-95% coverage: 5,715 most common words
-99% coverage: 16,101 most common words
+95% coverage: 5,712 most common words
+99% coverage: 16,086 most common words
 
 === Frequency Distribution ===
-1 time: 9,382 words (40.81%)
-2-5 times: 7,271 words (31.63%)
-6-10 times: 2,226 words (9.68%)
-11-50 times: 2,945 words (12.81%)
+1 time: 9,371 words (40.79%)
+2-5 times: 7,267 words (31.63%)
+6-10 times: 2,226 words (9.69%)
+11-50 times: 2,945 words (12.82%)
 51-100 times: 515 words (2.24%)
 101-500 times: 474 words (2.06%)
 501-1000 times: 65 words (0.28%)
 1000+ times: 110 words (0.48%)
 
 === Word Length Analysis ===
-1-3 letters: 570 words (2.48%), avg frequency: 573.41
-4-6 letters: 7,950 words (34.58%), avg frequency: 33.96
-7-9 letters: 8,892 words (38.68%), avg frequency: 8.00
-10-12 letters: 4,252 words (18.50%), avg frequency: 4.05
-13+ letters: 1,324 words (5.76%), avg frequency: 2.71
+1-3 letters: 569 words (2.48%), avg frequency: 574.43
+4-6 letters: 7,947 words (34.59%), avg frequency: 33.98
+7-9 letters: 8,886 words (38.68%), avg frequency: 8.00
+10-12 letters: 4,249 words (18.50%), avg frequency: 4.05
+13+ letters: 1,322 words (5.75%), avg frequency: 2.71
 
 New unique words since last run: 7
 All new words:
-  1. "helandets" (2 times)
-  2. "hånares" (1 times)
-  3. "alkoholister" (1 times)
-  4. "frigivna" (1 times)
-  5. "skäll" (1 times)
-  6. "gynnat" (1 times)
-  7. "misskrediterat" (1 times)
+  1. "trummor" (10 times)
+  2. "konflikter" (5 times)
+  3. "lantbrukaren" (4 times)
+  4. "uthålligt" (3 times)
+  5. "helande" (2 times)
+  6. "trumman" (1 times)
+  7. "konflikten" (1 times)
 
-Removed unique words since last run: 34
+Removed unique words since last run: 22
 All removed words:
-  1. "lekamen" (4 times)
-  2. "hora" (3 times)
-  3. "fördolt" (3 times)
-  4. "helbrägdagörelse" (2 times)
-  5. "förlöjligares" (1 times)
-  6. "hednaförsamlingar" (1 times)
-  7. "förkunnats" (1 times)
-  8. "börd" (1 times)
-  9. "dömen" (1 times)
-  10. "vilketdera" (1 times)
-  11. "förekom" (1 times)
-  12. "dryckesproblemtyngda" (1 times)
-  13. "förlösna" (1 times)
-  14. "frie" (1 times)
-  15. "singel" (1 times)
-  16. "köttboden" (1 times)
-  17. "samvetskoll" (1 times)
-  18. "skälld" (1 times)
-  19. "vanärkar" (1 times)
-  20. "vanärar" (1 times)
-  21. "församlingsmöten" (1 times)
-  22. "förakar" (1 times)
-  23. "helbrägdagörelsens" (1 times)
-  24. "tungomålen" (1 times)
-  25. "tungotalen" (1 times)
-  26. "gagnat" (1 times)
-  27. "givit" (1 times)
-  28. "hjärteångest" (1 times)
-  29. "misskreditert" (1 times)
-  30. "tankefunder" (1 times)
-  31. "avhjälptes" (1 times)
-  32. "misshandelslag" (1 times)
-  33. "svältens" (1 times)
-  34. "tjänstefiguren" (1 times)
+  1. "tvist" (13 times)
+  2. "pukor" (10 times)
+  3. "tvister" (7 times)
+  4. "åkermannen" (4 times)
+  5. "ståndaktigt" (3 times)
+  6. "tvistefrågor" (3 times)
+  7. "puka" (2 times)
+  8. "namngivit" (2 times)
+  9. "äro" (2 times)
+  10. "oavlåtligen" (1 times)
+  11. "pukornas" (1 times)
+  12. "harpans" (1 times)
+  13. "vilostaden" (1 times)
+  14. "vederkvickelsens" (1 times)
+  15. "rådslut" (1 times)
+  16. "tillgiver" (1 times)
+  17. "befatta" (1 times)
+  18. "vederkvickelse" (1 times)
+  19. "tvistefrågan" (1 times)
+  20. "ingiver" (1 times)
+  21. "hedersamt" (1 times)
+  22. "gagneligt" (1 times)
