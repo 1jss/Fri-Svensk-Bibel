@@ -127,5 +127,415 @@
     "resolutions": [],
     "finalStatus": "resolved_success",
     "applied": true
+  },
+  "line_4067": {
+    "lineNumber": 4067,
+    "line1917": "      <VERS vnumber=\"19\">Därefter skall prästen besvärja kvinnan och säga till henne: »Om ingen har lägrat dig och du icke har svikit din man genom att låta skända dig, så må detta förbannelsebringande olycksvatten icke skada dig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"19\">Efter det ska prästen säga till kvinnan: \"Om ingen har fött dig och du inte har brutit mot din man genom att bli misshandlad, så ska detta förbannelsebringande vatten inte skada dig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"19\">Efter det ska prästen säga till kvinnan: \"Om ingen har lägrat dig och du inte har svikit din man genom att låta skända dig, så ska detta förbannelsebringande vatten inte skada dig.\"</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "Here's a breakdown of the critical changes between the old and new texts, focusing on alterations to facts or meaning:\n\n**FLAG:** Subject and object swapped (action altered) & Negation changed.\n\n**Explanation of Changes & Required Corrections:**\n\n1.  **\"lägrat dig\" → \"fött dig\"**: The original phrase \"lägrat dig\" (laid you, implying pregnancy) refers to the act of conceiving a child. The modernized version uses \"fött dig\" (given birth to you), which focuses on the *result* of conception. This is a significant shift in meaning. The original text asks if she was *conceived* by anyone other than her husband, implying potential infidelity through conception. The modernized text asks if she *gave birth* to someone else's child, implying infidelity through an affair.\n\n    **Correction Needed:** Change \"fött dig\" back to \"lägrat dig\". This restores the original meaning related to conception and potential infidelity through that process.\n\n2.  **\"svikit din man genom att låta skända dig\" → \"brutit mot din man genom att bli misshandlad\"**: This is a major alteration. The original phrase \"svikit din man genom att låta skända dig\" (betrayed your husband by allowing yourself to be defiled) refers to a broader concept of sexual infidelity or violation. The modernized version \"brutit mot din man genom att bli misshandlad\" (broken your husband by being mistreated) narrows the meaning to physical abuse. The original text implies a violation of marital fidelity, while the modernized version focuses on experiencing domestic violence.\n\n    **Correction Needed:** Change \"brutit mot din man genom att bli misshandlad\" back to \"svikit din man genom att låta skända dig\". This restores the original meaning related to marital fidelity and potential sexual violation.\n\n\n\nThe FSB modernization significantly alters the core meaning of the original text, shifting it from a concern about marital fidelity and potential sexual violation to a focus on domestic violence.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Efter det ska prästen säga till kvinnan: \"Om ingen har lägrat dig och du inte har svikit din man genom att låta skända dig, så ska detta förbannelsebringande vatten inte skada dig.\"",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4068": {
+    "lineNumber": 4068,
+    "line1917": "      <VERS vnumber=\"20\">Men om du har svikit din man och låtit skända dig, i det att någon annan än din man har beblandat sig med dig»</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"20\">Men om du har förrått din man och låtit dig skymfas, i det att någon annan än din man har blandat sig med dig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"20\">Men om du har förrått din man och låtit dig skymfas, i det att någon annan än din man har blandat sig med dig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe change from \"svikit\" (betrayed) to \"förrått\" (treachery, a deeper betrayal often involving a breach of trust or oath) represents a critical alteration in meaning. \"Svika\" implies failing to uphold a commitment, while \"förrått\" carries a stronger connotation of deliberate disloyalty and deception. This shifts the nuance of the original statement, potentially implying a more malicious act than originally intended.\n\n**Correction Needed:** Replace \"förrått\" with \"svikit.\" This restores the original meaning of a general failure to uphold commitment, rather than a deep betrayal.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe change from \"skända dig\" (to defile you) to \"låtit dig skymfas\" (allowed yourself to be shadowed/obscured) represents a critical alteration in meaning. \"Skända\" carries a strong connotation of violation, dishonor, and potentially sexual transgression – a very specific legal/social meaning in the 1917 context. \"Skymfas\" is a much weaker term, implying being overlooked or hidden, lacking the same gravity and legal implications.\n\n**Correction Needed:** The FSB text needs to revert to \"skända dig\" to accurately reflect the original meaning. This is crucial because the entire legal or social context surrounding this phrase likely hinges on the severity of the action described. The shift to \"skymfas\" significantly weakens that context and alters the meaning of the statement.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe critical change is the removal of \"låtit\". The original text uses \"låtit skända dig\" (let yourself be defiled), implying a passive role or lack of control. The modernized text simply states \"skändat dig\" (defiled yourself), implying agency and direct action. This significantly alters the meaning, shifting responsibility from potentially external circumstances or a lack of power to direct action.\n\nTo restore the original meaning, the modernized text needs to be changed back to: \"Men om du har svikit din man och **låtit skända** dig, i det att någon annan än din man har blandat sig med dig.\"",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Men om du har svikit din man och låtit dig skymfas, i det att någon annan än din man har blandat sig med dig.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Men om du har svikit din man och skändat dig, i det att någon annan än din man har blandat sig med dig.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Men om du har svikit din man och låtit skända dig, i det att någon annan än din man har blandat sig med dig.",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "max_attempts_failed",
+    "applied": false
+  },
+  "line_4070": {
+    "lineNumber": 4070,
+    "line1917": "      <VERS vnumber=\"22\">ja, när du har fått detta förbannelsebringande vatten in i ditt liv, då må det komma din buk att svälla upp och din länd att förvissna.»  Och kvinnan skall säga: »Amen, amen.»</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"22\">Ja, när du har fått detta förbannelsebringande vatten in i ditt liv, då ska din mage svälla upp och din höft vissna. Kvinnan ska säga: \"Amen, amen.\"</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"22\">Ja, när du har fått detta förbannelsebringande vatten in i ditt liv, då ska din mage svälla upp och din länd vissna. Kvinnan ska säga: \"Amen, amen.\"</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "FLAGGED\n\nThe critical change is the alteration of \"länd\" (lower back/lumbar region) to \"höft\" (hip). This significantly alters the physical description and, potentially, the symbolic meaning within the original text. \"Länd\" implies a weakness or withering in the core of the body, while \"höft\" suggests an issue with the pelvis or hips.\n\nTo restore the original meaning, \"höft\" needs to be changed back to \"länd\".",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Ja, när du har fått detta förbannelsebringande vatten in i ditt liv, då ska din mage svälla upp och din länd vissna. Kvinnan ska säga: \"Amen, amen.\"",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4071": {
+    "lineNumber": 4071,
+    "line1917": "      <VERS vnumber=\"23\">Sedan skall prästen skriva upp dessa förbannelser på ett blad och därefter avtvå dem i olycksvattnet</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"23\">Sedan ska prästen skriva upp dessa förbannelser på ett papper och efter det tvätta bort dem i olycksvattnet.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"23\">Sedan ska prästen skriva upp dessa förbannelser på ett papper och efter det tvätta bort dem i olycksvattnet.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4072": {
+    "lineNumber": 4072,
+    "line1917": "      <VERS vnumber=\"24\">och giva kvinnan det förbannelsebringande olycksvattnet att dricka, för att detta förbannelsebringande vatten må bliva henne till olycka, när hon har fått det i sig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"24\">och ge kvinnan det förbannelsebringande olycksvattnet att dricka, för att detta förbannelsebringande vatten ska bli henne till olycka när hon har fått det i sig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"24\">och ge kvinnan det förbannelsebringande olycksvattnet att dricka, för att detta förbannelsebringande vatten ska bli henne till olycka när hon har fått det i sig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4073": {
+    "lineNumber": 4073,
+    "line1917": "      <VERS vnumber=\"25\">Och prästen skall taga misstankeoffret ur kvinnans hand och vifta detta offer inför HERRENS ansikte och bära det fram till altaret.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"25\">Prästen ska ta misstankeoffret ur kvinnans hand och vifta med det inför Herrens ansikte och bära det fram till altaret.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"25\">Prästen ska ta misstankeoffret ur kvinnans hand och vifta med det inför Herrens ansikte och bära det fram till altaret.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4074": {
+    "lineNumber": 4074,
+    "line1917": "      <VERS vnumber=\"26\">Och prästen skall av offret taga en handfull, det som utgör själva altaroffret, och förbränna det på altaret; därefter skall han giva kvinnan vattnet att dricka.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"26\">Prästen ska ta en handfull av offret, det som utgör själva altaroffret, och bränna det på altaret. Efter det ska han ge kvinnan vattnet att dricka.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"26\">Prästen ska ta en handfull av offret, det som utgör själva altaroffret, och bränna det på altaret. Efter det ska han ge kvinnan vattnet att dricka.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4075": {
+    "lineNumber": 4075,
+    "line1917": "      <VERS vnumber=\"27\">Och när han så har givit henne vattnet att dricka, då skall detta ske: om hon har låtit skända sig och varit sin man otrogen, så skall det förbannelsebringande vattnet, när hon har fått det i sig, bliva henne till olycka, i det att hennes buk sväller upp och hennes länd förvissnar; och kvinnan skall bliva ett exempel som man nämner, när man förbannar bland hennes folk.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"27\">När han så har gett henne vattnet att dricka, ska detta ske: om hon har låtit sig förföljas och varit sin man otrogen, så ska det förbannelsebringande vattnet, när hon har fått det i sig, bli henne till olycka genom att hennes mage sväller upp och hennes höft vissnar. Kvinnan ska bli ett exempel som man nämner när man förbannar bland hennes folk.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"27\">När han så har gett henne vattnet att dricka, ska detta ske: om hon har låtit sig skända sig och varit sin man otrogen, så ska det förbannelsebringande vattnet, när hon har fått det i sig, bli henne till olycka genom att hennes mage sväller upp och hennes länd vissnar. Kvinnan ska bli ett exempel som man nämner när man förbannar bland hennes folk.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe critical change is the alteration of \"länd\" (lumbar region, lower back) to \"höft\" (hip). This significantly alters the physical description of the curse. In the original text, the curse causes a withering of the lower back (\"länd förvissnar\"), which carries a different symbolic weight than a withering of the hip (\"höft vissnar\"). The lower back is associated with bearing burdens and strength, while the hip relates to femininity and reproduction.\n\nTo restore the original meaning, \"höft\" in the modernized text needs to be changed back to \"länd\".",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe critical change is the alteration of \"skända sig\" (to defile oneself) to \"förföljas\" (to be persecuted/pursued).\n\n**What needs to be changed:** The FSB text uses \"förföljas,\" which implies a victim of external pursuit. The original 1917 text uses \"skända sig,\" which refers to a moral failing, specifically sexual infidelity. To restore the original meaning, \"förföljas\" must be changed back to \"skända sig.\" This accurately reflects the original text's condemnation of adultery as the trigger for the curse.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "När han så har gett henne vattnet att dricka, ska detta ske: om hon har låtit sig förföljas och varit sin man otrogen, så ska det förbannelsebringande vattnet, när hon har fått det i sig, bli henne till olycka genom att hennes mage sväller upp och hennes länd vissnar. Kvinnan ska bli ett exempel som man nämner när man förbannar bland hennes folk.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "När han så har gett henne vattnet att dricka, ska detta ske: om hon har låtit sig skända sig och varit sin man otrogen, så ska det förbannelsebringande vattnet, när hon har fått det i sig, bli henne till olycka genom att hennes mage sväller upp och hennes länd vissnar. Kvinnan ska bli ett exempel som man nämner när man förbannar bland hennes folk.",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4076": {
+    "lineNumber": 4076,
+    "line1917": "      <VERS vnumber=\"28\">Men om kvinnan icke har låtit skända sig, utan är ren, då skall hon förbliva oskadd och kunna undfå livsfrukt.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"28\">Men om kvinnan inte har låtit sig skändas, utan är ren, då ska hon stanna kvar oskadd och kunna få barn.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"28\">Men om kvinnan inte har låtit sig skändas, utan är ren, då ska hon stanna kvar oskadd och kunna få barn.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4077": {
+    "lineNumber": 4077,
+    "line1917": "      <VERS vnumber=\"29\">Detta är misstankelagen, om huru förfaras skall, när en kvinna har svikit sin man och låtit skända sig,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"29\">Detta är misstankelagen, om hur man ska förfara när en kvinna har varit otrogen mot sin man och låtit sig skändas.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"29\">Detta är misstankelagen, om hur man ska förfara när en kvinna har svikit sin man och låtit skända sig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": true,
+          "analysis": "FLAG:\n\nThe core meaning has shifted subtly but critically due to the change in phrasing regarding infidelity. The original text (\"svikit sin man och låtit skända sig\") implies a more active role and potentially wider consequences than the modernized version (\"varit otrogen mot sin man och låtit sig skändas\"). \"Svika\" (to betray) carries a stronger connotation of deliberate action and breaking a vow, while \"otrogen\" (unfaithful) is more general. The original phrasing also directly links the woman's actions to being \"skändad\" (defiled/dishonored), suggesting a direct consequence of her betrayal. The modernized version separates these concepts, making the connection less explicit and potentially lessening the perceived severity of her actions within the legal context.\n\nTo restore the original meaning, the NEW text needs to be changed back to: \"svikit sin man och låtit skända sig.\" This phrasing more accurately reflects the original legal context and implications of the woman's actions.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "resolved": {
+          "resolved": true,
+          "proposedLine": "Detta är misstankelagen, om hur man ska förfara när en kvinna har svikit sin man och låtit skända sig.",
+          "error": null
+        }
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4078": {
+    "lineNumber": 4078,
+    "line1917": "      <VERS vnumber=\"30\">eller när eljest misstankens ande kommer över en man, så att han misstänker sin hustru; han skall då ställa hustrun fram inför HERRENS ansikte, och prästen skall med henne göra allt vad denna lag stadgar.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"30\">Eller när misstankens ande kommer över en man, så att han misstänker sin hustru. Han ska då ställa hustrun fram inför Herrens ansikte och prästen ska med henne göra allt vad denna lag föreskriver.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"30\">Eller när misstankens ande kommer över en man, så att han misstänker sin hustru. Han ska då ställa hustrun fram inför Herrens ansikte och prästen ska med henne göra allt vad denna lag föreskriver.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4079": {
+    "lineNumber": 4079,
+    "line1917": "      <VERS vnumber=\"31\">Så skall mannen vara fri ifrån missgärning, men hustrun kommer att bära på missgärning.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"31\">Mannen ska vara fri från missgärning, men hustrun kommer att bära på den.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"31\">Mannen ska vara fri från missgärning, men hustrun kommer att bära på den.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4082": {
+    "lineNumber": 4082,
+    "line1917": "      <VERS vnumber=\"1\">Och HERREN talade till Mose och sade:</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"1\">Herren talade till Mose och sa:</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"1\">Herren talade till Mose och sa:</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4083": {
+    "lineNumber": 4083,
+    "line1917": "      <VERS vnumber=\"2\">Tala till Israels barn och säg till dem:  Om någon, vare sig man eller kvinna, har att fullgöra ett nasirlöfte, ett löfte att vara HERRENS nasir,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"2\">Tala till Israels barn och säg till dem: Om någon, vare sig det är en man eller kvinna, har gett ett nasirlöfte, ett löfte att vara Herrens nasir,</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"2\">Tala till Israels barn och säg till dem: Om någon, vare sig det är en man eller kvinna, har gett ett nasirlöfte, ett löfte att vara Herrens nasir,</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_4084": {
+    "lineNumber": 4084,
+    "line1917": "      <VERS vnumber=\"3\">så skall han avhålla sig från vin och starka drycker; han skall icke dricka någon syrad dryck av vin eller någon annan syrad stark dryck; intet slags druvsaft skall han dricka, ej heller skall han äta druvor, vare sig friska eller torra.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"3\">Han ska avstå från vin och starka drycker. Han får inte dricka några syrade drycker gjorda av vin eller någon annan syrad stark dryck. Han ska inte dricka något slags druvsaft, och han får inte äta druvor, vare sig de är färska eller torkade.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"3\">Han ska avstå från vin och starka drycker. Han får inte dricka några syrade drycker gjorda av vin eller någon annan syrad stark dryck. Han ska inte dricka något slags druvsaft, och han får inte äta druvor, vare sig de är färska eller torkade.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "check": {
+          "changed": false,
+          "analysis": "No fact changes",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": true
   }
 }

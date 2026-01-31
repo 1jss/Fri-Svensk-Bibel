@@ -49,7 +49,7 @@ async function checkFacts(line1917, lineFSB, lineNumber) {
 
     // Use LLM to detect meaning-altering changes
     const SKIP_TOKEN = "SKIP_TOKEN";
-    const instruction = `You are an expert in Swedish text analysis and language preservation. Determine if this modernization has altered FACTS or meaning.
+    const instruction = `You are an expert in Swedish text analysis and language preservation. Identify any FACTS or meaning that have been altered in this modernization.
 
 IGNORE (these are acceptable changes):
 - Spelling and modern language form
@@ -67,14 +67,10 @@ FLAG ONLY (critical changes):
 - What happens or doesn't happen has changed
 - Proper names (people, places) changed to different names
 
-IMPORTANT: For any changes, list each change explicitly in the format:
-"'new_word' should be changed to 'old_word'"
+For any critical changes found, describe briefly what needs to be changed in the NEW text to match the OLD text meaning but in modern words. Be specific about what needs to be changed.
 
-For example, if "Jeus" was changed to "John", report: "'John' should be changed to 'Jeus'"
-If multiple things need changing, list each one on a separate line."
-
-OLD: "${text1917}"
-NEW: "${textFSB}"
+OLD (traditional 1917): "${text1917}"
+NEW (modernized FSB): "${textFSB}"
 
 If there are no critical changes to flag, respond: ${SKIP_TOKEN}`;
 
@@ -87,7 +83,7 @@ If there are no critical changes to flag, respond: ${SKIP_TOKEN}`;
         
         return { 
             changed: true, 
-            analysis: result.substring(0, 300), 
+            analysis: result, 
             error: null 
         };
     } catch (error) {
