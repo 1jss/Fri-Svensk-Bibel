@@ -53,7 +53,7 @@ async function checkFacts(line1917, lineFSB, lineNumber) {
 
 IGNORE (these are acceptable changes):
 - Spelling and modern language form
-- Word choice (synonyms) like: "bördeman" → "förmyndare", "ty" → "för", "skall" → "ska"
+- Word choice (synonyms) like: "ty" → "för", "skall" → "ska", "spisoffer" → "matoffer", "årsgamla" → "ettåriga"
 - Archaic words → modern Swedish
 - Grammatical improvements
 - Same core meaning despite different wording

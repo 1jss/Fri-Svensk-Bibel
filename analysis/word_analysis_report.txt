@@ -1,17 +1,17 @@
 === Word Statistics Analysis ===
 
-Total unique words: 22,973
-Total word occurrences: 688,758
-Average occurrences per word: 29.98
+Total unique words: 22,962
+Total word occurrences: 688,840
+Average occurrences per word: 30.00
 
-Single-use words (hapax legomena): 9,371 (40.79% of unique words)
-Words used 2-5 times: 7,267 (31.63% of unique words)
+Single-use words (hapax legomena): 9,360 (40.76% of unique words)
+Words used 2-5 times: 7,258 (31.61% of unique words)
 
-Top 100 words cover: 381,745 occurrences
-That's 55.43% of all word occurrences
+Top 100 words cover: 381,919 occurrences
+That's 55.44% of all word occurrences
 
-Words used 100+ times: 651
-Words used 10+ times: 4,390
+Words used 100+ times: 650
+Words used 10+ times: 4,388
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -19,61 +19,109 @@ Words used 10+ times: 4,390
 30% coverage: 21 most common words
 40% coverage: 37 most common words
 50% coverage: 70 most common words
-60% coverage: 134 most common words
+60% coverage: 133 most common words
 70% coverage: 294 most common words
-80% coverage: 773 most common words
-90% coverage: 2,606 most common words
-95% coverage: 5,712 most common words
-99% coverage: 16,086 most common words
+80% coverage: 772 most common words
+90% coverage: 2,605 most common words
+95% coverage: 5,710 most common words
+99% coverage: 16,074 most common words
 
 === Frequency Distribution ===
-1 time: 9,371 words (40.79%)
-2-5 times: 7,267 words (31.63%)
-6-10 times: 2,226 words (9.69%)
-11-50 times: 2,945 words (12.82%)
-51-100 times: 515 words (2.24%)
-101-500 times: 474 words (2.06%)
+1 time: 9,360 words (40.76%)
+2-5 times: 7,258 words (31.61%)
+6-10 times: 2,233 words (9.72%)
+11-50 times: 2,947 words (12.83%)
+51-100 times: 516 words (2.25%)
+101-500 times: 473 words (2.06%)
 501-1000 times: 65 words (0.28%)
 1000+ times: 110 words (0.48%)
 
 === Word Length Analysis ===
-1-3 letters: 569 words (2.48%), avg frequency: 574.43
-4-6 letters: 7,947 words (34.59%), avg frequency: 33.98
-7-9 letters: 8,886 words (38.68%), avg frequency: 8.00
-10-12 letters: 4,249 words (18.50%), avg frequency: 4.05
-13+ letters: 1,322 words (5.75%), avg frequency: 2.71
+1-3 letters: 569 words (2.48%), avg frequency: 574.68
+4-6 letters: 7,945 words (34.60%), avg frequency: 33.98
+7-9 letters: 8,880 words (38.67%), avg frequency: 8.00
+10-12 letters: 4,244 words (18.48%), avg frequency: 4.05
+13+ letters: 1,324 words (5.77%), avg frequency: 2.71
 
-New unique words since last run: 7
+New unique words since last run: 33
 All new words:
-  1. "trummor" (10 times)
-  2. "konflikter" (5 times)
-  3. "lantbrukaren" (4 times)
-  4. "uthålligt" (3 times)
-  5. "helande" (2 times)
-  6. "trumman" (1 times)
-  7. "konflikten" (1 times)
+  1. "bagge" (46 times)
+  2. "baggar" (39 times)
+  3. "baggarna" (11 times)
+  4. "avföda" (6 times)
+  5. "presenterade" (2 times)
+  6. "misstankeoffer" (1 times)
+  7. "ätters" (1 times)
+  8. "slocknade" (1 times)
+  9. "instruera" (1 times)
+  10. "höghelig" (1 times)
+  11. "offermåltider" (1 times)
+  12. "hesroniternas" (1 times)
+  13. "karmiternas" (1 times)
+  14. "eraniternas" (1 times)
+  15. "baggen" (1 times)
+  16. "obetänksamt" (1 times)
+  17. "giltiga" (1 times)
+  18. "dragare" (1 times)
+  19. "proklamerade" (1 times)
+  20. "tvekan" (1 times)
+  21. "digför" (1 times)
+  22. "kastrerad" (1 times)
+  23. "botas" (1 times)
+  24. "skadedjur" (1 times)
+  25. "försätta" (1 times)
+  26. "suddiga" (1 times)
+  27. "bermhärtiga" (1 times)
+  28. "övergreppen" (1 times)
+  29. "baalarna" (1 times)
+  30. "vinproduktion" (1 times)
+  31. "upphunna" (1 times)
+  32. "baggarnas" (1 times)
+  33. "nasirer" (1 times)
 
-Removed unique words since last run: 22
+Removed unique words since last run: 44
 All removed words:
-  1. "tvist" (13 times)
-  2. "pukor" (10 times)
-  3. "tvister" (7 times)
-  4. "åkermannen" (4 times)
-  5. "ståndaktigt" (3 times)
-  6. "tvistefrågor" (3 times)
-  7. "puka" (2 times)
-  8. "namngivit" (2 times)
-  9. "äro" (2 times)
-  10. "oavlåtligen" (1 times)
-  11. "pukornas" (1 times)
-  12. "harpans" (1 times)
-  13. "vilostaden" (1 times)
-  14. "vederkvickelsens" (1 times)
-  15. "rådslut" (1 times)
-  16. "tillgiver" (1 times)
-  17. "befatta" (1 times)
-  18. "vederkvickelse" (1 times)
-  19. "tvistefrågan" (1 times)
-  20. "ingiver" (1 times)
-  21. "hedersamt" (1 times)
-  22. "gagneligt" (1 times)
+  1. "sade" (126 times)
+  2. "vädur" (46 times)
+  3. "vädurar" (31 times)
+  4. "vädurarna" (11 times)
+  5. "fäkreaturen" (7 times)
+  6. "fäkreatur" (2 times)
+  7. "fäkreaturs" (2 times)
+  8. "årsskiftet" (2 times)
+  9. "misstänkningsoffer" (1 times)
+  10. "förfara" (1 times)
+  11. "nazir" (1 times)
+  12. "nazirhelgd" (1 times)
+  13. "orenad" (1 times)
+  14. "upplevelser" (1 times)
+  15. "ändamål" (1 times)
+  16. "hesroniterna" (1 times)
+  17. "karmiterna" (1 times)
+  18. "iranierna" (1 times)
+  19. "könsfolk" (1 times)
+  20. "dråp" (1 times)
+  21. "ärver" (1 times)
+  22. "otillåtet" (1 times)
+  23. "ledigt" (1 times)
+  24. "blindl" (1 times)
+  25. "blodsmål" (1 times)
+  26. "fäderneärv" (1 times)
+  27. "brottsfall" (1 times)
+  28. "osant" (1 times)
+  29. "husdjurs" (1 times)
+  30. "insekter" (1 times)
+  31. "drickas" (1 times)
+  32. "övergreppsutsatta" (1 times)
+  33. "lydande" (1 times)
+  34. "reskläder" (1 times)
+  35. "ättlingarnas" (1 times)
+  36. "svärdseggen" (1 times)
+  37. "självmant" (1 times)
+  38. "sortens" (1 times)
+  39. "stäckte" (1 times)
+  40. "danska" (1 times)
+  41. "svärdsegg" (1 times)
+  42. "vädurarnas" (1 times)
+  43. "nazirer" (1 times)
+  44. "åkerman" (1 times)
