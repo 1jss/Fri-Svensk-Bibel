@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 
 // Ensure FSB_xml directory exists
 if (!fs.existsSync('FSB_xml')) {
@@ -15,7 +16,7 @@ if (fs.existsSync('FSB_xml')) {
 }
 
 // Read the translation file
-const xml_content = fs.readFileSync('FSB.xml', 'utf8');
+const xml_content = fs.readFileSync(config.data.bibles.fsbXml, 'utf8');
 
 // Split the content into bible books - simple split at BIBLEBOOK
 const bible_books = xml_content.split('<BIBLEBOOK');

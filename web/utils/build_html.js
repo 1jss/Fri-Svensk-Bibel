@@ -1,15 +1,16 @@
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.js');
 
 // Ensure FSB directory exists
-if (!fs.existsSync('FSB')) {
-  fs.mkdirSync('FSB', { recursive: true });
+if (!fs.existsSync(config.folders.fsbHtmlDir)) {
+  fs.mkdirSync(config.folders.fsbHtmlDir, { recursive: true });
 }
 // Clear the FSB directory
-if (fs.existsSync('FSB')) {
-  const files = fs.readdirSync('FSB');
+if (fs.existsSync(config.folders.fsbHtmlDir)) {
+  const files = fs.readdirSync(config.folders.fsbHtmlDir);
   files.forEach(file => {
-    const filePath = path.join('FSB', file);
+    const filePath = path.join(config.folders.fsbHtmlDir, file);
     if (fs.statSync(filePath).isFile()) {
       fs.unlinkSync(filePath);
     }
@@ -17,10 +18,10 @@ if (fs.existsSync('FSB')) {
 }
 
 // Copy content of FSB_xml folder to FSB folder, renaming .xml to .html
-const fsbXmlFiles = fs.readdirSync('FSB_xml').filter(file => path.extname(file) === '.xml');
+const fsbXmlFiles = fs.readdirSync(config.folders.fsbXmlDir).filter(file => path.extname(file) === '.xml');
 fsbXmlFiles.forEach(file => {
   const base = path.basename(file, '.xml');
-  fs.copyFileSync(path.join('FSB_xml', file), path.join('FSB', base + '.html'));
+  fs.copyFileSync(path.join(config.folders.fsbXmlDir, file), path.join(config.folders.fsbHtmlDir, base + '.html'));
 });
 
 /**
@@ -37,7 +38,7 @@ function listdirNoHidden(dirPath) {
 const mappOrdlistor = 'ordlistorHtml/';
 const ordlistor = listdirNoHidden(mappOrdlistor);
 
-const mappData = 'FSB/';
+const mappData = config.folders.fsbHtmlDir;
 const fillista = listdirNoHidden(mappData);
 
 fillista.forEach(filnamn => {
