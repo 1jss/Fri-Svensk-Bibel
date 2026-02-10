@@ -53,45 +53,69 @@ function compareQuotationMarks() {
       linesWithQuotes++;
     }
     
-    // Case 1: FSB has ending quote but 1917 does not - Remove ending quote in FSB
-    // Check if FSB CONTENT ends with " but 1917 CONTENT does NOT end with »
-    const fsbContentTrimmed = lineFSBContent.trimEnd();
-    const line1917ContentTrimmed = line1917Content.trimEnd();
+    // Trim content for comparison
+    const fsbContentTrimmed = lineFSBContent.trim();
+    const line1917ContentTrimmed = line1917Content.trim();
     
+    // Create a working copy for modifications
+    let targetContent = fsbContentTrimmed;
+    
+    // Case 1: FSB has ending quote but 1917 does not - Remove ending quote in FSB
     if (fsbContentTrimmed.endsWith('"') && !line1917ContentTrimmed.endsWith('»')) {
-      // Remove the trailing " from FSB content
-      const modifiedContent = fsbContentTrimmed.slice(0, -1);
-      lineFSB = replaceContentInXML(lineFSB, modifiedContent);
+      targetContent = targetContent.slice(0, -1);
       fixCount1++;
     }
     
     // Case 1b: Opposite - 1917 has ending » but FSB does not - Add ending quote to FSB
     else if (line1917ContentTrimmed.endsWith('»') && !fsbContentTrimmed.endsWith('"')) {
-      // Add the trailing " to FSB content
-      const modifiedContent = fsbContentTrimmed + '"';
-      lineFSB = replaceContentInXML(lineFSB, modifiedContent);
+      targetContent = targetContent + '"';
       fixCount1++;
     }
     
     // Case 1c: 1917 ends with ' but FSB does not - Add ending ' to FSB
     else if (line1917ContentTrimmed.endsWith("'") && !fsbContentTrimmed.endsWith("'")) {
-      // Add the trailing ' to FSB content
-      const modifiedContent = fsbContentTrimmed + "'";
-      lineFSB = replaceContentInXML(lineFSB, modifiedContent);
+      targetContent = targetContent + "'";
+      fixCount1++;
+    }
+    
+    // Case 1d: FSB starts with " but 1917 does not - Remove starting " from FSB
+    if (fsbContentTrimmed.startsWith('"') && !line1917ContentTrimmed.startsWith('»') && !line1917ContentTrimmed.startsWith("'")) {
+      targetContent = targetContent.slice(1);
+      fixCount1++;
+    }
+    
+    // Case 1e: FSB starts with ' but 1917 does not - Remove starting ' from FSB
+    if (fsbContentTrimmed.startsWith("'") && !line1917ContentTrimmed.startsWith("'")) {
+      targetContent = targetContent.slice(1);
+      fixCount1++;
+    }
+    
+    // Case 1f: 1917 starts with » but FSB does not - Add starting " to FSB
+    if (line1917ContentTrimmed.startsWith('»') && !fsbContentTrimmed.startsWith('"')) {
+      targetContent = '"' + targetContent;
+      fixCount1++;
+    }
+    
+    // Case 1g: 1917 starts with ' but FSB does not - Add starting ' to FSB
+    if (line1917ContentTrimmed.startsWith("'") && !fsbContentTrimmed.startsWith("'")) {
+      targetContent = "'" + targetContent;
       fixCount1++;
     }
     
     // Case 2: FSB should use ' when 1917 uses ', but it uses " instead
-    // Replace all " with ' in FSB
-    countFSBOuter = countChar(lineFSBContent, '"');
-    countFSBInner = countChar(lineFSBContent, "'");
+    countFSBOuter = countChar(fsbContentTrimmed, '"');
+    countFSBInner = countChar(fsbContentTrimmed, "'");
     
     if (countFSBOuter > 0 && countFSBInner === 0 && count1917Outer === 0 && count1917Inner > 0) {
       if (countFSBOuter === count1917Inner) {
-        const modifiedContent = lineFSBContent.replace(/"/g, "'");
-        lineFSB = replaceContentInXML(lineFSB, modifiedContent);
+        targetContent = targetContent.replace(/"/g, "'");
         fixCount2++;
       }
+    }
+    
+    // Replace the text content in the original FSB line
+    if (targetContent !== fsbContentTrimmed) {
+      lineFSB = lineFSB.replace(fsbContentTrimmed, targetContent);
     }
     
     fixedLinesFSB.push(lineFSB);
