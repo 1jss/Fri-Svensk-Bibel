@@ -1,0 +1,5622 @@
+[
+  {
+    "gender": "en",
+    "noun": "man",
+    "count": 276
+  },
+  {
+    "gender": "en",
+    "noun": "av",
+    "count": 234
+  },
+  {
+    "gender": "en",
+    "noun": "annan",
+    "count": 176
+  },
+  {
+    "gender": "en",
+    "noun": "som",
+    "count": 133
+  },
+  {
+    "gender": "en",
+    "noun": "stor",
+    "count": 123
+  },
+  {
+    "gender": "en",
+    "noun": "gång",
+    "count": 117
+  },
+  {
+    "gender": "en",
+    "noun": "människa",
+    "count": 99
+  },
+  {
+    "gender": "en",
+    "noun": "sådan",
+    "count": 98
+  },
+  {
+    "gender": "en",
+    "noun": "kvinna",
+    "count": 92
+  },
+  {
+    "gender": "en",
+    "noun": "son",
+    "count": 90
+  },
+  {
+    "gender": "ett",
+    "noun": "folk",
+    "count": 79
+  },
+  {
+    "gender": "en",
+    "noun": "enda",
+    "count": 72
+  },
+  {
+    "gender": "ett",
+    "noun": "hus",
+    "count": 67
+  },
+  {
+    "gender": "ett",
+    "noun": "stort",
+    "count": 62
+  },
+  {
+    "gender": "en",
+    "noun": "dag",
+    "count": 61
+  },
+  {
+    "gender": "en",
+    "noun": "tid",
+    "count": 60
+  },
+  {
+    "gender": "ett",
+    "noun": "land",
+    "count": 59
+  },
+  {
+    "gender": "en",
+    "noun": "psalm",
+    "count": 56
+  },
+  {
+    "gender": "en",
+    "noun": "helig",
+    "count": 52
+  },
+  {
+    "gender": "en",
+    "noun": "och",
+    "count": 52
+  },
+  {
+    "gender": "ett",
+    "noun": "annat",
+    "count": 51
+  },
+  {
+    "gender": "ett",
+    "noun": "tecken",
+    "count": 49
+  },
+  {
+    "gender": "en",
+    "noun": "liten",
+    "count": 49
+  },
+  {
+    "gender": "en",
+    "noun": "del",
+    "count": 47
+  },
+  {
+    "gender": "en",
+    "noun": "ödemark",
+    "count": 47
+  },
+  {
+    "gender": "ett",
+    "noun": "altare",
+    "count": 45
+  },
+  {
+    "gender": "en",
+    "noun": "profet",
+    "count": 44
+  },
+  {
+    "gender": "en",
+    "noun": "plats",
+    "count": 44
+  },
+  {
+    "gender": "en",
+    "noun": "kung",
+    "count": 44
+  },
+  {
+    "gender": "en",
+    "noun": "till",
+    "count": 43
+  },
+  {
+    "gender": "en",
+    "noun": "eld",
+    "count": 42
+  },
+  {
+    "gender": "en",
+    "noun": "stad",
+    "count": 41
+  },
+  {
+    "gender": "ett",
+    "noun": "förbund",
+    "count": 40
+  },
+  {
+    "gender": "en",
+    "noun": "sång",
+    "count": 40
+  },
+  {
+    "gender": "en",
+    "noun": "ny",
+    "count": 38
+  },
+  {
+    "gender": "en",
+    "noun": "halv",
+    "count": 38
+  },
+  {
+    "gender": "ett",
+    "noun": "sådant",
+    "count": 36
+  },
+  {
+    "gender": "en",
+    "noun": "behaglig",
+    "count": 36
+  },
+  {
+    "gender": "ett",
+    "noun": "gott",
+    "count": 35
+  },
+  {
+    "gender": "en",
+    "noun": "evig",
+    "count": 35
+  },
+  {
+    "gender": "ett",
+    "noun": "lejon",
+    "count": 34
+  },
+  {
+    "gender": "en",
+    "noun": "dröm",
+    "count": 33
+  },
+  {
+    "gender": "en",
+    "noun": "bagge",
+    "count": 33
+  },
+  {
+    "gender": "ett",
+    "noun": "löfte",
+    "count": 33
+  },
+  {
+    "gender": "ett",
+    "noun": "barn",
+    "count": 31
+  },
+  {
+    "gender": "ett",
+    "noun": "stycke",
+    "count": 31
+  },
+  {
+    "gender": "en",
+    "noun": "röst",
+    "count": 31
+  },
+  {
+    "gender": "en",
+    "noun": "ung",
+    "count": 30
+  },
+  {
+    "gender": "en",
+    "noun": "god",
+    "count": 29
+  },
+  {
+    "gender": "ett",
+    "noun": "ord",
+    "count": 28
+  },
+  {
+    "gender": "ett",
+    "noun": "offer",
+    "count": 28
+  },
+  {
+    "gender": "en",
+    "noun": "bock",
+    "count": 27
+  },
+  {
+    "gender": "en",
+    "noun": "ond",
+    "count": 27
+  },
+  {
+    "gender": "en",
+    "noun": "tredjedel",
+    "count": 27
+  },
+  {
+    "gender": "ett",
+    "noun": "enda",
+    "count": 26
+  },
+  {
+    "gender": "en",
+    "noun": "syn",
+    "count": 26
+  },
+  {
+    "gender": "en",
+    "noun": "hustru",
+    "count": 26
+  },
+  {
+    "gender": "en",
+    "noun": "främling",
+    "count": 26
+  },
+  {
+    "gender": "en",
+    "noun": "avsky",
+    "count": 25
+  },
+  {
+    "gender": "en",
+    "noun": "gåva",
+    "count": 25
+  },
+  {
+    "gender": "en",
+    "noun": "väg",
+    "count": 25
+  },
+  {
+    "gender": "en",
+    "noun": "dåre",
+    "count": 25
+  },
+  {
+    "gender": "ett",
+    "noun": "eldsoffer",
+    "count": 24
+  },
+  {
+    "gender": "ett",
+    "noun": "av",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "mycket",
+    "count": 23
+  },
+  {
+    "gender": "ett",
+    "noun": "evigt",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "ed",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "fest",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "p",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "ängel",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "ungtjur",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "klok",
+    "count": 23
+  },
+  {
+    "gender": "en",
+    "noun": "stark",
+    "count": 22
+  },
+  {
+    "gender": "en",
+    "noun": "styggelse",
+    "count": 22
+  },
+  {
+    "gender": "ett",
+    "noun": "ögonblick",
+    "count": 21
+  },
+  {
+    "gender": "ett",
+    "noun": "svärd",
+    "count": 21
+  },
+  {
+    "gender": "en",
+    "noun": "rättfärdig",
+    "count": 20
+  },
+  {
+    "gender": "en",
+    "noun": "ska",
+    "count": 20
+  },
+  {
+    "gender": "ett",
+    "noun": "nytt",
+    "count": 20
+  },
+  {
+    "gender": "en",
+    "noun": "gud",
+    "count": 19
+  },
+  {
+    "gender": "en",
+    "noun": "fälla",
+    "count": 19
+  },
+  {
+    "gender": "en",
+    "noun": "präst",
+    "count": 19
+  },
+  {
+    "gender": "ett",
+    "noun": "moln",
+    "count": 19
+  },
+  {
+    "gender": "ett",
+    "noun": "ljus",
+    "count": 19
+  },
+  {
+    "gender": "en",
+    "noun": "aln",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "sten",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "efter",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "mur",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "åt",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "lott",
+    "count": 18
+  },
+  {
+    "gender": "ett",
+    "noun": "hundra",
+    "count": 18
+  },
+  {
+    "gender": "en",
+    "noun": "s",
+    "count": 17
+  },
+  {
+    "gender": "ett",
+    "noun": "träd",
+    "count": 17
+  },
+  {
+    "gender": "en",
+    "noun": "död",
+    "count": 17
+  },
+  {
+    "gender": "ett",
+    "noun": "djur",
+    "count": 17
+  },
+  {
+    "gender": "en",
+    "noun": "i",
+    "count": 17
+  },
+  {
+    "gender": "en",
+    "noun": "kort",
+    "count": 17
+  },
+  {
+    "gender": "ett",
+    "noun": "namn",
+    "count": 16
+  },
+  {
+    "gender": "en",
+    "noun": "lång",
+    "count": 16
+  },
+  {
+    "gender": "en",
+    "noun": "bror",
+    "count": 16
+  },
+  {
+    "gender": "ett",
+    "noun": "vittne",
+    "count": 16
+  },
+  {
+    "gender": "en",
+    "noun": "furste",
+    "count": 16
+  },
+  {
+    "gender": "ett",
+    "noun": "brännoffer",
+    "count": 16
+  },
+  {
+    "gender": "ett",
+    "noun": "årsgammalt",
+    "count": 16
+  },
+  {
+    "gender": "en",
+    "noun": "mans",
+    "count": 16
+  },
+  {
+    "gender": "ett",
+    "noun": "år",
+    "count": 16
+  },
+  {
+    "gender": "en",
+    "noun": "dotter",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "grupp",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "oxe",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "ledare",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "ström",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "bit",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "tjänare",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "ande",
+    "count": 15
+  },
+  {
+    "gender": "en",
+    "noun": "vingård",
+    "count": 14
+  },
+  {
+    "gender": "en",
+    "noun": "för",
+    "count": 14
+  },
+  {
+    "gender": "ett",
+    "noun": "litet",
+    "count": 14
+  },
+  {
+    "gender": "ett",
+    "noun": "lamm",
+    "count": 14
+  },
+  {
+    "gender": "en",
+    "noun": "månad",
+    "count": 14
+  },
+  {
+    "gender": "en",
+    "noun": "herde",
+    "count": 14
+  },
+  {
+    "gender": "ett",
+    "noun": "avtal",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "sin",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "lag",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "slav",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "efa",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "bok",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "olycka",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "människas",
+    "count": 13
+  },
+  {
+    "gender": "ett",
+    "noun": "exempel",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "skål",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "stormvind",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "fattig",
+    "count": 13
+  },
+  {
+    "gender": "en",
+    "noun": "med",
+    "count": 13
+  },
+  {
+    "gender": "ett",
+    "noun": "par",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "far",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "hövding",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "brunn",
+    "count": 12
+  },
+  {
+    "gender": "ett",
+    "noun": "ungt",
+    "count": 12
+  },
+  {
+    "gender": "ett",
+    "noun": "felfritt",
+    "count": 12
+  },
+  {
+    "gender": "ett",
+    "noun": "får",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "felfri",
+    "count": 12
+  },
+  {
+    "gender": "ett",
+    "noun": "silverfat",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "silverskål",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "ättling",
+    "count": 12
+  },
+  {
+    "gender": "ett",
+    "noun": "starkt",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "öken",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "viss",
+    "count": 12
+  },
+  {
+    "gender": "en",
+    "noun": "vacker",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "vittnesbörd",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "tillfälle",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "orm",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "pojke",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "fiende",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "syndoffer",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "rop",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "matoffer",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "källa",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "stång",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "tält",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "grav",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "gammal",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "rik",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "byte",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "klippa",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "rike",
+    "count": 11
+  },
+  {
+    "gender": "ett",
+    "noun": "hopp",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "tjuv",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "vallfartssång",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "liknelse",
+    "count": 11
+  },
+  {
+    "gender": "en",
+    "noun": "särskild",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "förståndig",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "kärl",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "åker",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "åsna",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "sätt",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "och",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "kula",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "överdrag",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "tjur",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "fjärdedels",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "ren",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "blind",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "änka",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "föremål",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "hälft",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "snara",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "som",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "strid",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "budbärare",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "brev",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "hjälte",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "s",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "skugga",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "skrivelse",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "sorgesång",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "hjord",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "baner",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "oändlig",
+    "count": 10
+  },
+  {
+    "gender": "ett",
+    "noun": "skydd",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "öde",
+    "count": 10
+  },
+  {
+    "gender": "en",
+    "noun": "mantel",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "jungfru",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "hög",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "slaktoffer",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "slöja",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "killing",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "syndare",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "skatt",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "mycket",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "särskilt",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "mörkblått",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "vit",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "natt",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "hel",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "större",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "grop",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "ordspråk",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "tillflykt",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "avlägset",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "kunglig",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "hinder",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "bön",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "meddelande",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "dåligt",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "torrt",
+    "count": 9
+  },
+  {
+    "gender": "en",
+    "noun": "boning",
+    "count": 9
+  },
+  {
+    "gender": "ett",
+    "noun": "bröd",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "flicka",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "hand",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "hund",
+    "count": 8
+  },
+  {
+    "gender": "ett",
+    "noun": "råd",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "annans",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "kaka",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "klädnad",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "oren",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "fågel",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "främmande",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "människoson",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "dyrbar",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "örn",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "skara",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "sak",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "tapper",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "person",
+    "count": 8
+  },
+  {
+    "gender": "ett",
+    "noun": "rent",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "bokrulle",
+    "count": 8
+  },
+  {
+    "gender": "ett",
+    "noun": "slut",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "gyllene",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "rövare",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "stötesten",
+    "count": 8
+  },
+  {
+    "gender": "ett",
+    "noun": "bevis",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "uppenbarelse",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "båt",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "jude",
+    "count": 8
+  },
+  {
+    "gender": "en",
+    "noun": "flod",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "tung",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "mor",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "offergåva",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "duva",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "välsignelse",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "egyptisk",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "mäktig",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "slag",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "är",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "vass",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "visst",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "heligt",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "blomma",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "högtid",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "hårdnackat",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "tiondedels",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "korg",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "låga",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "spjut",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "antal",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "falskt",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "domare",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "kruka",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "svår",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "öppen",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "rättvis",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "härlig",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "ljud",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "högt",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "gasell",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "budskap",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "tredje",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "hovman",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "båge",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "räddad",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "hörnsten",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "falsk",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "otrogen",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "varning",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "rytande",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "jagande",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "stenhög",
+    "count": 7
+  },
+  {
+    "gender": "ett",
+    "noun": "sken",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "andekraft",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "ängla",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "sabbat",
+    "count": 7
+  },
+  {
+    "gender": "en",
+    "noun": "levande",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "öppning",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "dörr",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "längre",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "herre",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "vilddjur",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "bra",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "bestämt",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "märke",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "fråga",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "nätverk",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "gjuten",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "från",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "handfull",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "lerkärl",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "ugn",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "kvinnas",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "bättre",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "synd",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "syndabock",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "dråpare",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "arvedel",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "räddare",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "förbannelse",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "område",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "kvarleva",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "rum",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "handsbredd",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "bägare",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "syster",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "fast",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "sikel",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "hål",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "börda",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "judisk",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "hån",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "ogudaktig",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "släkte",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "hämnare",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "dum",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "lögnare",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "port",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "fikonträd",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "lärjunge",
+    "count": 6
+  },
+  {
+    "gender": "ett",
+    "noun": "rör",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "fånge",
+    "count": 6
+  },
+  {
+    "gender": "en",
+    "noun": "ark",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "skicklig",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "ensam",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "grotta",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "andra",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "röd",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "hebreisk",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "tag",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "lejoninna",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "vackert",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "tjockt",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "molnstod",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "gräns",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "kerub",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "bord",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "kvarter",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "tiondels",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "hin",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "tackoffer",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "get",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "frivilligt",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "kalv",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "barnaföderska",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "ställe",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "hemsökelse",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "fjärdedel",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "härskare",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "stam",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "tåg",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "kvarnsten",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "vanlig",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "levit",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "släkting",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "krigare",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "björn",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "stöt",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "bud",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "glädjebudskap",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "lampa",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "sjukdom",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "komplott",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "sammansvärjning",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "här",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "fat",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "brott",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "våldsam",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "dom",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "storm",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "krona",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "öga",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "hem",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "vinträd",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "vattenrik",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "hjärta",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "ont",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "nät",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "tron",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "i",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "homer",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "skepp",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "bonde",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "ganska",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "kropp",
+    "count": 5
+  },
+  {
+    "gender": "ett",
+    "noun": "föredöme",
+    "count": 5
+  },
+  {
+    "gender": "en",
+    "noun": "hjälp",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "regn",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "oändligt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "fin",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "rök",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "berg",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "egen",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "värde",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "prostituerad",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "sköka",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "femtedel",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "kista",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "befallning",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vidrighet",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "gomer",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "hade",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "ort",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "eller",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "guldkant",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "list",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "ljusstake",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "talent",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "liksidig",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "safir",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "bjällra",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "granatäpple",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "bälte",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vid",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "avgud",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "nitälskande",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "helt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "talent",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "orent",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "missgärning",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "skuldoffer",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "prästs",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "avskyvärd",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "döv",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "daglönare",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "kläde",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vagn",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tredjedels",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "ände",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "större",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "mindre",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tiondedel",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "högtidsförsamling",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "lämplig",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "mördare",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "grushög",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "verk",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "visa",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "kommande",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "skam",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "dåraktigt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "tomt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "säkert",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "bakhåll",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "påle",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "beskrivning",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "gudsman",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vinlägel",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "gudsmänniska",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "silverpenning",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "benjaminit",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "bestående",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "ärlig",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "mänskligt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vän",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tjänstekvinna",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "stund",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "vall",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "hydda",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "sköld",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "långt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "hårt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "orsak",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "lögn",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "tempel",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tröskplats",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "lögnens",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "dån",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "ständigt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "kungligt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "lämpligt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "rädsla",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "fasta",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "hav",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "mål",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "arv",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "borg",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "framtid",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "fårhjord",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "oförnuftig",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "ceder",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "horn",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "läkedom",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "glatt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "pålitligt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tidpunkt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "lilja",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "trogen",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "brinnande",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "rest",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "tillhåll",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "sträng",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "räddning",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "förödande",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "översvämmande",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "brud",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "bönehus",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "väldigt",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "klagosång",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "panter",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "hjul",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "väldigt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "envis",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "varnande",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "by",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "tjänst",
+    "count": 4
+  },
+  {
+    "gender": "en",
+    "noun": "faris",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "liv",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "andligt",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "gyllene",
+    "count": 4
+  },
+  {
+    "gender": "ett",
+    "noun": "fäste",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "vind",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "treårig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "turturduva",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "fruktan",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "vattenkälla",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "måltid",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "vattenbrunn",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "from",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "hånfull",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "mark",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ståt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förskräckelse",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "lyckosam",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "huggorm",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "snabb",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "eldslåga",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "stav",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "östanvind",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "plåga",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "påminnelse",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "bestämd",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "omväg",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "eldstod",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "bra",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "minne",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "käpp",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "gravid",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ovän",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förtärande",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "helgedom",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "rand",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "täcke",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "förhänge",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "karneol",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "topas",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "smaragd",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "kalcedon",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "hyacint",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "krysolit",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "jaspis",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "gård",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "orätt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "osyrad",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "viftoffer",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "fläck",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "skandal",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "försmådd",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "boskapsdjur",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "jubelår",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "viloplats",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "dagsresa",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "draget",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "familj",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "sannskyldig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "släkt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "konflikt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "fruktansvärd",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "utlänning",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "kviga",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "lån",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "arm",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "oskyldig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "varnagel",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "regnskur",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "skott",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "bitter",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "minnesmärke",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "tveeggat",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "profetissa",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "urval",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "duk",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "efod",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "gåta",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "guldsmed",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "efterskörd",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "dyr",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "respekterad",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "har",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "vävbom",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "glad",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "gudaväsen",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "amalekit",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "åkerstycke",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "björninna",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "rättskaffens",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "varv",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "försyndelse",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "bättre",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "läderbälte",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "säng",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "anfall",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ritning",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "rykte",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "kungarike",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "avdelning",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ordning",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "avkomling",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "berättelse",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "säker",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "hånare",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "sitt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "pålitlig",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "bördigt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "dåraktig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "hemlig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "sj",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förseglad",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "motsträvigt",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "mörker",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "bred",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "grym",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "spegel",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "krok",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "brudgum",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "jämn",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "krossat",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "dålig",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "grönskande",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "krossad",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "rätt",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "tal",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "sann",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "skyddsmur",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "anledning",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "lögnaktig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "stadig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "kungs",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "furstes",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "envis",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "dåres",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "snål",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "djup",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "gammalt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "orättvis",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "signetring",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "trädgård",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "vakttorn",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "känsla",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "trästycke",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "berusad",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förebild",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "främmande",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "hedmark",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "våg",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "ämne",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "vinpress",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "gren",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "frukt",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "församling",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "anslag",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förhärjare",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "flöjt",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "måttband",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "högtidsdag",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "belägringsmur",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "sjättedels",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "fjärde",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "förbud",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "mun",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ljungeld",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "ännu",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "mäktigt",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "sänklod",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "senapskorn",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "tulltjänsteman",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "kamel",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "nålsöga",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "pund",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "alabasterflaska",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "krans",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "svamp",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "dop",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "synagoga",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "summa",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "linneduk",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "samaritisk",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "deg",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "förhoppning",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "viktig",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "apostel",
+    "count": 3
+  },
+  {
+    "gender": "en",
+    "noun": "andlig",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "sigill",
+    "count": 3
+  },
+  {
+    "gender": "ett",
+    "noun": "vimmel",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "kött",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "skyddande",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "välde",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "torn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tråd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rykande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vildåsna",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "smältugn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "försoningsgåva",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lägel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "buske",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "jordstycke",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "lyckosamt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hårmantel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hungersnöd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "smaklig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "månads",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "avstånd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ek",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fotsid",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kananeisk",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "steg",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "rastplats",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "äldre",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kanaanisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "glupande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "högtidlig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hebr",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "pinne",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "blodsbrudgum",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "åtskillnad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "äter",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stridsman",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "tungt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "syl",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ogift",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "villigt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "nådastol",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "helhet",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "galler",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "väska",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "karbunkel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "agat",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ametist",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "onyx",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "oljebrödskaka",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tunnkaka",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "konstnärligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "snare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "villig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "guldrand",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "brokig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "beräkning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bestående",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "orättfärdighet",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "heloffer",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "löftesoffer",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "självdött",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "träkärl",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "säck",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "upphöjning",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "vanligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rödvit",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "elakartad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "klädning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "log",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vilosabbat",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ko",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "vilt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "orenhet",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "inföding",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "lyte",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skada",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "dött",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "israelitisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "f",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hyresgäst",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "riktig",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "sämre",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "under",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "rosenrött",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bår",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "nasirlöfte",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "fint",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "spädbarn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "etiopisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kvist",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tionde",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "smal",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kal",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vildoxes",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stjärna",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "mindre",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rättsstadga",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "änkas",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "mördares",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tog",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fridsam",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "barmhärtig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bild",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "mat",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "köksträdgård",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "blodssak",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "avskrift",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förbrytelse",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "hårstr",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "himmel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "samlad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rakt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "härskri",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "folkskara",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "avskedspresent",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "gissel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fot",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hammare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "terebint",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "såg",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bihustru",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vana",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gjorde",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "levitisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kniv",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "trettiotal",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "egendom",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tröst",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "klagorop",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "slump",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bär",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "profetisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skräck",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "israelit",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sträcka",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "hår",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fjäder",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kopparhjälm",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sa",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kom",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "säkerhet",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "pansar",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gick",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "krigsrop",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "snabbt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "strängt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "otuktig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kåpa",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fet",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "bittert",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gudlös",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "jebus",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vattenflod",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "linne",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "druvkaka",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "utfall",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "resande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gudstjänst",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "etiopier",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "reslig",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "förtryckt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "filisteisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "snöig",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "fast",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "önskan",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stol",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "helt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vägg",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "tak",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "trapphus",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tyrisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "utslagen",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "motståndare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ginstbuske",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "jordbävning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "häst",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bergsgud",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fog",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "dubbel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vild",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "segerpil",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "stengolv",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "förtroende",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "vad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fikonkaka",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "pelarhuvud",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "avlägsen",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "terebinth",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bestämmelse",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skrift",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "konstnär",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "väldig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "krigshär",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "rökelsekar",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förstling",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bjälke",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skriftlärd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förlåtande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "nådig",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "påbud",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kopia",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "festdag",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vandring",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "resa",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vindpust",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fläkt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gryning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "klädsel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "våldsverkare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stridsrustad",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "vinterträd",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "olivträd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "brottslig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rymlig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "prövning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "blick",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tröskvagn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ostrafflig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "glödande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stum",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gäst",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lovsång",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "drottning",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "värn",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "skämt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hop",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "palmträd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gördel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lön",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "avvant",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vallfärdssång",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vakt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "försvinnande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kedja",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "hederligt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "livets",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "smycke",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "väpnad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fördärvad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lykta",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "yngling",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "slarvig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "får",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "uppfylld",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "lugnt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ovänlig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tålmodig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "mild",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ära",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "väns",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "djupt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "brutet",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förlorad",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "ostraffat",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "hörn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kyss",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "törntagg",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "flykting",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stolt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hemsk",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "fåfängt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "högre",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "elände",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "ofött",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "avskild",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "morgonrodnad",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "gurkfält",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lågande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "talar",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sjuk",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "naket",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "flygande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "harpa",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "dagakarl",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "barnaföderskas",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ljusets",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skyfall",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "obevekligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "verklig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tavla",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lerkruka",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "frälsat",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "erfaren",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "beläte",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sky",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "mörkt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sorgdräkt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "jord",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gata",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "basun",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "nådens",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "härligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "betesmark",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lägerplats",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "förbannelsens",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "brännande",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "åkerfält",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "damm",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bur",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ende",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "guldsmeds",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "fridfullt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "svårt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "torr",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "illvilligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "värdelös",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skogbevuxen",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "rep",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fader",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "köpebrev",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "kvinnohjärta",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "drake",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "ok",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bäck",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "väktare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vågskål",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "människohand",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "slagregn",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "amor",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hetitisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ring",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fräck",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "obetydligt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "frodigt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "mordsvärd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "blixt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "ödslig",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "fredsavtal",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "rassel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "mätstång",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "fyrkant",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "längd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "yttre",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kvadrat",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "frånskild",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stamlotts",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "mått",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "punkt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "försök",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "blandning",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "djurs",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "omvänd",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bland",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "öra",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "riktigt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vars",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "gärning",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "p",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "åsninnas",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förlamad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lapp",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "synagogföreståndare",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "sädesfält",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "senapsfr",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "surdeg",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "spöke",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "timme",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "bröllop",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "höna",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "bank",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förberedelse",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skylt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "stenig",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "grekisk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "purpurfärgad",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "krubba",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "härlighet",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "synderska",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "samaritan",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "skorpion",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "diskussion",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "örtagård",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "garvare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hövitsman",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tjänsteflicka",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "romersk",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "ovärdigt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lärare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "rättfärdighet",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "liknande",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "kroppsligt",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "levande",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "vishet",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "köttsligt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "byggnad",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "skådespel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förmaning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "mörk",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kroppsdel",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "sorts",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "hemlighet",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "lukt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "allt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "utjämning",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "kännetecken",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "tro",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "kraft",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "uppriktigt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "förlust",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "avbild",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "anständigt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "församlingsföreståndare",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "undervisning",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "överstepräst",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "testamente",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "skarpt",
+    "count": 2
+  },
+  {
+    "gender": "en",
+    "noun": "regnbåge",
+    "count": 2
+  },
+  {
+    "gender": "ett",
+    "noun": "glashav",
+    "count": 2
+  }
+]
