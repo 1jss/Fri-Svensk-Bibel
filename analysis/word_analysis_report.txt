@@ -1,17 +1,17 @@
 === Word Statistics Analysis ===
 
-Total unique words: 22,947
-Total word occurrences: 688,934
-Average occurrences per word: 30.02
+Total unique words: 22,940
+Total word occurrences: 688,955
+Average occurrences per word: 30.03
 
-Single-use words (hapax legomena): 9,348 (40.74% of unique words)
-Words used 2-5 times: 7,256 (31.62% of unique words)
+Single-use words (hapax legomena): 9,340 (40.71% of unique words)
+Words used 2-5 times: 7,263 (31.66% of unique words)
 
-Top 100 words cover: 382,013 occurrences
+Top 100 words cover: 382,046 occurrences
 That's 55.45% of all word occurrences
 
 Words used 100+ times: 650
-Words used 10+ times: 4,387
+Words used 10+ times: 4,384
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -22,51 +22,48 @@ Words used 10+ times: 4,387
 60% coverage: 133 most common words
 70% coverage: 294 most common words
 80% coverage: 771 most common words
-90% coverage: 2,603 most common words
-95% coverage: 5,704 most common words
-99% coverage: 16,058 most common words
+90% coverage: 2,602 most common words
+95% coverage: 5,702 most common words
+99% coverage: 16,051 most common words
 
 === Frequency Distribution ===
-1 time: 9,348 words (40.74%)
-2-5 times: 7,256 words (31.62%)
-6-10 times: 2,232 words (9.73%)
-11-50 times: 2,947 words (12.84%)
+1 time: 9,340 words (40.71%)
+2-5 times: 7,263 words (31.66%)
+6-10 times: 2,229 words (9.72%)
+11-50 times: 2,944 words (12.83%)
 51-100 times: 516 words (2.25%)
 101-500 times: 473 words (2.06%)
 501-1000 times: 65 words (0.28%)
 1000+ times: 110 words (0.48%)
 
 === Word Length Analysis ===
-1-3 letters: 569 words (2.48%), avg frequency: 574.77
-4-6 letters: 7,944 words (34.62%), avg frequency: 33.99
-7-9 letters: 8,874 words (38.67%), avg frequency: 8.01
-10-12 letters: 4,239 words (18.47%), avg frequency: 4.06
-13+ letters: 1,321 words (5.76%), avg frequency: 2.72
+1-3 letters: 569 words (2.48%), avg frequency: 574.80
+4-6 letters: 7,944 words (34.63%), avg frequency: 33.99
+7-9 letters: 8,871 words (38.67%), avg frequency: 8.01
+10-12 letters: 4,237 words (18.47%), avg frequency: 4.05
+13+ letters: 1,319 words (5.75%), avg frequency: 2.72
 
-New unique words since last run: 8
+New unique words since last run: 6
 All new words:
-  1. "tulltjänstemän" (13 times)
-  2. "tulltjänstemännen" (3 times)
-  3. "tulltjänstemannen" (3 times)
-  4. "tulltjänsteman" (3 times)
-  5. "fascinerades" (1 times)
-  6. "förundrade" (1 times)
-  7. "hannas" (1 times)
-  8. "kuperad" (1 times)
+  1. "sparkade" (2 times)
+  2. "krön" (1 times)
+  3. "hälsad" (1 times)
+  4. "förlåts" (1 times)
+  5. "funktionshindrad" (1 times)
+  6. "frimodiga" (1 times)
 
-Removed unique words since last run: 14
+Removed unique words since last run: 13
 All removed words:
-  1. "tullindrivare" (7 times)
-  2. "skatteindrivare" (4 times)
-  3. "tullindrivarna" (2 times)
-  4. "publikaner" (2 times)
-  5. "publikanen" (1 times)
-  6. "resesällskapet" (1 times)
-  7. "bättringens" (1 times)
-  8. "svårtillgängligt" (1 times)
-  9. "skänkmästare" (1 times)
-  10. "krogbesökare" (1 times)
-  11. "skattemottagare" (1 times)
-  12. "tullen" (1 times)
-  13. "publiken" (1 times)
-  14. "skatteindrivarna" (1 times)
+  1. "väktaren" (11 times)
+  2. "ängla" (7 times)
+  3. "vattenförmågorna" (1 times)
+  4. "silverband" (1 times)
+  5. "tjänstekvines" (1 times)
+  6. "förlåtits" (1 times)
+  7. "handdagen" (1 times)
+  8. "migs" (1 times)
+  9. "jordegendomar" (1 times)
+  10. "bevärdigat" (1 times)
+  11. "present" (1 times)
+  12. "saktmodig" (1 times)
+  13. "djärvhet" (1 times)
