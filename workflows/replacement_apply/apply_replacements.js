@@ -10,6 +10,8 @@ const notApplied = [];
 for (const rep of replacements) {
     if (xmlContent.includes(rep.old)) {
         xmlContent = xmlContent.split(rep.old).join(rep.new);
+    } else if (xmlContent.includes(rep.new)) {
+        console.log(`Replacement already applied for line ${rep.line}, skipping.`);
     } else {
         notApplied.push(rep);
     }

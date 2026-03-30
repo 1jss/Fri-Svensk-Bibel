@@ -1,17 +1,17 @@
 === Word Statistics Analysis ===
 
-Total unique words: 22,924
-Total word occurrences: 688,896
-Average occurrences per word: 30.05
+Total unique words: 22,918
+Total word occurrences: 688,887
+Average occurrences per word: 30.06
 
-Single-use words (hapax legomena): 9,325 (40.68% of unique words)
-Words used 2-5 times: 7,264 (31.69% of unique words)
+Single-use words (hapax legomena): 9,321 (40.67% of unique words)
+Words used 2-5 times: 7,266 (31.70% of unique words)
 
-Top 100 words cover: 382,005 occurrences
+Top 100 words cover: 382,017 occurrences
 That's 55.45% of all word occurrences
 
 Words used 100+ times: 648
-Words used 10+ times: 4,380
+Words used 10+ times: 4,378
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -21,44 +21,35 @@ Words used 10+ times: 4,380
 50% coverage: 70 most common words
 60% coverage: 133 most common words
 70% coverage: 294 most common words
-80% coverage: 771 most common words
-90% coverage: 2,600 most common words
-95% coverage: 5,699 most common words
-99% coverage: 16,036 most common words
+80% coverage: 770 most common words
+90% coverage: 2,598 most common words
+95% coverage: 5,695 most common words
+99% coverage: 16,030 most common words
 
 === Frequency Distribution ===
-1 time: 9,325 words (40.68%)
-2-5 times: 7,264 words (31.69%)
-6-10 times: 2,228 words (9.72%)
-11-50 times: 2,943 words (12.84%)
+1 time: 9,321 words (40.67%)
+2-5 times: 7,266 words (31.70%)
+6-10 times: 2,225 words (9.71%)
+11-50 times: 2,942 words (12.84%)
 51-100 times: 516 words (2.25%)
 101-500 times: 473 words (2.06%)
 501-1000 times: 65 words (0.28%)
 1000+ times: 110 words (0.48%)
 
 === Word Length Analysis ===
-1-3 letters: 569 words (2.48%), avg frequency: 574.75
-4-6 letters: 7,943 words (34.65%), avg frequency: 33.99
-7-9 letters: 8,862 words (38.66%), avg frequency: 8.02
-10-12 letters: 4,232 words (18.46%), avg frequency: 4.06
+1-3 letters: 569 words (2.48%), avg frequency: 574.78
+4-6 letters: 7,941 words (34.65%), avg frequency: 34.00
+7-9 letters: 8,858 words (38.65%), avg frequency: 8.03
+10-12 letters: 4,232 words (18.47%), avg frequency: 4.06
 13+ letters: 1,318 words (5.75%), avg frequency: 2.72
 
-New unique words since last run: 3
-All new words:
-  1. "hemskheter" (1 times)
-  2. "husens" (1 times)
-  3. "byten" (1 times)
+New unique words since last run: 0
 
-Removed unique words since last run: 11
+Removed unique words since last run: 6
 All removed words:
-  1. "avguderna" (2 times)
-  2. "flyktingens" (1 times)
-  3. "styggt" (1 times)
-  4. "sinsemellan" (1 times)
-  5. "vårdade" (1 times)
-  6. "uppsökte" (1 times)
-  7. "uppsöker" (1 times)
-  8. "betesplatsen" (1 times)
-  9. "klaraste" (1 times)
-  10. "grumlar" (1 times)
-  11. "avgudernas" (1 times)
+  1. "hemvist" (8 times)
+  2. "jämväl" (1 times)
+  3. "trossen" (1 times)
+  4. "tillredda" (1 times)
+  5. "mörket" (1 times)
+  6. "förtälj" (1 times)
