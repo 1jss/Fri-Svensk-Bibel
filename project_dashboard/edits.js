@@ -1,5 +1,113 @@
 const edits = [
   {
+    "startLine": 25315,
+    "endLine": 25341,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25344,
+    "endLine": 25345,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28126,
+    "endLine": 28142,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28152,
+    "endLine": 28168,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25315,
+    "endLine": 25315,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25318,
+    "endLine": 25318,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25323,
+    "endLine": 25328,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25330,
+    "endLine": 25330,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25334,
+    "endLine": 25339,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25341,
+    "endLine": 25341,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 25345,
+    "endLine": 25345,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28126,
+    "endLine": 28133,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28135,
+    "endLine": 28135,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28137,
+    "endLine": 28137,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28139,
+    "endLine": 28140,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28142,
+    "endLine": 28142,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28152,
+    "endLine": 28159,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
+    "startLine": 28161,
+    "endLine": 28162,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-24T05:50:07.421Z"
+  },
+  {
     "startLine": 23071,
     "endLine": 23136,
     "status": "AI_EDITED",
