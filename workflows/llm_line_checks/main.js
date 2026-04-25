@@ -1,17 +1,18 @@
 const fs = require('fs');
 const path = require('path');
 const config = require('../../config.js');
-const { checkSpellingAndFacts } = require('./checks/check_spelling_facts.js');
-const { checkSentenceFlow } = require('./checks/check_sentence_flow.js');
-const { resolveSpellingAndFacts } = require('./checks/resolve_spelling_facts.js');
-const { resolveSentenceFlow } = require('./checks/resolve_sentence_flow.js');
+// Experts (validators)
+const { checkFacts } = require('./checks/check_spelling_facts.js');
+const { checkModernization } = require('./checks/check_modernization.js');
+// Unified Fixer
+const { unifiedFix } = require('./checks/unified_fixer.js');
 const { stripXML } = require('../../utils/llm-runner.js');
 
-/**
- * Main orchestrator for line-by-line LLM checks with resolver loop
- * For each line: Check -> Resolve (if needed) -> Check again -> Loop until resolved or max failures
- * Only applies changes if all checks pass. Otherwise keeps original.
- */
+  /**
+   * Main orchestrator for line-by-line LLM checks with resolver loop
+   * For each line: Check facts, check modernization, fix if needed, repeat up to 3 times
+   * Only applies changes if BOTH experts pass. Otherwise keeps best version reached.
+   */
 
 async function main() {
     const startLine = (parseInt(process.argv[2]) || 1) - 1;
@@ -83,146 +84,155 @@ async function main() {
             applied: false
         };
 
-        // Check-Resolve Loop
-        let failedAttempts = 0;
+        // EXPERT VALIDATION LOOP - Permissive Mode
+        // 1. Run all experts to gather feedback
+        // 2. Unified fixer addresses all feedback at once
+        // 3. Re-validate improved version
+        // 4. Repeat until all experts are satisfied or max attempts reached
+        let attempt = 0;
         let allChecksPassed = false;
         let currentLine = lineFSB;
-        let lastSuccessfulLine = lineFSB;
 
-        while (failedAttempts < maxFailedAttempts && !allChecksPassed) {
-            failedAttempts++;
-            console.log(`  Attempt ${failedAttempts}/${maxFailedAttempts}:`);
+        while (attempt < maxFailedAttempts && !allChecksPassed) {
+            attempt++;
+            console.log(`  Attempt ${attempt}/${maxFailedAttempts}:`);
 
-            // Run Check 1: Spelling and Facts
-            console.log(`    - Checking spelling/facts...`);
-            const check1 = await checkSpellingAndFacts(line1917, currentLine, i + 1);
+            // === EXPERT VALIDATION PHASE ===
+            console.log(`    - Running expert validators...`);
             
-            // Run Check 2: Sentence Flow
-            console.log(`    - Checking sentence flow...`);
-            const check2 = await checkSentenceFlow(currentLine, contextLines1917, i + 1);
+            // Facts Expert: Checks if meaning is preserved from 1917
+            const factsExpert = await checkFacts(line1917, currentLine, i + 1);
+            
+            // Modernization Expert: Checks if text needs modernization
+            const modernizationExpert = await checkModernization(currentLine, i + 1);
 
             lineResults.checks.push({
-                attempt: failedAttempts,
-                check1: check1,
-                check2: check2
+                attempt: attempt,
+                facts: factsExpert,
+                modernization: modernizationExpert
             });
 
-            // Determine if checks passed
-            const check1Passed = !check1.changed && !check1.error;
-            const check2Passed = !check2.hasIssues && !check2.error;
-            allChecksPassed = check1Passed && check2Passed;
+            // Check if all experts are satisfied
+            const factsOK = !factsExpert.factualChangeDetected && !factsExpert.error;
+            const modernizationOK = !modernizationExpert.needsModernization && !modernizationExpert.error;
+            allChecksPassed = factsOK && modernizationOK;
 
             if (allChecksPassed) {
-                console.log(`    ✓ All checks passed!`);
+                console.log(`    ✓ All experts satisfied!`);
                 lineResults.finalStatus = 'resolved_success';
-                lastSuccessfulLine = currentLine;
                 break;
             }
 
-            // Log why checks failed
-            if (!check1Passed) {
-                if (check1.error) {
-                    console.log(`    ✗ Check1 error: ${check1.error}`);
-                } else if (check1.changed) {
-                    console.log(`    ✗ Check1 found fact changes: ${check1.analysis}`);
-                    if (debugMode && check1.validated) {
-                        console.log(`      Validation: isValid=${check1.validated.isValid}, confidence=${(check1.validated.confidence * 100).toFixed(0)}%`);
-                        if (check1.validated.issues.length > 0) {
-                            console.log(`      Issues: ${check1.validated.issues.join(', ')}`);
-                        }
-                    }
+            // === LOG EXPERT FEEDBACK ===
+            let issueCount = 0;
+            if (!factsOK) {
+                if (factsExpert.error) {
+                    console.log(`    ⚠ Facts Expert error: ${factsExpert.error}`);
+                } else if (factsExpert.factualChangeDetected) {
+                    console.log(`    ✗ Facts Expert: "${factsExpert.explanation?.substring(0, 70)}${factsExpert.explanation?.length > 70 ? '...' : ''}"`);
+                    issueCount++;
                 }
             }
 
-            if (!check2Passed) {
-                if (check2.error) {
-                    console.log(`    ✗ Check2 error: ${check2.error}`);
-                } else if (check2.hasIssues) {
-                    console.log(`    ✗ Check2 found flow issues (severity: ${check2.severity})`);
-                    if (debugMode) {
-                        if (check2.flowIssues.length > 0) {
-                            console.log(`      Flow: ${check2.flowIssues.join(', ')}`);
-                        }
-                        if (check2.consistencyIssues.length > 0) {
-                            console.log(`      Consistency: ${check2.consistencyIssues.join(', ')}`);
-                        }
-                        if (check2.suggestions) {
-                            console.log(`      Suggestions: ${check2.suggestions}`);
-                        }
-                    }
+            if (!modernizationOK) {
+                if (modernizationExpert.error) {
+                    console.log(`    ⚠ Modernization Expert error: ${modernizationExpert.error}`);
+                } else if (modernizationExpert.needsModernization) {
+                    const elemList = modernizationExpert.archaicElements.slice(0, 2).join(', ');
+                    console.log(`    ✗ Modernization Expert: ${elemList}${modernizationExpert.archaicElements.length > 2 ? '...' : ''}`);
+                    issueCount++;
                 }
             }
 
-            // Try to resolve issues
-            console.log(`    - Attempting resolution...`);
-            let resolved1 = null;
-            let resolved2 = null;
-            let somethingResolved = false;
-
-            if (!check1Passed) {
-                resolved1 = await resolveSpellingAndFacts(line1917, currentLine, check1, i + 1);
-                if (resolved1.resolved) {
-                    console.log(`      ✓ Proposed spelling/facts fix`);
-                    if (debugMode) {
-                        console.log(`        Original: "${stripXML(currentLine).substring(0, 60)}..."`);
-                        console.log(`        Proposed: "${stripXML(resolved1.proposedLine).substring(0, 60)}..."`);
-                    }
-                    currentLine = resolved1.proposedLine;
-                    somethingResolved = true;
-                } else {
-                    console.log(`      ✗ No spelling/facts fix possible`);
-                }
+            // If max attempts reached
+            if (attempt >= maxFailedAttempts) {
+                console.log(`  Max attempts (${maxFailedAttempts}) reached`);
+                lineResults.finalStatus = 'max_attempts_reached';
+                break;
             }
 
-            if (!check2Passed) {
-                resolved2 = await resolveSentenceFlow(currentLine, contextLines1917, check2, i + 1);
-                if (resolved2.resolved) {
-                    console.log(`      ✓ Proposed sentence flow fix`);
-                    currentLine = resolved2.proposedLine;
-                    somethingResolved = true;
-                } else {
-                    console.log(`      ✗ No sentence flow fix possible`);
+            // === UNIFIED FIXER PHASE ===
+            // Consolidate all expert feedback and produce ONE improved version
+            console.log(`    - Unified fixer consolidating ${issueCount} expert feedback...`);
+            const fixResult = await unifiedFix(
+                line1917,
+                currentLine,
+                {
+                    facts: factsExpert,
+                    modernization: modernizationExpert
+                },
+                contextLines1917,
+                i + 1
+            );
+
+            if (fixResult) {
+                console.log(`      ✓ Improvement applied`);
+                if (debugMode) {
+                    console.log(`        ${fixResult.explanation}`);
                 }
-            }
+                currentLine = fixResult.proposedLine;
+                lineResults.resolutions.push({
+                    attempt: attempt,
+                    improved: true,
+                    feedbackAddressed: fixResult.feedbackAddressed
+                });
 
-            lineResults.resolutions.push({
-                attempt: failedAttempts,
-                resolved1: resolved1,
-                resolved2: resolved2
-            });
-
-            // If nothing could be resolved, stop trying
-            if (!somethingResolved) {
-                console.log(`    ✗ No further resolutions possible - giving up`);
-                lineResults.finalStatus = 'unresolvable';
+                // Continue to next attempt with improved version
+                if (attempt < maxFailedAttempts) {
+                    console.log(`    - Continuing to next attempt...`);
+                }
+            } else {
+                console.log(`    - No improvement possible - stopping`);
+                lineResults.finalStatus = 'best_effort_reached';
+                lineResults.resolutions.push({
+                    attempt: attempt,
+                    improved: false
+                });
                 break;
             }
         }
 
-        if (failedAttempts >= maxFailedAttempts && !allChecksPassed) {
-            console.log(`  Max failed attempts (${maxFailedAttempts}) reached without full resolution`);
-            lineResults.finalStatus = 'max_attempts_failed';
+        if (attempt >= maxFailedAttempts && !allChecksPassed) {
+            console.log(`  Max attempts (${maxFailedAttempts}) reached - applying best version`);
+            if (lineResults.finalStatus !== 'best_effort_reached') {
+                lineResults.finalStatus = 'max_attempts_reached';
+            }
         }
 
-        // Only update FSB if ALL checks passed
-        if (allChecksPassed && lastSuccessfulLine !== lineFSB) {
-            console.log(`  ✓ Applying resolved version to FSB`);
-            lineResults.finalLineFSB = lastSuccessfulLine;
+        // === APPLICATION PHASE ===
+        // Apply the best version reached (permissive mode)
+        if (currentLine !== lineFSB) {
+            console.log(`  ✓ Applying improved version to FSB`);
+            lineResults.finalLineFSB = currentLine;
             lineResults.applied = true;
-            linesFSB[i] = lastSuccessfulLine;
-        } else if (allChecksPassed && lastSuccessfulLine === lineFSB) {
-            console.log(`  ✓ Line already correct - no changes`);
-            lineResults.finalStatus = 'already_correct';
+            linesFSB[i] = currentLine;
+            
+            if (allChecksPassed) {
+                console.log(`    All experts satisfied!`);
+            } else {
+                console.log(`    Best effort after ${attempt} attempt(s)`);
+            }
         } else {
-            console.log(`  ✗ Not applying changes - checks did not fully pass`);
+            console.log(`  ✓ Already correct - no changes`);
             lineResults.finalLineFSB = lineFSB;
             lineResults.applied = false;
+            if (lineResults.finalStatus !== 'resolved_success') {
+                lineResults.finalStatus = 'already_correct';
+            }
         }
+
+        // Save results after each line
+        allResults[lineKey] = lineResults;
+        fs.writeFileSync(resultsPath, JSON.stringify(allResults, null, 2));
+        
+        // Write updated FSB back to file after each line
+        const updatedFSB = linesFSB.join('\n');
+        fs.writeFileSync(config.data.bibles.fsbXml, updatedFSB);
     }
 
-    // Write updated FSB back to file
-    const updatedFSB = linesFSB.join('\n');
-    fs.writeFileSync(config.data.bibles.fsbXml, updatedFSB);
+    // Final write to ensure all changes are saved
+    const finalFSB = linesFSB.join('\n');
+    fs.writeFileSync(config.data.bibles.fsbXml, finalFSB);
 
     console.log(`\n✓ Line checks complete`);
     console.log(`✓ Results saved to: ${resultsPath}`);

@@ -1,0 +1,1215 @@
+{
+  "line_17513": {
+    "lineNumber": 17513,
+    "line1917": "      <VERS vnumber=\"1\">Halleluja! Loven HERRENS namn, loven det, i HERRENS tjänare,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"1\">Halleluja! Lova Herrens namn, lova honom, ni som tjänar Herren.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"1\">Halleluja! Lova HERRENS namn, lova det, i HERRENS tjänst.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17513,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Från 'Loven' till 'Lova'",
+            "Från 'loven det' till 'lova honom'",
+            "Från 'i HERRENS tjänare' till 'ni som tjänar Herren'"
+          ],
+          "explanation": "Flera betydande förändringar har skett. Första raden ändras från en substantivform ('Loven') till ett verb ('Lova'). Frasen 'loven det' (att lovprisade det) ersätts med 'lova honom', vilket är en specifik handling riktad mot Gud. Slutligen byts den passiva/generiska frasen 'i HERRENS tjänare' ut mot en aktiv och direkt tilltalande form: 'ni som tjänar Herren'. Detta ändrar vem som lovprisar (från att vara i tjänst till att vara specifikt tilltalade) och hur det formuleras.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17513,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17513,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Från 'loven det' till 'lovpris honom'"
+          ],
+          "explanation": "Den ursprungliga texten säger 'loven det', vilket betyder att man lovar/hyllar själva namnet. Den aktuella versionen ändrar detta till 'lovpris honom', vilket fokuserar på att hylla personen (Herren) snarare än bara namnet. Detta är en subtil men viktig förändring i fokus och betydelse.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17513,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17513,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Ändring från 'Loven' till 'Lova'",
+            "Ändring från 'tjänare' till 'tjänst'"
+          ],
+          "explanation": "Det finns två faktiska ändringar. Första förändringen är att substantivet 'Loven' (berömmet/hyllningen) har ersatts med verbet 'Lova' (att lovprisande). Detta ändrar den grammatiska strukturen och innebörden från ett konstaterat tillstånd till en handling. Den andra förändringen är att ordet 'tjänare' (person som tjänar) har ersatts med 'tjänst' (handling/arbete), vilket byter ut subjekt/objekt-relationen i frasen.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17513,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Flera betydande förändringar har skett. Första raden ändras från en substantivform ('Loven') till ett verb ('Lova'). Frasen 'loven det' (att lovprisade det) ersätts med 'lova honom', vilket är en specifik handling riktad mot Gud. Slutligen byts den passiva/generiska frasen 'i HERRENS tjänare' ut mot en aktiv och direkt tilltalande form: 'ni som tjänar Herren'. Detta ändrar vem som lovprisar (från att vara i tjänst till att vara specifikt tilltalade) och hur det formuleras.",
+          "  Changes detected: Från 'Loven' till 'Lova', Från 'loven det' till 'lova honom', Från 'i HERRENS tjänare' till 'ni som tjänar Herren'"
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Den ursprungliga texten säger 'loven det', vilket betyder att man lovar/hyllar själva namnet. Den aktuella versionen ändrar detta till 'lovpris honom', vilket fokuserar på att hylla personen (Herren) snarare än bara namnet. Detta är en subtil men viktig förändring i fokus och betydelse.",
+          "  Changes detected: Från 'loven det' till 'lovpris honom'"
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  },
+  "line_17514": {
+    "lineNumber": 17514,
+    "line1917": "      <VERS vnumber=\"2\">I som stån i HERRENS hus, i gårdarna till vår Guds hus.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"2\">Ni som står i Herrens hus, på gården till vår Guds hus.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"2\">De som står i Herrens hus, på gården till vår Guds hus.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17514,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Pronomen ändrat: 'I' (singular/informellt) till 'Ni' (plural/formellt)",
+            "Prepositionell fras ändrad: 'i gårdarna' till 'på gården'"
+          ],
+          "explanation": "Det finns två faktiska förändringar. Först har pronomenet ändrats från det singulara/informella 'I' till det plurala/formella 'Ni'. Detta påverkar vem texten riktas till. För det andra har frasen 'i gårdarna' (plural) ändrats till 'på gården' (singular). Även om båda refererar till en plats, är den grammatiska och kvantitativa skillnaden mellan plural och singular en faktiskt förändring i innehållet.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17514,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17514,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17514,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Det finns två faktiska förändringar. Först har pronomenet ändrats från det singulara/informella 'I' till det plurala/formella 'Ni'. Detta påverkar vem texten riktas till. För det andra har frasen 'i gårdarna' (plural) ändrats till 'på gården' (singular). Även om båda refererar till en plats, är den grammatiska och kvantitativa skillnaden mellan plural och singular en faktiskt förändring i innehållet.",
+          "  Changes detected: Pronomen ändrat: 'I' (singular/informellt) till 'Ni' (plural/formellt), Prepositionell fras ändrad: 'i gårdarna' till 'på gården'"
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17515": {
+    "lineNumber": 17515,
+    "line1917": "      <VERS vnumber=\"3\">Loven HERREN, ty HERREN är god, lovsjungen hans namn, ty det är ljuvligt.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"3\">Lova Herren, för han är god, sjung lovsånger till hans namn, för det är härligt.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"3\">Lova Herren, för han är god, sjung lovsånger till hans namn, för det är härligt.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17515,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17515,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17516": {
+    "lineNumber": 17516,
+    "line1917": "      <VERS vnumber=\"4\">Se, HERREN har utvalt Jakob åt sig, Israel till sin egendom.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"4\">Se, Herren har valt ut Jakob åt sig, Israel till sin egendom.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"4\">Se, Herren har valt ut Jakob åt sig, Israel till sin egendom.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17516,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17516,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17517": {
+    "lineNumber": 17517,
+    "line1917": "      <VERS vnumber=\"5\">Ty jag vet att HERREN är stor, att vår Herre är förmer än alla gudar.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"5\">Jag vet att Herren är stor, att vår Herre är större än alla gudar.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"5\">För jag vet att Herren är stor, att vår Herre är större än alla gudar.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17517,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Förändring i inledning ('Ty' till 'Jag vet')",
+            "Ändring av ordet 'förmer' till 'större'"
+          ],
+          "explanation": "Inledningen ändras från det arkaiska 'Ty jag vet' (som betyder 'Eftersom jag vet') till den mer direkta moderna frasen 'Jag vet'. Den mest signifikanta faktiska förändringen är att ordet 'förmer' har ersatts med 'större'. Beroende på kontext kan detta vara en semantisk ändring, men i denna jämförelse representerar det ett byte av ord som påverkar hur storheten beskrivs (från förmer till större). Även om båda syftar på överlägsenhet, är 'förmer' inte synonymt med 'större' i alla grammatiska sammanhang.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17517,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17517,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17517,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "ty",
+            "förmer"
+          ],
+          "suggestions": "Ersätt 'ty' med 'för' eller ta bort det för en modernare inledning. Byt ut 'förmer än' mot 'större än' eller 'mer mäktig än'.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17517,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Ändring i ordet 'förmer' till 'större'"
+          ],
+          "explanation": "Det finns en faktiska ändring i adjektivet som beskriver Herrens storlek. I 1917 ORIGINAL står det 'förmer', medan FSB AKTUELL har ersatt detta med 'större'. Även om båda ord kan antyda överlägsenhet, är 'större' en mer exakt och standardiserad term i denna kontext jämfört med det arkaiska/mindre klara 'förmer'.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17517,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Inledningen ändras från det arkaiska 'Ty jag vet' (som betyder 'Eftersom jag vet') till den mer direkta moderna frasen 'Jag vet'. Den mest signifikanta faktiska förändringen är att ordet 'förmer' har ersatts med 'större'. Beroende på kontext kan detta vara en semantisk ändring, men i denna jämförelse representerar det ett byte av ord som påverkar hur storheten beskrivs (från förmer till större). Även om båda syftar på överlägsenhet, är 'förmer' inte synonymt med 'större' i alla grammatiska sammanhang.",
+          "  Changes detected: Förändring i inledning ('Ty' till 'Jag vet'), Ändring av ordet 'förmer' till 'större'"
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: ty, förmer",
+          "  Ersätt 'ty' med 'för' eller ta bort det för en modernare inledning. Byt ut 'förmer än' mot 'större än' eller 'mer mäktig än'."
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  },
+  "line_17518": {
+    "lineNumber": 17518,
+    "line1917": "      <VERS vnumber=\"6\">HERREN kan göra allt vad han vill, i himmelen och på jorden, i haven och i alla djup;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"6\">Gud kan göra allt han vill, i himlen och på jorden, vid havet och i alla djup.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"6\">Herren kan göra allt han vill, i himmelen och på jorden, i haven och i alla djup.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17518,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Namn/Titel ändrad: 'HERREN' till 'Gud'",
+            "Platsändring: 'i haven' till 'vid havet'"
+          ],
+          "explanation": "Två faktiska förändringar detekterades. Först har titeln 'HERREN' ersatts med 'Gud'. Sedan har frasen 'i haven' (som syftar på havets inre eller djup) ändrats till 'vid havet', vilket är en subtil men faktisk ändring i beskrivningen av platsen.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17518,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17518,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17518,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Två faktiska förändringar detekterades. Först har titeln 'HERREN' ersatts med 'Gud'. Sedan har frasen 'i haven' (som syftar på havets inre eller djup) ändrats till 'vid havet', vilket är en subtil men faktisk ändring i beskrivningen av platsen.",
+          "  Changes detected: Namn/Titel ändrad: 'HERREN' till 'Gud', Platsändring: 'i haven' till 'vid havet'"
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17519": {
+    "lineNumber": 17519,
+    "line1917": "      <VERS vnumber=\"7\">han som låter regnskyar stiga upp från jordens ända, han som låter ljungeldar komma med regn och för vinden ut ur dess förvaringsrum;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"7\">Han som får regnskyar att uppstå från jordens ände, han som får blixtar att komma med regnet och släpper vinden från dess förråd.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"7\">Han som får regnmolnen att stiga upp från jordens ända, han som får eldsvådor att komma med regnet och blåsa ut vinden ur sin lagringsplats;</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17519,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "ljungeldar ersatt med blixtar",
+            "förvaringsrum ersatt med förråd"
+          ],
+          "explanation": "Den ursprungliga texten nämner 'ljungeldar' (vilket kan syfta på en typ av eld eller gnistor) som kommer med regnet. FSB-versionen byter detta mot 'blixtar'. Även om båda handlar om elektriska fenomen, är det ett specifikt ordbyte som ändrar den exakta beskrivningen i texten. Dessutom har 'förvaringsrum' ersatts med 'förråd', vilket är en mindre semantisk förändring men ändå en lexikal ersättning.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17519,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "han som",
+            "dess"
+          ],
+          "suggestions": "Meningsbyggnaden är något tung och upprepande ('Han som... han som'). 'Dess' kan ersättas med ett mer modernt pronomen eller omformuleras för bättre flyt. Texten skulle bli smidigare genom att undvika den dubbla inledningen.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17519,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Regnskyar ersatt med regnmoln",
+            "Ljungeldar ersatt med gnistor",
+            "För vinden ut ur dess förvaringsrum ersatt med släppa vinden ur sitt förvaringsrum"
+          ],
+          "explanation": "Det finns flera semantiska och lexikala förändringar. 'Regnskyar' har bytts mot det mer moderna 'regnmoln'. 'Ljungeldar' (vilket antyder en specifik typ av eld/gnista) har ersatts med det allmänna ordet 'gnistor'. Frasen 'för vinden ut ur dess förvaringsrum' har ändrats till 'släppa vinden ur sitt förvaringsrum', vilket är en förändring i verb och pronomen (från passivt/indirekt handling till aktivt/direkt handling, samt ägarpronomenet byts från det neutrala 'dess' till det personliga 'sitt'). Dessa ändringar påverkar den exakta meningen och bildspråket.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17519,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17519,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Från 'låter' till 'får'",
+            "Från 'ljungeldar' till 'eldsvådor'",
+            "Från 'för vinden ut ur dess förvaringsrum' till 'blåsa ut vinden ur sin lagringsplats'"
+          ],
+          "explanation": "Flera ord och fraser har ändrats, vilket påverkar både den exakta meningen och det arkaiska språket. Ändringen från 'låter' till 'får' är en semantisk förändring i hur handlingen beskrivs (från att vara ett passivt tillstånd/tillåtande till en aktiv förmåga). 'Ljungeldar' har ersatts med det mer moderna och kraftfulla 'eldsvådor'. Frasen för den sista delen är omformulerad från 'för vinden ut ur dess förvaringsrum' till 'blåsa ut vinden ur sin lagringsplats', vilket ändrar ordvalet (från 'för' till 'blåsa') och specificerar platsen ('dess' till 'sin'). Dessa förändringar innebär att den exakta formuleringen och nyansen har ändrats.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17519,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "han som",
+            "lagringsplats"
+          ],
+          "suggestions": "Den upprepade konstruktionen 'Han som...' är något arkaisk och tung. 'Lagringsplats' kan förenklas beroende på kontexten (t.ex. 'förråd' eller 'reservoar'). För att modernisera kan man omstrukturera meningen för bättre flyt.",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Den ursprungliga texten nämner 'ljungeldar' (vilket kan syfta på en typ av eld eller gnistor) som kommer med regnet. FSB-versionen byter detta mot 'blixtar'. Även om båda handlar om elektriska fenomen, är det ett specifikt ordbyte som ändrar den exakta beskrivningen i texten. Dessutom har 'förvaringsrum' ersatts med 'förråd', vilket är en mindre semantisk förändring men ändå en lexikal ersättning.",
+          "  Changes detected: ljungeldar ersatt med blixtar, förvaringsrum ersatt med förråd",
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: han som, dess",
+          "  Meningsbyggnaden är något tung och upprepande ('Han som... han som'). 'Dess' kan ersättas med ett mer modernt pronomen eller omformuleras för bättre flyt. Texten skulle bli smidigare genom att undvika den dubbla inledningen."
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Det finns flera semantiska och lexikala förändringar. 'Regnskyar' har bytts mot det mer moderna 'regnmoln'. 'Ljungeldar' (vilket antyder en specifik typ av eld/gnista) har ersatts med det allmänna ordet 'gnistor'. Frasen 'för vinden ut ur dess förvaringsrum' har ändrats till 'släppa vinden ur sitt förvaringsrum', vilket är en förändring i verb och pronomen (från passivt/indirekt handling till aktivt/direkt handling, samt ägarpronomenet byts från det neutrala 'dess' till det personliga 'sitt'). Dessa ändringar påverkar den exakta meningen och bildspråket.",
+          "  Changes detected: Regnskyar ersatt med regnmoln, Ljungeldar ersatt med gnistor, För vinden ut ur dess förvaringsrum ersatt med släppa vinden ur sitt förvaringsrum"
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  },
+  "line_17520": {
+    "lineNumber": 17520,
+    "line1917": "      <VERS vnumber=\"8\">han som slog de förstfödda i Egypten, både människor och boskap;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"8\">han som dödade de förstfödda i Egypten, både människor och djur.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"8\">Han som slog de förstfödda i Egypten, både människor och boskap.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17520,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"slog\" -> \"dödade\",\n    \"boskap\" -> \"djur\"\n  ]"
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17520,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17520,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17520,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Faktisk förändring detekterad",
+          "  Changes detected: {\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"slog\" -> \"dödade\",\n    \"boskap\" -> \"djur\"\n  ]"
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17521": {
+    "lineNumber": 17521,
+    "line1917": "      <VERS vnumber=\"9\">han som sände tecken och under över dig, Egypten, över Farao och alla hans tjänare;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"9\">han som sände tecken och under dig, Egypten, över Farao och alla hans tjänare.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"9\">han som sände tecken och under dig, Egypten, över Farao och alla hans tjänare.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17521,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17521,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17522": {
+    "lineNumber": 17522,
+    "line1917": "      <VERS vnumber=\"10\">han som slog stora folk och dräpte mäktiga konungar:</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"10\">han som besegrade stora folk och dödade mäktiga kungar:</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"10\">han som slog stora folk och dräpte mäktiga kungar:</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17522,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"slog\" -> \"besegrade\",\n    \"dräpte\" -> \"dödade"
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17522,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17522,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"stora folk\" -> \"stora folkgrupper\",\n    \"dräp"
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17522,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17522,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\n  \"factualChangeDetected\": true,\n  \"changes\": [\"konungar\" ändrades till \"kungar\"],\n  \"explanation\""
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17522,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Faktisk förändring detekterad",
+          "  Changes detected: {\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"slog\" -> \"besegrade\",\n    \"dräpte\" -> \"dödade"
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Faktisk förändring detekterad",
+          "  Changes detected: {\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"stora folk\" -> \"stora folkgrupper\",\n    \"dräp"
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  },
+  "line_17523": {
+    "lineNumber": 17523,
+    "line1917": "      <VERS vnumber=\"11\">Sihon, amoréernas konung, och Og, konungen i Basan, med alla Kanaans riken,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"11\">Sihon, amoréernas kung, och Og, kungen i Basan, med alla Kanaans riken.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"11\">Sihon, amoréernas kung, och Og, kungen i Basan, med alla Kanaans riken.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17523,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17523,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17524": {
+    "lineNumber": 17524,
+    "line1917": "      <VERS vnumber=\"12\">och gav deras land till arvedel, till arvedel åt sitt folk Israel.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"12\">och gav deras land som arv, som ett arv till sitt folk Israel.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"12\">och gav deras land som arv, som ett arv till sitt folk Israel.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17524,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Ändringen från 'till arvedel' till 'som arv' och 'till arvedel åt' till 'som ett arv till' är en stilistisk modernisering. Betydelsen förblir densamma: landet ges som en arvdel/arv till Israel.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17524,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17525": {
+    "lineNumber": 17525,
+    "line1917": "      <VERS vnumber=\"13\">HERRE, ditt namn varar evinnerligen, HERRE, din åminnelse från släkte till släkte.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"13\">Herre, ditt namn består för evigt, Herre, du blir ihågkommen från släkt till släkt.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"13\">Herre, ditt namn varar evigt, Herre, din åminnelse från släkte till släkte.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17525,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"varar evinnerligen\" -> \"består för evigt\",\n  "
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17525,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17525,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17525,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Faktisk förändring detekterad",
+          "  Changes detected: {\n  \"factualChangeDetected\": true,\n  \"changes\": [\n    \"varar evinnerligen\" -> \"består för evigt\",\n  "
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17526": {
+    "lineNumber": 17526,
+    "line1917": "      <VERS vnumber=\"14\">Ty HERREN skaffar rätt åt sitt folk, och över sina tjänare förbarmar han sig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"14\">För Herren skapar rätt för sitt folk, och över sina tjänare förbarmar han sig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"14\">För Herren skapar rätt för sitt folk, och över sina tjänare förbarmar han sig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17526,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17526,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17527": {
+    "lineNumber": 17527,
+    "line1917": "      <VERS vnumber=\"15\">Hedningarnas avgudar äro silver och guld, verk av människohänder.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"15\">Hedningarnas avgudar är silver och guld, verk av människohänder.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"15\">Hedningarnas avgudar är silver och guld, verk av människohänder.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17527,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17527,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17528": {
+    "lineNumber": 17528,
+    "line1917": "      <VERS vnumber=\"16\">De hava mun och tala icke, de hava ögon och se icke,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"16\">De har mun, men pratar inte. De har ögon, men ser inte.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"16\">De har mun, men pratar inte. De har ögon, men ser inte.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17528,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17528,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17529": {
+    "lineNumber": 17529,
+    "line1917": "      <VERS vnumber=\"17\">de hava öron och lyssna icke till, och ingen ande är i deras mun.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"17\">De har öron, men lyssnar inte på, och ingen ande är i deras mun.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"17\">De har öron, men lyssnar inte på, och ingen ande är i deras mun.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17529,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska förändringar upptäcktes baserat på de angivna kriterierna.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17529,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17530": {
+    "lineNumber": 17530,
+    "line1917": "      <VERS vnumber=\"18\">De som hava gjort dem skola bliva dem lika, ja, alla som förtrösta på dem.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"18\">De som har gjort det skall bli liksom dem, ja, alla som förtrustar sig på dem.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"18\">De som har gjort det ska bli liksom dem, ja, alla som litar på dem.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17530,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17530,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "skall",
+            "förtrustar sig"
+          ],
+          "suggestions": "Ersätt 'skall' med 'ska'. 'Förtrustar sig på' är lite formellt och kan förenklas till 'litar på' eller 'förtroende för'.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17530,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktaändringar detekterade.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17530,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: skall, förtrustar sig",
+          "  Ersätt 'skall' med 'ska'. 'Förtrustar sig på' är lite formellt och kan förenklas till 'litar på' eller 'förtroende för'."
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17531": {
+    "lineNumber": 17531,
+    "line1917": "      <VERS vnumber=\"19\">I av Israels hus, loven HERREN; I av Arons hus, loven HERREN;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"19\">I Israels hus skall du lova Herren; i Arons hus skall du lova Herren.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"19\">I Israels hus ska du lova Herren; i Arons hus ska du lova Herren.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17531,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. Skillnaderna är stilistiska (imperativ vs. deklarativ/modal) men inte innehållsmässiga i termer av fakta.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17531,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "skall"
+          ],
+          "suggestions": "Ersätt 'skall' med 'ska' för att modernisera tonen och göra meningen mer naturlig i samtida svenska.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17531,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. Skillnaderna är stilistiska (imperativ form vs. deklarativ/modal) men inte innehållsmässiga i termer av fakta.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17531,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: skall",
+          "  Ersätt 'skall' med 'ska' för att modernisera tonen och göra meningen mer naturlig i samtida svenska."
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17532": {
+    "lineNumber": 17532,
+    "line1917": "      <VERS vnumber=\"20\">I av Levis hus, loven HERREN; I som frukten HERREN, loven HERREN.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"20\">Ni från Levis hus, lovpris Herren. Ni som är rädda för Herren, lovpris Herren.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"20\">I Levis hus lovar man Herren; i de som fruktar Herren lovar man Herren.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17532,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Från 'I av Levis hus' till 'Ni från Levis hus'",
+            "Från 'loven HERREN' till 'lovpris Herren'",
+            "Från 'I som frukten HERREN' till 'Ni som är rädda för Herren'",
+            "Från 'loven HERREN' till 'lovpris Herren'"
+          ],
+          "explanation": "Det finns flera betydande faktaändringar. Första frasen ändras från en beskrivning av ett tillstånd ('I av Levis hus') till en direkt uppmaning/adressering ('Ni från Levis hus'). Verbet 'loven' (som kan tolkas som att man lovar eller hyllar) har ersatts med det mer aktivt kommanderande 'lovpris'. Den andra frasen ändras drastiskt: 'I som frukten HERREN' (vilket troligen syftar på de som fruktar/respekterar Herren, men ordvalet är ovanligt i originalet) har ersatts med den tydliga teologiska termen 'Ni som är rädda för Herren'. Detta ändrar subjektets natur och betydelsen av handlingen.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17532,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17532,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Ändring från imperativ/substantiv ('loven') till direkt uppmaning ('ska ni lova')",
+            "Tillägg av pronomen 'ni' i den moderna versionen."
+          ],
+          "explanation": "Den ursprungliga texten använder en mer formell eller poetisk konstruktion där 'loven HERREN' kan tolkas som ett påbud eller en handling (att lova Herren). Den aktuella versionen byter detta till en tydlig, direkt imperativ sats ('ska ni lova Herren'), vilket introducerar pronomenet 'ni'. Detta ändrar den grammatiska strukturen och betoningen från en beskrivning/påbud till ett direkt kommando riktat till lyssnaren.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17532,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "ska"
+          ],
+          "suggestions": "Även om 'ska' är vanligt idag, kan det i denna kontext (som låter biblisk/formell) upplevas som något arkaiskt eller högtidligt. För en mer modern och naturlig ton skulle man kunna använda 'bör' beroende på önskad klang, men om syftet är att behålla den formella, nästan liturgiska känslan, kan det lämnas kvar. Om målet är ren samtida svenska, ersätts det med 'ska'.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17532,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Från 'loven HERREN' till 'lovar man Herren'",
+            "Från 'I som frukten HERREN' till 'i de som fruktar Herren'"
+          ],
+          "explanation": "Den ursprungliga texten använder en mer arkaisk eller poetisk konstruktion ('loven HERREN', 'I som frukten HERREN') där det antyds att man lovar Herren i dessa grupper. Den aktuella versionen ändrar detta till ett aktivt verb och en tydligare subjekt/objekt-struktur ('lovar man Herren', 'i de som fruktar Herren'). Detta är inte bara en ordvalsskillnad utan en strukturell förändring av hur handlingen beskrivs, vilket innebär att den grundläggande meningen har omformulerats från ett tillstånd/tillhörighet till en aktiv handling.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17532,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Det finns flera betydande faktaändringar. Första frasen ändras från en beskrivning av ett tillstånd ('I av Levis hus') till en direkt uppmaning/adressering ('Ni från Levis hus'). Verbet 'loven' (som kan tolkas som att man lovar eller hyllar) har ersatts med det mer aktivt kommanderande 'lovpris'. Den andra frasen ändras drastiskt: 'I som frukten HERREN' (vilket troligen syftar på de som fruktar/respekterar Herren, men ordvalet är ovanligt i originalet) har ersatts med den tydliga teologiska termen 'Ni som är rädda för Herren'. Detta ändrar subjektets natur och betydelsen av handlingen.",
+          "  Changes detected: Från 'I av Levis hus' till 'Ni från Levis hus', Från 'loven HERREN' till 'lovpris Herren', Från 'I som frukten HERREN' till 'Ni som är rädda för Herren', Från 'loven HERREN' till 'lovpris Herren'"
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Den ursprungliga texten använder en mer formell eller poetisk konstruktion där 'loven HERREN' kan tolkas som ett påbud eller en handling (att lova Herren). Den aktuella versionen byter detta till en tydlig, direkt imperativ sats ('ska ni lova Herren'), vilket introducerar pronomenet 'ni'. Detta ändrar den grammatiska strukturen och betoningen från en beskrivning/påbud till ett direkt kommando riktat till lyssnaren.",
+          "  Changes detected: Ändring från imperativ/substantiv ('loven') till direkt uppmaning ('ska ni lova'), Tillägg av pronomen 'ni' i den moderna versionen.",
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: ska",
+          "  Även om 'ska' är vanligt idag, kan det i denna kontext (som låter biblisk/formell) upplevas som något arkaiskt eller högtidligt. För en mer modern och naturlig ton skulle man kunna använda 'bör' beroende på önskad klang, men om syftet är att behålla den formella, nästan liturgiska känslan, kan det lämnas kvar. Om målet är ren samtida svenska, ersätts det med 'ska'."
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  },
+  "line_17533": {
+    "lineNumber": 17533,
+    "line1917": "      <VERS vnumber=\"21\">Lovad vare HERREN från Sion, han som bor i Jerusalem!  Halleluja!</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"21\">Herren från Sion ska prisas, han som bor i Jerusalem! Halleluja!</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"21\">Herren från Sion ska lovas, han som bor i Jerusalem! Halleluja!</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17533,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Verbet 'Lovad vare' ändrat till 'ska prisas'"
+          ],
+          "explanation": "Den grundläggande betydelsen har förändrats. I originalet är det en deklaration ('Lovad vare HERREN...'), medan FSB Aktuell använder ett imperativ/framtidsform som antyder handling eller förväntan ('Herren från Sion ska prisas'). Detta ändrar den ursprungliga tonen och meningen i frasen.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17533,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17533,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Ordning/struktur ändrad: 'Lovad vare' vs. 'Låt... lovas'"
+          ],
+          "explanation": "Den grundläggande betydelsen är densamma (att Herren ska lovas), men den grammatiska strukturen har förändrats från en passiv, deklarativ form ('Lovad vare HERREN') till en imperativ/önskan-form ('Låt Herren... lovas'). Detta är mer än bara en ordföljdsändring; det ändrar hur handlingen presenteras (från ett konstaterande till en uppmaning).",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17533,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 3,
+        "facts": {
+          "lineNumber": 17533,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Ordföljd ändrad (från 'Lovad vare HERREN' till 'Herren... ska lovas')"
+          ],
+          "explanation": "Den grundläggande betydelsen är densamma, men ordningen har ändrats. I originalet står det 'Lovad vare HERREN från Sion', medan FSB Aktuell säger 'Herren från Sion ska lovas'. Detta är en strukturell omformulering (passiv/aktiv) som påverkar hur satsen konstrueras, även om den teologiska innebörden i detta korta utdrag troligen bibehålls. Eftersom det rör sig om en betydande ändring i syntax och ordning snarare än bara stilistisk modernisering, flaggas det.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17533,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "ska"
+          ],
+          "suggestions": "Även om 'ska' är vanligt idag, kan det kännas något formellt eller arkaiskt beroende på sammanhanget. För en mer modern och direkt känsla skulle man kunna använda 'skall' (om tonen ska vara högtidlig) eller omskriva meningen för att undvika den direkta framtidsformen om syftet är ett utrop.",
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Den grundläggande betydelsen har förändrats. I originalet är det en deklaration ('Lovad vare HERREN...'), medan FSB Aktuell använder ett imperativ/framtidsform som antyder handling eller förväntan ('Herren från Sion ska prisas'). Detta ändrar den ursprungliga tonen och meningen i frasen.",
+          "  Changes detected: Verbet 'Lovad vare' ändrat till 'ska prisas'"
+        ]
+      },
+      {
+        "attempt": 2,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Den grundläggande betydelsen är densamma (att Herren ska lovas), men den grammatiska strukturen har förändrats från en passiv, deklarativ form ('Lovad vare HERREN') till en imperativ/önskan-form ('Låt Herren... lovas'). Detta är mer än bara en ordföljdsändring; det ändrar hur handlingen presenteras (från ett konstaterande till en uppmaning).",
+          "  Changes detected: Ordning/struktur ändrad: 'Lovad vare' vs. 'Låt... lovas'"
+        ]
+      }
+    ],
+    "finalStatus": "max_attempts_reached",
+    "applied": true
+  }
+}
