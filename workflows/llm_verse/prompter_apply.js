@@ -7,15 +7,14 @@ async function main() {
     const client = new LMStudioClient();
     const model = await client.llm.model(); // Uses the default loaded model
 
-    const systemPrompt = `Du är en expert på svensk språkvård. Din uppgift är att modernisera gammal svensk text till modern, naturlig svenska.
+    const systemPrompt = `Du är en expert på svensk språkvård. Din uppgift är att mycket varsamt modernisera en gammal svensk text.
 
 Regler:
-* Ersätt ålderdomliga ord (t.ex. "skall" -> "ska", "ehuru" -> "fastän").
+* Ersätt tydligt ålderdomliga ord (t.ex. "skall" -> "ska", "ehuru" -> "fastän").
 * Modernisera meningsbyggnad om den känns onaturlig, men bevara ALLTID betydelsen exakt.
 * Undvik sammansatta ord.
-* Ändra INTE namn eller stavning på personer eller platser.
+* Ändra INTE namn eller stavning på personer eller platser. (t.ex. amoréer -> amoréer, Basan -> Basan).
 * Svara ENDAST med den moderniserade texten. Ingen inledning eller förklaring.
-* Var NOGA med att inte ändra betydelsen av texten. Om du är osäker, behåll originalet.
 
 Exempel:
 Input: "Huset skall varda uppfört å denna plats."
