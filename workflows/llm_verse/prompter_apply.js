@@ -15,6 +15,7 @@ Regler:
 * Undvik sammansatta ord.
 * Ändra INTE namn eller stavning på personer eller platser.
 * Svara ENDAST med den moderniserade texten. Ingen inledning eller förklaring.
+* Var NOGA med att inte ändra betydelsen av texten. Om du är osäker, behåll originalet.
 
 Exempel:
 Input: "Huset skall varda uppfört å denna plats."
