@@ -37,9 +37,9 @@ Flagga bara om detta gjordes:
 
 IGNORERA (modernisering, inga faktaändringar):
 - Casing skillnader (HERREN/herren är samma)
-- "I" → "du/ni" (gammalt formellt tilltal → modern)
-- "ljungeldar" → "blixtar" (samma fenomen)
-- "förbarma sig" → "ha förbarmande" (samma handling)
+- "I" → "du/ni", "ty" → "för" (gammalt/formellt → modernt)
+- "ljungeldar" → "blixtar", "består" → "varar" (samma fenomen)
+- "förbarma sig" → "ha förbarmande", "dräpte" → "dödade" (samma handling)
 - Arkaiska ord → moderna motsvarigheter
 - Ändrad ordföljd (om betydelsen är samma)
 

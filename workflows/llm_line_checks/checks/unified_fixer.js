@@ -59,7 +59,6 @@ async function unifiedFix(line1917, currentLine, experts, previousLines, lineNum
    - Ändra INTE namn eller platser
    - Ändra INTE siffror eller mängder
    - Byt INTE på subjekt-objekt relationer
-   - Bevara identical meaning från 1917
 
 3. FORMAT:
    - Svara ENDAST med den moderniserade texten
