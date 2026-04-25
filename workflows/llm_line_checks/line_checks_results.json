@@ -2775,7 +2775,7 @@
           "check": "facts",
           "factualChangeDetected": false,
           "changes": [],
-          "explanation": null,
+          "explanation": "Inga faktiska ändringar upptäcktes mellan de två versionerna.",
           "error": null
         },
         "modernization": {
@@ -2870,6 +2870,1569 @@
         },
         "modernization": {
           "lineNumber": 17587,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17588": {
+    "lineNumber": 17588,
+    "line1917": "      <VERS vnumber=\"4\">Ty förrän ett ord är på min tunga, se, så känner du, HERRE, det till fullo.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"4\">Innan jag uttalar ett ord, så känner du det fullständigt, Herre.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"4\">Innan jag uttalar ett ord, så känner du det fullständigt, Herre.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17588,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17588,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17589": {
+    "lineNumber": 17589,
+    "line1917": "      <VERS vnumber=\"5\">Du omsluter mig på alla sidor och håller mig i din hand.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"5\">Du omger mig på alla sidor och håller mig i din hand.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"5\">Du omger mig på alla sidor och håller mig i din hand.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17589,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17589,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17590": {
+    "lineNumber": 17590,
+    "line1917": "      <VERS vnumber=\"6\">En sådan kunskap är mig alltför underbar; den är mig för hög, jag kan icke begripa den.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"6\">En sådan kunskap är för underbar för mig. Den är för svår för mig att förstå.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"6\">En sådan kunskap är för underbar för mig. Den är för svår för mig att förstå.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17590,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17590,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17591": {
+    "lineNumber": 17591,
+    "line1917": "      <VERS vnumber=\"7\">Vart skall jag gå för din Ande, och vart skall jag fly för ditt ansikte?</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"7\">Vart ska jag gå för att möta din Ande, och vart ska jag fly undan ditt ansikte?</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"7\">Vart ska jag gå för att möta din Ande, och vart ska jag fly undan ditt ansikte?</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17591,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17591,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17592": {
+    "lineNumber": 17592,
+    "line1917": "      <VERS vnumber=\"8\">Fore jag upp till himmelen, så är du där, och bäddade jag åt mig i dödsriket, se, så är du ock där.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"8\">Om jag stiger upp till himlen, så är du där, och om jag gör min säng i dödsriket, så är du också där.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"8\">Om jag stiger upp till himlen, så är du där, och om jag gör min säng i dödsriket, så är du också där.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17592,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17592,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17593": {
+    "lineNumber": 17593,
+    "line1917": "      <VERS vnumber=\"9\">Toge jag morgonrodnadens vingar, gjorde jag mig en boning ytterst i havet,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"9\">Om jag tog morgonrodnadens vingar, om jag byggde ett hem längst ut till havet,</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"9\">Om jag tog morgonrodnadens vingar, om jag byggde ett hem längst ut till havet,</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17593,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17593,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17594": {
+    "lineNumber": 17594,
+    "line1917": "      <VERS vnumber=\"10\">så skulle också där din hand leda mig och din högra hand fatta mig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"10\">Då skulle din hand också leda mig dit och din högra hand hålla mig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"10\">Då skulle din hand också leda mig dit och din högra hand hålla mig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17594,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17594,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17595": {
+    "lineNumber": 17595,
+    "line1917": "      <VERS vnumber=\"11\">Och om jag sade: »Mörker må betäcka mig och ljuset bliva natt omkring mig»,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"11\">Om jag säger: \"Mörker ska täcka mig och ljuset bli natt runt omkring mig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"11\">Om jag säger: \"Mörker ska täcka mig och ljuset bli natt runt omkring mig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17595,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17595,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17596": {
+    "lineNumber": 17596,
+    "line1917": "      <VERS vnumber=\"12\">så skulle själva mörkret icke vara mörkt för dig, natten skulle lysa såsom dagen: ja, mörkret skulle vara såsom ljuset.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"12\">Då skulle inte ens mörkret kännas mörkt för dig, natten skulle lysa som dagen: ja, mörkret skulle vara som ljuset.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"12\">Då skulle inte ens mörkret kännas mörkt för dig, natten skulle lysa som dagen: ja, mörkret skulle vara som ljuset.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17596,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17596,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17597": {
+    "lineNumber": 17597,
+    "line1917": "      <VERS vnumber=\"13\">Ty du har skapat mina njurar, du sammanvävde mig i min moders liv.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"13\">För du har skapat mina njurar, du vävde samman mig i min mors livmoder.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"13\">För du har skapat mina njurar, du vävde samman mig i min mors livmoder.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17597,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17597,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17598": {
+    "lineNumber": 17598,
+    "line1917": "      <VERS vnumber=\"14\">Jag tackar dig för att jag är danad så övermåttan underbart; ja, underbara äro dina verk, min själ vet det väl.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"14\">Jag tackar dig för att jag är skapad så underbart riktigt. Ja, dina verk är underbara, min själ vet det väl.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"14\">Jag tackar dig för att jag är skapad så underbart riktigt. Ja, dina verk är underbara, min själ vet det väl.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17598,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes baserat på de angivna kriterierna.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17598,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17599": {
+    "lineNumber": 17599,
+    "line1917": "      <VERS vnumber=\"15\">Benen i min kropp voro icke förborgade för dig, när jag bereddes i det fördolda, när jag bildades i jordens djup.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"15\">Mina ben var inte dolda för dig, när jag skapades i hemlighet, när jag formades i jordens djup.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"15\">Mina ben var inte dolda för dig, när jag skapades i hemlighet, när jag formades i jordens djup.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17599,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17599,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17600": {
+    "lineNumber": 17600,
+    "line1917": "      <VERS vnumber=\"16\">Dina ögon sågo mig, när jag ännu knappast var formad; alla mina dagar blevo uppskrivna i din bok, de voro bestämda, förrän någon av dem hade kommit.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"16\">Dina ögon såg mig, när jag knappt var skapad. Alla mina dagar skrevs i din bok, de var bestämda innan någon av dem kommit.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"16\">Dina ögon såg mig, när jag knappt var skapad. Alla mina dagar skrevs i din bok, de var bestämda innan någon av dem kommit.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17600,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17600,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17601": {
+    "lineNumber": 17601,
+    "line1917": "      <VERS vnumber=\"17\">Huru outgrundliga äro icke för mig dina tankar, o Gud, huru stor är icke deras mångfald!</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"17\">Hur ofattbara är dina tankar för mig, Gud, hur stor är inte deras antal!</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"17\">Hur ofattbara är dina tankar för mig, Gud, hur stor är inte deras antal!</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17601,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17601,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17602": {
+    "lineNumber": 17602,
+    "line1917": "      <VERS vnumber=\"18\">Skulle jag räkna dem, så vore de flera än sanden; när jag uppvaknade, vore jag ännu hos dig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"18\">Om jag räknade dem skulle de vara fler än sanden. När jag vaknar är jag fortfarande hos dig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"18\">Om jag räknade dem skulle de vara fler än sanden. När jag vaknar är jag fortfarande hos dig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17602,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17602,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17603": {
+    "lineNumber": 17603,
+    "line1917": "      <VERS vnumber=\"19\">Gud, o att du ville dräpa de ogudaktiga! Ja, måtte de blodgiriga vika bort ifrån mig,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"19\">Gud, om du bara ville döda de ogudaktiga! Ja, de blodtörstiga ska fly från mig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"19\">Gud, om du bara ville döda de ogudaktiga! Ja, de blodtörstiga ska fly från mig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17603,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17603,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17604": {
+    "lineNumber": 17604,
+    "line1917": "      <VERS vnumber=\"20\">de som tala om dig med ränker i sinnet, de som hava bragt dina städer i fördärv!</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"20\">De som talar om dig med onda planer, de som har förstört dina städer!</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"20\">De som talar om dig med onda planer, de som har förstört dina städer!</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17604,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. 'Ränker i sinnet' och 'onda planer' är semantiskt nära relaterade, men faller under kategorin av arkaiska ord/synonymer snarare än en fundamental faktaändring.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17604,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17605": {
+    "lineNumber": 17605,
+    "line1917": "      <VERS vnumber=\"21\">Skulle jag icke hata dem som hata dig, HERRE? Skulle jag icke känna leda vid dem som stå dig emot?</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"21\">Ska jag inte hata de som hatar dig, Herre? Ska jag inte känna avsky för dem som går emot dig?</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"21\">Ska jag inte hata de som hatar dig, Herre? Ska jag inte känna avsky för dem som går emot dig?</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17605,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. Skillnaderna är stilistiska/lexikala (t.ex. 'leda' vs 'avsky', 'stå dig emot' vs 'går emot dig') och faller under de ignorerade kategorierna.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17605,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17606": {
+    "lineNumber": 17606,
+    "line1917": "      <VERS vnumber=\"22\">Jag hatar dem med starkaste hat; ja, mina fiender hava de blivit.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"22\">Jag hatar dem djupt; ja, de är mina fiender.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"22\">Jag hatar dem med starkaste hat; ja, mina fiender har blivit det.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17606,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "Subjekt/objekt byte"
+          ],
+          "explanation": "I 1917-versionen är det 'mina fiender' som har blivit (de har blivit mina fiender), medan FSB-versionen säger att 'de' är mina fiender. Detta ändrar den grammatiska strukturen och betoningen på vem som utför handlingen/tillståndet i relation till subjektet.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17606,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17606,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska förändringar upptäcktes. Skillnaden mellan 'hava' och 'har' är en grammatisk/stilistisk skillnad i tempusmarkering som inte ändrar det grundläggande innehållet eller fakta.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17606,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: I 1917-versionen är det 'mina fiender' som har blivit (de har blivit mina fiender), medan FSB-versionen säger att 'de' är mina fiender. Detta ändrar den grammatiska strukturen och betoningen på vem som utför handlingen/tillståndet i relation till subjektet.",
+          "  Changes detected: Subjekt/objekt byte"
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17607": {
+    "lineNumber": 17607,
+    "line1917": "      <VERS vnumber=\"23\">Utrannsaka mig, Gud, och känn mitt hjärta; pröva mig och känn mina tankar,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"23\">Undersök mig, Gud, och känna mitt hjärta. Pröva mig och känna mina tankar.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"23\">Undersök mig, Gud, och känna mitt hjärta. Pröva mig och känna mina tankar.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17607,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. Skillnaderna är stilistiska (punkt/semikolon) men inte innehållsmässiga.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17607,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17608": {
+    "lineNumber": 17608,
+    "line1917": "      <VERS vnumber=\"24\">och se till, om jag är stadd på en olycksväg, och led mig på den eviga vägen.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"24\">och se efter om jag är på väg åt fel håll, och led mig på den eviga vägen.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"24\">och se efter om jag är på väg åt fel håll, och led mig på den eviga vägen.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17608,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17608,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17611": {
+    "lineNumber": 17611,
+    "line1917": "      <VERS vnumber=\"1\">För sångmästaren; en psalm av David.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"1\">För sångledaren. En psalm av David.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"1\">För sångledaren. En psalm av David.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17611,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17611,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17612": {
+    "lineNumber": 17612,
+    "line1917": "      <VERS vnumber=\"2\">Rädda mig, HERRE, från onda människor, bevara mig från våldets män,</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"2\">Rädda mig, Herre, från onda människor, skydda mig från våldsmän.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"2\">Rädda mig, Herre, från onda människor, skydda mig från våldsmän.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17612,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17612,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17613": {
+    "lineNumber": 17613,
+    "line1917": "      <VERS vnumber=\"3\">för dem som uttänka ont i sina hjärtan och dagligen rota sig samman till strid.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"3\">För de som planerar ont i sina hjärtan och dagligen samlas för att slåss.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"3\">För de som planerar ont i sina hjärtan och dagligen samlas för att slåss.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17613,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17613,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17614": {
+    "lineNumber": 17614,
+    "line1917": "      <VERS vnumber=\"4\">De vässa sina tungor likasom ormar, huggormsgift är inom deras läppar.  Sela.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"4\">De slipar sina tungor som ormar, huggormsgift är under deras läppar. Sela.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"4\">De slipar sina tungor som ormar, huggormsgift är under deras läppar. Sela.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17614,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17614,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17615": {
+    "lineNumber": 17615,
+    "line1917": "      <VERS vnumber=\"5\">Bevara mig, HERRE, för de ogudaktigas händer, beskydda mig för våldets män, som uttänka planer för att bringa mig på fall.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"5\">Skydda mig, Herre, från de ogudaktigas händer. Beskydda mig från våldsmän som planerar att få mig att falla.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"5\">Skydda mig, Herre, från de ogudaktigas händer. Beskydda mig från våldsmän som planerar att få mig att falla.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17615,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17615,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17616": {
+    "lineNumber": 17616,
+    "line1917": "      <VERS vnumber=\"6\">Stolta människor lägga ut för mig snaror och garn; de breda ut nät invid vägens rand, giller sätta de för mig.  Sela.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"6\">Stolta människor lägger ut snaror och garn för mig. De lägger ut nät vid vägen, fällor sätter de för mig. Sela.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"6\">Stolta människor lägger ut snaror och garn för mig. De lägger ut nät vid vägen, fällor sätter de för mig. Sela.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17616,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17616,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17617": {
+    "lineNumber": 17617,
+    "line1917": "      <VERS vnumber=\"7\">Jag säger till HERREN: »Du är min Gud.» Lyssna, o HERRE, till mina böners ljud.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"7\">Jag säger till Herren: \"Du är min Gud.\" Lyssna, Herre, på mina böner.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"7\">Jag säger till Herren: \"Du är min Gud.\" Lyssna, Herre, på mina böner.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17617,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17617,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17618": {
+    "lineNumber": 17618,
+    "line1917": "      <VERS vnumber=\"8\">HERRE, Herre, du min starka hjälp, du beskärmar mitt huvud, på stridens dag.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"8\">Herre, Herre, du är min starka hjälp, du skyddar mitt huvud i stridens hetta.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"8\">Herre, Herre, du är min starka hjälp, du skyddar mitt huvud i stridens hetta.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17618,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17618,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17619": {
+    "lineNumber": 17619,
+    "line1917": "      <VERS vnumber=\"9\">Tillstäd icke, HERRE; vad de ogudaktiga begära; låt deras anslag ej lyckas, de skulle eljest förhäva sig.  Sela.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"9\">Tillåt inte, Herre. Vad de ogudaktiga vill ha. Låt deras planer inte lyckas, annars skulle de skryta. Sela.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"9\">Tillåt inte, Herre. Vad de ogudaktiga vill ha. Låt deras planer inte lyckas, annars skulle de skryta. Sela.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17619,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17619,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17620": {
+    "lineNumber": 17620,
+    "line1917": "      <VERS vnumber=\"10\">Över de mäns huvuden, som omringa mig, må den olycka komma, som deras läppar bereda.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"10\">På de människorna som omger mig ska olyckan komma, precis som deras ord förutspår.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"10\">På de människorna som omger mig ska olyckan komma, precis som deras ord förutspår.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17620,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes baserat på kriterierna.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17620,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17621": {
+    "lineNumber": 17621,
+    "line1917": "      <VERS vnumber=\"11\">Eldsglöd må regna över dem; må de kastas i eld, i djup som de ej komma upp ur.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"11\">Eldsglöd ska regna över dem. Låt dem kastas i eld, i djup som de inte kan ta sig ur.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"11\">Eldsglöd ska regna över dem. Låt dem kastas i eld, i djup som de inte kan ta sig ur.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17621,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17621,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17622": {
+    "lineNumber": 17622,
+    "line1917": "      <VERS vnumber=\"12\">En förtalets man skall ej bestå i landet; en ond våldsman skall jagas, med slag på slag.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"12\">En förrädare får inte stanna i landet; en ond våldsutövare ska jagas, slag för slag.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"12\">En förrädare får inte stanna i landet; en ond våldsutövare ska jagas, slag för slag.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17622,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17622,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17623": {
+    "lineNumber": 17623,
+    "line1917": "      <VERS vnumber=\"13\">Jag vet att HERREN skall utföra den betrycktes sak och skaffa de fattiga rätt.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"13\">Jag vet att Herren ska göra det tryckta folk rätt och ge rätt till de fattiga.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"13\">Jag vet att Herren ska göra det tryckta folk rätt och ge rätt till de fattiga.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17623,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17623,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17624": {
+    "lineNumber": 17624,
+    "line1917": "      <VERS vnumber=\"14\">Ja, de rättfärdiga skola prisa ditt namn och de redliga bo inför ditt ansikte.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"14\">Ja, de rättfärdiga ska hylla ditt namn och de ärliga ska bo inför dig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"14\">Ja, de rättfärdiga ska hylla ditt namn och de ärliga ska bo inför dig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17624,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17624,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17627": {
+    "lineNumber": 17627,
+    "line1917": "      <VERS vnumber=\"1\">En psalm av David.  HERRE, jag ropar till dig, skynda till mig; lyssna till min röst, då jag nu ropar till dig.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"1\">Herre, jag ropar till dig. Skynda dig att hjälpa mig. Lyssna på min röst när jag ropar till dig.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"1\">Herre, jag ropar till dig. Skynda dig att hjälpa mig. Lyssna på min röst när jag ropar till dig.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17627,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17627,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17628": {
+    "lineNumber": 17628,
+    "line1917": "      <VERS vnumber=\"2\">Min bön gälle inför dig såsom ett rökoffer, mina händers upplyftande såsom ett aftonoffer.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"2\">Min bön ska gälla inför dig liksom ett rökelseoffer, mina händer lyfta liksom ett aftonoffergåva.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"2\">Min bön ska gälla inför dig liksom ett rökelseoffer, mina händer lyfta liksom ett aftonoffergåva.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17628,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17628,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17629": {
+    "lineNumber": 17629,
+    "line1917": "      <VERS vnumber=\"3\">Sätt, o HERRE, en vakt för min mun, bevaka mina läppars dörr.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"3\">Sätt, Herre, en vakt för min mun, bevaka mina läppars ingång.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"3\">Sätt, Herre, en vakt vid min mun, bevaka vad jag säger.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17629,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17629,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "mun",
+            "läppars ingång"
+          ],
+          "suggestions": "Uttrycken 'min mun' och 'mina läppars ingång' är arkaiska eller mycket formella/poetiska. Beroende på kontext kan dessa moderniseras till mer vardagligt språk, t.ex. 'mitt tal' eller 'vad jag säger'. Om texten ska behålla en högtidlig ton, kan den lämnas som den är, men om målet är samtida svenska bör de justeras.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17629,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17629,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: mun, läppars ingång",
+          "  Uttrycken 'min mun' och 'mina läppars ingång' är arkaiska eller mycket formella/poetiska. Beroende på kontext kan dessa moderniseras till mer vardagligt språk, t.ex. 'mitt tal' eller 'vad jag säger'. Om texten ska behålla en högtidlig ton, kan den lämnas som den är, men om målet är samtida svenska bör de justeras."
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17630": {
+    "lineNumber": 17630,
+    "line1917": "      <VERS vnumber=\"4\">Låt icke mitt hjärta vika av till något ont, till att öva ogudaktighetens gärningar tillsammans med män som göra vad orätt är; av deras läckerheter vill jag icke äta.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"4\">Låt inte mitt hjärta dras till något dåligt, till att göra orätta saker tillsammans med människor som gör fel. Jag vill inte äta deras goda mat.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"4\">Låt inte mitt hjärta dras till något dåligt, till att göra orätta saker tillsammans med människor som gör fel. Jag vill inte äta deras goda mat.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17630,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17630,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17631": {
+    "lineNumber": 17631,
+    "line1917": "      <VERS vnumber=\"5\">Må den rättfärdige slå mig i kärlek och straffa mig; det är såsom olja på huvudet, och mitt huvud skall icke försmå det.  Ty ännu en tid, så skall min bön uppfyllas, genom att det går dem illa;</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"5\">Låt den rättfärdige slå mig med kärlek och tukta mig. Det är som olja på huvudet, och jag ska inte försmå det. En tid till ska min bön uppfyllas när de har det svårt.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"5\">Låt den rättfärdige slå mig med kärlek och tukta mig. Det är som olja på huvudet, och jag ska inte försmå det. En tid till ska min bön uppfyllas när de har det svårt.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17631,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17631,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17632": {
+    "lineNumber": 17632,
+    "line1917": "      <VERS vnumber=\"6\">deras ledare skola störtas ned utför klippan, och man skall då höra att mina ord äro ljuvliga.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"6\">Deras ledare ska störtas ner från klippan och man ska höra att mina ord är vackra.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"6\">Deras ledare ska störtas ner från klippan och man ska höra att mina ord är vackra.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17632,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäckta.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17632,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17633": {
+    "lineNumber": 17633,
+    "line1917": "      <VERS vnumber=\"7\">Såsom när man har plöjt och ristat upp jorden, så ligga våra ben kringströdda vid dödsrikets rand.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"7\">Som när man plöjer och bearbetar jorden, så ligger våra ben utspridda vid dödsrikets gräns.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"7\">Som när man plöjer och bearbetar jorden, så ligger våra ben utspridda vid dödsrikets gräns.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17633,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17633,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17634": {
+    "lineNumber": 17634,
+    "line1917": "      <VERS vnumber=\"8\">Ja, till dig, HERRE, Herre, se mina ögon; till dig tager jag min tillflykt, förkasta icke min själ.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"8\">Ja, till dig vänder jag mig, Herre, Herre. Till dig söker jag skydd, förkasta inte min själ.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"8\">Ja, till dig vänder jag mig, Herre, Herre. Till dig söker jag skydd, förkasta inte min själ.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17634,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17634,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17635": {
+    "lineNumber": 17635,
+    "line1917": "      <VERS vnumber=\"9\">Bevara mig för de snaror som de lägga ut på min väg och för ogärningsmännens giller.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"9\">Bevara mig från de fällor som de lägger ut på min väg och från onda människors fällor.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"9\">Bevara mig från de fällor som de lägger ut på min väg och från onda människors samlingar.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17635,
+          "check": "facts",
+          "factualChangeDetected": true,
+          "changes": [
+            "{\"factualChangeDetected\":true,\"changes\":[\"snaror\"->\"fällor\",\"ogärningsmännens giller\"->\"onda människ"
+          ],
+          "explanation": "Faktisk förändring detekterad",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17635,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17635,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes. Ändringarna är stilistiska/lexikala (snaror $\rightarrow$ fällor, ogärningsmännens giller $\rightarrow$ onda människors samlingar) men behåller samma grundläggande innebörd och fakta.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17635,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "FACTS EXPERT DETECTED CHANGE: Faktisk förändring detekterad",
+          "  Changes detected: {\"factualChangeDetected\":true,\"changes\":[\"snaror\"->\"fällor\",\"ogärningsmännens giller\"->\"onda människ"
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17636": {
+    "lineNumber": 17636,
+    "line1917": "      <VERS vnumber=\"10\">De ogudaktiga falle i sina egna garn, medan jag går oskadd förbi.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"10\">De ogudaktiga ska falla i sina egna fällor, medan jag går oskadd förbi.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"10\">De ogudaktiga kommer att falla i sina egna fällor, medan jag går oskadd förbi.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17636,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska förändringar upptäcktes.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17636,
+          "check": "modernization",
+          "needsModernization": true,
+          "archaicElements": [
+            "ska"
+          ],
+          "suggestions": "Även om 'ska' är vanligt idag, kan det kännas något formellt eller arkaiskt beroende på sammanhanget. För en mer modern och vardaglig ton skulle man kunna använda 'kommer att'.",
+          "error": null
+        }
+      },
+      {
+        "attempt": 2,
+        "facts": {
+          "lineNumber": 17636,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska förändringar upptäcktes mellan de två versionerna.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17636,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [
+      {
+        "attempt": 1,
+        "improved": true,
+        "feedbackAddressed": [
+          "MODERNIZATION EXPERT: Text contains archaic language",
+          "  Archaic elements: ska",
+          "  Även om 'ska' är vanligt idag, kan det kännas något formellt eller arkaiskt beroende på sammanhanget. För en mer modern och vardaglig ton skulle man kunna använda 'kommer att'."
+        ]
+      }
+    ],
+    "finalStatus": "resolved_success",
+    "applied": true
+  },
+  "line_17639": {
+    "lineNumber": 17639,
+    "line1917": "      <VERS vnumber=\"1\">En sång av David; en bön, när han var i grottan.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"1\">En sång av David. En bön när han befann sig i grottan.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"1\">En sång av David. En bön när han befann sig i grottan.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17639,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": null,
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17639,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17640": {
+    "lineNumber": 17640,
+    "line1917": "      <VERS vnumber=\"2\">Jag höjer min röst och ropar till HERREN, jag höjer min röst och beder till HERREN.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"2\">Jag höjer min röst och ropar till Gud, jag höjer min röst och ber till Gud.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"2\">Jag höjer min röst och ropar till Gud, jag höjer min röst och ber till Gud.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17640,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska ändringar upptäcktes; skillnaderna är stilistiska/lexikala (HERREN $\rightarrow$ Gud, ropar $\rightarrow$ ber) men behåller samma grundläggande mening och handling.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17640,
+          "check": "modernization",
+          "needsModernization": false,
+          "archaicElements": [],
+          "suggestions": null,
+          "error": null
+        }
+      }
+    ],
+    "resolutions": [],
+    "finalStatus": "resolved_success",
+    "applied": false
+  },
+  "line_17641": {
+    "lineNumber": 17641,
+    "line1917": "      <VERS vnumber=\"3\">Jag utgjuter inför honom mitt bekymmer, min nöd kungör jag för honom.</VERS>",
+    "initialLineFSB": "   <VERS vnumber=\"3\">Jag berättar mina bekymmer för honom, min nöd för honom.</VERS>",
+    "finalLineFSB": "   <VERS vnumber=\"3\">Jag berättar mina bekymmer för honom, min nöd för honom.</VERS>",
+    "checks": [
+      {
+        "attempt": 1,
+        "facts": {
+          "lineNumber": 17641,
+          "check": "facts",
+          "factualChangeDetected": false,
+          "changes": [],
+          "explanation": "Inga faktiska förändringar upptäcktes; detta är en stilistisk omformulering av samma mening.",
+          "error": null
+        },
+        "modernization": {
+          "lineNumber": 17641,
           "check": "modernization",
           "needsModernization": false,
           "archaicElements": [],

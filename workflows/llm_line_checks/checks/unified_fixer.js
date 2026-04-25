@@ -53,6 +53,7 @@ async function unifiedFix(line1917, currentLine, experts, previousLines, lineNum
    - Ersätt ålderdomliga ord: skall→ska, ehuru→fastän, ty→för, etc.
    - Modernisera onaturlig meningsbyggnad
    - Förenkla sammansatta ord där det finns moderna alternativ
+   - Undvik semikolon. Använd punkt eller komma istället.
    - Bevara ALLTID exakt samma betydelse som originalet
 
 2. FAKTAKONTROLL (sekundär):

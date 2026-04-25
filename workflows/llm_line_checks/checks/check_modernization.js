@@ -27,7 +27,7 @@ Saker att flagga:
 - Ålderdomlig meningsbyggnad som känns onaturlig idag
 - Sammansatta ord som kan förenklas
 - Arkaiska prepositioner eller ordföljd
-- Felaktig stavning eller grammatik
+- Felaktig stavning eller svensk grammatik (var strikt)
 
 IGNORERA (dessa är OK):
 - Namn och platser (bibehålls som de är)
