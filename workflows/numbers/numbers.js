@@ -7,23 +7,24 @@ async function main() {
     const client = new LMStudioClient();
     const model = await client.llm.model(); // Uses the default loaded model
 
-    const systemPrompt = `Du är en expert på svensk språkvård. Din uppgift är att byta ut siffror över tio i ordform mot deras numeriska motsvarigheter i en given text.
+    const systemPrompt = `Din uppgift är att byta ut siffror över tio i ordform mot deras motsvarigheter i siffror i en given text.
 
 Regler:
 * Ersätt siffror större än tio skrivna med bokstäver med deras numeriska motsvarigheter.
-* Ersätt INTE ordnings uttryck som "första", "andra", "tredje" osv.
+* Ersätt INTE ordnings uttryck som "första", "tredje", "artonde", "tusende" osv.
 * Bevara meningsstrukturen och övrig text oförändrad.
 * Svara ENDAST med den modifierade texten. Ingen inledning eller förklaring.
+* Ändra INGET annat än rena siffror över tio. Inga andra ord eller tecken får ändras.
 
 Exempel:
 Inpiut: "ett hundra", "tjugo", "två hundra tusen trettio"
 Output: "100", "20", "200030"
-Input: "Jag har tjugo äpplen och trettio bananer."
-Output: "Jag har 20 äpplen och 30 bananer."
-Input: "Hon vann första priset i tävlingen."
-Output: "Hon vann första priset i tävlingen."
-Input: "Hon hade en banan och ett äpple."
-Output: "Hon hade en banan och ett äpple."
+Input: "Jag har tjugo äpplen och en banan."
+Output: "Jag har 20 äpplen och en banan."
+Input: "Hon vann första priset i tävlingen men hennes vän kom på sjunde plats."
+Output: "Hon vann första priset i tävlingen men hennes vän kom på sjunde plats."
+Input: "Hon hade tre hundra tjugo bananer och fem äpplen."
+Output: "Hon hade 320 bananer och fem äpplen."
 
 Här kommer texten som kan ha stora siffror i sig:`; // Hard-coded system prompt
 
