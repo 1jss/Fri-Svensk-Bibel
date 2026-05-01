@@ -1,5 +1,2807 @@
 const edits = [
   {
+    "startLine": 17664,
+    "endLine": 17664,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17664,
+    "endLine": 17664,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17663,
+    "endLine": 17663,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17663,
+    "endLine": 17663,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17660,
+    "endLine": 17660,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17660,
+    "endLine": 17660,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17659,
+    "endLine": 17659,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17658,
+    "endLine": 17658,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17658,
+    "endLine": 17658,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17657,
+    "endLine": 17657,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17656,
+    "endLine": 17656,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17656,
+    "endLine": 17656,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17655,
+    "endLine": 17655,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17655,
+    "endLine": 17655,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17654,
+    "endLine": 17654,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-05-01T04:56:46.764Z"
+  },
+  {
+    "startLine": 17653,
+    "endLine": 17653,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17652,
+    "endLine": 17652,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17652,
+    "endLine": 17652,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17651,
+    "endLine": 17651,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17650,
+    "endLine": 17650,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17649,
+    "endLine": 17649,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17649,
+    "endLine": 17649,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17646,
+    "endLine": 17646,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17645,
+    "endLine": 17645,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17644,
+    "endLine": 17644,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17643,
+    "endLine": 17643,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17643,
+    "endLine": 17643,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17642,
+    "endLine": 17642,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17642,
+    "endLine": 17642,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17641,
+    "endLine": 17641,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17641,
+    "endLine": 17641,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17640,
+    "endLine": 17640,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17640,
+    "endLine": 17640,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17639,
+    "endLine": 17639,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17639,
+    "endLine": 17639,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17636,
+    "endLine": 17636,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17636,
+    "endLine": 17636,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17635,
+    "endLine": 17635,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17635,
+    "endLine": 17635,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17634,
+    "endLine": 17634,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17634,
+    "endLine": 17634,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17633,
+    "endLine": 17633,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17632,
+    "endLine": 17632,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17631,
+    "endLine": 17631,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17630,
+    "endLine": 17630,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17629,
+    "endLine": 17629,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17628,
+    "endLine": 17628,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17627,
+    "endLine": 17627,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17624,
+    "endLine": 17624,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17623,
+    "endLine": 17623,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17622,
+    "endLine": 17622,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17621,
+    "endLine": 17621,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17620,
+    "endLine": 17620,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17619,
+    "endLine": 17619,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17618,
+    "endLine": 17618,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17617,
+    "endLine": 17617,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17616,
+    "endLine": 17616,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17615,
+    "endLine": 17615,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17614,
+    "endLine": 17614,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17613,
+    "endLine": 17613,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17612,
+    "endLine": 17612,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17611,
+    "endLine": 17611,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17608,
+    "endLine": 17608,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17607,
+    "endLine": 17607,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17606,
+    "endLine": 17606,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17605,
+    "endLine": 17605,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17604,
+    "endLine": 17604,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17603,
+    "endLine": 17603,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17602,
+    "endLine": 17602,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17601,
+    "endLine": 17601,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17600,
+    "endLine": 17600,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17599,
+    "endLine": 17599,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17598,
+    "endLine": 17598,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17597,
+    "endLine": 17597,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17596,
+    "endLine": 17596,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17595,
+    "endLine": 17595,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17594,
+    "endLine": 17594,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17593,
+    "endLine": 17593,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17592,
+    "endLine": 17592,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17591,
+    "endLine": 17591,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17590,
+    "endLine": 17590,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17589,
+    "endLine": 17589,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17588,
+    "endLine": 17588,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17587,
+    "endLine": 17587,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17586,
+    "endLine": 17586,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17585,
+    "endLine": 17585,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17582,
+    "endLine": 17582,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17581,
+    "endLine": 17581,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17580,
+    "endLine": 17580,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17579,
+    "endLine": 17579,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17578,
+    "endLine": 17578,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17577,
+    "endLine": 17577,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17576,
+    "endLine": 17576,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17575,
+    "endLine": 17575,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17572,
+    "endLine": 17572,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17571,
+    "endLine": 17571,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17570,
+    "endLine": 17570,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17569,
+    "endLine": 17569,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17568,
+    "endLine": 17568,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17567,
+    "endLine": 17567,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17566,
+    "endLine": 17566,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17565,
+    "endLine": 17565,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17564,
+    "endLine": 17564,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17561,
+    "endLine": 17561,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17560,
+    "endLine": 17560,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17559,
+    "endLine": 17559,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17558,
+    "endLine": 17558,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17557,
+    "endLine": 17557,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17556,
+    "endLine": 17556,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17555,
+    "endLine": 17555,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17554,
+    "endLine": 17554,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17553,
+    "endLine": 17553,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17552,
+    "endLine": 17552,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17551,
+    "endLine": 17551,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17550,
+    "endLine": 17550,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17549,
+    "endLine": 17549,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17548,
+    "endLine": 17548,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17547,
+    "endLine": 17547,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17546,
+    "endLine": 17546,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17545,
+    "endLine": 17545,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17544,
+    "endLine": 17544,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17543,
+    "endLine": 17543,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17542,
+    "endLine": 17542,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17541,
+    "endLine": 17541,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17540,
+    "endLine": 17540,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17539,
+    "endLine": 17539,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17538,
+    "endLine": 17538,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17537,
+    "endLine": 17537,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17536,
+    "endLine": 17536,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17533,
+    "endLine": 17533,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17532,
+    "endLine": 17532,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17531,
+    "endLine": 17531,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17530,
+    "endLine": 17530,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17529,
+    "endLine": 17529,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17528,
+    "endLine": 17528,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17527,
+    "endLine": 17527,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17526,
+    "endLine": 17526,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17525,
+    "endLine": 17525,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17524,
+    "endLine": 17524,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17523,
+    "endLine": 17523,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17522,
+    "endLine": 17522,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17521,
+    "endLine": 17521,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17520,
+    "endLine": 17520,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17519,
+    "endLine": 17519,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17518,
+    "endLine": 17518,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17517,
+    "endLine": 17517,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17516,
+    "endLine": 17516,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17515,
+    "endLine": 17515,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17514,
+    "endLine": 17514,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17513,
+    "endLine": 17513,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-29T04:44:17.346Z"
+  },
+  {
+    "startLine": 17633,
+    "endLine": 17633,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17632,
+    "endLine": 17632,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17632,
+    "endLine": 17632,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17631,
+    "endLine": 17631,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17631,
+    "endLine": 17631,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17630,
+    "endLine": 17630,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17630,
+    "endLine": 17630,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17629,
+    "endLine": 17629,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17629,
+    "endLine": 17629,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17628,
+    "endLine": 17628,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17628,
+    "endLine": 17628,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17627,
+    "endLine": 17627,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17627,
+    "endLine": 17627,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17624,
+    "endLine": 17624,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17623,
+    "endLine": 17623,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17622,
+    "endLine": 17622,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17621,
+    "endLine": 17621,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17620,
+    "endLine": 17620,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17619,
+    "endLine": 17619,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17618,
+    "endLine": 17618,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17617,
+    "endLine": 17617,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17616,
+    "endLine": 17616,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17615,
+    "endLine": 17615,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17614,
+    "endLine": 17614,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17613,
+    "endLine": 17613,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17612,
+    "endLine": 17612,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17611,
+    "endLine": 17611,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17608,
+    "endLine": 17608,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17607,
+    "endLine": 17607,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17606,
+    "endLine": 17606,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17605,
+    "endLine": 17605,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17604,
+    "endLine": 17604,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17603,
+    "endLine": 17603,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17602,
+    "endLine": 17602,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17601,
+    "endLine": 17601,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17600,
+    "endLine": 17600,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17599,
+    "endLine": 17599,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17598,
+    "endLine": 17598,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17597,
+    "endLine": 17597,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17596,
+    "endLine": 17596,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17595,
+    "endLine": 17595,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17594,
+    "endLine": 17594,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17593,
+    "endLine": 17593,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17592,
+    "endLine": 17592,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17591,
+    "endLine": 17591,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17590,
+    "endLine": 17590,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17589,
+    "endLine": 17589,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17588,
+    "endLine": 17588,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17587,
+    "endLine": 17587,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17586,
+    "endLine": 17586,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17585,
+    "endLine": 17585,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17582,
+    "endLine": 17582,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17581,
+    "endLine": 17581,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17580,
+    "endLine": 17580,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17579,
+    "endLine": 17579,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17578,
+    "endLine": 17578,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17577,
+    "endLine": 17577,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17576,
+    "endLine": 17576,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17575,
+    "endLine": 17575,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17572,
+    "endLine": 17572,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17571,
+    "endLine": 17571,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17570,
+    "endLine": 17570,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17569,
+    "endLine": 17569,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17568,
+    "endLine": 17568,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17567,
+    "endLine": 17567,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17566,
+    "endLine": 17566,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17565,
+    "endLine": 17565,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17564,
+    "endLine": 17564,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17561,
+    "endLine": 17561,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17560,
+    "endLine": 17560,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17559,
+    "endLine": 17559,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17558,
+    "endLine": 17558,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17557,
+    "endLine": 17557,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17556,
+    "endLine": 17556,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17555,
+    "endLine": 17555,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17554,
+    "endLine": 17554,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17553,
+    "endLine": 17553,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17552,
+    "endLine": 17552,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17551,
+    "endLine": 17551,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17550,
+    "endLine": 17550,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17549,
+    "endLine": 17549,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17548,
+    "endLine": 17548,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17547,
+    "endLine": 17547,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17546,
+    "endLine": 17546,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17545,
+    "endLine": 17545,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17544,
+    "endLine": 17544,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17543,
+    "endLine": 17543,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17542,
+    "endLine": 17542,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17541,
+    "endLine": 17541,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17540,
+    "endLine": 17540,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17539,
+    "endLine": 17539,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17538,
+    "endLine": 17538,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17537,
+    "endLine": 17537,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17536,
+    "endLine": 17536,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17533,
+    "endLine": 17533,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17532,
+    "endLine": 17532,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17531,
+    "endLine": 17531,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17530,
+    "endLine": 17530,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17529,
+    "endLine": 17529,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17528,
+    "endLine": 17528,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17527,
+    "endLine": 17527,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17526,
+    "endLine": 17526,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17525,
+    "endLine": 17525,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17524,
+    "endLine": 17524,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17523,
+    "endLine": 17523,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17522,
+    "endLine": 17522,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17521,
+    "endLine": 17521,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17520,
+    "endLine": 17520,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17519,
+    "endLine": 17519,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17518,
+    "endLine": 17518,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17517,
+    "endLine": 17517,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17516,
+    "endLine": 17516,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17515,
+    "endLine": 17515,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17514,
+    "endLine": 17514,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17513,
+    "endLine": 17513,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-28T04:43:04.593Z"
+  },
+  {
+    "startLine": 17623,
+    "endLine": 17623,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17623,
+    "endLine": 17623,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17622,
+    "endLine": 17622,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17622,
+    "endLine": 17622,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17621,
+    "endLine": 17621,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17620,
+    "endLine": 17620,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17620,
+    "endLine": 17620,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17619,
+    "endLine": 17619,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17619,
+    "endLine": 17619,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17618,
+    "endLine": 17618,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17618,
+    "endLine": 17618,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17617,
+    "endLine": 17617,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17616,
+    "endLine": 17616,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17616,
+    "endLine": 17616,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17615,
+    "endLine": 17615,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17615,
+    "endLine": 17615,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17614,
+    "endLine": 17614,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17614,
+    "endLine": 17614,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17613,
+    "endLine": 17613,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17613,
+    "endLine": 17613,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17612,
+    "endLine": 17612,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17612,
+    "endLine": 17612,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17611,
+    "endLine": 17611,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17608,
+    "endLine": 17608,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17608,
+    "endLine": 17608,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17607,
+    "endLine": 17607,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17607,
+    "endLine": 17607,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17606,
+    "endLine": 17606,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17605,
+    "endLine": 17605,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17605,
+    "endLine": 17605,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17604,
+    "endLine": 17604,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17603,
+    "endLine": 17603,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17603,
+    "endLine": 17603,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17602,
+    "endLine": 17602,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17602,
+    "endLine": 17602,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17601,
+    "endLine": 17601,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17601,
+    "endLine": 17601,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17600,
+    "endLine": 17600,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17600,
+    "endLine": 17600,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17599,
+    "endLine": 17599,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17599,
+    "endLine": 17599,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17598,
+    "endLine": 17598,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17598,
+    "endLine": 17598,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17597,
+    "endLine": 17597,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17597,
+    "endLine": 17597,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17596,
+    "endLine": 17596,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17596,
+    "endLine": 17596,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17595,
+    "endLine": 17595,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17595,
+    "endLine": 17595,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17594,
+    "endLine": 17594,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17594,
+    "endLine": 17594,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17593,
+    "endLine": 17593,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17593,
+    "endLine": 17593,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17592,
+    "endLine": 17592,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17592,
+    "endLine": 17592,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17591,
+    "endLine": 17591,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17591,
+    "endLine": 17591,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17590,
+    "endLine": 17590,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17590,
+    "endLine": 17590,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17589,
+    "endLine": 17589,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17588,
+    "endLine": 17588,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17588,
+    "endLine": 17588,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17587,
+    "endLine": 17587,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17587,
+    "endLine": 17587,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17586,
+    "endLine": 17586,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17586,
+    "endLine": 17586,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17585,
+    "endLine": 17585,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17585,
+    "endLine": 17585,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17582,
+    "endLine": 17582,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17582,
+    "endLine": 17582,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17581,
+    "endLine": 17581,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17581,
+    "endLine": 17581,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17580,
+    "endLine": 17580,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17580,
+    "endLine": 17580,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17579,
+    "endLine": 17579,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17578,
+    "endLine": 17578,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17578,
+    "endLine": 17578,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17577,
+    "endLine": 17577,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17576,
+    "endLine": 17576,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17576,
+    "endLine": 17576,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17575,
+    "endLine": 17575,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17575,
+    "endLine": 17575,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17572,
+    "endLine": 17572,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17572,
+    "endLine": 17572,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17571,
+    "endLine": 17571,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17571,
+    "endLine": 17571,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17570,
+    "endLine": 17570,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17569,
+    "endLine": 17569,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17569,
+    "endLine": 17569,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17568,
+    "endLine": 17568,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17568,
+    "endLine": 17568,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17567,
+    "endLine": 17567,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17567,
+    "endLine": 17567,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17566,
+    "endLine": 17566,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17566,
+    "endLine": 17566,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17565,
+    "endLine": 17565,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17565,
+    "endLine": 17565,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17564,
+    "endLine": 17564,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17561,
+    "endLine": 17561,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17561,
+    "endLine": 17561,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17560,
+    "endLine": 17560,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17560,
+    "endLine": 17560,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17559,
+    "endLine": 17559,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17559,
+    "endLine": 17559,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17558,
+    "endLine": 17558,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17558,
+    "endLine": 17558,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17557,
+    "endLine": 17557,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17557,
+    "endLine": 17557,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17556,
+    "endLine": 17556,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17556,
+    "endLine": 17556,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17555,
+    "endLine": 17555,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17555,
+    "endLine": 17555,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17554,
+    "endLine": 17554,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17554,
+    "endLine": 17554,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17553,
+    "endLine": 17553,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17553,
+    "endLine": 17553,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17552,
+    "endLine": 17552,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17552,
+    "endLine": 17552,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17551,
+    "endLine": 17551,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17551,
+    "endLine": 17551,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17550,
+    "endLine": 17550,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17550,
+    "endLine": 17550,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17549,
+    "endLine": 17549,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17549,
+    "endLine": 17549,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17548,
+    "endLine": 17548,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17548,
+    "endLine": 17548,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17547,
+    "endLine": 17547,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17547,
+    "endLine": 17547,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17546,
+    "endLine": 17546,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17546,
+    "endLine": 17546,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17545,
+    "endLine": 17545,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17545,
+    "endLine": 17545,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17544,
+    "endLine": 17544,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17544,
+    "endLine": 17544,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17543,
+    "endLine": 17543,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17543,
+    "endLine": 17543,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17542,
+    "endLine": 17542,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17542,
+    "endLine": 17542,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17541,
+    "endLine": 17541,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17541,
+    "endLine": 17541,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17540,
+    "endLine": 17540,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17540,
+    "endLine": 17540,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17539,
+    "endLine": 17539,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17539,
+    "endLine": 17539,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17538,
+    "endLine": 17538,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17538,
+    "endLine": 17538,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17537,
+    "endLine": 17537,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17537,
+    "endLine": 17537,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17536,
+    "endLine": 17536,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17536,
+    "endLine": 17536,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17533,
+    "endLine": 17533,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17532,
+    "endLine": 17532,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17532,
+    "endLine": 17532,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17531,
+    "endLine": 17531,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17531,
+    "endLine": 17531,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17530,
+    "endLine": 17530,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17529,
+    "endLine": 17529,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17529,
+    "endLine": 17529,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17528,
+    "endLine": 17528,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17528,
+    "endLine": 17528,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17527,
+    "endLine": 17527,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17526,
+    "endLine": 17526,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17526,
+    "endLine": 17526,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17525,
+    "endLine": 17525,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17525,
+    "endLine": 17525,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17524,
+    "endLine": 17524,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17524,
+    "endLine": 17524,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17523,
+    "endLine": 17523,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17523,
+    "endLine": 17523,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17522,
+    "endLine": 17522,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17521,
+    "endLine": 17521,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17521,
+    "endLine": 17521,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17520,
+    "endLine": 17520,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17519,
+    "endLine": 17519,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17519,
+    "endLine": 17519,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17518,
+    "endLine": 17518,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17517,
+    "endLine": 17517,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17516,
+    "endLine": 17516,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17515,
+    "endLine": 17515,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17515,
+    "endLine": 17515,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17514,
+    "endLine": 17514,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17514,
+    "endLine": 17514,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 17513,
+    "endLine": 17513,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-27T04:46:04.220Z"
+  },
+  {
+    "startLine": 18574,
+    "endLine": 18574,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18574,
+    "endLine": 18574,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18573,
+    "endLine": 18573,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18573,
+    "endLine": 18573,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18572,
+    "endLine": 18572,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18572,
+    "endLine": 18572,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18571,
+    "endLine": 18571,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18571,
+    "endLine": 18571,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18570,
+    "endLine": 18570,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18570,
+    "endLine": 18570,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18569,
+    "endLine": 18569,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18568,
+    "endLine": 18568,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18568,
+    "endLine": 18568,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18567,
+    "endLine": 18567,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18566,
+    "endLine": 18566,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18385,
+    "endLine": 18385,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 18385,
+    "endLine": 18385,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 15468,
+    "endLine": 15468,
+    "status": "MANUAL_APPROVED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
+    "startLine": 15468,
+    "endLine": 15468,
+    "status": "MANUAL_EDITED",
+    "timestamp": "2026-04-26T17:14:01.991Z"
+  },
+  {
     "startLine": 25315,
     "endLine": 25341,
     "status": "MANUAL_APPROVED",
