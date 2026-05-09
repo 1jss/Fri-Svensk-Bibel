@@ -1,7 +1,7 @@
 [
   {
     "word": "och",
-    "count": 31172
+    "count": 31174
   },
   {
     "word": "som",
@@ -9,11 +9,11 @@
   },
   {
     "word": "ska",
-    "count": 12686
+    "count": 12685
   },
   {
     "word": "till",
-    "count": 12485
+    "count": 12486
   },
   {
     "word": "han",
@@ -57,7 +57,7 @@
   },
   {
     "word": "en",
-    "count": 7326
+    "count": 7327
   },
   {
     "word": "den",
@@ -65,7 +65,7 @@
   },
   {
     "word": "med",
-    "count": 6658
+    "count": 6664
   },
   {
     "word": "du",
@@ -161,7 +161,7 @@
   },
   {
     "word": "sin",
-    "count": 2513
+    "count": 2514
   },
   {
     "word": "min",
@@ -353,7 +353,7 @@
   },
   {
     "word": "sitt",
-    "count": 1182
+    "count": 1181
   },
   {
     "word": "sedan",
@@ -540,11 +540,11 @@
     "count": 772
   },
   {
-    "word": "henne",
-    "count": 763
+    "word": "män",
+    "count": 765
   },
   {
-    "word": "män",
+    "word": "henne",
     "count": 763
   },
   {
@@ -972,11 +972,11 @@
     "count": 334
   },
   {
-    "word": "hörde",
-    "count": 328
+    "word": "svärd",
+    "count": 334
   },
   {
-    "word": "svärd",
+    "word": "hörde",
     "count": 328
   },
   {
@@ -1177,7 +1177,7 @@
   },
   {
     "word": "vände",
-    "count": 260
+    "count": 261
   },
   {
     "word": "alltså",
@@ -1853,7 +1853,7 @@
   },
   {
     "word": "ställde",
-    "count": 159
+    "count": 158
   },
   {
     "word": "sons",
@@ -2324,10 +2324,6 @@
     "count": 118
   },
   {
-    "word": "tolv",
-    "count": 118
-  },
-  {
     "word": "unga",
     "count": 118
   },
@@ -2408,6 +2404,10 @@
     "count": 112
   },
   {
+    "word": "tolv",
+    "count": 112
+  },
+  {
     "word": "sanningen",
     "count": 112
   },
@@ -2468,6 +2468,10 @@
     "count": 107
   },
   {
+    "word": "arm",
+    "count": 107
+  },
+  {
     "word": "jonatan",
     "count": 107
   },
@@ -2481,10 +2485,6 @@
   },
   {
     "word": "morgonen",
-    "count": 106
-  },
-  {
-    "word": "arm",
     "count": 106
   },
   {
@@ -4044,6 +4044,10 @@
     "count": 58
   },
   {
+    "word": "tjurar",
+    "count": 58
+  },
+  {
     "word": "dödsriket",
     "count": 58
   },
@@ -4105,10 +4109,6 @@
   },
   {
     "word": "senare",
-    "count": 57
-  },
-  {
-    "word": "tjurar",
     "count": 57
   },
   {
@@ -5460,6 +5460,10 @@
     "count": 42
   },
   {
+    "word": "främsta",
+    "count": 42
+  },
+  {
     "word": "fattige",
     "count": 42
   },
@@ -6216,10 +6220,6 @@
     "count": 36
   },
   {
-    "word": "naftali",
-    "count": 36
-  },
-  {
     "word": "fruktade",
     "count": 36
   },
@@ -6349,6 +6349,10 @@
   },
   {
     "word": "sålde",
+    "count": 35
+  },
+  {
+    "word": "naftali",
     "count": 35
   },
   {
@@ -6908,6 +6912,14 @@
     "count": 32
   },
   {
+    "word": "stridsdugliga",
+    "count": 32
+  },
+  {
+    "word": "räknades",
+    "count": 32
+  },
+  {
     "word": "förkastat",
     "count": 32
   },
@@ -7008,10 +7020,6 @@
     "count": 31
   },
   {
-    "word": "främsta",
-    "count": 31
-  },
-  {
     "word": "osyrade",
     "count": 31
   },
@@ -7057,10 +7065,6 @@
   },
   {
     "word": "rykte",
-    "count": 31
-  },
-  {
-    "word": "räknades",
     "count": 31
   },
   {
@@ -7701,10 +7705,6 @@
   },
   {
     "word": "förgås",
-    "count": 28
-  },
-  {
-    "word": "stridbara",
     "count": 28
   },
   {
@@ -9668,6 +9668,10 @@
     "count": 21
   },
   {
+    "word": "tåga",
+    "count": 21
+  },
+  {
     "word": "smort",
     "count": 21
   },
@@ -9721,10 +9725,6 @@
   },
   {
     "word": "säker",
-    "count": 21
-  },
-  {
-    "word": "tusen",
     "count": 21
   },
   {
@@ -10892,6 +10892,10 @@
     "count": 18
   },
   {
+    "word": "beväpnade",
+    "count": 18
+  },
+  {
     "word": "strider",
     "count": 18
   },
@@ -11005,10 +11009,6 @@
   },
   {
     "word": "förakta",
-    "count": 18
-  },
-  {
-    "word": "tåga",
     "count": 18
   },
   {
@@ -12080,10 +12080,6 @@
     "count": 16
   },
   {
-    "word": "krigsmän",
-    "count": 16
-  },
-  {
     "word": "familjerna",
     "count": 16
   },
@@ -12496,6 +12492,10 @@
     "count": 15
   },
   {
+    "word": "naftalis",
+    "count": 15
+  },
+  {
     "word": "trott",
     "count": 15
   },
@@ -12672,6 +12672,10 @@
     "count": 15
   },
   {
+    "word": "krigsmän",
+    "count": 15
+  },
+  {
     "word": "mäta",
     "count": 15
   },
@@ -12721,6 +12725,10 @@
   },
   {
     "word": "skipa",
+    "count": 15
+  },
+  {
+    "word": "tusen",
     "count": 15
   },
   {
@@ -13105,10 +13113,6 @@
   },
   {
     "word": "vagnarna",
-    "count": 14
-  },
-  {
-    "word": "naftalis",
     "count": 14
   },
   {
@@ -14148,6 +14152,10 @@
     "count": 13
   },
   {
+    "word": "rep",
+    "count": 13
+  },
+  {
     "word": "fort",
     "count": 13
   },
@@ -14668,10 +14676,6 @@
     "count": 12
   },
   {
-    "word": "beväpnade",
-    "count": 12
-  },
-  {
     "word": "itu",
     "count": 12
   },
@@ -14941,10 +14945,6 @@
   },
   {
     "word": "rahab",
-    "count": 12
-  },
-  {
-    "word": "tåg",
     "count": 12
   },
   {
@@ -16021,10 +16021,6 @@
   },
   {
     "word": "lugnt",
-    "count": 11
-  },
-  {
-    "word": "förnämsta",
     "count": 11
   },
   {
@@ -17117,10 +17113,6 @@
   },
   {
     "word": "förvaltare",
-    "count": 10
-  },
-  {
-    "word": "rep",
     "count": 10
   },
   {
@@ -22424,6 +22416,10 @@
     "count": 7
   },
   {
+    "word": "tåg",
+    "count": 7
+  },
+  {
     "word": "förebild",
     "count": 7
   },
@@ -23956,10 +23952,6 @@
     "count": 6
   },
   {
-    "word": "svärdbeväpnade",
-    "count": 6
-  },
-  {
     "word": "skingrade",
     "count": 6
   },
@@ -23993,6 +23985,10 @@
   },
   {
     "word": "gudsman",
+    "count": 6
+  },
+  {
+    "word": "repen",
     "count": 6
   },
   {
@@ -30284,10 +30280,6 @@
     "count": 4
   },
   {
-    "word": "tågen",
-    "count": 4
-  },
-  {
     "word": "gryning",
     "count": 4
   },
@@ -36100,10 +36092,6 @@
     "count": 3
   },
   {
-    "word": "repen",
-    "count": 3
-  },
-  {
     "word": "placerat",
     "count": 3
   },
@@ -36473,10 +36461,6 @@
   },
   {
     "word": "saknades",
-    "count": 3
-  },
-  {
-    "word": "stridsdugliga",
     "count": 3
   },
   {
@@ -39073,6 +39057,10 @@
   },
   {
     "word": "lejoninnor",
+    "count": 3
+  },
+  {
+    "word": "tiondel",
     "count": 3
   },
   {
@@ -50196,10 +50184,6 @@
     "count": 2
   },
   {
-    "word": "tiondel",
-    "count": 2
-  },
-  {
     "word": "immanuel",
     "count": 2
   },
@@ -53429,6 +53413,10 @@
   },
   {
     "word": "akterskeppet",
+    "count": 2
+  },
+  {
+    "word": "ankarna",
     "count": 2
   },
   {
@@ -61296,10 +61284,6 @@
     "count": 1
   },
   {
-    "word": "medräknades",
-    "count": 1
-  },
-  {
     "word": "vänsterhänta",
     "count": 1
   },
@@ -66497,10 +66481,6 @@
   },
   {
     "word": "daniterna",
-    "count": 1
-  },
-  {
-    "word": "krigsrustade",
     "count": 1
   },
   {
@@ -86905,14 +86885,6 @@
   },
   {
     "word": "huggo",
-    "count": 1
-  },
-  {
-    "word": "ankartågen",
-    "count": 1
-  },
-  {
-    "word": "ankarna",
     "count": 1
   },
   {

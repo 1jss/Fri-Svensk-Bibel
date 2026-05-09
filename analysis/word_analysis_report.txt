@@ -1,17 +1,17 @@
 === Word Statistics Analysis ===
 
-Total unique words: 22,824
-Total word occurrences: 688,164
-Average occurrences per word: 30.15
+Total unique words: 22,817
+Total word occurrences: 688,171
+Average occurrences per word: 30.16
 
-Single-use words (hapax legomena): 9,309 (40.79% of unique words)
-Words used 2-5 times: 7,205 (31.57% of unique words)
+Single-use words (hapax legomena): 9,305 (40.78% of unique words)
+Words used 2-5 times: 7,203 (31.57% of unique words)
 
-Top 100 words cover: 381,807 occurrences
+Top 100 words cover: 381,816 occurrences
 That's 55.48% of all word occurrences
 
 Words used 100+ times: 647
-Words used 10+ times: 4,381
+Words used 10+ times: 4,379
 
 === Coverage Analysis ===
 10% coverage: 4 most common words
@@ -22,45 +22,35 @@ Words used 10+ times: 4,381
 60% coverage: 133 most common words
 70% coverage: 293 most common words
 80% coverage: 767 most common words
-90% coverage: 2,588 most common words
-95% coverage: 5,659 most common words
-99% coverage: 15,943 most common words
+90% coverage: 2,587 most common words
+95% coverage: 5,656 most common words
+99% coverage: 15,936 most common words
 
 === Frequency Distribution ===
-1 time: 9,309 words (40.79%)
-2-5 times: 7,205 words (31.57%)
+1 time: 9,305 words (40.78%)
+2-5 times: 7,203 words (31.57%)
 6-10 times: 2,206 words (9.67%)
-11-50 times: 2,935 words (12.86%)
+11-50 times: 2,934 words (12.86%)
 51-100 times: 525 words (2.30%)
-101-500 times: 469 words (2.05%)
+101-500 times: 469 words (2.06%)
 501-1000 times: 64 words (0.28%)
 1000+ times: 111 words (0.49%)
 
 === Word Length Analysis ===
-1-3 letters: 566 words (2.48%), avg frequency: 576.97
-4-6 letters: 7,899 words (34.61%), avg frequency: 34.17
-7-9 letters: 8,829 words (38.68%), avg frequency: 8.05
-10-12 letters: 4,228 words (18.52%), avg frequency: 4.04
-13+ letters: 1,302 words (5.70%), avg frequency: 2.73
+1-3 letters: 566 words (2.48%), avg frequency: 576.99
+4-6 letters: 7,898 words (34.61%), avg frequency: 34.18
+7-9 letters: 8,827 words (38.69%), avg frequency: 8.05
+10-12 letters: 4,225 words (18.52%), avg frequency: 4.04
+13+ letters: 1,301 words (5.70%), avg frequency: 2.75
 
-New unique words since last run: 3
-All new words:
-  1. "borträknad" (2 times)
-  2. "galet" (2 times)
-  3. "madmena" (1 times)
+New unique words since last run: 0
 
-Removed unique words since last run: 13
+Removed unique words since last run: 7
 All removed words:
-  1. "hastar" (5 times)
-  2. "tillspillogiven" (2 times)
-  3. "vansinnigt" (1 times)
-  4. "tokiga" (1 times)
-  5. "tokigt" (1 times)
-  6. "föraktas" (1 times)
-  7. "tillspillogivning" (1 times)
-  8. "vanvettingar" (1 times)
-  9. "vansinniga" (1 times)
-  10. "tillspillogivna" (1 times)
-  11. "vanvetting" (1 times)
-  12. "andans" (1 times)
-  13. "vanvett" (1 times)
+  1. "stridbara" (28 times)
+  2. "förnämsta" (11 times)
+  3. "svärdbeväpnade" (6 times)
+  4. "tågen" (4 times)
+  5. "medräknades" (1 times)
+  6. "krigsrustade" (1 times)
+  7. "ankartågen" (1 times)
